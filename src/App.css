@@ -1,0 +1,640 @@
+/* ... existing styles ... */
+/* Import Inter font for a clean, modern look */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --primary-color: #4f46e5;
+  --primary-hover: #4338ca;
+  --secondary-color: #ec4899;
+  --bg-color: #f3f4f6;
+  --sidebar-bg: #111827;
+  --text-primary: #111827;
+  --text-secondary: #6b7280;
+  --white: #ffffff;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 280px;
+  background-color: var(--sidebar-bg);
+  color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  border-right: 1px solid #374151;
+  transition: transform 0.3s ease;
+  z-index: 50;
+}
+
+.sidebar h2 {
+  padding: 24px;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--white);
+  border-bottom: 1px solid #374151;
+}
+
+.topic-list {
+  list-style: none;
+  padding: 16px 8px;
+  margin: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.topic-list li {
+  padding: 12px 16px;
+  margin-bottom: 4px;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: all 0.2s;
+  color: #9ca3af;
+}
+
+.topic-list li:hover {
+  background-color: #1f2937;
+  color: var(--white);
+  padding-left: 20px;
+}
+
+.topic-list li.active {
+  background: linear-gradient(90deg, var(--primary-color), var(--primary-hover));
+  color: var(--white);
+  box-shadow: 0 4px 6px -1px rgba(79, 70, 229, 0.3);
+}
+
+/* Content Area */
+.content-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem 3rem;
+  background-color: var(--bg-color);
+  width: 100%;
+  position: relative;
+}
+
+.topic-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-bottom: 80px;
+  animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #111827;
+  margin-bottom: 2rem;
+  background: -webkit-linear-gradient(120deg, var(--primary-color), var(--secondary-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.section {
+  margin-bottom: 3.5rem;
+  background: var(--white);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.section h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: #1f2937;
+  display: flex;
+  align-items: center;
+}
+
+.section h2::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 24px;
+  background-color: var(--secondary-color);
+  margin-right: 12px;
+  border-radius: 4px;
+}
+
+/* Vocab Cards */
+.vocab-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.vocab-card {
+  background-color: var(--white);
+  border-radius: var(--radius-lg);
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #e5e7eb;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.vocab-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: #d1d5db;
+}
+
+.vocab-card::after {
+  content: '➔';
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #d1d5db;
+  font-size: 1.5rem;
+  opacity: 0;
+  transition: opacity 0.2s, right 0.2s;
+}
+
+.vocab-card:hover::after {
+  opacity: 1;
+  right: 15px;
+}
+
+.vocab-header {
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  gap: 6px;
+}
+
+.vocab-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-left: 24px;
+  border-left: 2px solid #f3f4f6;
+  margin-left: 24px;
+  margin-right: 20px;
+}
+
+.word {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  letter-spacing: -0.025em;
+}
+
+.ipa {
+  font-family: monospace;
+  color: #ec4899;
+  background-color: #fce7f3;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  width: fit-content;
+}
+
+.meaning {
+  font-size: 1.1rem;
+  color: #111827;
+  font-weight: 500;
+}
+
+.example {
+  margin: 0;
+  color: #6b7280;
+  font-style: italic;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.card-hint {
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+  font-size: 0.75rem;
+  color: #9ca3af;
+  display: none;
+}
+
+/* Show hint on mobile mainly? or just hover */
+
+/* Respond to click intent visually */
+.vocab-card:active {
+  transform: scale(0.99);
+  background-color: #f9fafb;
+}
+
+/* Modal Styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--white);
+  /* White instead of dark overlay since it's full screen */
+  z-index: 2000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: fadeIn 0.3s ease-out;
+}
+
+.modal-content {
+  background-color: var(--white);
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  border-radius: 0;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  animation: none;
+  /* simple fade is enough */
+}
+
+/* Slide up animation for content if desired, or just fade */
+@keyframes slideUp {
+  from {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.close-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: #f3f4f6;
+  border: none;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4b5563;
+  transition: all 0.2s;
+  z-index: 10;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.close-button:hover {
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+.modal-header {
+  padding: 2rem;
+  padding-right: 80px;
+  /* Make space for close button */
+  border-bottom: 1px solid #e5e7eb;
+  background-color: #f9fafb;
+}
+
+.modal-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #1f2937;
+}
+
+.focus-word-container {
+  margin-top: 1rem;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.fw-main {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.fw-word {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--primary-color);
+}
+
+.fw-ipa {
+  font-family: monospace;
+  color: #ec4899;
+  background-color: #fce7f3;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.fw-details {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.fw-meaning {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.fw-example {
+  margin: 0;
+  font-style: italic;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.highlight {
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.conversation-container {
+  padding: 2rem;
+  overflow-y: auto;
+  flex: 1;
+  background-color: #fff;
+}
+
+/* Reusing Chat Styles inside Modal */
+.conversation-box {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.dialog-line {
+  display: flex;
+  flex-direction: column;
+  max-width: 80%;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.speaker {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+  margin-left: 12px;
+  color: #6b7280;
+  text-transform: uppercase;
+}
+
+.text {
+  background-color: #f3f4f6;
+  padding: 12px 18px;
+  border-radius: 18px;
+  border-top-left-radius: 4px;
+  color: #1f2937;
+  line-height: 1.6;
+  font-size: 1rem;
+  box-shadow: var(--shadow-sm);
+  position: relative;
+}
+
+.dialog-line:nth-child(even) {
+  align-self: flex-end;
+  align-items: flex-end;
+}
+
+.dialog-line:nth-child(even) .speaker {
+  margin-right: 12px;
+  margin-left: 0;
+  text-align: right;
+  color: var(--primary-color);
+}
+
+.dialog-line:nth-child(even) .text {
+  background-color: var(--primary-color);
+  color: white;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 4px;
+}
+
+/* Placeholder */
+.placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  color: #9ca3af;
+}
+
+.placeholder h1 {
+  background: none;
+  -webkit-text-fill-color: initial;
+  color: #374151;
+  font-size: 2rem;
+  border: none;
+}
+
+/* Mobile Responsive */
+.menu-toggle {
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 100;
+  background-color: var(--white);
+  color: var(--text-primary);
+  border: 1px solid #e5e7eb;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  box-shadow: var(--shadow-lg);
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 1024px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+  .menu-toggle {
+    display: flex;
+  }
+
+  .sidebar {
+    position: fixed;
+    height: 100%;
+    transform: translateX(-100%);
+    box-shadow: none;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+  }
+
+  .sidebar.open::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 280px;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: -1;
+  }
+
+  .content-area {
+    padding: 80px 20px 40px;
+  }
+
+  /* Full screen modal for iPad & iPhone */
+  .modal-content {
+    width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    border-radius: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .close-button {
+    top: 20px;
+    right: 20px;
+    width: 44px;
+    height: 44px;
+    background-color: #f3f4f6;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .modal-header {
+    padding-top: 60px;
+    /* Space for close button if needed or just padding */
+  }
+}
+
+@media (max-width: 768px) {
+  .vocab-card {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+  }
+
+  .vocab-card::after {
+    display: none;
+  }
+
+  .vocab-header {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+
+  .vocab-body {
+    width: 100%;
+    padding-left: 0;
+    margin-left: 0;
+    border-left: none;
+    border-top: 1px solid #f3f4f6;
+    padding-top: 12px;
+    margin-right: 0;
+  }
+
+  .card-hint {
+    display: block;
+    position: static;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+
+  .dialog-line {
+    max-width: 95%;
+  }
+
+  /* Modal styles already handled in 1024px block above, but specific mobile tweaks here if needed */
+  .modal-header {
+    padding-top: 2rem;
+  }
+
+  .close-button {
+    top: 10px;
+    right: 10px;
+  }
+}

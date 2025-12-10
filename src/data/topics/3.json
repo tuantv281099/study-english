@@ -1,0 +1,125 @@
+{
+  "id": "3",
+  "title": "3. Days, Months & Seasons – Ngày tháng & mùa",
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Monday",
+      "ipa": "/ˈmʌndeɪ/",
+      "meaning": "Thứ Hai",
+      "example": "I start work on Monday."
+    },
+    {
+      "word": "Tuesday",
+      "ipa": "/ˈtuːzdeɪ/",
+      "meaning": "Thứ Ba",
+      "example": "We have a meeting on Tuesday."
+    },
+    {
+      "word": "Wednesday",
+      "ipa": "/ˈwɛnzdeɪ/",
+      "meaning": "Thứ Tư",
+      "example": "It's Wednesday already."
+    },
+    {
+      "word": "Thursday",
+      "ipa": "/ˈθɜːrzdeɪ/",
+      "meaning": "Thứ Năm",
+      "example": "Are you free on Thursday?"
+    },
+    {
+      "word": "Friday",
+      "ipa": "/ˈfraɪdeɪ/",
+      "meaning": "Thứ Sáu",
+      "example": "Thank God it's Friday!"
+    },
+    {
+      "word": "Saturday",
+      "ipa": "/ˈsætərdeɪ/",
+      "meaning": "Thứ Bảy",
+      "example": "I play football on Saturday."
+    },
+    {
+      "word": "Sunday",
+      "ipa": "/ˈsʌndeɪ/",
+      "meaning": "Chủ Nhật",
+      "example": "Sunday is for relaxing."
+    },
+    {
+      "word": "January",
+      "ipa": "/ˈdʒænjuˌɛri/",
+      "meaning": "Tháng Một",
+      "example": "My birthday is in January."
+    },
+    {
+      "word": "Spring",
+      "ipa": "/sprɪŋ/",
+      "meaning": "Mùa xuân",
+      "example": "Flowers bloom in spring."
+    },
+    {
+      "word": "Summer",
+      "ipa": "/ˈsʌmər/",
+      "meaning": "Mùa hè",
+      "example": "I love swimming in summer."
+    },
+    {
+      "word": "Autumn/Fall",
+      "ipa": "/ˈɔtəm/ /fɔl/",
+      "meaning": "Mùa thu",
+      "example": "Leaves fall in autumn."
+    },
+    {
+      "word": "Winter",
+      "ipa": "/ˈwɪntər/",
+      "meaning": "Mùa đông",
+      "example": "It snows in winter."
+    },
+    {
+      "word": "Month",
+      "ipa": "/mʌnθ/",
+      "meaning": "Tháng",
+      "example": "There are twelve months in a year."
+    },
+    {
+      "word": "Year",
+      "ipa": "/jɪər/",
+      "meaning": "Năm",
+      "example": "Happy New Year!"
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "What is your favorite season?"
+    },
+    {
+      "speaker": "B",
+      "text": "My favorite season is **summer**."
+    },
+    {
+      "speaker": "A",
+      "text": "Why do you like summer?"
+    },
+    {
+      "speaker": "B",
+      "text": "Because I can go to the beach and swim. What about you?"
+    },
+    {
+      "speaker": "A",
+      "text": "I like **autumn**. The weather is cool and nice."
+    },
+    {
+      "speaker": "B",
+      "text": "When is your birthday?"
+    },
+    {
+      "speaker": "A",
+      "text": "My birthday is in **October**, in the autumn."
+    },
+    {
+      "speaker": "B",
+      "text": "Oh, nice. My birthday is next week, on **Friday**."
+    }
+  ]
+}

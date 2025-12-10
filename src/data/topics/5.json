@@ -1,0 +1,131 @@
+{
+  "id": "5",
+  "title": "5. Time – Thời gian",
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Time",
+      "ipa": "/taɪm/",
+      "meaning": "Thời gian",
+      "example": "What time is it?"
+    },
+    {
+      "word": "Clock",
+      "ipa": "/klɑːk/",
+      "meaning": "Đồng hồ treo tường",
+      "example": "The clock is on the wall."
+    },
+    {
+      "word": "Watch",
+      "ipa": "/wɑːtʃ/",
+      "meaning": "Đồng hồ đeo tay",
+      "example": "I have a new watch."
+    },
+    {
+      "word": "Hour",
+      "ipa": "/ˈaʊər/",
+      "meaning": "Giờ",
+      "example": "The movie is two hours long."
+    },
+    {
+      "word": "Minute",
+      "ipa": "/ˈmɪnɪt/",
+      "meaning": "Phút",
+      "example": "Wait a minute."
+    },
+    {
+      "word": "Second",
+      "ipa": "/ˈsɛkənd/",
+      "meaning": "Giây",
+      "example": "Just a second."
+    },
+    {
+      "word": "O'clock",
+      "ipa": "/əˈklɑːk/",
+      "meaning": "... giờ (đúng)",
+      "example": "It is seven o'clock."
+    },
+    {
+      "word": "Half past",
+      "ipa": "/hæf pæst/",
+      "meaning": "... giờ rưỡi (30 phút)",
+      "example": "It is half past six."
+    },
+    {
+      "word": "Quarter past",
+      "ipa": "/ˈkwɔːrtər pæst/",
+      "meaning": "... giờ 15",
+      "example": "It is quarter past five."
+    },
+    {
+      "word": "Quarter to",
+      "ipa": "/ˈkwɔːrtər tuː/",
+      "meaning": "... giờ kém 15",
+      "example": "It is quarter to ten."
+    },
+    {
+      "word": "Morning",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "meaning": "Buổi sáng",
+      "example": "I wake up in the morning."
+    },
+    {
+      "word": "Noon",
+      "ipa": "/nuːn/",
+      "meaning": "Buổi trưa",
+      "example": "We eat lunch at noon."
+    },
+    {
+      "word": "Afternoon",
+      "ipa": "/ˌæftərˈnuːn/",
+      "meaning": "Buổi chiều",
+      "example": "Classes end in the afternoon."
+    },
+    {
+      "word": "Evening",
+      "ipa": "/ˈiːvnɪŋ/",
+      "meaning": "Buổi tối",
+      "example": "I watch TV in the evening."
+    },
+    {
+      "word": "Midnight",
+      "ipa": "/ˈmɪdnaɪt/",
+      "meaning": "Nửa đêm",
+      "example": "He sleeps at midnight."
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "Tourist",
+      "text": "Excuse me. What time is it?"
+    },
+    {
+      "speaker": "Local",
+      "text": "It is **half past three** (3:30)."
+    },
+    {
+      "speaker": "Tourist",
+      "text": "Thank you. Is the museum open now?"
+    },
+    {
+      "speaker": "Local",
+      "text": "Yes, it opens at **eight o'clock** in the morning and closes at **five o'clock** in the afternoon."
+    },
+    {
+      "speaker": "Tourist",
+      "text": "Great. I have time."
+    },
+    {
+      "speaker": "Local",
+      "text": "Do you have a **watch**?"
+    },
+    {
+      "speaker": "Tourist",
+      "text": "No, I lost it. That's why I asked for the time."
+    },
+    {
+      "speaker": "Local",
+      "text": "Ah, I see. Have a nice day!"
+    }
+  ]
+}

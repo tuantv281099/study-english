@@ -1,0 +1,143 @@
+{
+  "id": "2",
+  "title": "2. Numbers – Số đếm",
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Zero",
+      "ipa": "/ˈzɪroʊ/",
+      "meaning": "Số 0",
+      "example": "The temperature is zero degrees."
+    },
+    {
+      "word": "One",
+      "ipa": "/wʌn/",
+      "meaning": "Số 1",
+      "example": "I have one sister."
+    },
+    {
+      "word": "Two",
+      "ipa": "/tuː/",
+      "meaning": "Số 2",
+      "example": "There are two apples on the table."
+    },
+    {
+      "word": "Three",
+      "ipa": "/θriː/",
+      "meaning": "Số 3",
+      "example": "He has three cars."
+    },
+    {
+      "word": "Four",
+      "ipa": "/fɔːr/",
+      "meaning": "Số 4",
+      "example": "It's four o'clock."
+    },
+    {
+      "word": "Five",
+      "ipa": "/faɪv/",
+      "meaning": "Số 5",
+      "example": "Give me five minutes."
+    },
+    {
+      "word": "Six",
+      "ipa": "/sɪks/",
+      "meaning": "Số 6",
+      "example": "She is six years old."
+    },
+    {
+      "word": "Seven",
+      "ipa": "/ˈsɛvən/",
+      "meaning": "Số 7",
+      "example": "There are seven days in a week."
+    },
+    {
+      "word": "Eight",
+      "ipa": "/eɪt/",
+      "meaning": "Số 8",
+      "example": "I start work at eight."
+    },
+    {
+      "word": "Nine",
+      "ipa": "/naɪn/",
+      "meaning": "Số 9",
+      "example": "The cat has nine lives."
+    },
+    {
+      "word": "Ten",
+      "ipa": "/tɛn/",
+      "meaning": "Số 10",
+      "example": "Can you count to ten?"
+    },
+    {
+      "word": "Eleven",
+      "ipa": "/ɪˈlɛvən/",
+      "meaning": "Số 11",
+      "example": "It's eleven p.m."
+    },
+    {
+      "word": "Twelve",
+      "ipa": "/twɛlv/",
+      "meaning": "Số 12",
+      "example": "She bought twelve eggs."
+    },
+    {
+      "word": "Twenty",
+      "ipa": "/ˈtwɛnti/",
+      "meaning": "Số 20",
+      "example": "He is twenty years old."
+    },
+    {
+      "word": "Thirty",
+      "ipa": "/ˈθɜːrti/",
+      "meaning": "Số 30",
+      "example": "There are thirty days in April."
+    },
+    {
+      "word": "One hundred",
+      "ipa": "/wʌn ˈhʌndrəd/",
+      "meaning": "Một trăm",
+      "example": "That costs one hundred dollars."
+    },
+    {
+      "word": "One thousand",
+      "ipa": "/wʌn ˈθaʊzənd/",
+      "meaning": "Một nghìn",
+      "example": "A millennium is one thousand years."
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "Shopkeeper",
+      "text": "Hello! Can I help you?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, please. I would like to buy some apples."
+    },
+    {
+      "speaker": "Shopkeeper",
+      "text": "How many apples do you want?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "I want **five** apples, please. How much are they?"
+    },
+    {
+      "speaker": "Shopkeeper",
+      "text": "They are **two** dollars each. So that makes **ten** dollars."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. Here is **twenty** dollars."
+    },
+    {
+      "speaker": "Shopkeeper",
+      "text": "Thank you. Here is your change, **ten** dollars."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Thanks!"
+    }
+  ]
+}

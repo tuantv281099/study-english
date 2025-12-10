@@ -1,0 +1,109 @@
+{
+  "id": "1",
+  "title": "1. Greetings – Chào hỏi",
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hello",
+      "ipa": "/həˈloʊ/",
+      "meaning": "Xin chào",
+      "example": "Hello, how are you?"
+    },
+    {
+      "word": "Hi",
+      "ipa": "/haɪ/",
+      "meaning": "Chào (thân mật)",
+      "example": "Hi John, good to see you."
+    },
+    {
+      "word": "Good morning",
+      "ipa": "/ɡʊd ˈmɔːrnɪŋ/",
+      "meaning": "Chào buổi sáng",
+      "example": "Good morning, teacher!"
+    },
+    {
+      "word": "Good afternoon",
+      "ipa": "/ɡʊd ˌæftərˈnuːn/",
+      "meaning": "Chào buổi chiều",
+      "example": "Good afternoon, ladies and gentlemen."
+    },
+    {
+      "word": "Good evening",
+      "ipa": "/ɡʊd ˈiːvnɪŋ/",
+      "meaning": "Chào buổi tối",
+      "example": "Good evening, everyone."
+    },
+    {
+      "word": "Good night",
+      "ipa": "/ɡʊd naɪt/",
+      "meaning": "Chúc ngủ ngon",
+      "example": "Good night, sleep well!"
+    },
+    {
+      "word": "How are you?",
+      "ipa": "/haʊ ɑːr juː/",
+      "meaning": "Bạn khỏe không?",
+      "example": "How are you today?"
+    },
+    {
+      "word": "Fine",
+      "ipa": "/faɪn/",
+      "meaning": "Khỏe, tốt",
+      "example": "I'm fine, thank you."
+    },
+    {
+      "word": "Nice to meet you",
+      "ipa": "/naɪs tuː miːt juː/",
+      "meaning": "Rất vui được gặp bạn",
+      "example": "It's nice to meet you, Sarah."
+    },
+    {
+      "word": "Goodbye",
+      "ipa": "/ɡʊdˈbaɪ/",
+      "meaning": "Tạm biệt",
+      "example": "Goodbye, see you tomorrow."
+    },
+    {
+      "word": "See you later",
+      "ipa": "/siː juː ˈleɪtər/",
+      "meaning": "Hẹn gặp lại sau",
+      "example": "I have to go now. See you later!"
+    },
+    {
+      "word": "What's up?",
+      "ipa": "/wʌts ʌp/",
+      "meaning": "Có chuyện gì thế? / Sao rồi? (thân mật)",
+      "example": "Hey bro, what's up?"
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "Sarah",
+      "text": "Hello! I'm Sarah. What's your name?"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Hi Sarah. I'm Tom. Nice to meet you."
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Nice to meet you too, Tom. How are you today?"
+    },
+    {
+      "speaker": "Tom",
+      "text": "I'm fine, thank you. And you?"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "I'm very well, thanks."
+    },
+    {
+      "speaker": "Tom",
+      "text": "It's getting late. I have to go now. Goodbye, Sarah!"
+    },
+    {
+      "speaker": "Sarah",
+      "text": "Goodbye, Tom. See you later!"
+    }
+  ]
+}

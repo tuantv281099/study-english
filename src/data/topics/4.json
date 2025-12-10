@@ -1,0 +1,109 @@
+{
+  "id": "4",
+  "title": "4. Colors – Màu sắc",
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Red",
+      "ipa": "/rɛd/",
+      "meaning": "Màu đỏ",
+      "example": "The apple is red."
+    },
+    {
+      "word": "Blue",
+      "ipa": "/bluː/",
+      "meaning": "Màu xanh dương",
+      "example": "The sky is blue."
+    },
+    {
+      "word": "Green",
+      "ipa": "/ɡriːn/",
+      "meaning": "Màu xanh lá",
+      "example": "Trees are green."
+    },
+    {
+      "word": "Yellow",
+      "ipa": "/ˈjɛloʊ/",
+      "meaning": "Màu vàng",
+      "example": "The sun is yellow."
+    },
+    {
+      "word": "Black",
+      "ipa": "/blæk/",
+      "meaning": "Màu đen",
+      "example": "I have a black cat."
+    },
+    {
+      "word": "White",
+      "ipa": "/waɪt/",
+      "meaning": "Màu trắng",
+      "example": "Snow is white."
+    },
+    {
+      "word": "Orange",
+      "ipa": "/ˈɔrɪndʒ/",
+      "meaning": "Màu cam",
+      "example": "Oranges are orange."
+    },
+    {
+      "word": "Purple",
+      "ipa": "/ˈpɜːrpəl/",
+      "meaning": "Màu tím",
+      "example": "Grapes can be purple."
+    },
+    {
+      "word": "Pink",
+      "ipa": "/pɪŋk/",
+      "meaning": "Màu hồng",
+      "example": "She likes pink dresses."
+    },
+    {
+      "word": "Brown",
+      "ipa": "/braʊn/",
+      "meaning": "Màu nâu",
+      "example": "Chocolate is brown."
+    },
+    {
+      "word": "Gray",
+      "ipa": "/ɡreɪ/",
+      "meaning": "Màu xám",
+      "example": "Clouds are gray before rain."
+    },
+    {
+      "word": "Colorful",
+      "ipa": "/ˈkʌlərfəl/",
+      "meaning": "Sặc sỡ",
+      "example": "The rainbow is colorful."
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "Mom",
+      "text": "Look at that painting. It's very colorful."
+    },
+    {
+      "speaker": "Child",
+      "text": "Yes, I see **red**, **blue**, and **yellow**."
+    },
+    {
+      "speaker": "Mom",
+      "text": "What is your favorite color?"
+    },
+    {
+      "speaker": "Child",
+      "text": "I like **blue**. What about you, Mom?"
+    },
+    {
+      "speaker": "Mom",
+      "text": "I like **green**. Look, that bird is **blue**."
+    },
+    {
+      "speaker": "Child",
+      "text": "Wow, it's beautiful. And that flower is **pink**."
+    },
+    {
+      "speaker": "Mom",
+      "text": "Yes, nature is full of colors."
+    }
+  ]
+}

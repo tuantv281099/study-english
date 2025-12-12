@@ -1,6 +1,259 @@
 {
   "id": "8",
   "title": "8. Shopping – Mua sắm",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Shop",
+      "ipa": "/ʃɑːp/",
+      "meaning": "Cửa hàng",
+      "example": {
+        "en": "I work in a coffee shop.",
+        "vi": "Tôi làm việc trong một quán cà phê."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Let's go to that shop.",
+          "vi": "Hãy đến cửa hàng đó đi."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Okay, I need to buy a gift.",
+          "vi": "Được, tôi cần mua một món quà."
+        }
+      ]
+    },
+    {
+      "word": "Buy",
+      "ipa": "/baɪ/",
+      "meaning": "Mua",
+      "example": {
+        "en": "I want to buy a shirt.",
+        "vi": "Tôi muốn mua một chiếc áo sơ mi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Did you buy the tickets?",
+          "vi": "Bạn đã mua vé chưa?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, I got them online.",
+          "vi": "Rồi, tôi đã mua trên mạng."
+        }
+      ]
+    },
+    {
+      "word": "Sell",
+      "ipa": "/sɛl/",
+      "meaning": "Bán",
+      "example": {
+        "en": "They sell fresh fruit.",
+        "vi": "Họ bán trái cây tươi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you sell batteries?",
+          "vi": "Ở đây có bán pin không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Sorry, we don't.",
+          "vi": "Xin lỗi, chúng tôi không bán."
+        }
+      ]
+    },
+    {
+      "word": "Price",
+      "ipa": "/praɪs/",
+      "meaning": "Giá cả",
+      "example": {
+        "en": "What is the price?",
+        "vi": "Giá là bao nhiêu?"
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "The price is too high.",
+          "vi": "Giá cao quá."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "We can offer a discount.",
+          "vi": "Chúng tôi có thể giảm giá."
+        }
+      ]
+    },
+    {
+      "word": "Cheap",
+      "ipa": "/tʃiːp/",
+      "meaning": "Rẻ",
+      "example": {
+        "en": "This pen is very cheap.",
+        "vi": "Cây bút này rất rẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Is it quality or just cheap?",
+          "vi": "Nó chất lượng hay chỉ rẻ thôi?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It's cheap but good.",
+          "vi": "Nó rẻ nhưng tốt."
+        }
+      ]
+    },
+    {
+      "word": "Expensive",
+      "ipa": "/ɪkˈspɛnsɪv/",
+      "meaning": "Đắt",
+      "example": {
+        "en": "That car is expensive.",
+        "vi": "Chiếc xe đó đắt tiền."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "I can't afford that expensive phone.",
+          "vi": "Tôi không đủ tiền mua chiếc điện thoại đắt tiền đó."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Maybe wait for a sale.",
+          "vi": "Có lẽ nên đợi đợt giảm giá."
+        }
+      ]
+    },
+    {
+      "word": "Sale",
+      "ipa": "/seɪl/",
+      "meaning": "Giảm giá / Bán hàng",
+      "example": {
+        "en": "These shoes are on sale.",
+        "vi": "Đôi giày này đang được giảm giá."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Look, a big summer sale!",
+          "vi": "Nhìn kìa, đợt giảm giá lớn mùa hè!"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Let's go inside.",
+          "vi": "Hãy vào trong xem."
+        }
+      ]
+    },
+    {
+      "word": "Customer",
+      "ipa": "/ˈkʌstəmər/",
+      "meaning": "Khách hàng",
+      "example": {
+        "en": "The customer is always right.",
+        "vi": "Khách hàng luôn đúng."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "How can I help you, customer?",
+          "vi": "Tôi có thể giúp gì cho quý khách?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I'm just looking, thanks.",
+          "vi": "Tôi chỉ xem thôi, cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Cash",
+      "ipa": "/kæʃ/",
+      "meaning": "Tiền mặt",
+      "example": {
+        "en": "I only have cash.",
+        "vi": "Tôi chỉ có tiền mặt."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you accept cash?",
+          "vi": "Bạn có nhận tiền mặt không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, cash is fine.",
+          "vi": "Vâng, tiền mặt được ạ."
+        }
+      ]
+    },
+    {
+      "word": "Credit card",
+      "ipa": "/ˈkrɛdɪt kɑːrd/",
+      "meaning": "Thẻ tín dụng",
+      "example": {
+        "en": "Can I pay by credit card?",
+        "vi": "Tôi có thể trả bằng thẻ tín dụng không?"
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Insert your credit card here.",
+          "vi": "Đút thẻ tín dụng của bạn vào đây."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Okay, done.",
+          "vi": "Được rồi, xong."
+        }
+      ]
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "meaning": "Túi",
+      "example": {
+        "en": "I need a shopping bag.",
+        "vi": "Tôi cần một chiếc túi mua sắm."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you have your own bag?",
+          "vi": "Bạn có mang túi không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "No, please give me one.",
+          "vi": "Không, làm ơn cho tôi một cái."
+        }
+      ]
+    },
+    {
+      "word": "Receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaning": "Hóa đơn",
+      "example": {
+        "en": "Here is your receipt.",
+        "vi": "Đây là hóa đơn của bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Would you like a receipt?",
+          "vi": "Bạn có muốn lấy hóa đơn không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, please put it in the bag.",
+          "vi": "Có, làm ơn bỏ vào túi."
+        }
+      ]
+    }
+  ]
 }

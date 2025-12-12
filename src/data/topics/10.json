@@ -1,6 +1,259 @@
 {
   "id": "10",
   "title": "10. Emotions – Cảm xúc",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Happy",
+      "ipa": "/ˈhæpi/",
+      "meaning": "Vui vẻ",
+      "example": {
+        "en": "She looks very happy.",
+        "vi": "Cô ấy trông rất vui vẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Why are you so happy?",
+          "vi": "Sao bạn vui thế?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I passed the exam.",
+          "vi": "Tôi đã đỗ kỳ thi."
+        }
+      ]
+    },
+    {
+      "word": "Sad",
+      "ipa": "/sæd/",
+      "meaning": "Buồn",
+      "example": {
+        "en": "Don't be sad.",
+        "vi": "Đừng buồn nữa."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "You look sad.",
+          "vi": "Bạn trông có vẻ buồn."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I lost my wallet.",
+          "vi": "Tôi bị mất ví."
+        }
+      ]
+    },
+    {
+      "word": "Angry",
+      "ipa": "/ˈæŋɡri/",
+      "meaning": "Tức giận",
+      "example": {
+        "en": "He was angry with me.",
+        "vi": "Anh ấy đã tức giận với tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Are you angry?",
+          "vi": "Bạn đang giận à?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, stop asking me.",
+          "vi": "Ừ, đừng hỏi tôi nữa."
+        }
+      ]
+    },
+    {
+      "word": "Tired",
+      "ipa": "/ˈtaɪərd/",
+      "meaning": "Mệt mỏi",
+      "example": {
+        "en": "I am too tired to walk.",
+        "vi": "Tôi quá mệt để đi bộ."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "You should sleep if you're tired.",
+          "vi": "Bạn nên ngủ nếu thấy mệt."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I will go to bed soon.",
+          "vi": "Tôi sẽ đi ngủ sớm."
+        }
+      ]
+    },
+    {
+      "word": "Hungry",
+      "ipa": "/ˈhʌŋɡri/",
+      "meaning": "Đói",
+      "example": {
+        "en": "I am very hungry.",
+        "vi": "Tôi rất đói."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Are you hungry yet?",
+          "vi": "Bạn đói chưa?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, usually I eat now.",
+          "vi": "Rồi, bình thường giờ này là tôi ăn."
+        }
+      ]
+    },
+    {
+      "word": "Thirsty",
+      "ipa": "/ˈθɜːrsti/",
+      "meaning": "Khát nước",
+      "example": {
+        "en": "I'm thirsty for water.",
+        "vi": "Tôi khát nước."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Here is some water.",
+          "vi": "Nước đây."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Thanks, I was so thirsty.",
+          "vi": "Cảm ơn, tôi khát quá."
+        }
+      ]
+    },
+    {
+      "word": "Scared",
+      "ipa": "/skɛrd/",
+      "meaning": "Sợ hãi",
+      "example": {
+        "en": "She is scared of spiders.",
+        "vi": "Cô ấy sợ nhện."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Are you scared of the dark?",
+          "vi": "Bạn có sợ bóng tối không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "A little bit.",
+          "vi": "Một chút thôi."
+        }
+      ]
+    },
+    {
+      "word": "Bored",
+      "ipa": "/bɔːrd/",
+      "meaning": "Nhàm chán",
+      "example": {
+        "en": "I get bored easily.",
+        "vi": "Tôi dễ bị chán."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "This movie is boring.",
+          "vi": "Bộ phim này chán quá."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I am bored too.",
+          "vi": "Tôi cũng thấy chán."
+        }
+      ]
+    },
+    {
+      "word": "Excited",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "meaning": "Hào hứng",
+      "example": {
+        "en": "We are excited about the trip.",
+        "vi": "Chúng tôi rất hào hứng về chuyến đi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Are you excited?",
+          "vi": "Bạn có hào hứng không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I can't wait!",
+          "vi": "Tôi không thể chờ thêm được nữa!"
+        }
+      ]
+    },
+    {
+      "word": "Nervous",
+      "ipa": "/ˈnɜːrvəs/",
+      "meaning": "Lo lắng / Hồi hộp",
+      "example": {
+        "en": "I feel nervous before tests.",
+        "vi": "Tôi cảm thấy hồi hộp trước các bài kiểm tra."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Don't be nervous.",
+          "vi": "Đừng lo lắng."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It's hard to stay calm.",
+          "vi": "Thật khó để giữ bình tĩnh."
+        }
+      ]
+    },
+    {
+      "word": "Surprised",
+      "ipa": "/sərˈpraɪzd/",
+      "meaning": "Ngạc nhiên",
+      "example": {
+        "en": "I was surprised by the news.",
+        "vi": "Tôi đã ngạc nhiên trước tin tức đó."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "You look surprised.",
+          "vi": "Bạn trông có vẻ ngạc nhiên."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I didn't expect to see you.",
+          "vi": "Tôi không ngờ gặp bạn."
+        }
+      ]
+    },
+    {
+      "word": "Funny",
+      "ipa": "/ˈfʌni/",
+      "meaning": "Buồn cười / Vui tính",
+      "example": {
+        "en": "He is a funny guy.",
+        "vi": "Anh ấy là một anh chàng vui tính."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "That joke was funny.",
+          "vi": "Trò đùa đó buồn cười thật."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I couldn't stop laughing.",
+          "vi": "Tôi không thể nhịn cười được."
+        }
+      ]
+    }
+  ]
 }

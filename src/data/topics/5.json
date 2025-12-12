@@ -7,91 +7,316 @@
       "word": "Time",
       "ipa": "/taɪm/",
       "meaning": "Thời gian",
-      "example": "What time is it?"
+      "example": {
+        "en": "What time is it?",
+        "vi": "Bây giờ là mấy giờ?"
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you have the time?",
+          "vi": "Bạn có biết mấy giờ rồi không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It's 10:30.",
+          "vi": "Bây giờ là 10 giờ 30."
+        }
+      ]
     },
     {
       "word": "Clock",
       "ipa": "/klɑːk/",
       "meaning": "Đồng hồ treo tường",
-      "example": "The clock is on the wall."
+      "example": {
+        "en": "The clock is on the wall.",
+        "vi": "Đồng hồ đang ở trên tường."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Where should we hang the clock?",
+          "vi": "Chúng ta nên treo đồng hồ ở đâu?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Let's put it in the kitchen.",
+          "vi": "Hãy treo nó trong nhà bếp."
+        }
+      ]
     },
     {
       "word": "Watch",
       "ipa": "/wɑːtʃ/",
       "meaning": "Đồng hồ đeo tay",
-      "example": "I have a new watch."
+      "example": {
+        "en": "I have a new watch.",
+        "vi": "Tôi có một chiếc đồng hồ đeo tay mới."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Is that a new watch?",
+          "vi": "Đó là đồng hồ mới phải không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, my father gave it to me.",
+          "vi": "Vâng, bố tôi đã tặng nó cho tôi."
+        }
+      ]
     },
     {
       "word": "Hour",
       "ipa": "/ˈaʊər/",
       "meaning": "Giờ",
-      "example": "The movie is two hours long."
+      "example": {
+        "en": "The movie is two hours long.",
+        "vi": "Bộ phim dài hai tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "How long does the flight take?",
+          "vi": "Chuyến bay mất bao lâu?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It takes about three hours.",
+          "vi": "Nó mất khoảng ba tiếng."
+        }
+      ]
     },
     {
       "word": "Minute",
       "ipa": "/ˈmɪnɪt/",
       "meaning": "Phút",
-      "example": "Wait a minute."
+      "example": {
+        "en": "Wait a minute.",
+        "vi": "Đợi một chút."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Can you help me with this?",
+          "vi": "Bạn có thể giúp tôi việc này không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Sure, just give me a minute.",
+          "vi": "Chắc chắn rồi, đợi tôi một phút."
+        }
+      ]
     },
     {
       "word": "Second",
       "ipa": "/ˈsɛkənd/",
       "meaning": "Giây",
-      "example": "Just a second."
+      "example": {
+        "en": "Just a second.",
+        "vi": "Chờ một giây nhé."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Are you ready to go?",
+          "vi": "Bạn đã sẵn sàng đi chưa?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Hang on a second, I need my keys.",
+          "vi": "Đợi một giây, tôi cần lấy chìa khóa."
+        }
+      ]
     },
     {
       "word": "O'clock",
       "ipa": "/əˈklɑːk/",
       "meaning": "... giờ (đúng)",
-      "example": "It is seven o'clock."
+      "example": {
+        "en": "It is seven o'clock.",
+        "vi": "Bây giờ là bảy giờ đúng."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "When does the meeting start?",
+          "vi": "Khi nào cuộc họp bắt đầu?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It starts at nine o'clock sharp.",
+          "vi": "Nó bắt đầu lúc chín giờ đúng."
+        }
+      ]
     },
     {
       "word": "Half past",
       "ipa": "/hæf pæst/",
       "meaning": "... giờ rưỡi (30 phút)",
-      "example": "It is half past six."
+      "example": {
+        "en": "It is half past six.",
+        "vi": "Bây giờ là sáu giờ rưỡi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "What time is dinner?",
+          "vi": "Mấy giờ ăn tối?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "We usually eat at half past seven.",
+          "vi": "Chúng tôi thường ăn lúc bảy giờ rưỡi."
+        }
+      ]
     },
     {
       "word": "Quarter past",
       "ipa": "/ˈkwɔːrtər pæst/",
       "meaning": "... giờ 15",
-      "example": "It is quarter past five."
+      "example": {
+        "en": "It is quarter past five.",
+        "vi": "Bây giờ là năm giờ mười lăm."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Did I miss the bus?",
+          "vi": "Tôi có bị lỡ xe buýt không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "No, it leaves at quarter past eight.",
+          "vi": "Không, nó rời đi lúc tám giờ mười lăm."
+        }
+      ]
     },
     {
       "word": "Quarter to",
       "ipa": "/ˈkwɔːrtər tuː/",
       "meaning": "... giờ kém 15",
-      "example": "It is quarter to ten."
+      "example": {
+        "en": "It is quarter to ten.",
+        "vi": "Bây giờ là mười giờ kém mười lăm."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "We need to hurry.",
+          "vi": "Chúng ta cần nhanh lên."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I know, it's quarter to movie time.",
+          "vi": "Tôi biết, còn 15 phút nữa là đến giờ chiếu phim."
+        }
+      ]
     },
     {
       "word": "Morning",
       "ipa": "/ˈmɔːrnɪŋ/",
       "meaning": "Buổi sáng",
-      "example": "I wake up in the morning."
+      "example": {
+        "en": "I wake up in the morning.",
+        "vi": "Tôi thức dậy vào buổi sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you exercise often?",
+          "vi": "Bạn có hay tập thể dục không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, I run every morning.",
+          "vi": "Có, tôi chạy bộ mỗi sáng."
+        }
+      ]
     },
     {
       "word": "Noon",
       "ipa": "/nuːn/",
       "meaning": "Buổi trưa",
-      "example": "We eat lunch at noon."
+      "example": {
+        "en": "We eat lunch at noon.",
+        "vi": "Chúng tôi ăn trưa vào buổi trưa."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "When shall we meet?",
+          "vi": "Khi nào chúng ta gặp nhau?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "How about noon?",
+          "vi": "Buổi trưa được không?"
+        }
+      ]
     },
     {
       "word": "Afternoon",
       "ipa": "/ˌæftərˈnuːn/",
       "meaning": "Buổi chiều",
-      "example": "Classes end in the afternoon."
+      "example": {
+        "en": "Classes end in the afternoon.",
+        "vi": "Các lớp học kết thúc vào buổi chiều."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Are you free later?",
+          "vi": "Lát nữa bạn có rảnh không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, I'm free this afternoon.",
+          "vi": "Có, tôi rảnh vào chiều nay."
+        }
+      ]
     },
     {
       "word": "Evening",
       "ipa": "/ˈiːvnɪŋ/",
       "meaning": "Buổi tối",
-      "example": "I watch TV in the evening."
+      "example": {
+        "en": "I watch TV in the evening.",
+        "vi": "Tôi xem TV vào buổi tối."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "What are you doing tonight?",
+          "vi": "Tối nay bạn làm gì?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I'm going out for dinner this evening.",
+          "vi": "Tôi sẽ đi ăn tối vào tối nay."
+        }
+      ]
     },
     {
       "word": "Midnight",
       "ipa": "/ˈmɪdnaɪt/",
       "meaning": "Nửa đêm",
-      "example": "He sleeps at midnight."
+      "example": {
+        "en": "He sleeps at midnight.",
+        "vi": "Anh ấy ngủ lúc nửa đêm."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "You look tired.",
+          "vi": "Bạn trông có vẻ mệt mỏi."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I stayed up until midnight yesterday.",
+          "vi": "Hôm qua tôi đã thức đến nửa đêm."
+        }
+      ]
     }
   ]
 }

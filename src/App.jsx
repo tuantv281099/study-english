@@ -92,7 +92,8 @@ function App() {
                           </div>
                           <div className="vocab-body">
                             <span className="meaning">{vocab.meaning}</span>
-                            <p className="example">"{vocab.example}"</p>
+                            <p className="example">"{vocab.example.en}"</p>
+                            <p className="example">"{vocab.example.vi}"</p>
                           </div>
                           <div className="card-hint">Tap for Conversation</div>
                         </div>
@@ -122,12 +123,24 @@ function App() {
                   </div>
                   <div className="fw-details">
                     <span className="fw-meaning">{selectedVocab.meaning}</span>
-                    <p className="fw-example">"{selectedVocab.example}"</p>
+                    <p className="fw-example">"{selectedVocab.example.en}"</p>
+                    <p className="fw-example">"{selectedVocab.example.vi}"</p>
                   </div>
                 </div>
               </div>
 
               <div className="conversation-container">
+                <div className="conversation">
+                  {selectedVocab.conversation.map((item, index) => (
+                    <div key={index} className={`conversation-item ${item.speaker === 'John' ? 'speaker-john' : 'speaker-sarah'}`}>
+                      <div className="avatar-placeholder">{item.speaker[0]}</div>
+                      <div className="bubble">
+                        <p className="text-en">{item.en}</p>
+                        <p className="text-vi">{item.vi}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
                 {selectedVocab.word && (
                   <YouGlishWidget word={selectedVocab.word} />
                 )}

@@ -105,39 +105,5 @@
       "meaning": "Một nghìn",
       "example": "A millennium is one thousand years."
     }
-  ],
-  "conversation": [
-    {
-      "speaker": "Shopkeeper",
-      "text": "Hello! Can I help you?"
-    },
-    {
-      "speaker": "Customer",
-      "text": "Yes, please. I would like to buy some apples."
-    },
-    {
-      "speaker": "Shopkeeper",
-      "text": "How many apples do you want?"
-    },
-    {
-      "speaker": "Customer",
-      "text": "I want **five** apples, please. How much are they?"
-    },
-    {
-      "speaker": "Shopkeeper",
-      "text": "They are **two** dollars each. So that makes **ten** dollars."
-    },
-    {
-      "speaker": "Customer",
-      "text": "Okay. Here is **twenty** dollars."
-    },
-    {
-      "speaker": "Shopkeeper",
-      "text": "Thank you. Here is your change, **ten** dollars."
-    },
-    {
-      "speaker": "Customer",
-      "text": "Thanks!"
-    }
   ]
 }

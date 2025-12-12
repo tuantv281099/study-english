@@ -75,35 +75,5 @@
       "meaning": "Sặc sỡ",
       "example": "The rainbow is colorful."
     }
-  ],
-  "conversation": [
-    {
-      "speaker": "Mom",
-      "text": "Look at that painting. It's very colorful."
-    },
-    {
-      "speaker": "Child",
-      "text": "Yes, I see **red**, **blue**, and **yellow**."
-    },
-    {
-      "speaker": "Mom",
-      "text": "What is your favorite color?"
-    },
-    {
-      "speaker": "Child",
-      "text": "I like **blue**. What about you, Mom?"
-    },
-    {
-      "speaker": "Mom",
-      "text": "I like **green**. Look, that bird is **blue**."
-    },
-    {
-      "speaker": "Child",
-      "text": "Wow, it's beautiful. And that flower is **pink**."
-    },
-    {
-      "speaker": "Mom",
-      "text": "Yes, nature is full of colors."
-    }
   ]
 }

@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 import topicsList from './data/topics.json'; // Initial lightweight list
+import YouGlishWidget from './components/YouGlishWidget';
 
 function App() {
   const [selectedTopicId, setSelectedTopicId] = useState(null);
@@ -40,8 +41,6 @@ function App() {
   const closeConversation = () => {
     setSelectedVocab(null);
   };
-
-  const currentConversation = topicData?.conversation || [];
 
   return (
     <div className="app-container">
@@ -129,17 +128,8 @@ function App() {
               </div>
 
               <div className="conversation-container">
-                {currentConversation.length === 0 ? (
-                  <p>No conversation available for this topic yet.</p>
-                ) : (
-                  <div className="conversation-box">
-                    {currentConversation.map((line, index) => (
-                      <div key={index} className="dialog-line">
-                        <span className="speaker">{line.speaker}:</span>
-                        <span className="text">{line.text}</span>
-                      </div>
-                    ))}
-                  </div>
+                {selectedVocab.word && (
+                  <YouGlishWidget word={selectedVocab.word} />
                 )}
               </div>
             </div>

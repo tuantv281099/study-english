@@ -6,8 +6,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Root is 'study-english' (parent of 'app', which is parent of 'scripts')
-const rootDir = path.resolve(__dirname, '../../');
-const listFile = path.join(rootDir, 'DANH SÁCH TOÀN BỘ 300 CHỦ ĐỀ.txt');
+const rootDir = path.resolve(__dirname, '../');
+const listFile = path.join(rootDir, 'DANH SÁCH TOÀN BỘ 300 CHỦ ĐỀ.md');
 const outputFile = path.join(__dirname, '../src/data.json');
 
 console.log('Scanning directories in:', rootDir);

@@ -75,35 +75,5 @@
       "meaning": "Có chuyện gì thế? / Sao rồi? (thân mật)",
       "example": "Hey bro, what's up?"
     }
-  ],
-  "conversation": [
-    {
-      "speaker": "Sarah",
-      "text": "Hello! I'm Sarah. What's your name?"
-    },
-    {
-      "speaker": "Tom",
-      "text": "Hi Sarah. I'm Tom. Nice to meet you."
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Nice to meet you too, Tom. How are you today?"
-    },
-    {
-      "speaker": "Tom",
-      "text": "I'm fine, thank you. And you?"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "I'm very well, thanks."
-    },
-    {
-      "speaker": "Tom",
-      "text": "It's getting late. I have to go now. Goodbye, Sarah!"
-    },
-    {
-      "speaker": "Sarah",
-      "text": "Goodbye, Tom. See you later!"
-    }
   ]
 }

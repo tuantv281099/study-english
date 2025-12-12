@@ -93,39 +93,5 @@
       "meaning": "Nửa đêm",
       "example": "He sleeps at midnight."
     }
-  ],
-  "conversation": [
-    {
-      "speaker": "Tourist",
-      "text": "Excuse me. What time is it?"
-    },
-    {
-      "speaker": "Local",
-      "text": "It is **half past three** (3:30)."
-    },
-    {
-      "speaker": "Tourist",
-      "text": "Thank you. Is the museum open now?"
-    },
-    {
-      "speaker": "Local",
-      "text": "Yes, it opens at **eight o'clock** in the morning and closes at **five o'clock** in the afternoon."
-    },
-    {
-      "speaker": "Tourist",
-      "text": "Great. I have time."
-    },
-    {
-      "speaker": "Local",
-      "text": "Do you have a **watch**?"
-    },
-    {
-      "speaker": "Tourist",
-      "text": "No, I lost it. That's why I asked for the time."
-    },
-    {
-      "speaker": "Local",
-      "text": "Ah, I see. Have a nice day!"
-    }
   ]
 }

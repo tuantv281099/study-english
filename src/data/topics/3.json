@@ -87,39 +87,5 @@
       "meaning": "Năm",
       "example": "Happy New Year!"
     }
-  ],
-  "conversation": [
-    {
-      "speaker": "A",
-      "text": "What is your favorite season?"
-    },
-    {
-      "speaker": "B",
-      "text": "My favorite season is **summer**."
-    },
-    {
-      "speaker": "A",
-      "text": "Why do you like summer?"
-    },
-    {
-      "speaker": "B",
-      "text": "Because I can go to the beach and swim. What about you?"
-    },
-    {
-      "speaker": "A",
-      "text": "I like **autumn**. The weather is cool and nice."
-    },
-    {
-      "speaker": "B",
-      "text": "When is your birthday?"
-    },
-    {
-      "speaker": "A",
-      "text": "My birthday is in **October**, in the autumn."
-    },
-    {
-      "speaker": "B",
-      "text": "Oh, nice. My birthday is next week, on **Friday**."
-    }
   ]
 }

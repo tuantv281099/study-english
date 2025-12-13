@@ -1,1 +1,0 @@
-const o="57",t="57. Fitness & Exercise",e=!1,s=[],n=[],c={id:"57",title:t,hasContent:!1,vocabulary:s,conversation:n};export{n as conversation,c as default,e as hasContent,o as id,t as title,s as vocabulary};

@@ -1,1 +1,0 @@
-const o="269",t="269. Real Estate – Bất động sản",a=!1,n=[],s=[],e={id:"269",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,e as default,a as hasContent,o as id,t as title,n as vocabulary};

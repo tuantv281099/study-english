@@ -1,1 +1,0 @@
-const s="48",t="48. Social Media",a=!1,o=[],n=[],c={id:"48",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,c as default,a as hasContent,s as id,t as title,o as vocabulary};

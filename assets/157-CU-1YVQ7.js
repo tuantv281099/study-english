@@ -1,0 +1,1 @@
+const o="157",n="157. UI/UX Design – Giao diện & trải nghiệm người dùng",s=!1,t=[],i={id:"157",title:n,hasContent:!1,vocabulary:t};export{i as default,s as hasContent,o as id,n as title,t as vocabulary};

@@ -1,1 +1,0 @@
-const s="247",o="247. Psychology Vocabulary – Tâm lý học",c=!1,t=[],n=[],a={id:"247",title:o,hasContent:!1,vocabulary:t,conversation:n};export{n as conversation,a as default,c as hasContent,s as id,o as title,t as vocabulary};

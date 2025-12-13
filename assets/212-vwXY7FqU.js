@@ -1,1 +1,0 @@
-const s="212",n="212. Warnings & Advice – Cảnh báo & lời khuyên",a=!1,t=[],o=[],c={id:"212",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

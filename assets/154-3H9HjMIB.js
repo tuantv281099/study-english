@@ -1,1 +1,0 @@
-const s="154",t="154. Programming Basics – Lập trình cơ bản",a=!1,n=[],o=[],c={id:"154",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

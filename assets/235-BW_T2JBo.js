@@ -1,1 +1,0 @@
-const o="235",t="235. British vs American English – Anh - Mỹ",a=!1,n=[],s=[],c={id:"235",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,c as default,a as hasContent,o as id,t as title,n as vocabulary};

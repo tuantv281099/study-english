@@ -1,1 +1,0 @@
-const c="291",n="291. Emergency Vocabulary – Tình huống khẩn cấp",s=!1,t=[],o=[],a={id:"291",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,a as default,s as hasContent,c as id,n as title,t as vocabulary};

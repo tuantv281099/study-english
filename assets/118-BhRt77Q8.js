@@ -1,1 +1,0 @@
-const n="118",t="118. Real Estate Vocabulary",s=!1,o=[],a=[],c={id:"118",title:t,hasContent:!1,vocabulary:o,conversation:a};export{a as conversation,c as default,s as hasContent,n as id,t as title,o as vocabulary};

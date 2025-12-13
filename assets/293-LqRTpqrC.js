@@ -1,1 +1,0 @@
-const s="293",n="293. Hotel Survival English – Tiếng Anh khách sạn",a=!1,t=[],o=[],c={id:"293",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

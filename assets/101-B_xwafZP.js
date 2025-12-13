@@ -1,1 +1,0 @@
-const s="101",t="101. Office Equipment",c=!1,n=[],o=[],e={id:"101",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,c as hasContent,s as id,t as title,n as vocabulary};

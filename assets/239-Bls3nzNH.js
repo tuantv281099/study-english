@@ -1,1 +1,0 @@
-const s="239",t="239. Word Formation – Hình thành từ",a=!1,n=[],o=[],c={id:"239",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

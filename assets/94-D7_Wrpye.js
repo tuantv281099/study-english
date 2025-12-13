@@ -1,1 +1,0 @@
-const s="94",t="94. School Subjects",c=!1,o=[],n=[],a={id:"94",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,a as default,c as hasContent,s as id,t as title,o as vocabulary};

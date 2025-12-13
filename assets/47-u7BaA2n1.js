@@ -1,1 +1,0 @@
-const s="47",n="47. Banking & Finance",a=!1,t=[],o=[],c={id:"47",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

@@ -1,1 +1,0 @@
-const s="125",t="125. Police & Emergency",c=!1,n=[],o=[],e={id:"125",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,c as hasContent,s as id,t as title,n as vocabulary};

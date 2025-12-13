@@ -1,1 +1,0 @@
-const a="135",t="135. Gaming Vocabulary",s=!1,n=[],o=[],c={id:"135",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,s as hasContent,a as id,t as title,n as vocabulary};

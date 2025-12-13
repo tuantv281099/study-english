@@ -1,1 +1,0 @@
-const s="180",n="180. Rural Life – Cuộc sống nông thôn",a=!1,t=[],o=[],c={id:"180",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

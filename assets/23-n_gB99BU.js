@@ -1,1 +1,0 @@
-const s="23",t="23. School – Trường học",c=!1,o=[],n=[],a={id:"23",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,a as default,c as hasContent,s as id,t as title,o as vocabulary};

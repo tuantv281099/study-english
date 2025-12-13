@@ -1,1 +1,0 @@
-const s="157",n="157. UI/UX Design – Giao diện & trải nghiệm người dùng",i=!1,t=[],o=[],a={id:"157",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,a as default,i as hasContent,s as id,n as title,t as vocabulary};

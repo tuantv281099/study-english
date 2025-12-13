@@ -1,1 +1,0 @@
-const s="209",t="209. Compliments – Khen ngợi",e=!1,n=[],o=[],a={id:"209",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,e as hasContent,s as id,t as title,n as vocabulary};

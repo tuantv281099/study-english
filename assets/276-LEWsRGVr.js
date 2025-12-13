@@ -1,1 +1,0 @@
-const s="276",n="276. Career Planning – Lập kế hoạch nghề nghiệp",a=!1,t=[],o=[],c={id:"276",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

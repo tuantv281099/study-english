@@ -1,1 +1,0 @@
-const s="260",t="260. Agriculture Vocabulary – Nông nghiệp",a=!1,n=[],o=[],c={id:"260",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

@@ -1,1 +1,0 @@
-const s="162",n="162. Green Living – Sống xanh",a=!1,t=[],o=[],e={id:"162",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,e as default,a as hasContent,s as id,n as title,t as vocabulary};

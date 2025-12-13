@@ -1,1 +1,0 @@
-const s="160",t="160. Digital Marketing – Marketing số",a=!1,n=[],o=[],e={id:"160",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,a as hasContent,s as id,t as title,n as vocabulary};

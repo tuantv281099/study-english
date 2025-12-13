@@ -1,1 +1,0 @@
-const a="252",t="252. Medical Vocabulary – Y học",c=!1,o=[],n=[],s={id:"252",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,s as default,c as hasContent,a as id,t as title,o as vocabulary};

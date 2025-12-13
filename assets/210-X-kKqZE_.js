@@ -1,1 +1,0 @@
-const o="210",t="210. Requests – Yêu cầu",c=!1,s=[],n=[],e={id:"210",title:t,hasContent:!1,vocabulary:s,conversation:n};export{n as conversation,e as default,c as hasContent,o as id,t as title,s as vocabulary};

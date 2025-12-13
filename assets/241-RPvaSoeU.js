@@ -1,1 +1,0 @@
-const c="241",t="241. Science Vocabulary – Khoa học",a=!1,o=[],n=[],s={id:"241",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,s as default,a as hasContent,c as id,t as title,o as vocabulary};

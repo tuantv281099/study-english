@@ -1,1 +1,0 @@
-const n="246",t="246. Geography Vocabulary – Địa lý",s=!1,o=[],a=[],c={id:"246",title:t,hasContent:!1,vocabulary:o,conversation:a};export{a as conversation,c as default,s as hasContent,n as id,t as title,o as vocabulary};

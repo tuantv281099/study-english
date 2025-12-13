@@ -1,1 +1,0 @@
-const s="86",t="86. Energy Sources",c=!1,n=[],o=[],e={id:"86",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,c as hasContent,s as id,t as title,n as vocabulary};

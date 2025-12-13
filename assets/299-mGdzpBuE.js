@@ -1,1 +1,0 @@
-const a="299",t="299. Parenting Vocabulary – Nuôi dạy con",s=!1,n=[],o=[],c={id:"299",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,s as hasContent,a as id,t as title,n as vocabulary};

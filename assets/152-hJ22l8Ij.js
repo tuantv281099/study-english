@@ -1,1 +1,0 @@
-const a="152",t="152. Software Vocabulary – Phần mềm",s=!1,o=[],n=[],c={id:"152",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,c as default,s as hasContent,a as id,t as title,o as vocabulary};

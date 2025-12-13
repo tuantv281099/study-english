@@ -1,1 +1,0 @@
-const s="147",t="147. Artificial Intelligence – Trí tuệ nhân tạo",c=!1,n=[],o=[],e={id:"147",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,c as hasContent,s as id,t as title,n as vocabulary};

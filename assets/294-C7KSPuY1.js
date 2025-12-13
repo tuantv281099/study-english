@@ -1,1 +1,0 @@
-const o="294",n="294. Restaurant Survival English – Tiếng Anh nhà hàng",a=!1,t=[],s=[],c={id:"294",title:n,hasContent:!1,vocabulary:t,conversation:s};export{s as conversation,c as default,a as hasContent,o as id,n as title,t as vocabulary};

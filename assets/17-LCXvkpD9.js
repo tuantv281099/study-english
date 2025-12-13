@@ -1,1 +1,0 @@
-const s="17",t="17. Animals – Động vật",a=!1,n=[],o=[],c={id:"17",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

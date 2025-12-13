@@ -1,1 +1,0 @@
-const s="59",t="59. Mind & Emotions",a=!1,n=[],o=[],c={id:"59",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

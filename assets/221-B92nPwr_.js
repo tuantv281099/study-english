@@ -1,1 +1,0 @@
-const c="221",t="221. Academic Vocabulary – Từ vựng học thuật",a=!1,n=[],o=[],s={id:"221",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,s as default,a as hasContent,c as id,t as title,n as vocabulary};

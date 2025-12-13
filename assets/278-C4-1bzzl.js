@@ -1,1 +1,0 @@
-const a="278",t="278. Time Management – Quản lý thời gian",s=!1,n=[],o=[],e={id:"278",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,s as hasContent,a as id,t as title,n as vocabulary};

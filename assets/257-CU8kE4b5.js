@@ -1,1 +1,0 @@
-const a="257",t="257. Maritime Vocabulary – Hàng hải",s=!1,n=[],o=[],c={id:"257",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,s as hasContent,a as id,t as title,n as vocabulary};

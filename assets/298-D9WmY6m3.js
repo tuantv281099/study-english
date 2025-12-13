@@ -1,1 +1,0 @@
-const a="298",t="298. Breakups & Relationships – Chia tay & quan hệ",o=!1,n=[],s=[],e={id:"298",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,e as default,o as hasContent,a as id,t as title,n as vocabulary};

@@ -1,1 +1,0 @@
-const s="227",t="227. SAT Vocabulary",a=!1,o=[],n=[],c={id:"227",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,c as default,a as hasContent,s as id,t as title,o as vocabulary};

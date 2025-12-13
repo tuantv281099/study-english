@@ -1,1 +1,0 @@
-const n="4",t="4. Colors – Màu sắc",c=!1,o=[],s=[],a={id:"4",title:t,hasContent:!1,vocabulary:o,conversation:s};export{s as conversation,a as default,c as hasContent,n as id,t as title,o as vocabulary};

@@ -1,0 +1,1 @@
+const s="68",t="68. Bedroom Items",e=!1,o=[],n=[],a={id:"68",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,a as default,e as hasContent,s as id,t as title,o as vocabulary};

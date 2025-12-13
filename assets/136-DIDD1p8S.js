@@ -1,0 +1,1 @@
+const s="136",t="136. E-commerce",c=!1,o=[],n=[],e={id:"136",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,e as default,c as hasContent,s as id,t as title,o as vocabulary};

@@ -1,0 +1,1 @@
+const o="30",t="30. Festivals – Lễ hội",a=!1,s=[],n=[],c={id:"30",title:t,hasContent:!1,vocabulary:s,conversation:n};export{n as conversation,c as default,a as hasContent,o as id,t as title,s as vocabulary};

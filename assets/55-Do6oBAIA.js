@@ -1,0 +1,1 @@
+const o="55",t="55. Illness & Treatment",e=!1,n=[],s=[],a={id:"55",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,a as default,e as hasContent,o as id,t as title,n as vocabulary};

@@ -1,0 +1,1 @@
+const s="258",o="258. Journalism Vocabulary – Báo chí",a=!1,t=[],n=[],c={id:"258",title:o,hasContent:!1,vocabulary:t,conversation:n};export{n as conversation,c as default,a as hasContent,s as id,o as title,t as vocabulary};

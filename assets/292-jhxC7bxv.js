@@ -1,0 +1,1 @@
+const s="292",n="292. Airport Survival English – Tiếng Anh sân bay",a=!1,t=[],o=[],c={id:"292",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

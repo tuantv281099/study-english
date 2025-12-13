@@ -1,0 +1,1 @@
+const s="288",t="288. Mental Health – Sức khỏe tinh thần",a=!1,n=[],o=[],e={id:"288",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,a as hasContent,s as id,t as title,n as vocabulary};

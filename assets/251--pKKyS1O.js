@@ -1,0 +1,1 @@
+const o="251",t="251. Business Law – Luật kinh doanh",a=!1,n=[],s=[],c={id:"251",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,c as default,a as hasContent,o as id,t as title,n as vocabulary};

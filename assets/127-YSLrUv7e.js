@@ -1,0 +1,1 @@
+const n="127",t="127. Global Issues",a=!1,s=[],o=[],c={id:"127",title:t,hasContent:!1,vocabulary:s,conversation:o};export{o as conversation,c as default,a as hasContent,n as id,t as title,s as vocabulary};

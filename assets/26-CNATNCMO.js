@@ -1,0 +1,1 @@
+const s="26",n="26. Food & Drink – Ăn uống",a=!1,t=[],o=[],c={id:"26",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

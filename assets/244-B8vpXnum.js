@@ -1,0 +1,1 @@
+const n="244",t="244. Physics Vocabulary – Vật lý",a=!1,o=[],s=[],c={id:"244",title:t,hasContent:!1,vocabulary:o,conversation:s};export{s as conversation,c as default,a as hasContent,n as id,t as title,o as vocabulary};

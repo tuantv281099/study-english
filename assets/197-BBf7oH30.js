@@ -1,0 +1,1 @@
+const s="197",n="197. Languages – Ngôn ngữ",a=!1,t=[],o=[],c={id:"197",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

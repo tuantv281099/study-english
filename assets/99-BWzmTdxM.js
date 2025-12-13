@@ -1,0 +1,1 @@
+const a="99",t="99. Teaching Vocabulary",s=!1,n=[],o=[],c={id:"99",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,s as hasContent,a as id,t as title,n as vocabulary};

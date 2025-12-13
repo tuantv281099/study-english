@@ -1,0 +1,1 @@
+const c="250",t="250. Economics Vocabulary – Kinh tế học",s=!1,o=[],n=[],a={id:"250",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,a as default,s as hasContent,c as id,t as title,o as vocabulary};

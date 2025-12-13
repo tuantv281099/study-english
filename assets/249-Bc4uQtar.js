@@ -1,0 +1,1 @@
+const s="249",t="249. Philosophy Vocabulary – Triết học",a=!1,o=[],n=[],c={id:"249",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,c as default,a as hasContent,s as id,t as title,o as vocabulary};

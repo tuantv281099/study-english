@@ -1,0 +1,1 @@
+const s="12",n="12. Technology – Công nghệ",c=!1,t=[],o=[],a={id:"12",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,a as default,c as hasContent,s as id,n as title,t as vocabulary};

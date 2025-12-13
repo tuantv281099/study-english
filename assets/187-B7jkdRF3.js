@@ -1,0 +1,1 @@
+const s="187",o="187. Book Genres – Thể loại sách",c=!1,t=[],n=[],e={id:"187",title:o,hasContent:!1,vocabulary:t,conversation:n};export{n as conversation,e as default,c as hasContent,s as id,o as title,t as vocabulary};

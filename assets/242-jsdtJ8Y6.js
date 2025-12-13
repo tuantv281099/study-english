@@ -1,0 +1,1 @@
+const s="242",o="242. Biology Vocabulary – Sinh học",a=!1,t=[],n=[],c={id:"242",title:o,hasContent:!1,vocabulary:t,conversation:n};export{n as conversation,c as default,a as hasContent,s as id,o as title,t as vocabulary};

@@ -1,0 +1,1 @@
+const s="32",t="32. Hotels & Accommodation",c=!1,o=[],n=[],a={id:"32",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,a as default,c as hasContent,s as id,t as title,o as vocabulary};

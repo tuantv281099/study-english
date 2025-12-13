@@ -1,0 +1,1 @@
+const a="81",t="81. Natural Phenomena",s=!1,n=[],o=[],e={id:"81",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,s as hasContent,a as id,t as title,n as vocabulary};

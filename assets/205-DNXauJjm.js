@@ -1,0 +1,1 @@
+const s="205",n="205. Agreeing & Disagreeing – Đồng tình & phản đối",e=!1,t=[],o=[],a={id:"205",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,a as default,e as hasContent,s as id,n as title,t as vocabulary};

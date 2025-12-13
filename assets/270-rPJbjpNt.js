@@ -1,0 +1,1 @@
+const o="270",t="270. Human Resources – Nhân sự",a=!1,n=[],s=[],c={id:"270",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,c as default,a as hasContent,o as id,t as title,n as vocabulary};

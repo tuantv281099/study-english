@@ -1,0 +1,1 @@
+const a="202",t="202. Small Talk – Trò chuyện xã giao",s=!1,n=[],o=[],c={id:"202",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,s as hasContent,a as id,t as title,n as vocabulary};

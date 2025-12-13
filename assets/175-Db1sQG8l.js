@@ -1,0 +1,1 @@
+const s="175",t="175. Investment – Đầu tư",e=!1,n=[],o=[],a={id:"175",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,e as hasContent,s as id,t as title,n as vocabulary};

@@ -1,0 +1,1 @@
+const s="178",t="178. Housing Market – Thị trường nhà ở",a=!1,n=[],o=[],c={id:"178",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

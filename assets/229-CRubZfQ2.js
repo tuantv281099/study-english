@@ -1,0 +1,1 @@
+const s="229",t="229. Collocations – Cụm từ thường đi với nhau",a=!1,n=[],o=[],c={id:"229",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

@@ -1,0 +1,1 @@
+const s="272",t="272. Risk Management – Quản lý rủi ro",a=!1,n=[],o=[],e={id:"272",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,e as default,a as hasContent,s as id,t as title,n as vocabulary};

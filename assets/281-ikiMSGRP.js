@@ -1,0 +1,1 @@
+const s="281",t="281. Motivation – Động lực",a=!1,n=[],o=[],c={id:"281",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

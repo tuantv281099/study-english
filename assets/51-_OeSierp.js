@@ -1,0 +1,1 @@
+const s="51",t="51. Chores – Việc nhà",c=!1,n=[],o=[],a={id:"51",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,c as hasContent,s as id,t as title,n as vocabulary};

@@ -1,0 +1,1 @@
+const s="217",t="217. Conflict Resolution – Giải quyết xung đột",c=!1,n=[],o=[],a={id:"217",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,c as hasContent,s as id,t as title,n as vocabulary};

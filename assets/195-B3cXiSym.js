@@ -1,0 +1,1 @@
+const s="195",t="195. Festivals Around the World – Lễ hội toàn cầu",a=!1,o=[],n=[],c={id:"195",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,c as default,a as hasContent,s as id,t as title,o as vocabulary};

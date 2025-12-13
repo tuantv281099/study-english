@@ -1,0 +1,1 @@
+const a="200",t="200. Intercultural Communication – Giao tiếp liên văn hóa",s=!1,n=[],o=[],c={id:"200",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,s as hasContent,a as id,t as title,n as vocabulary};

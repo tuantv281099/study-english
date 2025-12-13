@@ -1,0 +1,1 @@
+const a="198",t="198. Globalization – Toàn cầu hóa",s=!1,o=[],n=[],c={id:"198",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,c as default,s as hasContent,a as id,t as title,o as vocabulary};

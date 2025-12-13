@@ -1,0 +1,1 @@
+const s="194",t="194. Customs – Phong tục",c=!1,o=[],n=[],a={id:"194",title:t,hasContent:!1,vocabulary:o,conversation:n};export{n as conversation,a as default,c as hasContent,s as id,t as title,o as vocabulary};

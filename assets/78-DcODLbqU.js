@@ -1,0 +1,1 @@
+const s="78",t="78. Mountains & Hiking",a=!1,n=[],o=[],c={id:"78",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

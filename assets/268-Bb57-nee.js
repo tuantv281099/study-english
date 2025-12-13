@@ -1,0 +1,1 @@
+const o="268",t="268. Fitness Industry – Thể hình",a=!1,n=[],s=[],c={id:"268",title:t,hasContent:!1,vocabulary:n,conversation:s};export{s as conversation,c as default,a as hasContent,o as id,t as title,n as vocabulary};

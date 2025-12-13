@@ -1,0 +1,1 @@
+const s="191",t="191. Dance Styles – Các kiểu nhảy",c=!1,n=[],o=[],a={id:"191",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,c as hasContent,s as id,t as title,n as vocabulary};

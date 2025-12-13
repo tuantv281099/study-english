@@ -1,0 +1,1 @@
+const s="233",n="233. Slang – Tiếng lóng",a=!1,t=[],o=[],c={id:"233",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

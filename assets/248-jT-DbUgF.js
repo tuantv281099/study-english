@@ -1,0 +1,1 @@
+const c="248",o="248. Sociology Vocabulary – Xã hội học",s=!1,t=[],n=[],a={id:"248",title:o,hasContent:!1,vocabulary:t,conversation:n};export{n as conversation,a as default,s as hasContent,c as id,o as title,t as vocabulary};

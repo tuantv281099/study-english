@@ -1,0 +1,1 @@
+const s="211",n="211. Complaints – Phàn nàn",a=!1,t=[],o=[],c={id:"211",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

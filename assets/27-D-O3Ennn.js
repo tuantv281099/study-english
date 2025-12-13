@@ -1,0 +1,1 @@
+const s="27",t="27. Health – Sức khỏe",a=!1,n=[],o=[],c={id:"27",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

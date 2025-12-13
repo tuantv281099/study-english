@@ -1,0 +1,1 @@
+const o="18",t="18. Public Places – Địa điểm công cộng",s=!1,n=[],c=[],a={id:"18",title:t,hasContent:!1,vocabulary:n,conversation:c};export{c as conversation,a as default,s as hasContent,o as id,t as title,n as vocabulary};

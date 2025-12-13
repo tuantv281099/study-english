@@ -1,0 +1,1 @@
+const a="213",t="213. Telephone Language – Giao tiếp qua điện thoại",e=!1,n=[],o=[],s={id:"213",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,s as default,e as hasContent,a as id,t as title,n as vocabulary};

@@ -1,0 +1,1 @@
+const s="219",t="219. Persuasion – Thuyết phục",a=!1,n=[],o=[],c={id:"219",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

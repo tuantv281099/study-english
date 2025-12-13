@@ -1,0 +1,1 @@
+const s="172",t="172. DIY Vocabulary – Làm đồ thủ công",a=!1,n=[],o=[],c={id:"172",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,t as title,n as vocabulary};

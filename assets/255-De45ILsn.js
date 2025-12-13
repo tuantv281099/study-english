@@ -1,0 +1,1 @@
+const c="255",t="255. Architecture Vocabulary – Kiến trúc",s=!1,n=[],o=[],a={id:"255",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,s as hasContent,c as id,t as title,n as vocabulary};

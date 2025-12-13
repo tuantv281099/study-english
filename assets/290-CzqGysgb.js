@@ -1,0 +1,1 @@
+const s="290",n="290. Daily English – Tiếng Anh hằng ngày",a=!1,t=[],o=[],c={id:"290",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

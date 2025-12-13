@@ -1,0 +1,1 @@
+const s="236",n="236. Synonyms & Antonyms – Từ đồng & trái nghĩa",a=!1,t=[],o=[],c={id:"236",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

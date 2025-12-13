@@ -1,0 +1,1 @@
+const s="295",t="295. Job Application English – Hồ sơ xin việc",c=!1,n=[],o=[],a={id:"295",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,c as hasContent,s as id,t as title,n as vocabulary};

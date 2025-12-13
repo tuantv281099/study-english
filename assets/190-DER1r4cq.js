@@ -1,0 +1,1 @@
+const o="190",t="190. Museums & Galleries – Bảo tàng",e=!1,s=[],n=[],a={id:"190",title:t,hasContent:!1,vocabulary:s,conversation:n};export{n as conversation,a as default,e as hasContent,o as id,t as title,s as vocabulary};

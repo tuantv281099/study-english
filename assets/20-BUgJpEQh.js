@@ -1,0 +1,1 @@
+const n="20",o="20. Jobs & Professions – Nghề nghiệp",a=!1,s=[],t=[],c={id:"20",title:o,hasContent:!1,vocabulary:s,conversation:t};export{t as conversation,c as default,a as hasContent,n as id,o as title,s as vocabulary};

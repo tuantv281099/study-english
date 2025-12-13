@@ -1,0 +1,1 @@
+const s="1",t="1. Greetings – Chào hỏi",e=!1,n=[],o=[],a={id:"1",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,e as hasContent,s as id,t as title,n as vocabulary};

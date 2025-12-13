@@ -1,0 +1,1 @@
+const s="204",n="204. Giving Opinions – Nêu ý kiến",i=!1,t=[],o=[],a={id:"204",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,a as default,i as hasContent,s as id,n as title,t as vocabulary};

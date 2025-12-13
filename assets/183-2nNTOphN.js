@@ -1,0 +1,1 @@
+const s="183",t="183. Sculpture – Điêu khắc",c=!1,n=[],o=[],a={id:"183",title:t,hasContent:!1,vocabulary:n,conversation:o};export{o as conversation,a as default,c as hasContent,s as id,t as title,n as vocabulary};

@@ -1,0 +1,1 @@
+const s="167",n="167. Online Banking – Ngân hàng trực tuyến",a=!1,t=[],o=[],c={id:"167",title:n,hasContent:!1,vocabulary:t,conversation:o};export{o as conversation,c as default,a as hasContent,s as id,n as title,t as vocabulary};

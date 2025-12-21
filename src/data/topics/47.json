@@ -1,6 +1,217 @@
 {
   "id": "47",
   "title": "47. Banking & Finance",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Bank",
+      "ipa": "/bæŋk/",
+      "meaning": "Ngân hàng",
+      "example": {
+        "en": "Go to the bank.",
+        "vi": "Đến ngân hàng đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the bank open?",
+          "vi": "Ngân hàng có mở cửa không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Có."
+        }
+      ]
+    },
+    {
+      "word": "Money",
+      "ipa": "/ˈmʌni/",
+      "meaning": "Tiền",
+      "example": {
+        "en": "I need money.",
+        "vi": "Tôi cần tiền."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save your money.",
+          "vi": "Tiết kiệm tiền đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I try.",
+          "vi": "Tôi đang cố."
+        }
+      ]
+    },
+    {
+      "word": "Cash",
+      "ipa": "/kæʃ/",
+      "meaning": "Tiền mặt",
+      "example": {
+        "en": "Pay in cash.",
+        "vi": "Trả bằng tiền mặt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have cash?",
+          "vi": "Bạn có tiền mặt không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Only card.",
+          "vi": "Chỉ có thẻ thôi."
+        }
+      ]
+    },
+    {
+      "word": "Card",
+      "ipa": "/kɑːrd/",
+      "meaning": "Thẻ",
+      "example": {
+        "en": "Credit card.",
+        "vi": "Thẻ tín dụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Insert your card.",
+          "vi": "Đưa thẻ vào."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Account",
+      "ipa": "/əˈkaʊnt/",
+      "meaning": "Tài khoản",
+      "example": {
+        "en": "Open an account.",
+        "vi": "Mở một tài khoản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check my account balance.",
+          "vi": "Kiểm tra số dư tài khoản của tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "You have $100.",
+          "vi": "Bạn có 100 đô."
+        }
+      ]
+    },
+    {
+      "word": "Loan",
+      "ipa": "/loʊn/",
+      "meaning": "Khoản vay",
+      "example": {
+        "en": "Apply for a loan.",
+        "vi": "Xin vay vốn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need a loan.",
+          "vi": "Tôi cần một khoản vay."
+        },
+        {
+          "speaker": "B",
+          "en": "For a house?",
+          "vi": "Để mua nhà à?"
+        }
+      ]
+    },
+    {
+      "word": "Interest",
+      "ipa": "/ˈɪntrəst/",
+      "meaning": "Lãi suất",
+      "example": {
+        "en": "High interest rate.",
+        "vi": "Lãi suất cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is the interest?",
+          "vi": "Lãi suất là bao nhiêu?"
+        },
+        {
+          "speaker": "B",
+          "en": "5%.",
+          "vi": "5%."
+        }
+      ]
+    },
+    {
+      "word": "Debt",
+      "ipa": "/dɛt/",
+      "meaning": "Nợ",
+      "example": {
+        "en": "Pay off debt.",
+        "vi": "Trả hết nợ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He is in debt.",
+          "vi": "Anh ấy đang mắc nợ."
+        },
+        {
+          "speaker": "B",
+          "en": "That is bad.",
+          "vi": "Tệ thật."
+        }
+      ]
+    },
+    {
+      "word": "Coin",
+      "ipa": "/kɔɪn/",
+      "meaning": "Tiền xu",
+      "example": {
+        "en": "Flip a coin.",
+        "vi": "Tung đồng xu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Here is a coin.",
+          "vi": "Đây là một đồng xu."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Price",
+      "ipa": "/praɪs/",
+      "meaning": "Giá cả",
+      "example": {
+        "en": "The price is high.",
+        "vi": "Giá cao quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is the price?",
+          "vi": "Giá bao nhiêu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Ten dollars.",
+          "vi": "Mười đô."
+        }
+      ]
+    }
+  ]
 }

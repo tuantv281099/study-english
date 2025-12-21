@@ -1,6 +1,217 @@
 {
   "id": "19",
   "title": "19. Tools & Materials – Dụng cụ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hammer",
+      "ipa": "/ˈhæmər/",
+      "meaning": "Cái búa",
+      "example": {
+        "en": "He hit the nail with a hammer.",
+        "vi": "Anh ấy đóng đinh bằng búa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pass me the hammer.",
+          "vi": "Đưa tôi cái búa."
+        },
+        {
+          "speaker": "B",
+          "en": "Here you go.",
+          "vi": "Đây này."
+        }
+      ]
+    },
+    {
+      "word": "Screwdriver",
+      "ipa": "/ˈskruːdraɪvər/",
+      "meaning": "Tua vít",
+      "example": {
+        "en": "I need a screwdriver to fix this.",
+        "vi": "Tôi cần tua vít để sửa cái này."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the screwdriver?",
+          "vi": "Tua vít ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "It's in the toolbox.",
+          "vi": "Nó ở trong hộp dụng cụ."
+        }
+      ]
+    },
+    {
+      "word": "Wrench",
+      "ipa": "/rɛntʃ/",
+      "meaning": "Cờ lê",
+      "example": {
+        "en": "Use a wrench to tighten the bolt.",
+        "vi": "Dùng cờ lê để siết bu lông."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This bolt is loose.",
+          "vi": "Cái bu lông này lỏng rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Use the wrench.",
+          "vi": "Dùng cờ lê đi."
+        }
+      ]
+    },
+    {
+      "word": "Saw",
+      "ipa": "/sɔː/",
+      "meaning": "Cái cưa",
+      "example": {
+        "en": "He cut the wood with a saw.",
+        "vi": "Anh ấy cắt gỗ bằng cưa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be careful with the saw.",
+          "vi": "Cẩn thận với cái cưa."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi biết rồi."
+        }
+      ]
+    },
+    {
+      "word": "Drill",
+      "ipa": "/drɪl/",
+      "meaning": "Máy khoan",
+      "example": {
+        "en": "The drill is very loud.",
+        "vi": "Máy khoan kêu to quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need to make a hole.",
+          "vi": "Tôi cần khoan một cái lỗ."
+        },
+        {
+          "speaker": "B",
+          "en": "Use the electric drill.",
+          "vi": "Dùng máy khoan điện đi."
+        }
+      ]
+    },
+    {
+      "word": "Nail",
+      "ipa": "/neɪl/",
+      "meaning": "Cái đinh",
+      "example": {
+        "en": "Hammer the nail into the wall.",
+        "vi": "Đóng đinh vào tường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have a nail?",
+          "vi": "Bạn có cái đinh nào không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, check the box.",
+          "vi": "Có, kiểm tra trong hộp xem."
+        }
+      ]
+    },
+    {
+      "word": "Screw",
+      "ipa": "/skruː/",
+      "meaning": "Ốc vít",
+      "example": {
+        "en": "The screw is rusty.",
+        "vi": "Cái ốc vít bị gỉ rồi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This requires a screw.",
+          "vi": "Cái này cần một cái ốc vít."
+        },
+        {
+          "speaker": "B",
+          "en": "What size?",
+          "vi": "Cỡ nào?"
+        }
+      ]
+    },
+    {
+      "word": "Scissors",
+      "ipa": "/ˈsɪzərs/",
+      "meaning": "Cây kéo",
+      "example": {
+        "en": "Cut the paper with scissors.",
+        "vi": "Cắt giấy bằng kéo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "May I use your scissors?",
+          "vi": "Tôi dùng kéo của bạn được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Sure.",
+          "vi": "Được chứ."
+        }
+      ]
+    },
+    {
+      "word": "Tape",
+      "ipa": "/teɪp/",
+      "meaning": "Băng dính",
+      "example": {
+        "en": "Use tape to stick it together.",
+        "vi": "Dùng băng dính để dán chúng lại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I ran out of tape.",
+          "vi": "Tôi hết băng dính rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "There is a roll in the drawer.",
+          "vi": "Có một cuộn trong ngăn kéo đấy."
+        }
+      ]
+    },
+    {
+      "word": "Glue",
+      "ipa": "/ɡluː/",
+      "meaning": "Keo dán",
+      "example": {
+        "en": "Glue needs time to dry.",
+        "vi": "Keo dán cần thời gian để khô."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This is broken.",
+          "vi": "Cái này bị gãy rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Try using super glue.",
+          "vi": "Thử dùng keo siêu dính xem."
+        }
+      ]
+    }
+  ]
 }

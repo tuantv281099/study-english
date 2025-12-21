@@ -1,6 +1,217 @@
 {
   "id": "41",
   "title": "41. Math",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Math",
+      "ipa": "/mæθ/",
+      "meaning": "Toán học",
+      "example": {
+        "en": "Math is hard.",
+        "vi": "Toán học rất khó."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you help me with math?",
+          "vi": "Bạn giúp tôi làm toán được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Sure.",
+          "vi": "Được chứ."
+        }
+      ]
+    },
+    {
+      "word": "Number",
+      "ipa": "/ˈnʌmbər/",
+      "meaning": "Con số",
+      "example": {
+        "en": "Count the numbers.",
+        "vi": "Đếm các con số đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your lucky number?",
+          "vi": "Con số may mắn của bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Seven.",
+          "vi": "Số bảy."
+        }
+      ]
+    },
+    {
+      "word": "Add",
+      "ipa": "/æd/",
+      "meaning": "Cộng",
+      "example": {
+        "en": "Add two and two.",
+        "vi": "Cộng hai với hai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "If you add one, it makes three.",
+          "vi": "Nếu bạn cộng một, nó thành ba."
+        },
+        {
+          "speaker": "B",
+          "en": "Correct.",
+          "vi": "Đúng rồi."
+        }
+      ]
+    },
+    {
+      "word": "Subtract",
+      "ipa": "/səbˈtrækt/",
+      "meaning": "Trừ",
+      "example": {
+        "en": "Subtract five from ten.",
+        "vi": "Lấy mười trừ năm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you subtract?",
+          "vi": "Bạn biết làm phép trừ không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Có."
+        }
+      ]
+    },
+    {
+      "word": "Multiply",
+      "ipa": "/ˈmʌltɪplaɪ/",
+      "meaning": "Nhân",
+      "example": {
+        "en": "Multiply by three.",
+        "vi": "Nhân với ba."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Multiplication is fast adding.",
+          "vi": "Phép nhân là phép cộng nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "That makes sense.",
+          "vi": "Có lý đấy."
+        }
+      ]
+    },
+    {
+      "word": "Divide",
+      "ipa": "/dɪˈvaɪd/",
+      "meaning": "Chia",
+      "example": {
+        "en": "Divide the cake.",
+        "vi": "Chia cái bánh ra."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Divide by two.",
+          "vi": "Chia cho hai."
+        },
+        {
+          "speaker": "B",
+          "en": "It is equal.",
+          "vi": "Nó bằng nhau."
+        }
+      ]
+    },
+    {
+      "word": "Zero",
+      "ipa": "/ˈzɪəroʊ/",
+      "meaning": "Số không",
+      "example": {
+        "en": "The score is zero.",
+        "vi": "Tỉ số là không."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is below zero.",
+          "vi": "Nó dưới không độ."
+        },
+        {
+          "speaker": "B",
+          "en": "Freezing.",
+          "vi": "Lạnh cóng."
+        }
+      ]
+    },
+    {
+      "word": "Count",
+      "ipa": "/kaʊnt/",
+      "meaning": "Đếm",
+      "example": {
+        "en": "Count to ten.",
+        "vi": "Đếm đến mười."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you count?",
+          "vi": "Bạn đếm được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "One, two, three.",
+          "vi": "Một, hai, ba."
+        }
+      ]
+    },
+    {
+      "word": "Problem",
+      "ipa": "/ˈprɒbləm/",
+      "meaning": "Bài toán / Vấn đề",
+      "example": {
+        "en": "Solve the problem.",
+        "vi": "Giải quyết vấn đề."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This math problem is tricky.",
+          "vi": "Bài toán này hóc búa quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Use the formula.",
+          "vi": "Dùng công thức đi."
+        }
+      ]
+    },
+    {
+      "word": "Shape",
+      "ipa": "/ʃeɪp/",
+      "meaning": "Hình dạng",
+      "example": {
+        "en": "A circle is a shape.",
+        "vi": "Hình tròn là một hình dạng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What shape is this?",
+          "vi": "Đây là hình gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "A square.",
+          "vi": "Hình vuông."
+        }
+      ]
+    }
+  ]
 }

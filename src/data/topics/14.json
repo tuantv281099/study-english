@@ -1,6 +1,217 @@
 {
   "id": "14",
   "title": "14. Entertainment – Giải trí",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Movie",
+      "ipa": "/ˈmuːvi/",
+      "meaning": "Phim điện ảnh",
+      "example": {
+        "en": "Let's watch a movie tonight.",
+        "vi": "Hãy xem một bộ phim tối nay."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "What movie should we watch?",
+          "vi": "Chúng ta nên xem phim gì?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "How about an action movie?",
+          "vi": "Một bộ phim hành động thì sao?"
+        }
+      ]
+    },
+    {
+      "word": "Music",
+      "ipa": "/ˈmjuːzɪk/",
+      "meaning": "Âm nhạc",
+      "example": {
+        "en": "Listening to music helps me relax.",
+        "vi": "Nghe nhạc giúp tôi thư giãn."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "What kind of music do you like?",
+          "vi": "Bạn thích loại nhạc nào?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I like pop music.",
+          "vi": "Tôi thích nhạc pop."
+        }
+      ]
+    },
+    {
+      "word": "Game",
+      "ipa": "/ɡeɪm/",
+      "meaning": "Trò chơi",
+      "example": {
+        "en": "This game is very fun.",
+        "vi": "Trò chơi này rất vui."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you want to play a game?",
+          "vi": "Bạn có muốn chơi một trò chơi không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Sure, what game?",
+          "vi": "Được chứ, trò chơi gì?"
+        }
+      ]
+    },
+    {
+      "word": "Concert",
+      "ipa": "/ˈkɒnsərt/",
+      "meaning": "Buổi hòa nhạc",
+      "example": {
+        "en": "I am going to a concert on Saturday.",
+        "vi": "Tôi sẽ đi xem hòa nhạc vào thứ Bảy."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Who is performing at the concert?",
+          "vi": "Ai biểu diễn ở buổi hòa nhạc?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It is my favorite band.",
+          "vi": "Đó là ban nhạc yêu thích của tôi."
+        }
+      ]
+    },
+    {
+      "word": "Cinema",
+      "ipa": "/ˈsɪnəmə/",
+      "meaning": "Rạp chiếu phim",
+      "example": {
+        "en": "The cinema is near my house.",
+        "vi": "Rạp chiếu phim ở gần nhà tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Shall we meet at the cinema?",
+          "vi": "Chúng ta gặp nhau ở rạp chiếu phim nhé?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, see you at 7 PM.",
+          "vi": "Ừ, hẹn gặp bạn lúc 7 giờ tối."
+        }
+      ]
+    },
+    {
+      "word": "Actor",
+      "ipa": "/ˈæktər/",
+      "meaning": "Nam diễn viên",
+      "example": {
+        "en": "He is a famous actor.",
+        "vi": "Anh ấy là một nam diễn viên nổi tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Who is your favorite actor?",
+          "vi": "Nam diễn viên yêu thích của bạn là ai?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I like Tom Cruise.",
+          "vi": "Tôi thích Tom Cruise."
+        }
+      ]
+    },
+    {
+      "word": "Singer",
+      "ipa": "/ˈsɪŋər/",
+      "meaning": "Ca sĩ",
+      "example": {
+        "en": "She wants to be a singer.",
+        "vi": "Cô ấy muốn trở thành ca sĩ."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "That singer has a great voice.",
+          "vi": "Ca sĩ đó có giọng hát tuyệt vời."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, she sings beautifully.",
+          "vi": "Vâng, cô ấy hát rất hay."
+        }
+      ]
+    },
+    {
+      "word": "Relax",
+      "ipa": "/rɪˈlæks/",
+      "meaning": "Thư giãn",
+      "example": {
+        "en": "I like to relax on the weekend.",
+        "vi": "Tôi thích thư giãn vào cuối tuần."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "You look tired, you should relax.",
+          "vi": "Bạn trông mệt mỏi, bạn nên thư giãn đi."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I plan to relax at home.",
+          "vi": "Tôi định thư giãn ở nhà."
+        }
+      ]
+    },
+    {
+      "word": "Fun",
+      "ipa": "/fʌn/",
+      "meaning": "Vui vẻ",
+      "example": {
+        "en": "We had a lot of fun at the party.",
+        "vi": "Chúng tôi đã rất vui vẻ tại bữa tiệc."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Was the trip fun?",
+          "vi": "Chuyến đi có vui không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, it was amazing.",
+          "vi": "Vâng, nó thật tuyệt vời."
+        }
+      ]
+    },
+    {
+      "word": "Party",
+      "ipa": "/ˈpɑːrti/",
+      "meaning": "Bữa tiệc",
+      "example": {
+        "en": "Are you going to the party?",
+        "vi": "Bạn có đi dự tiệc không?"
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Whose party is it?",
+          "vi": "Bữa tiệc của ai vậy?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It's John's birthday party.",
+          "vi": "Đó là tiệc sinh nhật của John."
+        }
+      ]
+    }
+  ]
 }

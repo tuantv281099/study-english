@@ -1,6 +1,217 @@
 {
   "id": "21",
   "title": "21. Relationships – Mối quan hệ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Family",
+      "ipa": "/ˈfæmɪli/",
+      "meaning": "Gia đình",
+      "example": {
+        "en": "I love my family.",
+        "vi": "Tôi yêu gia đình mình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How is your family?",
+          "vi": "Gia đình bạn thế nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "They are doing well.",
+          "vi": "Mọi người đều khỏe."
+        }
+      ]
+    },
+    {
+      "word": "Father",
+      "ipa": "/ˈfɑːðər/",
+      "meaning": "Bố",
+      "example": {
+        "en": "My father is tall.",
+        "vi": "Bố tôi cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What does your father do?",
+          "vi": "Bố bạn làm nghề gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "He is a teacher.",
+          "vi": "Ông ấy là giáo viên."
+        }
+      ]
+    },
+    {
+      "word": "Mother",
+      "ipa": "/ˈmʌðər/",
+      "meaning": "Mẹ",
+      "example": {
+        "en": "My mother cooks well.",
+        "vi": "Mẹ tôi nấu ăn ngon."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I miss my mother.",
+          "vi": "Tôi nhớ mẹ."
+        },
+        {
+          "speaker": "B",
+          "en": "Call her.",
+          "vi": "Gọi cho bà ấy đi."
+        }
+      ]
+    },
+    {
+      "word": "Brother",
+      "ipa": "/ˈbrʌðər/",
+      "meaning": "Anh/Em trai",
+      "example": {
+        "en": "I have one brother.",
+        "vi": "Tôi có một người anh trai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is he your brother?",
+          "vi": "Đó là anh trai bạn à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, he is older than me.",
+          "vi": "Vâng, anh ấy lớn hơn tôi."
+        }
+      ]
+    },
+    {
+      "word": "Sister",
+      "ipa": "/ˈsɪstər/",
+      "meaning": "Chị/Em gái",
+      "example": {
+        "en": "My sister is funny.",
+        "vi": "Em gái tôi rất vui tính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have any sisters?",
+          "vi": "Bạn có chị em gái không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, two sisters.",
+          "vi": "Có, hai người."
+        }
+      ]
+    },
+    {
+      "word": "Friend",
+      "ipa": "/frɛnd/",
+      "meaning": "Bạn bè",
+      "example": {
+        "en": "He is my best friend.",
+        "vi": "Anh ấy là bạn thân nhất của tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who is your friend?",
+          "vi": "Bạn của bạn là ai?"
+        },
+        {
+          "speaker": "B",
+          "en": "His name is Tom.",
+          "vi": "Tên cậu ấy là Tom."
+        }
+      ]
+    },
+    {
+      "word": "Neighbor",
+      "ipa": "/ˈneɪbər/",
+      "meaning": "Hàng xóm",
+      "example": {
+        "en": "Our neighbor is friendly.",
+        "vi": "Hàng xóm của chúng tôi rất thân thiện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you know your neighbors?",
+          "vi": "Bạn có biết hàng xóm của mình không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, we talk often.",
+          "vi": "Có, chúng tôi hay nói chuyện."
+        }
+      ]
+    },
+    {
+      "word": "Colleague",
+      "ipa": "/ˈkɒliːɡ/",
+      "meaning": "Đồng nghiệp",
+      "example": {
+        "en": "I work with nice colleagues.",
+        "vi": "Tôi làm việc với những đồng nghiệp tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is she your colleague?",
+          "vi": "Cô ấy là đồng nghiệp của bạn à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, we work in the same team.",
+          "vi": "Vâng, chúng tôi làm cùng nhóm."
+        }
+      ]
+    },
+    {
+      "word": "Grandfather",
+      "ipa": "/ˈɡrændˌfɑːðər/",
+      "meaning": "Ông",
+      "example": {
+        "en": "My grandfather is old.",
+        "vi": "Ông tôi đã già."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Does your grandfather live with you?",
+          "vi": "Ông bạn có sống cùng bạn không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, he lives in the country.",
+          "vi": "Không, ông sống ở quê."
+        }
+      ]
+    },
+    {
+      "word": "Grandmother",
+      "ipa": "/ˈɡrændˌmʌðər/",
+      "meaning": "Bà",
+      "example": {
+        "en": "My grandmother tells stories.",
+        "vi": "Bà tôi hay kể chuyện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I visited my grandmother.",
+          "vi": "Tôi đã đi thăm bà."
+        },
+        {
+          "speaker": "B",
+          "en": "How is she?",
+          "vi": "Bà khỏe không?"
+        }
+      ]
+    }
+  ]
 }

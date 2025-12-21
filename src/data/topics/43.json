@@ -1,6 +1,217 @@
 {
   "id": "43",
   "title": "43. Religion",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Religion",
+      "ipa": "/rɪˈlɪdʒən/",
+      "meaning": "Tôn giáo",
+      "example": {
+        "en": "Freedom of religion.",
+        "vi": "Tự do tôn giáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your religion?",
+          "vi": "Tôn giáo của bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "I am Buddhist.",
+          "vi": "Tôi theo đạo Phật."
+        }
+      ]
+    },
+    {
+      "word": "God",
+      "ipa": "/ɡɒd/",
+      "meaning": "Chúa",
+      "example": {
+        "en": "Pray to God.",
+        "vi": "Cầu nguyện Chúa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you believe in God?",
+          "vi": "Bạn có tin vào Chúa không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I do.",
+          "vi": "Có, tôi tin."
+        }
+      ]
+    },
+    {
+      "word": "Temple",
+      "ipa": "/ˈtɛmpəl/",
+      "meaning": "Đền / Chùa",
+      "example": {
+        "en": "Go to the temple.",
+        "vi": "Đi chùa đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The temple is peaceful.",
+          "vi": "Ngôi chùa thật yên bình."
+        },
+        {
+          "speaker": "B",
+          "en": "Let's meditate.",
+          "vi": "Cùng thiền nhé."
+        }
+      ]
+    },
+    {
+      "word": "Church",
+      "ipa": "/tʃɜːrtʃ/",
+      "meaning": "Nhà thờ",
+      "example": {
+        "en": "Go to church on Sunday.",
+        "vi": "Đi nhà thờ vào Chủ nhật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The church bells exist.",
+          "vi": "Tiếng chuông nhà thờ tồn tại."
+        },
+        {
+          "speaker": "B",
+          "en": "They are ringing.",
+          "vi": "Chúng đang reo."
+        }
+      ]
+    },
+    {
+      "word": "Pray",
+      "ipa": "/preɪ/",
+      "meaning": "Cầu nguyện",
+      "example": {
+        "en": "Pray for peace.",
+        "vi": "Cầu nguyện cho hòa bình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I pray every night.",
+          "vi": "Tôi cầu nguyện mỗi đêm."
+        },
+        {
+          "speaker": "B",
+          "en": "That is good.",
+          "vi": "Điều đó thật tốt."
+        }
+      ]
+    },
+    {
+      "word": "Believe",
+      "ipa": "/bɪˈliːv/",
+      "meaning": "Tin tưởng",
+      "example": {
+        "en": "Believe in yourself.",
+        "vi": "Tin vào chính mình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I believe you.",
+          "vi": "Tôi tin bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Spirit",
+      "ipa": "/ˈspɪrɪt/",
+      "meaning": "Linh hồn / Tinh thần",
+      "example": {
+        "en": "The spirit lives on.",
+        "vi": "Linh hồn vẫn sống mãi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good team spirit.",
+          "vi": "Tinh thần đồng đội tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "We work together.",
+          "vi": "Chúng tôi làm việc cùng nhau."
+        }
+      ]
+    },
+    {
+      "word": "Holy",
+      "ipa": "/ˈhoʊli/",
+      "meaning": "Thần thánh / Linh thiêng",
+      "example": {
+        "en": "This is a holy place.",
+        "vi": "Đây là nơi linh thiêng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be respectful, it's holy.",
+          "vi": "Hãy tôn trọng, nó rất linh thiêng."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi sẽ làm vậy."
+        }
+      ]
+    },
+    {
+      "word": "Soul",
+      "ipa": "/soʊl/",
+      "meaning": "Linh hồn",
+      "example": {
+        "en": "Music touches the soul.",
+        "vi": "Âm nhạc chạm đến linh hồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He has a kind soul.",
+          "vi": "Anh ấy có một tâm hồn đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, he does.",
+          "vi": "Đúng vậy."
+        }
+      ]
+    },
+    {
+      "word": "Faith",
+      "ipa": "/feɪθ/",
+      "meaning": "Đức tin",
+      "example": {
+        "en": "Keep the faith.",
+        "vi": "Giữ vững đức tin."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Have faith.",
+          "vi": "Hãy có niềm tin."
+        },
+        {
+          "speaker": "B",
+          "en": "It is hard.",
+          "vi": "Khó quá."
+        }
+      ]
+    }
+  ]
 }

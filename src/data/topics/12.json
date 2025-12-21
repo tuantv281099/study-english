@@ -1,6 +1,217 @@
 {
   "id": "12",
   "title": "12. Technology – Công nghệ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Computer",
+      "ipa": "/kəmˈpjuːtər/",
+      "meaning": "Máy tính",
+      "example": {
+        "en": "I use my computer for work.",
+        "vi": "Tôi sử dụng máy tính để làm việc."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Is that a new computer?",
+          "vi": "Đó là máy tính mới à?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, I bought it yesterday.",
+          "vi": "Vâng, tôi đã mua nó hôm qua."
+        }
+      ]
+    },
+    {
+      "word": "Smartphone",
+      "ipa": "/ˈsmɑːrtfoʊn/",
+      "meaning": "Điện thoại thông minh",
+      "example": {
+        "en": "Everyone has a smartphone nowadays.",
+        "vi": "Ngày nay ai cũng có điện thoại thông minh."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Which smartphone do you use?",
+          "vi": "Bạn dùng điện thoại thông minh nào?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I use an iPhone.",
+          "vi": "Tôi dùng iPhone."
+        }
+      ]
+    },
+    {
+      "word": "Internet",
+      "ipa": "/ˈɪntərnɛt/",
+      "meaning": "Mạng internet",
+      "example": {
+        "en": "The internet is very fast here.",
+        "vi": "Internet ở đây rất nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you have internet access?",
+          "vi": "Bạn có truy cập được internet không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, the wifi is connected.",
+          "vi": "Có, wifi đã được kết nối."
+        }
+      ]
+    },
+    {
+      "word": "Software",
+      "ipa": "/ˈsɔːftwɛər/",
+      "meaning": "Phần mềm",
+      "example": {
+        "en": "You need to install this software.",
+        "vi": "Bạn cần cài đặt phần mềm này."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "This software is very useful.",
+          "vi": "Phần mềm này rất hữu ích."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I agree, it helps me a lot.",
+          "vi": "Tôi đồng ý, nó giúp tôi rất nhiều."
+        }
+      ]
+    },
+    {
+      "word": "Hardware",
+      "ipa": "/ˈhɑːrdwɛər/",
+      "meaning": "Phần cứng",
+      "example": {
+        "en": "The hardware needs to be upgraded.",
+        "vi": "Phần cứng cần được nâng cấp."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Is the problem with the software?",
+          "vi": "Vấn đề là do phần mềm à?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "No, I think it's a hardware issue.",
+          "vi": "Không, tôi nghĩ đó là vấn đề phần cứng."
+        }
+      ]
+    },
+    {
+      "word": "Robot",
+      "ipa": "/ˈroʊbɒt/",
+      "meaning": "Người máy",
+      "example": {
+        "en": "Robots can do many tasks.",
+        "vi": "Robot có thể làm nhiều việc."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Look at that robot moving.",
+          "vi": "Nhìn con robot kia di chuyển kìa."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "It looks very advanced.",
+          "vi": "Trông nó rất hiện đại."
+        }
+      ]
+    },
+    {
+      "word": "Camera",
+      "ipa": "/ˈkæmərə/",
+      "meaning": "Máy ảnh",
+      "example": {
+        "en": "This phone has a good camera.",
+        "vi": "Điện thoại này có camera tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Can I take a photo with your camera?",
+          "vi": "Tôi có thể chụp ảnh bằng máy ảnh của bạn không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Sure, here you go.",
+          "vi": "Được chứ, đây này."
+        }
+      ]
+    },
+    {
+      "word": "Screen",
+      "ipa": "/skriːn/",
+      "meaning": "Màn hình",
+      "example": {
+        "en": "Don't stare at the screen for too long.",
+        "vi": "Đừng nhìn chằm chằm vào màn hình quá lâu."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "My screen is cracked.",
+          "vi": "Màn hình của tôi bị nứt rồi."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "You should get it fixed.",
+          "vi": "Bạn nên đi sửa nó đi."
+        }
+      ]
+    },
+    {
+      "word": "Mouse",
+      "ipa": "/maʊs/",
+      "meaning": "Chuột máy tính",
+      "example": {
+        "en": "My wireless mouse is out of battery.",
+        "vi": "Chuột không dây của tôi hết pin rồi."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Do you need a mouse?",
+          "vi": "Bạn có cần chuột không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "No, I use the trackpad.",
+          "vi": "Không, tôi dùng bàn di chuột."
+        }
+      ]
+    },
+    {
+      "word": "Keyboard",
+      "ipa": "/ˈkiːbɔːrd/",
+      "meaning": "Bàn phím",
+      "example": {
+        "en": "I like typing on this keyboard.",
+        "vi": "Tôi thích gõ trên bàn phím này."
+      },
+      "conversation": [
+        {
+          "speaker": "John",
+          "en": "Is this a mechanical keyboard?",
+          "vi": "Đây có phải là bàn phím cơ không?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Yes, it is very clicky.",
+          "vi": "Vâng, nó kêu lách cách rất vui."
+        }
+      ]
+    }
+  ]
 }

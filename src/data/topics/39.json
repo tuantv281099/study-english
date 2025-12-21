@@ -1,6 +1,217 @@
 {
   "id": "39",
   "title": "39. Literature",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Novel",
+      "ipa": "/ˈnɒvəl/",
+      "meaning": "Tiểu thuyết",
+      "example": {
+        "en": "I am reading a novel.",
+        "vi": "Tôi đang đọc một cuốn tiểu thuyết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the novel good?",
+          "vi": "Cuốn tiểu thuyết có hay không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, very gripping.",
+          "vi": "Có, rất lôi cuốn."
+        }
+      ]
+    },
+    {
+      "word": "Poem",
+      "ipa": "/ˈpoʊəm/",
+      "meaning": "Bài thơ",
+      "example": {
+        "en": "Write a poem.",
+        "vi": "Viết một bài thơ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you like poems?",
+          "vi": "Bạn có thích thơ không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, they are beautiful.",
+          "vi": "Có, chúng rất đẹp."
+        }
+      ]
+    },
+    {
+      "word": "Author",
+      "ipa": "/ˈɔːθər/",
+      "meaning": "Tác giả",
+      "example": {
+        "en": "Who is the author?",
+        "vi": "Tác giả là ai?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He is a famous author.",
+          "vi": "Ông ấy là một tác giả nổi tiếng."
+        },
+        {
+          "speaker": "B",
+          "en": "I read his books.",
+          "vi": "Tôi đã đọc sách của ông ấy."
+        }
+      ]
+    },
+    {
+      "word": "Story",
+      "ipa": "/ˈstɔːri/",
+      "meaning": "Câu chuyện",
+      "example": {
+        "en": "Tell me a story.",
+        "vi": "Kể cho tôi nghe một câu chuyện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is a long story.",
+          "vi": "Đó là một câu chuyện dài."
+        },
+        {
+          "speaker": "B",
+          "en": "I have time.",
+          "vi": "Tôi có thời gian."
+        }
+      ]
+    },
+    {
+      "word": "Book",
+      "ipa": "/bʊk/",
+      "meaning": "Sách",
+      "example": {
+        "en": "This book is old.",
+        "vi": "Cuốn sách này cũ rồi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Open the book.",
+          "vi": "Mở sách ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Page",
+      "ipa": "/peɪdʒ/",
+      "meaning": "Trang sách",
+      "example": {
+        "en": "Turn the page.",
+        "vi": "Lật trang."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What page are we on?",
+          "vi": "Chúng ta đang ở trang nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "Page ten.",
+          "vi": "Trang mười."
+        }
+      ]
+    },
+    {
+      "word": "Write",
+      "ipa": "/raɪt/",
+      "meaning": "Viết",
+      "example": {
+        "en": "Write your name.",
+        "vi": "Viết tên của bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He writes well.",
+          "vi": "Anh ấy viết tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "He is a writer.",
+          "vi": "Anh ấy là nhà văn."
+        }
+      ]
+    },
+    {
+      "word": "Read",
+      "ipa": "/riːd/",
+      "meaning": "Đọc",
+      "example": {
+        "en": "Read the text.",
+        "vi": "Đọc văn bản đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you read this?",
+          "vi": "Bạn đọc được cái này không?"
+        },
+        {
+          "speaker": "B",
+          "en": "It is too small.",
+          "vi": "Nó nhỏ quá."
+        }
+      ]
+    },
+    {
+      "word": "Character",
+      "ipa": "/ˈkærɪktər/",
+      "meaning": "Nhân vật",
+      "example": {
+        "en": "The main character is brave.",
+        "vi": "Nhân vật chính rất dũng cảm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who is your favorite character?",
+          "vi": "Nhân vật yêu thích của bạn là ai?"
+        },
+        {
+          "speaker": "B",
+          "en": "Harry Potter.",
+          "vi": "Harry Potter."
+        }
+      ]
+    },
+    {
+      "word": "Library",
+      "ipa": "/ˈlaɪbrɛri/",
+      "meaning": "Thư viện",
+      "example": {
+        "en": "Borrow books from the library.",
+        "vi": "Mượn sách từ thư viện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be quiet in the library.",
+          "vi": "Giữ trật tự trong thư viện."
+        },
+        {
+          "speaker": "B",
+          "en": "I know.",
+          "vi": "Tôi biết mà."
+        }
+      ]
+    }
+  ]
 }

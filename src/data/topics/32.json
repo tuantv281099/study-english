@@ -1,6 +1,217 @@
 {
   "id": "32",
   "title": "32. Hotels & Accommodation",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Reception",
+      "ipa": "/rɪˈsɛpʃən/",
+      "meaning": "Lễ tân",
+      "example": {
+        "en": "Check in at the reception.",
+        "vi": "Làm thủ tục nhận phòng tại lễ tân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the reception?",
+          "vi": "Quầy lễ tân ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "In the lobby.",
+          "vi": "Ở sảnh."
+        }
+      ]
+    },
+    {
+      "word": "Room",
+      "ipa": "/ruːm/",
+      "meaning": "Phòng",
+      "example": {
+        "en": "Our room is on the 5th floor.",
+        "vi": "Phòng chúng tôi ở tầng 5."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the room clean?",
+          "vi": "Phòng có sạch không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, spotless.",
+          "vi": "Có, sạch bong."
+        }
+      ]
+    },
+    {
+      "word": "Key",
+      "ipa": "/kiː/",
+      "meaning": "Chìa khóa",
+      "example": {
+        "en": "Here is your room key.",
+        "vi": "Đây là chìa khóa phòng của bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I lost my key.",
+          "vi": "Tôi làm mất chìa khóa rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Ask for a new one.",
+          "vi": "Xin cái mới đi."
+        }
+      ]
+    },
+    {
+      "word": "Reservation",
+      "ipa": "/ˌrɛzərˈveɪʃən/",
+      "meaning": "Đặt chỗ trước",
+      "example": {
+        "en": "I have a reservation.",
+        "vi": "Tôi đã đặt phòng trước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Name for the reservation?",
+          "vi": "Tên người đặt phòng là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Nguyen Van A.",
+          "vi": "Nguyễn Văn A."
+        }
+      ]
+    },
+    {
+      "word": "Pool",
+      "ipa": "/puːl/",
+      "meaning": "Hồ bơi",
+      "example": {
+        "en": "The hotel has a pool.",
+        "vi": "Khách sạn có hồ bơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let's swim in the pool.",
+          "vi": "Đi bơi ở hồ bơi đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay, grab your towel.",
+          "vi": "Được, lấy khăn tắm đi."
+        }
+      ]
+    },
+    {
+      "word": "Breakfast",
+      "ipa": "/ˈbrɛkfəst/",
+      "meaning": "Bữa sáng",
+      "example": {
+        "en": "Breakfast is included.",
+        "vi": "Bữa sáng đã bao gồm trong giá phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What time is breakfast?",
+          "vi": "Mấy giờ ăn sáng?"
+        },
+        {
+          "speaker": "B",
+          "en": "From 7 to 10.",
+          "vi": "Từ 7 đến 10 giờ."
+        }
+      ]
+    },
+    {
+      "word": "Check-in",
+      "ipa": "/ˈtʃɛkɪn/",
+      "meaning": "Nhận phòng",
+      "example": {
+        "en": "Check-in time is 2 PM.",
+        "vi": "Giờ nhận phòng là 2 giờ chiều."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can we check in early?",
+          "vi": "Chúng tôi nhận phòng sớm được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Let me check.",
+          "vi": "Để tôi kiểm tra."
+        }
+      ]
+    },
+    {
+      "word": "Check-out",
+      "ipa": "/ˈtʃɛkaʊt/",
+      "meaning": "Trả phòng",
+      "example": {
+        "en": "Check-out is at 11 AM.",
+        "vi": "Giờ trả phòng là 11 giờ sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "We are ready to check out.",
+          "vi": "Chúng tôi sẵn sàng trả phòng."
+        },
+        {
+          "speaker": "B",
+          "en": "Here is your bill.",
+          "vi": "Đây là hóa đơn của bạn."
+        }
+      ]
+    },
+    {
+      "word": "Bellboy",
+      "ipa": "/ˈbɛlbɔɪ/",
+      "meaning": "Nhân viên khuân hành lý",
+      "example": {
+        "en": "The bellboy carried our bags.",
+        "vi": "Nhân viên khuân hành lý đã mang túi cho chúng tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tip the bellboy.",
+          "vi": "Cho tiền boa nhân viên khuân hành lý đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi sẽ làm."
+        }
+      ]
+    },
+    {
+      "word": "Suite",
+      "ipa": "/swiːt/",
+      "meaning": "Phòng hạng sang",
+      "example": {
+        "en": "They stayed in a suite.",
+        "vi": "Họ ở trong phòng hạng sang."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The suite is expensive.",
+          "vi": "Phòng hạng sang đắt lắm."
+        },
+        {
+          "speaker": "B",
+          "en": "But it is luxury.",
+          "vi": "Nhưng nó sang trọng."
+        }
+      ]
+    }
+  ]
 }

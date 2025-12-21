@@ -1,6 +1,217 @@
 {
   "id": "48",
   "title": "48. Social Media",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Post",
+      "ipa": "/poʊst/",
+      "meaning": "Bài đăng",
+      "example": {
+        "en": "Like my post.",
+        "vi": "Thích bài đăng của tôi nhé."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you see my post?",
+          "vi": "Bạn thấy bài đăng của tôi chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I liked it.",
+          "vi": "Rồi, tôi thích nó."
+        }
+      ]
+    },
+    {
+      "word": "Share",
+      "ipa": "/ʃɛər/",
+      "meaning": "Chia sẻ",
+      "example": {
+        "en": "Share the photo.",
+        "vi": "Chia sẻ bức ảnh đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Share this with friends.",
+          "vi": "Chia sẻ cái này với bạn bè nhé."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi sẽ làm."
+        }
+      ]
+    },
+    {
+      "word": "Comment",
+      "ipa": "/ˈkɒmɛnt/",
+      "meaning": "Bình luận",
+      "example": {
+        "en": "Leave a comment.",
+        "vi": "Để lại bình luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Read the comments.",
+          "vi": "Đọc bình luận đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Some are mean.",
+          "vi": "Vài cái ác ý quá."
+        }
+      ]
+    },
+    {
+      "word": "Like",
+      "ipa": "/laɪk/",
+      "meaning": "Thích",
+      "example": {
+        "en": "Give it a like.",
+        "vi": "Cho nó một like đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How many likes?",
+          "vi": "Bao nhiêu like rồi?"
+        },
+        {
+          "speaker": "B",
+          "en": "A hundred.",
+          "vi": "Một trăm."
+        }
+      ]
+    },
+    {
+      "word": "Follow",
+      "ipa": "/ˈfɒloʊ/",
+      "meaning": "Theo dõi",
+      "example": {
+        "en": "Follow me on Instagram.",
+        "vi": "Theo dõi tôi trên Instagram."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I follow you.",
+          "vi": "Tôi theo dõi bạn mà."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Friend",
+      "ipa": "/frɛnd/",
+      "meaning": "Kết bạn",
+      "example": {
+        "en": "Add friend.",
+        "vi": "Thêm bạn bè."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Accept my friend request.",
+          "vi": "Chấp nhận lời mời kết bạn của tôi đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Video",
+      "ipa": "/ˈvɪdioʊ/",
+      "meaning": "Video",
+      "example": {
+        "en": "Watch the video.",
+        "vi": "Xem video này."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This video is funny.",
+          "vi": "Video này hài quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Send it to me.",
+          "vi": "Gửi cho tôi đi."
+        }
+      ]
+    },
+    {
+      "word": "Message",
+      "ipa": "/ˈmɛsɪdʒ/",
+      "meaning": "Tin nhắn",
+      "example": {
+        "en": "Send a message.",
+        "vi": "Gửi tin nhắn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check your messages.",
+          "vi": "Kiểm tra tin nhắn đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Checking now.",
+          "vi": "Đang kiểm tra đây."
+        }
+      ]
+    },
+    {
+      "word": "Profile",
+      "ipa": "/ˈproʊfaɪl/",
+      "meaning": "Hồ sơ cá nhân",
+      "example": {
+        "en": "Update your profile.",
+        "vi": "Cập nhật hồ sơ của bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice profile picture.",
+          "vi": "Ảnh đại diện đẹp đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Trend",
+      "ipa": "/trɛnd/",
+      "meaning": "Xu hướng",
+      "example": {
+        "en": "It is a new trend.",
+        "vi": "Đó là xu hướng mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Follow the trend.",
+          "vi": "Theo xu hướng đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I don't care about trends.",
+          "vi": "Tôi không quan tâm xu hướng."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "24",
   "title": "24. Education – Giáo dục",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Study",
+      "ipa": "/ˈstʌdi/",
+      "meaning": "Học tập",
+      "example": {
+        "en": "I study English every day.",
+        "vi": "Tôi học tiếng Anh mỗi ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What do you study?",
+          "vi": "Bạn học gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "I study science.",
+          "vi": "Tôi học khoa học."
+        }
+      ]
+    },
+    {
+      "word": "Learn",
+      "ipa": "/lɜːrn/",
+      "meaning": "Học (kỹ năng)",
+      "example": {
+        "en": "I want to learn to swim.",
+        "vi": "Tôi muốn học bơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learning is fun.",
+          "vi": "Học tập rất vui."
+        },
+        {
+          "speaker": "B",
+          "en": "I agree.",
+          "vi": "Tôi đồng ý."
+        }
+      ]
+    },
+    {
+      "word": "University",
+      "ipa": "/ˌjuːnɪˈvɜːrsɪti/",
+      "meaning": "Đại học",
+      "example": {
+        "en": "She goes to university.",
+        "vi": "Cô ấy đi học đại học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Which university do you attend?",
+          "vi": "Bạn học đại học nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "Harvard University.",
+          "vi": "Đại học Harvard."
+        }
+      ]
+    },
+    {
+      "word": "Subject",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "meaning": "Môn học",
+      "example": {
+        "en": "My favorite subject is math.",
+        "vi": "Môn học yêu thích của tôi là toán."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How many subjects do you have?",
+          "vi": "Bạn có bao nhiêu môn?"
+        },
+        {
+          "speaker": "B",
+          "en": "Five subjects.",
+          "vi": "Năm môn."
+        }
+      ]
+    },
+    {
+      "word": "Grade",
+      "ipa": "/ɡreɪd/",
+      "meaning": "Điểm số / Khối lớp",
+      "example": {
+        "en": "I got a good grade.",
+        "vi": "Tôi đạt điểm cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What grade are you in?",
+          "vi": "Bạn học lớp mấy?"
+        },
+        {
+          "speaker": "B",
+          "en": "Grade 10.",
+          "vi": "Lớp 10."
+        }
+      ]
+    },
+    {
+      "word": "Question",
+      "ipa": "/ˈkwɛstʃən/",
+      "meaning": "Câu hỏi",
+      "example": {
+        "en": "Ask a question.",
+        "vi": "Đặt câu hỏi đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I have a question.",
+          "vi": "Tôi có một câu hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Go ahead.",
+          "vi": "Nói đi."
+        }
+      ]
+    },
+    {
+      "word": "Answer",
+      "ipa": "/ˈænsər/",
+      "meaning": "Câu trả lời",
+      "example": {
+        "en": "The answer is correct.",
+        "vi": "Câu trả lời chính xác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is the answer?",
+          "vi": "Câu trả lời là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "I don't know.",
+          "vi": "Tôi không biết."
+        }
+      ]
+    },
+    {
+      "word": "Degree",
+      "ipa": "/dɪˈɡriː/",
+      "meaning": "Bằng cấp",
+      "example": {
+        "en": "He has a degree in law.",
+        "vi": "Anh ấy có bằng luật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have a degree?",
+          "vi": "Bạn có bằng cấp không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, a bachelor's degree.",
+          "vi": "Có, bằng cử nhân."
+        }
+      ]
+    },
+    {
+      "word": "Knowledge",
+      "ipa": "/ˈnɒlɪdʒ/",
+      "meaning": "Kiến thức",
+      "example": {
+        "en": "Books give us knowledge.",
+        "vi": "Sách mang lại kiến thức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He has a lot of knowledge.",
+          "vi": "Anh ấy có nhiều kiến thức."
+        },
+        {
+          "speaker": "B",
+          "en": "He reads a lot.",
+          "vi": "Anh ấy đọc rất nhiều."
+        }
+      ]
+    },
+    {
+      "word": "Lesson",
+      "ipa": "/ˈlɛsən/",
+      "meaning": "Bài học",
+      "example": {
+        "en": "The lesson starts at 8.",
+        "vi": "Tiết học bắt đầu lúc 8 giờ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you understand the lesson?",
+          "vi": "Bạn có hiểu bài không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, it was clear.",
+          "vi": "Có, rất rõ ràng."
+        }
+      ]
+    }
+  ]
 }

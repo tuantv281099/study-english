@@ -1,6 +1,217 @@
 {
   "id": "27",
   "title": "27. Health – Sức khỏe",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Health",
+      "ipa": "/hɛlθ/",
+      "meaning": "Sức khỏe",
+      "example": {
+        "en": "Health is wealth.",
+        "vi": "Sức khỏe là vàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How is your health?",
+          "vi": "Sức khỏe của bạn thế nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "I am very healthy.",
+          "vi": "Tôi rất khỏe mạnh."
+        }
+      ]
+    },
+    {
+      "word": "Doctor",
+      "ipa": "/ˈdɒktər/",
+      "meaning": "Bác sĩ",
+      "example": {
+        "en": "See a doctor if you are sick.",
+        "vi": "Hãy đi khám bác sĩ nếu bạn bị ốm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need a doctor.",
+          "vi": "Tôi cần bác sĩ."
+        },
+        {
+          "speaker": "B",
+          "en": "I will call one.",
+          "vi": "Tôi sẽ gọi bác sĩ."
+        }
+      ]
+    },
+    {
+      "word": "Medicine",
+      "ipa": "/ˈmɛdɪsɪn/",
+      "meaning": "Thuốc",
+      "example": {
+        "en": "Take this medicine.",
+        "vi": "Uống thuốc này đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This medicine tastes bad.",
+          "vi": "Thuốc này đắng quá."
+        },
+        {
+          "speaker": "B",
+          "en": "It will help you.",
+          "vi": "Nó sẽ giúp bạn khỏi bệnh."
+        }
+      ]
+    },
+    {
+      "word": "Sick",
+      "ipa": "/sɪk/",
+      "meaning": "Ốm / Bệnh",
+      "example": {
+        "en": "I feel sick.",
+        "vi": "Tôi cảm thấy mệt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you sick?",
+          "vi": "Bạn bị ốm à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I have a fever.",
+          "vi": "Vâng, tôi bị sốt."
+        }
+      ]
+    },
+    {
+      "word": "Headache",
+      "ipa": "/ˈhɛdeɪk/",
+      "meaning": "Đau đầu",
+      "example": {
+        "en": "I have a headache.",
+        "vi": "Tôi bị đau đầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have a headache?",
+          "vi": "Bạn có đau đầu không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, it hurts.",
+          "vi": "Có, đau lắm."
+        }
+      ]
+    },
+    {
+      "word": "Hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "meaning": "Bệnh viện",
+      "example": {
+        "en": "Go to the hospital.",
+        "vi": "Đến bệnh viện đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the hospital?",
+          "vi": "Bệnh viện ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Nearby.",
+          "vi": "Ở gần đây thôi."
+        }
+      ]
+    },
+    {
+      "word": "Diet",
+      "ipa": "/ˈdaɪət/",
+      "meaning": "Chế độ ăn uống",
+      "example": {
+        "en": "A healthy diet is important.",
+        "vi": "Chế độ ăn uống lành mạnh rất quan trọng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you on a diet?",
+          "vi": "Bạn đang ăn kiêng à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, avoiding sugar.",
+          "vi": "Ừ, tôi kiêng đường."
+        }
+      ]
+    },
+    {
+      "word": "Exercise",
+      "ipa": "/ˈɛksərsaɪz/",
+      "meaning": "Tập thể dục",
+      "example": {
+        "en": "Exercise daily.",
+        "vi": "Tập thể dục hàng ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you exercise?",
+          "vi": "Bạn có tập thể dục không?"
+        },
+        {
+          "speaker": "B",
+          "en": "I jog every morning.",
+          "vi": "Tôi chạy bộ mỗi sáng."
+        }
+      ]
+    },
+    {
+      "word": "Nurse",
+      "ipa": "/nɜːrs/",
+      "meaning": "Y tá",
+      "example": {
+        "en": "The nurse checks my pulse.",
+        "vi": "Y tá kiểm tra mạch của tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask the nurse.",
+          "vi": "Hỏi y tá đi."
+        },
+        {
+          "speaker": "B",
+          "en": "She is busy.",
+          "vi": "Cô ấy đang bận."
+        }
+      ]
+    },
+    {
+      "word": "Pain",
+      "ipa": "/peɪn/",
+      "meaning": "Cơn đau",
+      "example": {
+        "en": "I feel pain in my back.",
+        "vi": "Tôi thấy đau ở lưng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you in pain?",
+          "vi": "Bạn có đang đau không?"
+        },
+        {
+          "speaker": "B",
+          "en": "A little bit.",
+          "vi": "Một chút."
+        }
+      ]
+    }
+  ]
 }

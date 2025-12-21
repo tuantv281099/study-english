@@ -1,6 +1,217 @@
 {
   "id": "26",
   "title": "26. Food & Drink – Ăn uống",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Food",
+      "ipa": "/fuːd/",
+      "meaning": "Thức ăn",
+      "example": {
+        "en": "This food is delicious.",
+        "vi": "Món ăn này ngon quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you like spicy food?",
+          "vi": "Bạn có thích đồ ăn cay không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, I can't eat it.",
+          "vi": "Không, tôi không ăn được."
+        }
+      ]
+    },
+    {
+      "word": "Drink",
+      "ipa": "/drɪŋk/",
+      "meaning": "Đồ uống / Uống",
+      "example": {
+        "en": "I want a drink.",
+        "vi": "Tôi muốn đồ uống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What would you like to drink?",
+          "vi": "Bạn muốn uống gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Water, please.",
+          "vi": "Cho tôi nước."
+        }
+      ]
+    },
+    {
+      "word": "Rice",
+      "ipa": "/raɪs/",
+      "meaning": "Cơm / Gạo",
+      "example": {
+        "en": "I eat rice every day.",
+        "vi": "Tôi ăn cơm mỗi ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rice is popular in Asia.",
+          "vi": "Cơm phổ biến ở Châu Á."
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, it is a staple.",
+          "vi": "Vâng, nó là thực phẩm chính."
+        }
+      ]
+    },
+    {
+      "word": "Bread",
+      "ipa": "/brɛd/",
+      "meaning": "Bánh mì",
+      "example": {
+        "en": "I like bread for breakfast.",
+        "vi": "Tôi thích ăn bánh mì vào bữa sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy some bread.",
+          "vi": "Mua ít bánh mì đi."
+        },
+        {
+          "speaker": "B",
+          "en": "White or brown?",
+          "vi": "Trắng hay nâu?"
+        }
+      ]
+    },
+    {
+      "word": "Meat",
+      "ipa": "/miːt/",
+      "meaning": "Thịt",
+      "example": {
+        "en": "He doesn't eat meat.",
+        "vi": "Anh ấy không ăn thịt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is this beef?",
+          "vi": "Đây là thịt bò à?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, it is pork meat.",
+          "vi": "Không, là thịt lợn."
+        }
+      ]
+    },
+    {
+      "word": "Vegetable",
+      "ipa": "/ˈvɛdʒtəbl/",
+      "meaning": "Rau",
+      "example": {
+        "en": "Eat your vegetables.",
+        "vi": "Ăn rau đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Vegetables are healthy.",
+          "vi": "Rau rất tốt cho sức khỏe."
+        },
+        {
+          "speaker": "B",
+          "en": "I try to eat them.",
+          "vi": "Tôi cố gắng ăn chúng."
+        }
+      ]
+    },
+    {
+      "word": "Fruit",
+      "ipa": "/fruːt/",
+      "meaning": "Trái cây",
+      "example": {
+        "en": "Fresh fruit is sweet.",
+        "vi": "Trái cây tươi rất ngọt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Want some fruit?",
+          "vi": "Ăn trái cây không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, an apple please.",
+          "vi": "Có, cho tôi quả táo."
+        }
+      ]
+    },
+    {
+      "word": "Water",
+      "ipa": "/ˈwɔːtər/",
+      "meaning": "Nước",
+      "example": {
+        "en": "Drink plenty of water.",
+        "vi": "Uống nhiều nước vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can I have water?",
+          "vi": "Cho tôi xin nước được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Here is a glass.",
+          "vi": "Đây là cốc nước."
+        }
+      ]
+    },
+    {
+      "word": "Coffee",
+      "ipa": "/ˈkɒfi/",
+      "meaning": "Cà phê",
+      "example": {
+        "en": "I drink coffee in the morning.",
+        "vi": "Tôi uống cà phê vào buổi sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you like coffee?",
+          "vi": "Bạn thích cà phê không?"
+        },
+        {
+          "speaker": "B",
+          "en": "I love it.",
+          "vi": "Tôi mê nó."
+        }
+      ]
+    },
+    {
+      "word": "Tea",
+      "ipa": "/tiː/",
+      "meaning": "Trà",
+      "example": {
+        "en": "Would you like some tea?",
+        "vi": "Bạn uống trà nhé?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Green tea is good.",
+          "vi": "Trà xanh rất tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "I prefer black tea.",
+          "vi": "Tôi thích trà đen hơn."
+        }
+      ]
+    }
+  ]
 }

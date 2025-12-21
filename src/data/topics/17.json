@@ -1,6 +1,217 @@
 {
   "id": "17",
   "title": "17. Animals – Động vật",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Dog",
+      "ipa": "/dɔːɡ/",
+      "meaning": "Chó",
+      "example": {
+        "en": "The dog is barking.",
+        "vi": "Con chó đang sủa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you like dogs?",
+          "vi": "Bạn có thích chó không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, they are loyal.",
+          "vi": "Có, chúng rất trung thành."
+        }
+      ]
+    },
+    {
+      "word": "Cat",
+      "ipa": "/kæt/",
+      "meaning": "Mèo",
+      "example": {
+        "en": "The cat is sleeping.",
+        "vi": "Con mèo đang ngủ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is that your cat?",
+          "vi": "Đó là mèo của bạn à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, her name is Kitty.",
+          "vi": "Vâng, tên nó là Kitty."
+        }
+      ]
+    },
+    {
+      "word": "Bird",
+      "ipa": "/bɜːrd/",
+      "meaning": "Chim",
+      "example": {
+        "en": "The bird can fly.",
+        "vi": "Con chim có thể bay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look at that bird.",
+          "vi": "Nhìn con chim kia kìa."
+        },
+        {
+          "speaker": "B",
+          "en": "It's beautiful.",
+          "vi": "Nó thật đẹp."
+        }
+      ]
+    },
+    {
+      "word": "Fish",
+      "ipa": "/fɪʃ/",
+      "meaning": "Cá",
+      "example": {
+        "en": "Fish live in water.",
+        "vi": "Cá sống dưới nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let's go fishing.",
+          "vi": "Đi câu cá đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay, sounds fun.",
+          "vi": "Được thôi, nghe vui đấy."
+        }
+      ]
+    },
+    {
+      "word": "Lion",
+      "ipa": "/ˈlaɪən/",
+      "meaning": "Sư tử",
+      "example": {
+        "en": "The lion is the king of the jungle.",
+        "vi": "Sư tử là chúa tể rừng xanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Have you seen a lion?",
+          "vi": "Bạn đã thấy sư tử bao giờ chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, at the zoo.",
+          "vi": "Rồi, ở sở thú."
+        }
+      ]
+    },
+    {
+      "word": "Tiger",
+      "ipa": "/ˈtaɪɡər/",
+      "meaning": "Hổ",
+      "example": {
+        "en": "Tigers differ from lions.",
+        "vi": "Hổ khác với sư tử."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tigers are strong.",
+          "vi": "Hổ rất khỏe."
+        },
+        {
+          "speaker": "B",
+          "en": "They run very fast too.",
+          "vi": "Chúng chạy cũng rất nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Elephant",
+      "ipa": "/ˈɛlɪfənt/",
+      "meaning": "Voi",
+      "example": {
+        "en": "The elephant has a long nose.",
+        "vi": "Voi có cái mũi dài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Elephants are huge.",
+          "vi": "Voi to lớn thật."
+        },
+        {
+          "speaker": "B",
+          "en": "They are gentle giants.",
+          "vi": "Chúng là những gã khổng lồ hiền lành."
+        }
+      ]
+    },
+    {
+      "word": "Monkey",
+      "ipa": "/ˈmʌŋki/",
+      "meaning": "Khỉ",
+      "example": {
+        "en": "Monkeys like bananas.",
+        "vi": "Khỉ thích chuối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The monkey is climbing.",
+          "vi": "Con khỉ đang leo trèo."
+        },
+        {
+          "speaker": "B",
+          "en": "It looks funny.",
+          "vi": "Trông nó buồn cười quá."
+        }
+      ]
+    },
+    {
+      "word": "Rabbit",
+      "ipa": "/ˈræbɪt/",
+      "meaning": "Thỏ",
+      "example": {
+        "en": "The rabbit has long ears.",
+        "vi": "Con thỏ có tai dài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can I pet your rabbit?",
+          "vi": "Tôi có thể vuốt ve thỏ của bạn được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Sure, be gentle.",
+          "vi": "Được chứ, nhẹ nhàng thôi."
+        }
+      ]
+    },
+    {
+      "word": "Cow",
+      "ipa": "/kaʊ/",
+      "meaning": "Bò",
+      "example": {
+        "en": "Cows give us milk.",
+        "vi": "Bò cho chúng ta sữa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do cows eat grass?",
+          "vi": "Bò có ăn cỏ không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, they do.",
+          "vi": "Có chứ."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "33",
   "title": "33. Airport & Flights",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Airport",
+      "ipa": "/ˈɛərpɔːrt/",
+      "meaning": "Sân bay",
+      "example": {
+        "en": "Arrive at the airport early.",
+        "vi": "Đến sân bay sớm nhé."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How far is the airport?",
+          "vi": "Sân bay cách đây bao xa?"
+        },
+        {
+          "speaker": "B",
+          "en": "30 minutes.",
+          "vi": "30 phút."
+        }
+      ]
+    },
+    {
+      "word": "Flight",
+      "ipa": "/flaɪt/",
+      "meaning": "Chuyến bay",
+      "example": {
+        "en": "The flight was smooth.",
+        "vi": "Chuyến bay rất êm ả."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your flight number?",
+          "vi": "Số hiệu chuyến bay của bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "VN123.",
+          "vi": "VN123."
+        }
+      ]
+    },
+    {
+      "word": "Passenger",
+      "ipa": "/ˈpæsəndʒər/",
+      "meaning": "Hành khách",
+      "example": {
+        "en": "Passengers must buckle up.",
+        "vi": "Hành khách phải thắt dây an toàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you a passenger?",
+          "vi": "Bạn là hành khách à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I am flying to Paris.",
+          "vi": "Vâng, tôi bay đi Paris."
+        }
+      ]
+    },
+    {
+      "word": "Gate",
+      "ipa": "/ɡeɪt/",
+      "meaning": "Cổng",
+      "example": {
+        "en": "Go to gate 5.",
+        "vi": "Đi đến cổng số 5."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Which gate is it?",
+          "vi": "Cổng nào vậy?"
+        },
+        {
+          "speaker": "B",
+          "en": "Gate 21.",
+          "vi": "Cổng 21."
+        }
+      ]
+    },
+    {
+      "word": "Boarding",
+      "ipa": "/ˈbɔːrdɪŋ/",
+      "meaning": "Lên máy bay",
+      "example": {
+        "en": "Boarding starts now.",
+        "vi": "Bây giờ bắt đầu lên máy bay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it boarding time?",
+          "vi": "Đến giờ lên máy bay chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, let's go.",
+          "vi": "Rồi, đi thôi."
+        }
+      ]
+    },
+    {
+      "word": "Seat",
+      "ipa": "/siːt/",
+      "meaning": "Chỗ ngồi",
+      "example": {
+        "en": "Find your seat.",
+        "vi": "Tìm chỗ ngồi của bạn đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I like the window seat.",
+          "vi": "Tôi thích ghế gần cửa sổ."
+        },
+        {
+          "speaker": "B",
+          "en": "I prefer the aisle.",
+          "vi": "Tôi thích lối đi hơn."
+        }
+      ]
+    },
+    {
+      "word": "Pilot",
+      "ipa": "/ˈpaɪlət/",
+      "meaning": "Phi công",
+      "example": {
+        "en": "The pilot flies the plane.",
+        "vi": "Phi công lái máy bay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The pilot was very skilled.",
+          "vi": "Phi công rất điêu luyện."
+        },
+        {
+          "speaker": "B",
+          "en": "It was a good landing.",
+          "vi": "Hạ cánh rất tốt."
+        }
+      ]
+    },
+    {
+      "word": "Hostess",
+      "ipa": "/ˈhoʊstɪs/",
+      "meaning": "Tiếp viên hàng không",
+      "example": {
+        "en": "The air hostess served food.",
+        "vi": "Tiếp viên hàng không phục vụ đồ ăn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask the hostess for water.",
+          "vi": "Xin tiếp viên nước đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được rồi."
+        }
+      ]
+    },
+    {
+      "word": "Delay",
+      "ipa": "/dɪˈleɪ/",
+      "meaning": "Hoãn chuyến",
+      "example": {
+        "en": "The flight had a delay.",
+        "vi": "Chuyến bay bị hoãn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is there a delay?",
+          "vi": "Có bị hoãn không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, two hours.",
+          "vi": "Có, hai tiếng."
+        }
+      ]
+    },
+    {
+      "word": "Arrival",
+      "ipa": "/əˈraɪvəl/",
+      "meaning": "Đến nơi",
+      "example": {
+        "en": "Check the arrival time.",
+        "vi": "Kiểm tra giờ đến nơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Waiting for arrival.",
+          "vi": "Đang chờ đến nơi."
+        },
+        {
+          "speaker": "B",
+          "en": "It should be soon.",
+          "vi": "Chắc sắp rồi."
+        }
+      ]
+    }
+  ]
 }

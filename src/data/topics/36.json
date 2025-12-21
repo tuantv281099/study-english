@@ -1,6 +1,217 @@
 {
   "id": "36",
   "title": "36. Culture",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Culture",
+      "ipa": "/ˈkʌltʃər/",
+      "meaning": "Văn hóa",
+      "example": {
+        "en": "Learn about the culture.",
+        "vi": "Tìm hiểu về văn hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I love Vietnamese culture.",
+          "vi": "Tôi yêu văn hóa Việt Nam."
+        },
+        {
+          "speaker": "B",
+          "en": "It is unique.",
+          "vi": "Nó rất độc đáo."
+        }
+      ]
+    },
+    {
+      "word": "Tradition",
+      "ipa": "/trəˈdɪʃən/",
+      "meaning": "Truyền thống",
+      "example": {
+        "en": "It is a family tradition.",
+        "vi": "Đó là truyền thống gia đình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Follow the tradition.",
+          "vi": "Làm theo truyền thống."
+        },
+        {
+          "speaker": "B",
+          "en": "We do it every year.",
+          "vi": "Chúng tôi làm mỗi năm."
+        }
+      ]
+    },
+    {
+      "word": "Art",
+      "ipa": "/ɑːrt/",
+      "meaning": "Nghệ thuật",
+      "example": {
+        "en": "Art is expressive.",
+        "vi": "Nghệ thuật có tính biểu cảm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you like art?",
+          "vi": "Bạn thích nghệ thuật không?"
+        },
+        {
+          "speaker": "B",
+          "en": "I like paintings.",
+          "vi": "Tôi thích tranh vẽ."
+        }
+      ]
+    },
+    {
+      "word": "Music",
+      "ipa": "/ˈmjuːzɪk/",
+      "meaning": "Âm nhạc",
+      "example": {
+        "en": "Music is universal.",
+        "vi": "Âm nhạc là phổ quát."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Play some music.",
+          "vi": "Mở nhạc đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Dance",
+      "ipa": "/dæns/",
+      "meaning": "Điệu nhảy",
+      "example": {
+        "en": "Traditional dance.",
+        "vi": "Điệu nhảy truyền thống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you do the dance?",
+          "vi": "Bạn nhảy được điệu đó không?"
+        },
+        {
+          "speaker": "B",
+          "en": "I can try.",
+          "vi": "Tôi có thể thử."
+        }
+      ]
+    },
+    {
+      "word": "History",
+      "ipa": "/ˈhɪstəri/",
+      "meaning": "Lịch sử",
+      "example": {
+        "en": "Study history.",
+        "vi": "Học lịch sử."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "History is interesting.",
+          "vi": "Lịch sử rất thú vị."
+        },
+        {
+          "speaker": "B",
+          "en": "It teaches us a lot.",
+          "vi": "Nó dạy chúng ta nhiều điều."
+        }
+      ]
+    },
+    {
+      "word": "Language",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "meaning": "Ngôn ngữ",
+      "example": {
+        "en": "Learn a new language.",
+        "vi": "Học một ngôn ngữ mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What language do you speak?",
+          "vi": "Bạn nói ngôn ngữ gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "I speak English.",
+          "vi": "Tôi nói tiếng Anh."
+        }
+      ]
+    },
+    {
+      "word": "Food",
+      "ipa": "/fuːd/",
+      "meaning": "Ẩm thực",
+      "example": {
+        "en": "Local food is best.",
+        "vi": "Món ăn địa phương là tuyệt nhất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Try the street food.",
+          "vi": "Thử đồ ăn đường phố đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi sẽ thử."
+        }
+      ]
+    },
+    {
+      "word": "Clothes",
+      "ipa": "/kloʊðz/",
+      "meaning": "Trang phục",
+      "example": {
+        "en": "Traditional clothes.",
+        "vi": "Trang phục truyền thống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice clothes.",
+          "vi": "Trang phục đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "It is an Ao Dai.",
+          "vi": "Đó là Áo Dài."
+        }
+      ]
+    },
+    {
+      "word": "Symbol",
+      "ipa": "/ˈsɪmbəl/",
+      "meaning": "Biểu tượng",
+      "example": {
+        "en": "The lotus is a symbol.",
+        "vi": "Hoa sen là một biểu tượng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What does it symbolize?",
+          "vi": "Nó tượng trưng cho điều gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Purity.",
+          "vi": "Sự tinh khiết."
+        }
+      ]
+    }
+  ]
 }

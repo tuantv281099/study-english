@@ -1,6 +1,217 @@
 {
   "id": "37",
   "title": "37. Music",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Song",
+      "ipa": "/sɔːŋ/",
+      "meaning": "Bài hát",
+      "example": {
+        "en": "Sing a song.",
+        "vi": "Hát một bài hát."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your favorite song?",
+          "vi": "Bài hát yêu thích của bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Happy Birthday.",
+          "vi": "Chúc mừng sinh nhật."
+        }
+      ]
+    },
+    {
+      "word": "Singer",
+      "ipa": "/ˈsɪŋər/",
+      "meaning": "Ca sĩ",
+      "example": {
+        "en": "The singer has a good voice.",
+        "vi": "Ca sĩ có giọng hát hay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is she a famous singer?",
+          "vi": "Cô ấy có phải ca sĩ nổi tiếng không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, very famous.",
+          "vi": "Vâng, rất nổi tiếng."
+        }
+      ]
+    },
+    {
+      "word": "Band",
+      "ipa": "/bænd/",
+      "meaning": "Ban nhạc",
+      "example": {
+        "en": "I play in a band.",
+        "vi": "Tôi chơi trong một ban nhạc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What band is this?",
+          "vi": "Ban nhạc này là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "The Beatles.",
+          "vi": "The Beatles."
+        }
+      ]
+    },
+    {
+      "word": "Piano",
+      "ipa": "/piˈænoʊ/",
+      "meaning": "Đàn piano",
+      "example": {
+        "en": "Play the piano.",
+        "vi": "Chơi đàn piano."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you play piano?",
+          "vi": "Bạn biết chơi piano không?"
+        },
+        {
+          "speaker": "B",
+          "en": "A little bit.",
+          "vi": "Một chút."
+        }
+      ]
+    },
+    {
+      "word": "Guitar",
+      "ipa": "/ɡɪˈtɑːr/",
+      "meaning": "Đàn ghi-ta",
+      "example": {
+        "en": "He plays the guitar.",
+        "vi": "Anh ấy chơi ghi-ta."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice guitar.",
+          "vi": "Đàn đẹp đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Concert",
+      "ipa": "/ˈkɒnsərt/",
+      "meaning": "Buổi hòa nhạc",
+      "example": {
+        "en": "Go to a concert.",
+        "vi": "Đi xem hòa nhạc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The concert was loud.",
+          "vi": "Buổi hòa nhạc ồn ào quá."
+        },
+        {
+          "speaker": "B",
+          "en": "But fun.",
+          "vi": "Nhưng vui."
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "ipa": "/ˈlɪsən/",
+      "meaning": "Nghe",
+      "example": {
+        "en": "Listen to the beat.",
+        "vi": "Nghe nhịp điệu kìa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Listen carefully.",
+          "vi": "Lắng nghe kỹ nhé."
+        },
+        {
+          "speaker": "B",
+          "en": "I am listening.",
+          "vi": "Tôi đang nghe đây."
+        }
+      ]
+    },
+    {
+      "word": "Pop",
+      "ipa": "/pɒp/",
+      "meaning": "Nhạc Pop",
+      "example": {
+        "en": "I like pop music.",
+        "vi": "Tôi thích nhạc Pop."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you like K-Pop?",
+          "vi": "Bạn thích K-Pop không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, BTS.",
+          "vi": "Có, BTS."
+        }
+      ]
+    },
+    {
+      "word": "Rock",
+      "ipa": "/rɒk/",
+      "meaning": "Nhạc Rock",
+      "example": {
+        "en": "Rock music is energetic.",
+        "vi": "Nhạc Rock rất sôi động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He is a rock star.",
+          "vi": "Anh ấy là ngôi sao nhạc Rock."
+        },
+        {
+          "speaker": "B",
+          "en": "Cool.",
+          "vi": "Ngầu quá."
+        }
+      ]
+    },
+    {
+      "word": "Beat",
+      "ipa": "/biːt/",
+      "meaning": "Nhịp điệu",
+      "example": {
+        "en": "Feel the beat.",
+        "vi": "Cảm nhận nhịp điệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good beat.",
+          "vi": "Nhịp điệu hay."
+        },
+        {
+          "speaker": "B",
+          "en": "Let's dance.",
+          "vi": "Nhảy thôi."
+        }
+      ]
+    }
+  ]
 }

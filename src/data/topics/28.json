@@ -1,6 +1,217 @@
 {
   "id": "28",
   "title": "28. Body – Cơ thể",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Head",
+      "ipa": "/hɛd/",
+      "meaning": "Đầu",
+      "example": {
+        "en": "Nod your head.",
+        "vi": "Gật đầu đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "My head hurts.",
+          "vi": "Đầu tôi đau."
+        },
+        {
+          "speaker": "B",
+          "en": "Take a rest.",
+          "vi": "Nghỉ ngơi đi."
+        }
+      ]
+    },
+    {
+      "word": "Eye",
+      "ipa": "/aɪ/",
+      "meaning": "Mắt",
+      "example": {
+        "en": "Close your eyes.",
+        "vi": "Nhắm mắt lại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Your eyes are blue.",
+          "vi": "Mắt bạn màu xanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Hand",
+      "ipa": "/hænd/",
+      "meaning": "Bàn tay",
+      "example": {
+        "en": "Wash your hands.",
+        "vi": "Rửa tay đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Give me your hand.",
+          "vi": "Đưa tay đây."
+        },
+        {
+          "speaker": "B",
+          "en": "Why?",
+          "vi": "Tại sao?"
+        }
+      ]
+    },
+    {
+      "word": "Leg",
+      "ipa": "/lɛɡ/",
+      "meaning": "Chân",
+      "example": {
+        "en": "He broke his leg.",
+        "vi": "Anh ấy bị gãy chân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you walk?",
+          "vi": "Bạn đi được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, my leg hurts.",
+          "vi": "Không, chân tôi đau."
+        }
+      ]
+    },
+    {
+      "word": "Face",
+      "ipa": "/feɪs/",
+      "meaning": "Khuôn mặt",
+      "example": {
+        "en": "Wash your face.",
+        "vi": "Rửa mặt đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You have a happy face.",
+          "vi": "Bạn có khuôn mặt hạnh phúc."
+        },
+        {
+          "speaker": "B",
+          "en": "I am happy.",
+          "vi": "Tôi đang vui mà."
+        }
+      ]
+    },
+    {
+      "word": "Mouth",
+      "ipa": "/maʊθ/",
+      "meaning": "Miệng",
+      "example": {
+        "en": "Open your mouth.",
+        "vi": "Há miệng ra."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cover your mouth when you cough.",
+          "vi": "Che miệng khi ho."
+        },
+        {
+          "speaker": "B",
+          "en": "Sorry.",
+          "vi": "Xin lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Nose",
+      "ipa": "/noʊz/",
+      "meaning": "Mũi",
+      "example": {
+        "en": "He has a big nose.",
+        "vi": "Anh ấy có cái mũi to."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "My nose is runny.",
+          "vi": "Mũi tôi bị chảy nước."
+        },
+        {
+          "speaker": "B",
+          "en": "You have a cold.",
+          "vi": "Bạn bị cảm rồi."
+        }
+      ]
+    },
+    {
+      "word": "Arm",
+      "ipa": "/ɑːrm/",
+      "meaning": "Cánh tay",
+      "example": {
+        "en": "Raise your arm.",
+        "vi": "Giơ tay lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "My arm is sore.",
+          "vi": "Tay tôi bị đau."
+        },
+        {
+          "speaker": "B",
+          "en": "Did you lift weights?",
+          "vi": "Bạn có tập tạ không?"
+        }
+      ]
+    },
+    {
+      "word": "Foot",
+      "ipa": "/fʊt/",
+      "meaning": "Bàn chân",
+      "example": {
+        "en": "My foot hurts.",
+        "vi": "Chân tôi đau."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Put your foot down.",
+          "vi": "Đặt chân xuống."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được rồi."
+        }
+      ]
+    },
+    {
+      "word": "Hair",
+      "ipa": "/hɛər/",
+      "meaning": "Tóc",
+      "example": {
+        "en": "She has long hair.",
+        "vi": "Cô ấy có mái tóc dài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I like your hair.",
+          "vi": "Tôi thích tóc của bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "I just cut it.",
+          "vi": "Tôi mới cắt đấy."
+        }
+      ]
+    }
+  ]
 }

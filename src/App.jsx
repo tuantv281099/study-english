@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import topicsList from './data/topics.json'; // Initial lightweight list
 import YouGlishWidget from './components/YouGlishWidget';
+import { playPronunciation } from './utils/audioUtils';
 
 function App() {
   const [selectedTopicId, setSelectedTopicId] = useState(null);
@@ -47,13 +48,13 @@ function App() {
     // If we want to track "Hello" globally, just use word.
     // Let's stick to topic-specific for now as per likely intent.
     const key = `${selectedTopicId}-${vocab.word}`;
-    
+
     setClickCounts(prev => {
       const newCounts = { ...prev, [key]: (prev[key] || 0) + 1 };
       localStorage.setItem('study_english_click_counts', JSON.stringify(newCounts));
       return newCounts;
     });
-    
+
     setSelectedVocab(vocab);
   };
 
@@ -114,12 +115,28 @@ function App() {
                       {topicData.vocabulary.map((vocab, index) => (
                         <div key={index} className="vocab-card" onClick={() => openConversation(vocab)}>
                           <div className="vocab-header">
-                            <span className="word">{vocab.word}</span>
+                            <span
+                              className="word clickable-word"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                playPronunciation(vocab.word);
+                              }}
+                            >
+                              {vocab.word}
+                            </span>
                             <span className="ipa">{vocab.ipa}</span>
                           </div>
                           <div className="vocab-body">
                             <span className="meaning">{vocab.meaning}</span>
-                            <p className="example">"{vocab.example.en}"</p>
+                            <p
+                              className="example clickable-text"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                playPronunciation(vocab.example.en);
+                              }}
+                            >
+                              "{vocab.example.en}"
+                            </p>
                             <p className="example">"{vocab.example.vi}"</p>
                           </div>
                           <div className="card-footer">
@@ -148,12 +165,22 @@ function App() {
                 <h2>Conversation Practice</h2>
                 <div className="focus-word-container">
                   <div className="fw-main">
-                    <span className="fw-word">{selectedVocab.word}</span>
+                    <span
+                      className="fw-word clickable-word"
+                      onClick={() => playPronunciation(selectedVocab.word)}
+                    >
+                      {selectedVocab.word}
+                    </span>
                     <span className="fw-ipa">{selectedVocab.ipa}</span>
                   </div>
                   <div className="fw-details">
                     <span className="fw-meaning">{selectedVocab.meaning}</span>
-                    <p className="fw-example">"{selectedVocab.example.en}"</p>
+                    <p
+                      className="fw-example clickable-text"
+                      onClick={() => playPronunciation(selectedVocab.example.en)}
+                    >
+                      "{selectedVocab.example.en}"
+                    </p>
                     <p className="fw-example">"{selectedVocab.example.vi}"</p>
                   </div>
                 </div>
@@ -165,7 +192,12 @@ function App() {
                     <div key={index} className={`conversation-item ${item.speaker === 'John' ? 'speaker-john' : 'speaker-sarah'}`}>
                       <div className="avatar-placeholder">{item.speaker[0]}</div>
                       <div className="bubble">
-                        <p className="text-en">{item.en}</p>
+                        <p
+                          className="text-en clickable-text"
+                          onClick={() => playPronunciation(item.en)}
+                        >
+                          {item.en}
+                        </p>
                         <p className="text-vi">{item.vi}</p>
                       </div>
                     </div>

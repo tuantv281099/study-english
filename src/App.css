@@ -687,8 +687,26 @@ h1 {
 }
 
 .star-rating {
-  color: #fbbf24; /* Amber/Gold color */
+  color: #fbbf24;
+  /* Amber/Gold color */
   font-size: 1.2rem;
   letter-spacing: 2px;
-  min-height: 1.5rem; /* Reserve space */
+  min-height: 1.5rem;
+  /* Reserve space */
+}
+
+/* Clickable Word for Pronunciation */
+.clickable-word {
+  cursor: pointer;
+  transition: color 0.2s, transform 0.1s;
+  display: inline-block;
+  /* Allows transform */
+}
+
+.clickable-word:hover {
+  color: #007bff;
+}
+
+.clickable-word:active {
+  transform: scale(0.95);
 }

@@ -10,6 +10,12 @@ function App() {
   const [topicData, setTopicData] = useState(null); // Loaded async
   const [loading, setLoading] = useState(false);
 
+  // Load click counts from local storage on mount
+  const [clickCounts, setClickCounts] = useState(() => {
+    const saved = localStorage.getItem('study_english_click_counts');
+    return saved ? JSON.parse(saved) : {};
+  });
+
   const availableTopics = topicsList.filter(t => t.hasContent);
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
@@ -35,11 +41,32 @@ function App() {
   };
 
   const openConversation = (vocab) => {
+    // Generate a unique key for the word. 
+    // vocab.word might not be unique across topics, so combining with topicId is safer.
+    // However, if the same word appears in multiple topics and we want to track them separately, topicId is needed.
+    // If we want to track "Hello" globally, just use word.
+    // Let's stick to topic-specific for now as per likely intent.
+    const key = `${selectedTopicId}-${vocab.word}`;
+    
+    setClickCounts(prev => {
+      const newCounts = { ...prev, [key]: (prev[key] || 0) + 1 };
+      localStorage.setItem('study_english_click_counts', JSON.stringify(newCounts));
+      return newCounts;
+    });
+    
     setSelectedVocab(vocab);
   };
 
   const closeConversation = () => {
     setSelectedVocab(null);
+  };
+
+  const getStars = (word) => {
+    const key = `${selectedTopicId}-${word}`;
+    const count = clickCounts[key] || 0;
+    // Max 5 stars
+    const stars = Math.min(count, 5);
+    return "★".repeat(stars);
   };
 
   return (
@@ -95,7 +122,10 @@ function App() {
                             <p className="example">"{vocab.example.en}"</p>
                             <p className="example">"{vocab.example.vi}"</p>
                           </div>
-                          <div className="card-hint">Tap for Conversation</div>
+                          <div className="card-footer">
+                            <div className="card-hint">Tap for Conversation</div>
+                            <div className="star-rating">{getStars(vocab.word)}</div>
+                          </div>
                         </div>
                       ))}
                     </div>

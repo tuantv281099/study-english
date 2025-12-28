@@ -1,6 +1,217 @@
 {
   "id": "179",
   "title": "179. Urban Life – Cuộc sống đô thị",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Urban",
+      "ipa": "/ˈɜːrbən/",
+      "meaning": "Đô thị",
+      "example": {
+        "en": "Urban area.",
+        "vi": "Khu vực đô thị."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Busy streets.",
+          "vi": "Đường phố đông đúc."
+        },
+        {
+          "speaker": "B",
+          "en": "Tall buildings.",
+          "vi": "Tòa nhà cao tầng."
+        }
+      ]
+    },
+    {
+      "word": "City",
+      "ipa": "/ˈsɪti/",
+      "meaning": "Thành phố",
+      "example": {
+        "en": "Big city.",
+        "vi": "Thành phố lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Never sleeps.",
+          "vi": "Không bao giờ ngủ."
+        },
+        {
+          "speaker": "B",
+          "en": "Lots to do.",
+          "vi": "Nhiều việc để làm."
+        }
+      ]
+    },
+    {
+      "word": "Traffic",
+      "ipa": "/ˈtræfɪk/",
+      "meaning": "Giao thông",
+      "example": {
+        "en": "Heavy traffic.",
+        "vi": "Giao thông đông đúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stuck in jam.",
+          "vi": "Kẹt xe."
+        },
+        {
+          "speaker": "B",
+          "en": "Take subway.",
+          "vi": "Đi tàu điện ngầm."
+        }
+      ]
+    },
+    {
+      "word": "Noise",
+      "ipa": "/nɔɪz/",
+      "meaning": "Tiếng ồn",
+      "example": {
+        "en": "City noise.",
+        "vi": "Tiếng ồn thành phố."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sirens.",
+          "vi": "Còi hụ."
+        },
+        {
+          "speaker": "B",
+          "en": "Can't sleep.",
+          "vi": "Không ngủ được."
+        }
+      ]
+    },
+    {
+      "word": "Crowd",
+      "ipa": "/kraʊd/",
+      "meaning": "Đám đông",
+      "example": {
+        "en": "Avoid crowds.",
+        "vi": "Tránh đám đông."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too many people.",
+          "vi": "Quá nhiều người."
+        },
+        {
+          "speaker": "B",
+          "en": "Rush hour.",
+          "vi": "Giờ cao điểm."
+        }
+      ]
+    },
+    {
+      "word": "Pollution",
+      "ipa": "/pəˈluːʃən/",
+      "meaning": "Ô nhiễm",
+      "example": {
+        "en": "Air pollution.",
+        "vi": "Ô nhiễm không khí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smog.",
+          "vi": "Khói bụi."
+        },
+        {
+          "speaker": "B",
+          "en": "Wear mask.",
+          "vi": "Đeo khẩu trang."
+        }
+      ]
+    },
+    {
+      "word": "Modern",
+      "ipa": "/ˈmɒdərn/",
+      "meaning": "Hiện đại",
+      "example": {
+        "en": "Modern life.",
+        "vi": "Cuộc sống hiện đại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Technology.",
+          "vi": "Công nghệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Convenient.",
+          "vi": "Tiện lợi."
+        }
+      ]
+    },
+    {
+      "word": "Apartment",
+      "ipa": "/əˈpɑːrtmnt/",
+      "meaning": "Căn hộ",
+      "example": {
+        "en": "Rent apartment.",
+        "vi": "Thuê căn hộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Small space.",
+          "vi": "Không gian nhỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "High rent.",
+          "vi": "Tiền thuê cao."
+        }
+      ]
+    },
+    {
+      "word": "Subway",
+      "ipa": "/ˈsʌbweɪ/",
+      "meaning": "Tàu điện ngầm",
+      "example": {
+        "en": "Take subway.",
+        "vi": "Đi tàu điện ngầm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast transit.",
+          "vi": "Di chuyển nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Underground.",
+          "vi": "Dưới lòng đất."
+        }
+      ]
+    },
+    {
+      "word": "Shopping",
+      "ipa": "/ˈʃɒpɪŋ/",
+      "meaning": "Mua sắm",
+      "example": {
+        "en": "Go shopping.",
+        "vi": "Đi mua sắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Many malls.",
+          "vi": "Nhiều trung tâm thương mại."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy clothes.",
+          "vi": "Mua quần áo."
+        }
+      ]
+    }
+  ]
 }

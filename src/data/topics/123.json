@@ -1,6 +1,217 @@
 {
   "id": "123",
   "title": "123. Court Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Jury",
+      "ipa": "/ˈdʒʊəri/",
+      "meaning": "Bồi thẩm đoàn",
+      "example": {
+        "en": "Jury duty.",
+        "vi": "Nghĩa vụ bồi thẩm đoàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "12 people.",
+          "vi": "12 người."
+        },
+        {
+          "speaker": "B",
+          "en": "Decide verdict.",
+          "vi": "Quyết định phán quyết."
+        }
+      ]
+    },
+    {
+      "word": "Witness",
+      "ipa": "/ˈwɪtnɪs/",
+      "meaning": "Nhân chứng",
+      "example": {
+        "en": "Call witness.",
+        "vi": "Gọi nhân chứng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I saw it.",
+          "vi": "Tôi đã thấy nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Tell truth.",
+          "vi": "Nói sự thật."
+        }
+      ]
+    },
+    {
+      "word": "Defense",
+      "ipa": "/dɪˈfɛns/",
+      "meaning": "Biện hộ / Phòng vệ",
+      "example": {
+        "en": "Self defense.",
+        "vi": "Tự vệ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Defense lawyer.",
+          "vi": "Luật sư bào chữa."
+        },
+        {
+          "speaker": "B",
+          "en": "Arguments.",
+          "vi": "Lập luận."
+        }
+      ]
+    },
+    {
+      "word": "Prosecutor",
+      "ipa": "/ˈprɒsɪkjuːtər/",
+      "meaning": "Công tố viên",
+      "example": {
+        "en": "The prosecutor speaks.",
+        "vi": "Công tố viên phát biểu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Against accused.",
+          "vi": "Chống lại bị cáo."
+        },
+        {
+          "speaker": "B",
+          "en": "Present facts.",
+          "vi": "Trình bày sự thật."
+        }
+      ]
+    },
+    {
+      "word": "Verdict",
+      "ipa": "/ˈvɜːrdɪkt/",
+      "meaning": "Phán quyết",
+      "example": {
+        "en": "Read verdict.",
+        "vi": "Đọc phán quyết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is it?",
+          "vi": "Là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Not guilty.",
+          "vi": "Không có tội."
+        }
+      ]
+    },
+    {
+      "word": "Sentence",
+      "ipa": "/ˈsɛntəns/",
+      "meaning": "Bản án",
+      "example": {
+        "en": "Serve sentence.",
+        "vi": "Thụ án."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "10 years.",
+          "vi": "10 năm."
+        },
+        {
+          "speaker": "B",
+          "en": "Too long.",
+          "vi": "Quá dài."
+        }
+      ]
+    },
+    {
+      "word": "Trial",
+      "ipa": "/ˈtraɪəl/",
+      "meaning": "Phiên tòa",
+      "example": {
+        "en": "Fair trial.",
+        "vi": "Phiên tòa công bằng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Starts today.",
+          "vi": "Bắt đầu hôm nay."
+        },
+        {
+          "speaker": "B",
+          "en": "Courtroom.",
+          "vi": "Phòng xử án."
+        }
+      ]
+    },
+    {
+      "word": "Oath",
+      "ipa": "/oʊθ/",
+      "meaning": "Lời thề",
+      "example": {
+        "en": "Take an oath.",
+        "vi": "Tuyên thệ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hand on Bible.",
+          "vi": "Đặt tay lên Kinh thánh."
+        },
+        {
+          "speaker": "B",
+          "en": "Truth only.",
+          "vi": "Chỉ sự thật."
+        }
+      ]
+    },
+    {
+      "word": "Bail",
+      "ipa": "/beɪl/",
+      "meaning": "Tiền bảo lãnh",
+      "example": {
+        "en": "Post bail.",
+        "vi": "Nộp tiền bảo lãnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Get out.",
+          "vi": "Được ra ngoài."
+        },
+        {
+          "speaker": "B",
+          "en": "Return later.",
+          "vi": "Quay lại sau."
+        }
+      ]
+    },
+    {
+      "word": "Appeal",
+      "ipa": "/əˈpiːl/",
+      "meaning": "Kháng cáo",
+      "example": {
+        "en": "File an appeal.",
+        "vi": "Nộp đơn kháng cáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not fair.",
+          "vi": "Không công bằng."
+        },
+        {
+          "speaker": "B",
+          "en": "Higher court.",
+          "vi": "Tòa án cấp cao hơn."
+        }
+      ]
+    }
+  ]
 }

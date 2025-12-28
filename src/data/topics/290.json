@@ -1,6 +1,217 @@
 {
   "id": "290",
   "title": "290. Daily English – Tiếng Anh hằng ngày",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hello",
+      "ipa": "/həˈloʊ/",
+      "meaning": "Xin chào",
+      "example": {
+        "en": "Hello friend.",
+        "vi": "Chào bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hi.",
+          "vi": "Chào."
+        },
+        {
+          "speaker": "B",
+          "en": "Greetings.",
+          "vi": "Lời chào."
+        }
+      ]
+    },
+    {
+      "word": "Thank you",
+      "ipa": "/θæŋk juː/",
+      "meaning": "Cảm ơn",
+      "example": {
+        "en": "Thank you very much.",
+        "vi": "Cảm ơn rất nhiều."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Welcome.",
+          "vi": "Không có chi."
+        }
+      ]
+    },
+    {
+      "word": "Please",
+      "ipa": "/pliːz/",
+      "meaning": "Làm ơn",
+      "example": {
+        "en": "Help please.",
+        "vi": "Làm ơn giúp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask.",
+          "vi": "Hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Polite.",
+          "vi": "Lịch sự."
+        }
+      ]
+    },
+    {
+      "word": "Sorry",
+      "ipa": "/ˈsɒri/",
+      "meaning": "Xin lỗi",
+      "example": {
+        "en": "I am sorry.",
+        "vi": "Tôi xin lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mistake.",
+          "vi": "Lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "Apology.",
+          "vi": "Lời xin lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Excuse me",
+      "ipa": "/ɪkˈskjuːz miː/",
+      "meaning": "Xin lỗi (khi làm phiền)",
+      "example": {
+        "en": "Excuse me, sir.",
+        "vi": "Xin lỗi, thưa ông."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pass.",
+          "vi": "Đi qua."
+        },
+        {
+          "speaker": "B",
+          "en": "Question.",
+          "vi": "Câu hỏi."
+        }
+      ]
+    },
+    {
+      "word": "Good morning",
+      "ipa": "/ɡʊd ˈmɔːrnɪŋ/",
+      "meaning": "Chào buổi sáng",
+      "example": {
+        "en": "Good morning all.",
+        "vi": "Chào buổi sáng mọi người."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wake up.",
+          "vi": "Thức dậy."
+        },
+        {
+          "speaker": "B",
+          "en": "Coffee.",
+          "vi": "Cà phê."
+        }
+      ]
+    },
+    {
+      "word": "Good night",
+      "ipa": "/ɡʊd naɪt/",
+      "meaning": "Chúc ngủ ngon",
+      "example": {
+        "en": "Good night baby.",
+        "vi": "Chúc bé ngủ ngon."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sleep.",
+          "vi": "Ngủ."
+        },
+        {
+          "speaker": "B",
+          "en": "Bed.",
+          "vi": "Giường."
+        }
+      ]
+    },
+    {
+      "word": "How are you?",
+      "ipa": "/haʊ ɑːr juː/",
+      "meaning": "Bạn khỏe không?",
+      "example": {
+        "en": "Hi, how are you?",
+        "vi": "Chào, bạn khỏe không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fine.",
+          "vi": "Khỏe."
+        },
+        {
+          "speaker": "B",
+          "en": "And you?",
+          "vi": "Còn bạn?"
+        }
+      ]
+    },
+    {
+      "word": "Name",
+      "ipa": "/neɪm/",
+      "meaning": "Tên",
+      "example": {
+        "en": "My name is...",
+        "vi": "Tên tôi là..."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call.",
+          "vi": "Gọi."
+        },
+        {
+          "speaker": "B",
+          "en": "Meet.",
+          "vi": "Gặp gỡ."
+        }
+      ]
+    },
+    {
+      "word": "Bye",
+      "ipa": "/baɪ/",
+      "meaning": "Tạm biệt",
+      "example": {
+        "en": "Bye bye.",
+        "vi": "Tạm biệt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "See you.",
+          "vi": "Hẹn gặp lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Later.",
+          "vi": "Sau nhé."
+        }
+      ]
+    }
+  ]
 }

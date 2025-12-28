@@ -1,6 +1,217 @@
 {
   "id": "161",
   "title": "161. Sustainability – Phát triển bền vững",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Green",
+      "ipa": "/ɡriːn/",
+      "meaning": "Xanh (thân thiện môi trường)",
+      "example": {
+        "en": "Go green.",
+        "vi": "Sống xanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Plant trees.",
+          "vi": "Trồng cây."
+        },
+        {
+          "speaker": "B",
+          "en": "Save planet.",
+          "vi": "Cứu hành tinh."
+        }
+      ]
+    },
+    {
+      "word": "Recycle",
+      "ipa": "/ˌriːˈsaɪkəl/",
+      "meaning": "Tái chế",
+      "example": {
+        "en": "Recycle plastic.",
+        "vi": "Tái chế nhựa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sort trash.",
+          "vi": "Phân loại rác."
+        },
+        {
+          "speaker": "B",
+          "en": "Reuse bottles.",
+          "vi": "Tái sử dụng chai."
+        }
+      ]
+    },
+    {
+      "word": "Waste",
+      "ipa": "/weɪst/",
+      "meaning": "Rác thải / Lãng phí",
+      "example": {
+        "en": "Zero waste.",
+        "vi": "Không rác thải."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reduce it.",
+          "vi": "Giảm thiểu nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't throw away.",
+          "vi": "Đừng vứt đi."
+        }
+      ]
+    },
+    {
+      "word": "Energy",
+      "ipa": "/ˈɛnərdʒi/",
+      "meaning": "Năng lượng",
+      "example": {
+        "en": "Clean energy.",
+        "vi": "Năng lượng sạch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Solar power.",
+          "vi": "Năng lượng mặt trời."
+        },
+        {
+          "speaker": "B",
+          "en": "Wind farm.",
+          "vi": "Trang trại gió."
+        }
+      ]
+    },
+    {
+      "word": "Eco",
+      "ipa": "/ˈiːkoʊ/",
+      "meaning": "Sinh thái",
+      "example": {
+        "en": "Eco-friendly.",
+        "vi": "Thân thiện sinh thái."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Safe materials.",
+          "vi": "Vật liệu an toàn."
+        },
+        {
+          "speaker": "B",
+          "en": "Good choice.",
+          "vi": "Lựa chọn tốt."
+        }
+      ]
+    },
+    {
+      "word": "Climate",
+      "ipa": "/ˈklaɪmət/",
+      "meaning": "Khí hậu",
+      "example": {
+        "en": "Protect climate.",
+        "vi": "Bảo vệ khí hậu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stop warming.",
+          "vi": "Ngăn chặn nóng lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Action now.",
+          "vi": "Hành động ngay."
+        }
+      ]
+    },
+    {
+      "word": "Save",
+      "ipa": "/seɪv/",
+      "meaning": "Tiết kiệm / Cứu",
+      "example": {
+        "en": "Save water.",
+        "vi": "Tiết kiệm nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Turn off tap.",
+          "vi": "Tắt vòi nước."
+        },
+        {
+          "speaker": "B",
+          "en": "Shorter showers.",
+          "vi": "Tắm nhanh hơn."
+        }
+      ]
+    },
+    {
+      "word": "Nature",
+      "ipa": "/ˈneɪtʃər/",
+      "meaning": "Thiên nhiên",
+      "example": {
+        "en": "Love nature.",
+        "vi": "Yêu thiên nhiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Walk in park.",
+          "vi": "Đi dạo công viên."
+        },
+        {
+          "speaker": "B",
+          "en": "Fresh air.",
+          "vi": "Không khí trong lành."
+        }
+      ]
+    },
+    {
+      "word": "Future",
+      "ipa": "/ˈfjuːtʃər/",
+      "meaning": "Tương lai",
+      "example": {
+        "en": "For future.",
+        "vi": "Vì tương lai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Kids safe.",
+          "vi": "Trẻ em an toàn."
+        },
+        {
+          "speaker": "B",
+          "en": "Better world.",
+          "vi": "Thế giới tốt đẹp hơn."
+        }
+      ]
+    },
+    {
+      "word": "Change",
+      "ipa": "/tʃeɪndʒ/",
+      "meaning": "Thay đổi",
+      "example": {
+        "en": "Climate change.",
+        "vi": "Biến đổi khí hậu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "We must act.",
+          "vi": "Chúng ta phải hành động."
+        },
+        {
+          "speaker": "B",
+          "en": "Adapt.",
+          "vi": "Thích nghi."
+        }
+      ]
+    }
+  ]
 }

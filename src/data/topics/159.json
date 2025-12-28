@@ -1,6 +1,217 @@
 {
   "id": "159",
   "title": "159. App Development – Phát triển ứng dụng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Develop",
+      "ipa": "/dɪˈvɛləp/",
+      "meaning": "Phát triển",
+      "example": {
+        "en": "Develop app.",
+        "vi": "Phát triển ứng dụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Write code.",
+          "vi": "Viết mã."
+        },
+        {
+          "speaker": "B",
+          "en": "Build features.",
+          "vi": "Xây dựng tính năng."
+        }
+      ]
+    },
+    {
+      "word": "Store",
+      "ipa": "/stɔːr/",
+      "meaning": "Cửa hàng (ứng dụng)",
+      "example": {
+        "en": "App Store.",
+        "vi": "Cửa hàng ứng dụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Publish app.",
+          "vi": "Xuất bản ứng dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Google Play.",
+          "vi": "Google Play."
+        }
+      ]
+    },
+    {
+      "word": "Native",
+      "ipa": "/ˈneɪtɪv/",
+      "meaning": "Gốc / Bản địa (ứng dụng)",
+      "example": {
+        "en": "Native app.",
+        "vi": "Ứng dụng gốc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "iOS or Android.",
+          "vi": "iOS hoặc Android."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast performance.",
+          "vi": "Hiệu suất nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Update",
+      "ipa": "/ʌpˈdeɪt/",
+      "meaning": "Cập nhật",
+      "example": {
+        "en": "Push update.",
+        "vi": "Đẩy bản cập nhật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fix bugs.",
+          "vi": "Sửa lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "New version.",
+          "vi": "Phiên bản mới."
+        }
+      ]
+    },
+    {
+      "word": "Feature",
+      "ipa": "/ˈfiːtʃər/",
+      "meaning": "Tính năng",
+      "example": {
+        "en": "Cool feature.",
+        "vi": "Tính năng hay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Add dark mode.",
+          "vi": "Thêm chế độ tối."
+        },
+        {
+          "speaker": "B",
+          "en": "Users like it.",
+          "vi": "Người dùng thích nó."
+        }
+      ]
+    },
+    {
+      "word": "Bug",
+      "ipa": "/bʌɡ/",
+      "meaning": "Lỗi",
+      "example": {
+        "en": "Report bug.",
+        "vi": "Báo cáo lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "App crashes.",
+          "vi": "Ứng dụng bị sập."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix it soon.",
+          "vi": "Sửa nó sớm."
+        }
+      ]
+    },
+    {
+      "word": "Review",
+      "ipa": "/rɪˈvjuː/",
+      "meaning": "Đánh giá",
+      "example": {
+        "en": "User review.",
+        "vi": "Đánh giá người dùng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "5 stars.",
+          "vi": "5 sao."
+        },
+        {
+          "speaker": "B",
+          "en": "Good feedback.",
+          "vi": "Phản hồi tốt."
+        }
+      ]
+    },
+    {
+      "word": "Download",
+      "ipa": "/ˈdaʊnloʊd/",
+      "meaning": "Tải xuống",
+      "example": {
+        "en": "Many downloads.",
+        "vi": "Nhiều lượt tải."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Popular app.",
+          "vi": "Ứng dụng phổ biến."
+        },
+        {
+          "speaker": "B",
+          "en": "Try it.",
+          "vi": "Thử nó đi."
+        }
+      ]
+    },
+    {
+      "word": "Mobile",
+      "ipa": "/ˈmoʊbəl/",
+      "meaning": "Di động",
+      "example": {
+        "en": "Mobile first.",
+        "vi": "Ưu tiên di động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Small screen.",
+          "vi": "Màn hình nhỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Touch input.",
+          "vi": "Đầu vào cảm ứng."
+        }
+      ]
+    },
+    {
+      "word": "Launch",
+      "ipa": "/lɔːntʃ/",
+      "meaning": "Ra mắt",
+      "example": {
+        "en": "App launch.",
+        "vi": "Ra mắt ứng dụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Release date.",
+          "vi": "Ngày phát hành."
+        },
+        {
+          "speaker": "B",
+          "en": "Marketing.",
+          "vi": "Tiếp thị."
+        }
+      ]
+    }
+  ]
 }

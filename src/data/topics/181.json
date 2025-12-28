@@ -1,6 +1,217 @@
 {
   "id": "181",
   "title": "181. Photography – Nhiếp ảnh",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Photo",
+      "ipa": "/ˈfoʊtoʊ/",
+      "meaning": "Bức ảnh",
+      "example": {
+        "en": "Take a photo.",
+        "vi": "Chụp một bức ảnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smile.",
+          "vi": "Cười lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Cheese.",
+          "vi": "Tươi nào."
+        }
+      ]
+    },
+    {
+      "word": "Camera",
+      "ipa": "/ˈkæmərə/",
+      "meaning": "Máy ảnh",
+      "example": {
+        "en": "DSLR camera.",
+        "vi": "Máy ảnh DSLR."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good lens.",
+          "vi": "Ống kính tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Expensive.",
+          "vi": "Đắt tiền."
+        }
+      ]
+    },
+    {
+      "word": "Shoot",
+      "ipa": "/ʃuːt/",
+      "meaning": "Chụp (ảnh)",
+      "example": {
+        "en": "Photo shoot.",
+        "vi": "Buổi chụp ảnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Portrait.",
+          "vi": "Chân dung."
+        },
+        {
+          "speaker": "B",
+          "en": "Landscape.",
+          "vi": "Phong cảnh."
+        }
+      ]
+    },
+    {
+      "word": "Lens",
+      "ipa": "/lɛnz/",
+      "meaning": "Ống kính",
+      "example": {
+        "en": "Zoom lens.",
+        "vi": "Ống kính zoom."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Change it.",
+          "vi": "Thay nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Focus.",
+          "vi": "Lấy nét."
+        }
+      ]
+    },
+    {
+      "word": "Focus",
+      "ipa": "/ˈfoʊkəs/",
+      "meaning": "Lấy nét / Tiêu điểm",
+      "example": {
+        "en": "Auto focus.",
+        "vi": "Tự động lấy nét."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Blurry.",
+          "vi": "Mờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Sharp image.",
+          "vi": "Ảnh sắc nét."
+        }
+      ]
+    },
+    {
+      "word": "Edit",
+      "ipa": "/ˈɛdɪt/",
+      "meaning": "Chỉnh sửa",
+      "example": {
+        "en": "Edit photos.",
+        "vi": "Chỉnh sửa ảnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Photoshop.",
+          "vi": "Photoshop."
+        },
+        {
+          "speaker": "B",
+          "en": "Adjust light.",
+          "vi": "Chỉnh ánh sáng."
+        }
+      ]
+    },
+    {
+      "word": "Filter",
+      "ipa": "/ˈfɪltər/",
+      "meaning": "Bộ lọc",
+      "example": {
+        "en": "Apply filter.",
+        "vi": "Áp dụng bộ lọc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Black and white.",
+          "vi": "Đen trắng."
+        },
+        {
+          "speaker": "B",
+          "en": "Vintage look.",
+          "vi": "Vẻ cổ điển."
+        }
+      ]
+    },
+    {
+      "word": "Selfie",
+      "ipa": "/ˈsɛlfi/",
+      "meaning": "Ảnh tự sướng",
+      "example": {
+        "en": "Take selfie.",
+        "vi": "Chụp ảnh tự sướng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Front camera.",
+          "vi": "Camera trước."
+        },
+        {
+          "speaker": "B",
+          "en": "Post it.",
+          "vi": "Đăng nó."
+        }
+      ]
+    },
+    {
+      "word": "Album",
+      "ipa": "/ˈælbəm/",
+      "meaning": "Album (ảnh)",
+      "example": {
+        "en": "Photo album.",
+        "vi": "Album ảnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Memories.",
+          "vi": "Kỷ niệm."
+        },
+        {
+          "speaker": "B",
+          "en": "Keep safe.",
+          "vi": "Giữ gìn."
+        }
+      ]
+    },
+    {
+      "word": "Flash",
+      "ipa": "/flæʃ/",
+      "meaning": "Đèn flash",
+      "example": {
+        "en": "Turn on flash.",
+        "vi": "Bật đèn flash."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too dark.",
+          "vi": "Tối quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Bright light.",
+          "vi": "Ánh sáng mạnh."
+        }
+      ]
+    }
+  ]
 }

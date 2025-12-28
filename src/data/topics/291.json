@@ -1,6 +1,217 @@
 {
   "id": "291",
   "title": "291. Emergency Vocabulary – Tình huống khẩn cấp",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning": "Tình huống khẩn cấp",
+      "example": {
+        "en": "Call emergency.",
+        "vi": "Gọi cấp cứu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Help!",
+          "vi": "Giúp với!"
+        },
+        {
+          "speaker": "B",
+          "en": "Coming.",
+          "vi": "Tới ngay."
+        }
+      ]
+    },
+    {
+      "word": "Ambulance",
+      "ipa": "/ˈæmbjələns/",
+      "meaning": "Xe cứu thương",
+      "example": {
+        "en": "Call ambulance.",
+        "vi": "Gọi xe cứu thương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hurt.",
+          "vi": "Bị thương."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait.",
+          "vi": "Chờ."
+        }
+      ]
+    },
+    {
+      "word": "Police",
+      "ipa": "/pəˈliːs/",
+      "meaning": "Cảnh sát",
+      "example": {
+        "en": "Call police.",
+        "vi": "Gọi cảnh sát."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Thief.",
+          "vi": "Trộm."
+        },
+        {
+          "speaker": "B",
+          "en": "Report.",
+          "vi": "Báo cáo."
+        }
+      ]
+    },
+    {
+      "word": "Fire",
+      "ipa": "/faɪər/",
+      "meaning": "Lửa / Hỏa hoạn",
+      "example": {
+        "en": "Fire alarm.",
+        "vi": "Báo cháy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Run.",
+          "vi": "Chạy."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe.",
+          "vi": "An toàn."
+        }
+      ]
+    },
+    {
+      "word": "Help",
+      "ipa": "/hɛlp/",
+      "meaning": "Giúp đỡ",
+      "example": {
+        "en": "Need help.",
+        "vi": "Cần giúp đỡ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Please.",
+          "vi": "Làm ơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Here.",
+          "vi": "Đây."
+        }
+      ]
+    },
+    {
+      "word": "Danger",
+      "ipa": "/ˈdeɪndʒər/",
+      "meaning": "Nguy hiểm",
+      "example": {
+        "en": "In danger.",
+        "vi": "Gặp nguy hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Watch out.",
+          "vi": "Cẩn thận."
+        },
+        {
+          "speaker": "B",
+          "en": "Scary.",
+          "vi": "Sợ."
+        }
+      ]
+    },
+    {
+      "word": "Accident",
+      "ipa": "/ˈæksɪdənt/",
+      "meaning": "Tai nạn",
+      "example": {
+        "en": "Car accident.",
+        "vi": "Tai nạn xe hơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Crash.",
+          "vi": "Đâm xe."
+        },
+        {
+          "speaker": "B",
+          "en": "Injured.",
+          "vi": "Bị thương."
+        }
+      ]
+    },
+    {
+      "word": "Hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "meaning": "Bệnh viện",
+      "example": {
+        "en": "Go hospital.",
+        "vi": "Đến bệnh viện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sick.",
+          "vi": "Ốm."
+        },
+        {
+          "speaker": "B",
+          "en": "Doctor.",
+          "vi": "Bác sĩ."
+        }
+      ]
+    },
+    {
+      "word": "Thief",
+      "ipa": "/θiːf/",
+      "meaning": "Kẻ trộm",
+      "example": {
+        "en": "Stop thief.",
+        "vi": "Bắt trộm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stole.",
+          "vi": "Đã trộm."
+        },
+        {
+          "speaker": "B",
+          "en": "Catch.",
+          "vi": "Bắt."
+        }
+      ]
+    },
+    {
+      "word": "Lost",
+      "ipa": "/lɒst/",
+      "meaning": "Lạc đường / Mất",
+      "example": {
+        "en": "I am lost.",
+        "vi": "Tôi bị lạc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where?",
+          "vi": "Ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Map.",
+          "vi": "Bản đồ."
+        }
+      ]
+    }
+  ]
 }

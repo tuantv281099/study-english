@@ -1,6 +1,217 @@
 {
   "id": "151",
   "title": "151. IT Support – Hỗ trợ kỹ thuật",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Help",
+      "ipa": "/hɛlp/",
+      "meaning": "Giúp đỡ",
+      "example": {
+        "en": "Help desk.",
+        "vi": "Bàn hỗ trợ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call support.",
+          "vi": "Gọi hỗ trợ."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix issue.",
+          "vi": "Sửa vấn đề."
+        }
+      ]
+    },
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "Phiếu yêu cầu",
+      "example": {
+        "en": "Submit ticket.",
+        "vi": "Gửi phiếu yêu cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Describe problem.",
+          "vi": "Mô tả vấn đề."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait reply.",
+          "vi": "Chờ phản hồi."
+        }
+      ]
+    },
+    {
+      "word": "Fix",
+      "ipa": "/fɪks/",
+      "meaning": "Sửa chữa",
+      "example": {
+        "en": "Fix computer.",
+        "vi": "Sửa máy tính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It works now.",
+          "vi": "Nó hoạt động rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Thank you.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Install",
+      "ipa": "/ɪnˈstɔːl/",
+      "meaning": "Cài đặt",
+      "example": {
+        "en": "Install software.",
+        "vi": "Cài đặt phần mềm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Click setup.",
+          "vi": "Nhấn cài đặt."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait loading.",
+          "vi": "Chờ tải."
+        }
+      ]
+    },
+    {
+      "word": "Update",
+      "ipa": "/ʌpˈdeɪt/",
+      "meaning": "Cập nhật",
+      "example": {
+        "en": "System update.",
+        "vi": "Cập nhật hệ thống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Restart pc.",
+          "vi": "Khởi động lại máy."
+        },
+        {
+          "speaker": "B",
+          "en": "New version.",
+          "vi": "Phiên bản mới."
+        }
+      ]
+    },
+    {
+      "word": "Password",
+      "ipa": "/ˈpæswɜːrd/",
+      "meaning": "Mật khẩu",
+      "example": {
+        "en": "Forgot password.",
+        "vi": "Quên mật khẩu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reset it.",
+          "vi": "Đặt lại nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Check email.",
+          "vi": "Kiểm tra email."
+        }
+      ]
+    },
+    {
+      "word": "Network",
+      "ipa": "/ˈnɛtwɜːrk/",
+      "meaning": "Mạng",
+      "example": {
+        "en": "Network error.",
+        "vi": "Lỗi mạng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No internet.",
+          "vi": "Không có mạng."
+        },
+        {
+          "speaker": "B",
+          "en": "Check router.",
+          "vi": "Kiểm tra bộ định tuyến."
+        }
+      ]
+    },
+    {
+      "word": "Printer",
+      "ipa": "/ˈprɪntər/",
+      "meaning": "Máy in",
+      "example": {
+        "en": "Printer jam.",
+        "vi": "Kẹt giấy máy in."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pull paper.",
+          "vi": "Kéo giấy ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Clear error.",
+          "vi": "Xóa lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Slow",
+      "ipa": "/sloʊ/",
+      "meaning": "Chậm",
+      "example": {
+        "en": "PC is slow.",
+        "vi": "Máy tính chậm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too many apps.",
+          "vi": "Quá nhiều ứng dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Close them.",
+          "vi": "Đóng chúng lại."
+        }
+      ]
+    },
+    {
+      "word": "Backup",
+      "ipa": "/ˈbækʌp/",
+      "meaning": "Sao lưu",
+      "example": {
+        "en": "Restore backup.",
+        "vi": "Khôi phục sao lưu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lost files.",
+          "vi": "Mất tệp."
+        },
+        {
+          "speaker": "B",
+          "en": "Get them back.",
+          "vi": "Lấy lại chúng."
+        }
+      ]
+    }
+  ]
 }

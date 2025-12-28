@@ -1,6 +1,217 @@
 {
   "id": "268",
   "title": "268. Fitness Industry – Thể hình",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Fitness",
+      "ipa": "/ˈfɪtnəs/",
+      "meaning": "Thể hình / Sự khỏe mạnh",
+      "example": {
+        "en": "Fitness goal.",
+        "vi": "Mục tiêu thể hình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Exercise.",
+          "vi": "Tập thể dục."
+        },
+        {
+          "speaker": "B",
+          "en": "Healthy.",
+          "vi": "Khỏe mạnh."
+        }
+      ]
+    },
+    {
+      "word": "Gym",
+      "ipa": "/dʒɪm/",
+      "meaning": "Phòng tập",
+      "example": {
+        "en": "Go to gym.",
+        "vi": "Đến phòng tập."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Workout.",
+          "vi": "Tập luyện."
+        },
+        {
+          "speaker": "B",
+          "en": "Member.",
+          "vi": "Thành viên."
+        }
+      ]
+    },
+    {
+      "word": "Workout",
+      "ipa": "/ˈwɜːrkaʊt/",
+      "meaning": "Buổi tập luyện",
+      "example": {
+        "en": "Morning workout.",
+        "vi": "Buổi tập sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tired.",
+          "vi": "Mệt."
+        },
+        {
+          "speaker": "B",
+          "en": "Sweat.",
+          "vi": "Mồ hôi."
+        }
+      ]
+    },
+    {
+      "word": "Muscle",
+      "ipa": "/ˈmʌsəl/",
+      "meaning": "Cơ bắp",
+      "example": {
+        "en": "Build muscle.",
+        "vi": "Xây dựng cơ bắp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Strong.",
+          "vi": "Khỏe."
+        },
+        {
+          "speaker": "B",
+          "en": "Lift.",
+          "vi": "Nâng."
+        }
+      ]
+    },
+    {
+      "word": "Trainer",
+      "ipa": "/ˈtreɪnər/",
+      "meaning": "Huấn luyện viên",
+      "example": {
+        "en": "Personal trainer.",
+        "vi": "Huấn luyện viên cá nhân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Guide.",
+          "vi": "Hướng dẫn."
+        },
+        {
+          "speaker": "B",
+          "en": "Help.",
+          "vi": "Giúp đỡ."
+        }
+      ]
+    },
+    {
+      "word": "Yoga",
+      "ipa": "/ˈjoʊɡə/",
+      "meaning": "Yoga",
+      "example": {
+        "en": "Do yoga.",
+        "vi": "Tập yoga."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stretch.",
+          "vi": "Kéo dãn."
+        },
+        {
+          "speaker": "B",
+          "en": "Relax.",
+          "vi": "Thư giãn."
+        }
+      ]
+    },
+    {
+      "word": "Diet",
+      "ipa": "/ˈdaɪət/",
+      "meaning": "Chế độ ăn",
+      "example": {
+        "en": "Healthy diet.",
+        "vi": "Chế độ ăn lành mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Food.",
+          "vi": "Thức ăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Nutrition.",
+          "vi": "Dinh dưỡng."
+        }
+      ]
+    },
+    {
+      "word": "Cardio",
+      "ipa": "/ˈkɑːrdioʊ/",
+      "meaning": "Bài tập tim phổi",
+      "example": {
+        "en": "Do cardio.",
+        "vi": "Tập cardio."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Run.",
+          "vi": "Chạy."
+        },
+        {
+          "speaker": "B",
+          "en": "Heart.",
+          "vi": "Tim."
+        }
+      ]
+    },
+    {
+      "word": "Weight",
+      "ipa": "/weɪt/",
+      "meaning": "Cân nặng / Tạ",
+      "example": {
+        "en": "Lift weights.",
+        "vi": "Nâng tạ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Heavy.",
+          "vi": "Nặng."
+        },
+        {
+          "speaker": "B",
+          "en": "Gain.",
+          "vi": "Tăng."
+        }
+      ]
+    },
+    {
+      "word": "Health",
+      "ipa": "/hɛlθ/",
+      "meaning": "Sức khỏe",
+      "example": {
+        "en": "Good health.",
+        "vi": "Sức khỏe tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Care.",
+          "vi": "Quan tâm."
+        },
+        {
+          "speaker": "B",
+          "en": "Body.",
+          "vi": "Cơ thể."
+        }
+      ]
+    }
+  ]
 }

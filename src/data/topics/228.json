@@ -1,6 +1,217 @@
 {
   "id": "228",
   "title": "228. GRE Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Graduate",
+      "ipa": "/ˈɡrædʒuət/",
+      "meaning": "Sau đại học",
+      "example": {
+        "en": "Graduate school.",
+        "vi": "Cao học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Master.",
+          "vi": "Thạc sĩ."
+        },
+        {
+          "speaker": "B",
+          "en": "PhD.",
+          "vi": "Tiến sĩ."
+        }
+      ]
+    },
+    {
+      "word": "Obscure",
+      "ipa": "/əbˈskjʊər/",
+      "meaning": "Mơ hồ / Khó hiểu",
+      "example": {
+        "en": "Obscure word.",
+        "vi": "Từ ngữ khó hiểu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rarely used.",
+          "vi": "Hiếm dùng."
+        },
+        {
+          "speaker": "B",
+          "en": "Dictionary.",
+          "vi": "Từ điển."
+        }
+      ]
+    },
+    {
+      "word": "Verbal",
+      "ipa": "/ˈvɜːrbəl/",
+      "meaning": "Ngôn ngữ",
+      "example": {
+        "en": "Verbal reasoning.",
+        "vi": "Tư duy ngôn ngữ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Vocabulary.",
+          "vi": "Từ vựng."
+        },
+        {
+          "speaker": "B",
+          "en": "Reading.",
+          "vi": "Đọc hiểu."
+        }
+      ]
+    },
+    {
+      "word": "Quantitative",
+      "ipa": "/ˈkwɒntɪtətɪv/",
+      "meaning": "Định lượng (Toán)",
+      "example": {
+        "en": "Quantitative section.",
+        "vi": "Phần định lượng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Numbers.",
+          "vi": "Con số."
+        },
+        {
+          "speaker": "B",
+          "en": "Logic.",
+          "vi": "Logic."
+        }
+      ]
+    },
+    {
+      "word": "Analytical",
+      "ipa": "/ˌænəˈlɪtɪkəl/",
+      "meaning": "Phân tích",
+      "example": {
+        "en": "Analytical writing.",
+        "vi": "Viết phân tích."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Essay.",
+          "vi": "Bài luận."
+        },
+        {
+          "speaker": "B",
+          "en": "Critique.",
+          "vi": "Phê bình."
+        }
+      ]
+    },
+    {
+      "word": "Complex",
+      "ipa": "/ˈkɒmplɛks/",
+      "meaning": "Phức tạp",
+      "example": {
+        "en": "Complex problem.",
+        "vi": "Vấn đề phức tạp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hard to solve.",
+          "vi": "Khó giải."
+        },
+        {
+          "speaker": "B",
+          "en": "Advanced.",
+          "vi": "Nâng cao."
+        }
+      ]
+    },
+    {
+      "word": "Logic",
+      "ipa": "/ˈlɒdʒɪk/",
+      "meaning": "Logic",
+      "example": {
+        "en": "Use logic.",
+        "vi": "Dùng logic."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Deduction.",
+          "vi": "Suy luận."
+        },
+        {
+          "speaker": "B",
+          "en": "Reasoning.",
+          "vi": "Lập luận."
+        }
+      ]
+    },
+    {
+      "word": "Exam",
+      "ipa": "/ɪɡˈzæm/",
+      "meaning": "Kỳ thi",
+      "example": {
+        "en": "GRE exam.",
+        "vi": "Kỳ thi GRE."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Preparation.",
+          "vi": "Chuẩn bị."
+        },
+        {
+          "speaker": "B",
+          "en": "Computer based.",
+          "vi": "Thi trên máy tính."
+        }
+      ]
+    },
+    {
+      "word": "Score",
+      "ipa": "/skɔːr/",
+      "meaning": "Điểm số",
+      "example": {
+        "en": "High score.",
+        "vi": "Điểm cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Admission.",
+          "vi": "Nhập học."
+        },
+        {
+          "speaker": "B",
+          "en": "Percentile.",
+          "vi": "Phần trăm."
+        }
+      ]
+    },
+    {
+      "word": "Study",
+      "ipa": "/ˈstʌdi/",
+      "meaning": "Học tập",
+      "example": {
+        "en": "Study hard.",
+        "vi": "Học chăm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Review book.",
+          "vi": "Sách ôn tập."
+        },
+        {
+          "speaker": "B",
+          "en": "Practice questions.",
+          "vi": "Câu hỏi thực hành."
+        }
+      ]
+    }
+  ]
 }

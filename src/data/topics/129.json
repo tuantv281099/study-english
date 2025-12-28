@@ -1,6 +1,217 @@
 {
   "id": "129",
   "title": "129. Ethics",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Right",
+      "ipa": "/raɪt/",
+      "meaning": "Đúng",
+      "example": {
+        "en": "Do what is right.",
+        "vi": "Làm điều đúng đắn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Follow conscience.",
+          "vi": "Làm theo lương tâm."
+        },
+        {
+          "speaker": "B",
+          "en": "Moral choice.",
+          "vi": "Lựa chọn đạo đức."
+        }
+      ]
+    },
+    {
+      "word": "Wrong",
+      "ipa": "/rɒŋ/",
+      "meaning": "Sai",
+      "example": {
+        "en": "Right or wrong.",
+        "vi": "Đúng hay sai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stealing is wrong.",
+          "vi": "Trộm cắp là sai."
+        },
+        {
+          "speaker": "B",
+          "en": "Bad action.",
+          "vi": "Hành động xấu."
+        }
+      ]
+    },
+    {
+      "word": "Moral",
+      "ipa": "/ˈmɔːrəl/",
+      "meaning": "Đạo đức",
+      "example": {
+        "en": "Moral values.",
+        "vi": "Giá trị đạo đức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be a good person.",
+          "vi": "Làm người tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Honesty.",
+          "vi": "Sự trung thực."
+        }
+      ]
+    },
+    {
+      "word": "Honest",
+      "ipa": "/ˈɒnɪst/",
+      "meaning": "Trung thực",
+      "example": {
+        "en": "Be honest.",
+        "vi": "Hãy trung thực."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tell truth.",
+          "vi": "Nói sự thật."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't lie.",
+          "vi": "Đừng nói dối."
+        }
+      ]
+    },
+    {
+      "word": "Respect",
+      "ipa": "/rɪˈspɛkt/",
+      "meaning": "Tôn trọng",
+      "example": {
+        "en": "Show respect.",
+        "vi": "Thể hiện sự tôn trọng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "To elders.",
+          "vi": "Với người lớn tuổi."
+        },
+        {
+          "speaker": "B",
+          "en": "To everyone.",
+          "vi": "Với mọi người."
+        }
+      ]
+    },
+    {
+      "word": "Duty",
+      "ipa": "/ˈdjuːti/",
+      "meaning": "Bổn phận",
+      "example": {
+        "en": "Moral duty.",
+        "vi": "Bổn phận đạo đức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Help others.",
+          "vi": "Giúp người khác."
+        },
+        {
+          "speaker": "B",
+          "en": "Responsibility.",
+          "vi": "Trách nhiệm."
+        }
+      ]
+    },
+    {
+      "word": "Fair",
+      "ipa": "/fɛər/",
+      "meaning": "Công bằng",
+      "example": {
+        "en": "Play fair.",
+        "vi": "Chơi đẹp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No cheating.",
+          "vi": "Không gian lận."
+        },
+        {
+          "speaker": "B",
+          "en": "Equal rules.",
+          "vi": "Quy tắc bình đẳng."
+        }
+      ]
+    },
+    {
+      "word": "Trust",
+      "ipa": "/trʌst/",
+      "meaning": "Lòng tin",
+      "example": {
+        "en": "Build trust.",
+        "vi": "Xây dựng lòng tin."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Keep promises.",
+          "vi": "Giữ lời hứa."
+        },
+        {
+          "speaker": "B",
+          "en": "Reliable.",
+          "vi": "Đáng tin cậy."
+        }
+      ]
+    },
+    {
+      "word": "Good",
+      "ipa": "/ɡʊd/",
+      "meaning": "Tốt",
+      "example": {
+        "en": "Common good.",
+        "vi": "Lợi ích chung."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Benefit society.",
+          "vi": "Có ích cho xã hội."
+        },
+        {
+          "speaker": "B",
+          "en": "Selfless.",
+          "vi": "Vị tha."
+        }
+      ]
+    },
+    {
+      "word": "Responsibility",
+      "ipa": "/rɪˌspɒnsɪˈbɪlɪti/",
+      "meaning": "Trách nhiệm",
+      "example": {
+        "en": "Social responsibility.",
+        "vi": "Trách nhiệm xã hội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Take care of planet.",
+          "vi": "Chăm sóc hành tinh."
+        },
+        {
+          "speaker": "B",
+          "en": "Recycle.",
+          "vi": "Tái chế."
+        }
+      ]
+    }
+  ]
 }

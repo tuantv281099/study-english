@@ -1,6 +1,217 @@
 {
   "id": "160",
   "title": "160. Digital Marketing – Marketing số",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Ads",
+      "ipa": "/ædz/",
+      "meaning": "Quảng cáo",
+      "example": {
+        "en": "Run ads.",
+        "vi": "Chạy quảng cáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Facebook ads.",
+          "vi": "Quảng cáo Facebook."
+        },
+        {
+          "speaker": "B",
+          "en": "Target audience.",
+          "vi": "Khách hàng mục tiêu."
+        }
+      ]
+    },
+    {
+      "word": "Social",
+      "ipa": "/ˈsoʊʃəl/",
+      "meaning": "Xã hội (mạng)",
+      "example": {
+        "en": "Social marketing.",
+        "vi": "Tiếp thị xã hội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Instagram post.",
+          "vi": "Bài đăng Instagram."
+        },
+        {
+          "speaker": "B",
+          "en": "Engage users.",
+          "vi": "Tương tác người dùng."
+        }
+      ]
+    },
+    {
+      "word": "Content",
+      "ipa": "/ˈkɒntɛnt/",
+      "meaning": "Nội dung",
+      "example": {
+        "en": "Create content.",
+        "vi": "Tạo nội dung."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Viral video.",
+          "vi": "Video lan truyền."
+        },
+        {
+          "speaker": "B",
+          "en": "Write blog.",
+          "vi": "Viết blog."
+        }
+      ]
+    },
+    {
+      "word": "Email",
+      "ipa": "/ˈiːmeɪl/",
+      "meaning": "Email",
+      "example": {
+        "en": "Email list.",
+        "vi": "Danh sách email."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Send newsletter.",
+          "vi": "Gửi bản tin."
+        },
+        {
+          "speaker": "B",
+          "en": "Spam folder.",
+          "vi": "Thư mục rác."
+        }
+      ]
+    },
+    {
+      "word": "SEO",
+      "ipa": "/ˌɛs iː ˈoʊ/",
+      "meaning": "SEO (Tối ưu hóa tìm kiếm)",
+      "example": {
+        "en": "Improve SEO.",
+        "vi": "Cải thiện SEO."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rank higher.",
+          "vi": "Xếp hạng cao hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Keywords.",
+          "vi": "Từ khóa."
+        }
+      ]
+    },
+    {
+      "word": "Traffic",
+      "ipa": "/ˈtræfɪk/",
+      "meaning": "Lưu lượng (truy cập)",
+      "example": {
+        "en": "Web traffic.",
+        "vi": "Lưu lượng web."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "More visitors.",
+          "vi": "Nhiều khách hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Click link.",
+          "vi": "Nhấn liên kết."
+        }
+      ]
+    },
+    {
+      "word": "Brand",
+      "ipa": "/brænd/",
+      "meaning": "Thương hiệu",
+      "example": {
+        "en": "Build brand.",
+        "vi": "Xây dựng thương hiệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Logo.",
+          "vi": "Logo."
+        },
+        {
+          "speaker": "B",
+          "en": "Reputation.",
+          "vi": "Danh tiếng."
+        }
+      ]
+    },
+    {
+      "word": "Target",
+      "ipa": "/ˈtɑːrɡɪt/",
+      "meaning": "Mục tiêu",
+      "example": {
+        "en": "Target market.",
+        "vi": "Thị trường mục tiêu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who buys?",
+          "vi": "Ai mua?"
+        },
+        {
+          "speaker": "B",
+          "en": "Young people.",
+          "vi": "Người trẻ."
+        }
+      ]
+    },
+    {
+      "word": "Campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "meaning": "Chiến dịch",
+      "example": {
+        "en": "Ad campaign.",
+        "vi": "Chiến dịch quảng cáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Start it.",
+          "vi": "Bắt đầu nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Analyze results.",
+          "vi": "Phân tích kết quả."
+        }
+      ]
+    },
+    {
+      "word": "Influencer",
+      "ipa": "/ˈɪnfluənsər/",
+      "meaning": "Người ảnh hưởng",
+      "example": {
+        "en": "Hire influencer.",
+        "vi": "Thuê người ảnh hưởng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Promote product.",
+          "vi": "Quảng bá sản phẩm."
+        },
+        {
+          "speaker": "B",
+          "en": "Many followers.",
+          "vi": "Nhiều người theo dõi."
+        }
+      ]
+    }
+  ]
 }

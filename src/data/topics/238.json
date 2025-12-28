@@ -1,6 +1,217 @@
 {
   "id": "238",
   "title": "238. Prefixes & Suffixes – Tiền tố & hậu tố",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Happy - Unhappy",
+      "ipa": "/ˈhæpi/ - /ʌnˈhæpi/",
+      "meaning": "Vui - Không vui (Tiền tố un-)",
+      "example": {
+        "en": "Unhappy face.",
+        "vi": "Mặt không vui."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sad.",
+          "vi": "Buồn."
+        },
+        {
+          "speaker": "B",
+          "en": "Why?",
+          "vi": "Tại sao?"
+        }
+      ]
+    },
+    {
+      "word": "Possible - Impossible",
+      "ipa": "/ˈpɒsəbəl/ - /ɪmˈpɒsəbəl/",
+      "meaning": "Có thể - Không thể (Tiền tố im-)",
+      "example": {
+        "en": "Mission impossible.",
+        "vi": "Nhiệm vụ bất khả thi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can do.",
+          "vi": "Làm được."
+        },
+        {
+          "speaker": "B",
+          "en": "No way.",
+          "vi": "Không đời nào."
+        }
+      ]
+    },
+    {
+      "word": "Agree - Disagree",
+      "ipa": "/əˈɡriː/ - /ˌdɪsəˈɡriː/",
+      "meaning": "Đồng ý - Không đồng ý (Tiền tố dis-)",
+      "example": {
+        "en": "I disagree.",
+        "vi": "Tôi không đồng ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Yes.",
+          "vi": "Đúng."
+        },
+        {
+          "speaker": "B",
+          "en": "No.",
+          "vi": "Sai."
+        }
+      ]
+    },
+    {
+      "word": "Write - Rewrite",
+      "ipa": "/raɪt/ - /riːˈraɪt/",
+      "meaning": "Viết - Viết lại (Tiền tố re-)",
+      "example": {
+        "en": "Rewrite essay.",
+        "vi": "Viết lại bài luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Again.",
+          "vi": "Lần nữa."
+        },
+        {
+          "speaker": "B",
+          "en": "Better.",
+          "vi": "Tốt hơn."
+        }
+      ]
+    },
+    {
+      "word": "Quick - Quickly",
+      "ipa": "/kwɪk/ - /ˈkwɪkli/",
+      "meaning": "Nhanh - Một cách nhanh chóng (Hậu tố -ly)",
+      "example": {
+        "en": "Run quickly.",
+        "vi": "Chạy nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast.",
+          "vi": "Nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Adverb.",
+          "vi": "Trạng từ."
+        }
+      ]
+    },
+    {
+      "word": "Teach - Teacher",
+      "ipa": "/tiːtʃ/ - /ˈtiːtʃər/",
+      "meaning": "Dạy - Giáo viên (Hậu tố -er)",
+      "example": {
+        "en": "Good teacher.",
+        "vi": "Giáo viên giỏi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn.",
+          "vi": "Học."
+        },
+        {
+          "speaker": "B",
+          "en": "School.",
+          "vi": "Trường học."
+        }
+      ]
+    },
+    {
+      "word": "Act - Actor",
+      "ipa": "/ækt/ - /ˈæktər/",
+      "meaning": "Diễn - Diễn viên (Hậu tố -or)",
+      "example": {
+        "en": "Famous actor.",
+        "vi": "Diễn viên nổi tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Movie.",
+          "vi": "Phim."
+        },
+        {
+          "speaker": "B",
+          "en": "Stage.",
+          "vi": "Sân khấu."
+        }
+      ]
+    },
+    {
+      "word": "Care - Careful",
+      "ipa": "/kɛər/ - /ˈkɛərfʊl/",
+      "meaning": "Quan tâm - Cẩn thận (Hậu tố -ful)",
+      "example": {
+        "en": "Be careful.",
+        "vi": "Hãy cẩn thận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Watch out.",
+          "vi": "Coi chừng."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe.",
+          "vi": "An toàn."
+        }
+      ]
+    },
+    {
+      "word": "Hope - Hopeless",
+      "ipa": "/hoʊp/ - /ˈhoʊplɪs/",
+      "meaning": "Hy vọng - Tuyệt vọng (Hậu tố -less)",
+      "example": {
+        "en": "Hopeless case.",
+        "vi": "Ca tuyệt vọng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No chance.",
+          "vi": "Không cơ hội."
+        },
+        {
+          "speaker": "B",
+          "en": "Sad.",
+          "vi": "Buồn."
+        }
+      ]
+    },
+    {
+      "word": "Active - Action",
+      "ipa": "/ˈæktɪv/ - /ˈækʃən/",
+      "meaning": "Năng động - Hành động (Hậu tố -ion)",
+      "example": {
+        "en": "Take action.",
+        "vi": "Hành động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do it.",
+          "vi": "Làm đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Move.",
+          "vi": "Di chuyển."
+        }
+      ]
+    }
+  ]
 }

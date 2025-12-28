@@ -1,6 +1,217 @@
 {
   "id": "261",
   "title": "261. Manufacturing Vocabulary – Sản xuất",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Factory",
+      "ipa": "/ˈfæktəri/",
+      "meaning": "Nhà máy",
+      "example": {
+        "en": "Big factory.",
+        "vi": "Nhà máy lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Work.",
+          "vi": "Làm việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Produce.",
+          "vi": "Sản xuất."
+        }
+      ]
+    },
+    {
+      "word": "Produce",
+      "ipa": "/prəˈduːs/",
+      "meaning": "Sản xuất",
+      "example": {
+        "en": "Mass produce.",
+        "vi": "Sản xuất hàng loạt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Goods.",
+          "vi": "Hàng hóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Sell.",
+          "vi": "Bán."
+        }
+      ]
+    },
+    {
+      "word": "Assembly",
+      "ipa": "/əˈsɛmbli/",
+      "meaning": "Lắp ráp",
+      "example": {
+        "en": "Assembly line.",
+        "vi": "Dây chuyền lắp ráp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast.",
+          "vi": "Nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Parts.",
+          "vi": "Linh kiện."
+        }
+      ]
+    },
+    {
+      "word": "Quality",
+      "ipa": "/ˈkwɒlɪti/",
+      "meaning": "Chất lượng",
+      "example": {
+        "en": "High quality.",
+        "vi": "Chất lượng cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check.",
+          "vi": "Kiểm tra."
+        },
+        {
+          "speaker": "B",
+          "en": "Standard.",
+          "vi": "Tiêu chuẩn."
+        }
+      ]
+    },
+    {
+      "word": "Machine",
+      "ipa": "/məˈʃiːn/",
+      "meaning": "Máy móc",
+      "example": {
+        "en": "Heavy machine.",
+        "vi": "Máy móc hạng nặng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Operate.",
+          "vi": "Vận hành."
+        },
+        {
+          "speaker": "B",
+          "en": "Noise.",
+          "vi": "Tiếng ồn."
+        }
+      ]
+    },
+    {
+      "word": "Inventory",
+      "ipa": "/ˈɪnvəntɔːri/",
+      "meaning": "Hàng tồn kho",
+      "example": {
+        "en": "Check inventory.",
+        "vi": "Kiểm kê hàng tồn kho."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stock.",
+          "vi": "Kho."
+        },
+        {
+          "speaker": "B",
+          "en": "Count.",
+          "vi": "Đếm."
+        }
+      ]
+    },
+    {
+      "word": "Safety",
+      "ipa": "/ˈseɪfti/",
+      "meaning": "An toàn",
+      "example": {
+        "en": "Safety gear.",
+        "vi": "Thiết bị an toàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Protect.",
+          "vi": "Bảo vệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Helmet.",
+          "vi": "Mũ bảo hiểm."
+        }
+      ]
+    },
+    {
+      "word": "Worker",
+      "ipa": "/ˈwɜːrkər/",
+      "meaning": "Công nhân",
+      "example": {
+        "en": "Skilled worker.",
+        "vi": "Công nhân lành nghề."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Job.",
+          "vi": "Công việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Team.",
+          "vi": "Đội."
+        }
+      ]
+    },
+    {
+      "word": "Raw material",
+      "ipa": "/rɔː məˈtɪəriəl/",
+      "meaning": "Nguyên liệu thô",
+      "example": {
+        "en": "Import raw material.",
+        "vi": "Nhập nguyên liệu thô."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Source.",
+          "vi": "Nguồn."
+        },
+        {
+          "speaker": "B",
+          "en": "Process.",
+          "vi": "Chế biến."
+        }
+      ]
+    },
+    {
+      "word": "Output",
+      "ipa": "/ˈaʊtpʊt/",
+      "meaning": "Sản lượng / Đầu ra",
+      "example": {
+        "en": "Increase output.",
+        "vi": "Tăng sản lượng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Target.",
+          "vi": "Mục tiêu."
+        },
+        {
+          "speaker": "B",
+          "en": "Result.",
+          "vi": "Kết quả."
+        }
+      ]
+    }
+  ]
 }

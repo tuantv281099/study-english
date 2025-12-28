@@ -1,6 +1,217 @@
 {
   "id": "113",
   "title": "113. Conflict & Solutions",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Conflict",
+      "ipa": "/ˈkɒnflɪkt/",
+      "meaning": "Xung đột",
+      "example": {
+        "en": "Resolve conflict.",
+        "vi": "Giải quyết xung đột."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "They are arguing.",
+          "vi": "Họ đang cãi nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop them.",
+          "vi": "Ngăn họ lại."
+        }
+      ]
+    },
+    {
+      "word": "Argue",
+      "ipa": "/ˈɑːrɡjuː/",
+      "meaning": "Tranh luận / Cãi nhau",
+      "example": {
+        "en": "Don't argue.",
+        "vi": "Đừng tranh cãi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I disagree.",
+          "vi": "Tôi không đồng ý."
+        },
+        {
+          "speaker": "B",
+          "en": "Calm down.",
+          "vi": "Bình tĩnh nào."
+        }
+      ]
+    },
+    {
+      "word": "Solve",
+      "ipa": "/sɒlv/",
+      "meaning": "Giải quyết",
+      "example": {
+        "en": "Solve the problem.",
+        "vi": "Giải quyết vấn đề."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Find a way.",
+          "vi": "Tìm cách đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Work it out.",
+          "vi": "Xử lý nó."
+        }
+      ]
+    },
+    {
+      "word": "Negotiate",
+      "ipa": "/nɪˈɡoʊʃieɪt/",
+      "meaning": "Đàm phán",
+      "example": {
+        "en": "Negotiate a deal.",
+        "vi": "Đàm phán một thỏa thuận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Meet halfway.",
+          "vi": "Gặp nhau ở giữa (thỏa hiệp)."
+        },
+        {
+          "speaker": "B",
+          "en": "Win-win.",
+          "vi": "Đôi bên cùng có lợi."
+        }
+      ]
+    },
+    {
+      "word": "Compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "meaning": "Thỏa hiệp",
+      "example": {
+        "en": "Reach a compromise.",
+        "vi": "Đạt được sự thỏa hiệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Give a little.",
+          "vi": "Nhượng bộ một chút."
+        },
+        {
+          "speaker": "B",
+          "en": "Take a little.",
+          "vi": "Nhận một chút."
+        }
+      ]
+    },
+    {
+      "word": "Agree",
+      "ipa": "/əˈɡriː/",
+      "meaning": "Đồng ý",
+      "example": {
+        "en": "I agree with you.",
+        "vi": "Tôi đồng ý với bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Yes, that's right.",
+          "vi": "Vâng, đúng rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Deal.",
+          "vi": "Thỏa thuận xong."
+        }
+      ]
+    },
+    {
+      "word": "Disagree",
+      "ipa": "/ˌdɪsəˈɡriː/",
+      "meaning": "Không đồng ý",
+      "example": {
+        "en": "We disagree.",
+        "vi": "Chúng tôi không đồng ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Different opinion.",
+          "vi": "Ý kiến khác nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Respect it.",
+          "vi": "Tôn trọng nó."
+        }
+      ]
+    },
+    {
+      "word": "Apologize",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "meaning": "Xin lỗi",
+      "example": {
+        "en": "Apologize for mistake.",
+        "vi": "Xin lỗi vì lỗi lầm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I am sorry.",
+          "vi": "Tôi xin lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "Forgiven.",
+          "vi": "Được tha thứ."
+        }
+      ]
+    },
+    {
+      "word": "Forgive",
+      "ipa": "/fərˈɡɪv/",
+      "meaning": "Tha thứ",
+      "example": {
+        "en": "Forgive and forget.",
+        "vi": "Tha thứ và quên đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't hold a grudge.",
+          "vi": "Đừng để bụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Move on.",
+          "vi": "Tiếp tục thôi."
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "ipa": "/ˈlɪsən/",
+      "meaning": "Lắng nghe",
+      "example": {
+        "en": "Listen carefully.",
+        "vi": "Lắng nghe cẩn thận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hear my side.",
+          "vi": "Nghe phía tôi nói này."
+        },
+        {
+          "speaker": "B",
+          "en": "I am listening.",
+          "vi": "Tôi đang nghe đây."
+        }
+      ]
+    }
+  ]
 }

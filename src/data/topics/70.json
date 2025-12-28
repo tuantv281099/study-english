@@ -1,6 +1,217 @@
 {
   "id": "70",
   "title": "70. Animals (Wild)",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Lion",
+      "ipa": "/ˈlaɪən/",
+      "meaning": "Sư tử",
+      "example": {
+        "en": "King of the jungle.",
+        "vi": "Chúa tể rừng xanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The lion roars.",
+          "vi": "Sư tử gầm."
+        },
+        {
+          "speaker": "B",
+          "en": "Scary.",
+          "vi": "Đáng sợ."
+        }
+      ]
+    },
+    {
+      "word": "Tiger",
+      "ipa": "/ˈtaɪɡər/",
+      "meaning": "Hổ",
+      "example": {
+        "en": "Striped tiger.",
+        "vi": "Hổ vằn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I saw a tiger.",
+          "vi": "Tôi đã thấy một con hổ."
+        },
+        {
+          "speaker": "B",
+          "en": "At the zoo?",
+          "vi": "Ở sở thú à?"
+        }
+      ]
+    },
+    {
+      "word": "Elephant",
+      "ipa": "/ˈɛlɪfənt/",
+      "meaning": "Voi",
+      "example": {
+        "en": "Big elephant.",
+        "vi": "Con voi to."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Elephants obey memory.",
+          "vi": "Voi nghe theo trí nhớ."
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, very smart.",
+          "vi": "Đúng, rất thông minh."
+        }
+      ]
+    },
+    {
+      "word": "Monkey",
+      "ipa": "/ˈmʌŋki/",
+      "meaning": "Khỉ",
+      "example": {
+        "en": "Funny monkey.",
+        "vi": "Con khỉ vui nhộn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The monkey ate a banana.",
+          "vi": "Con khỉ ăn chuối."
+        },
+        {
+          "speaker": "B",
+          "en": "So cute.",
+          "vi": "Dễ thương quá."
+        }
+      ]
+    },
+    {
+      "word": "Bear",
+      "ipa": "/bɛər/",
+      "meaning": "Gấu",
+      "example": {
+        "en": "Brown bear.",
+        "vi": "Gấu nâu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't poke the bear.",
+          "vi": "Đừng chọc giận gấu."
+        },
+        {
+          "speaker": "B",
+          "en": "Run away.",
+          "vi": "Chạy đi."
+        }
+      ]
+    },
+    {
+      "word": "Wolf",
+      "ipa": "/wʊlf/",
+      "meaning": "Chó sói",
+      "example": {
+        "en": "Wolf howls.",
+        "vi": "Sói hú."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "A pack of wolves.",
+          "vi": "Một bầy sói."
+        },
+        {
+          "speaker": "B",
+          "en": "Stay close.",
+          "vi": "Ở gần nhau nhé."
+        }
+      ]
+    },
+    {
+      "word": "Fox",
+      "ipa": "/fɒks/",
+      "meaning": "Cáo",
+      "example": {
+        "en": "Clever fox.",
+        "vi": "Con cáo khôn ngoan."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The fox is red.",
+          "vi": "Con cáo màu đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast runner.",
+          "vi": "Chạy nhanh lắm."
+        }
+      ]
+    },
+    {
+      "word": "Deer",
+      "ipa": "/dɪər/",
+      "meaning": "Hươu / Nai",
+      "example": {
+        "en": "Wild deer.",
+        "vi": "Hươu hoang dã."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I hit a deer.",
+          "vi": "Tôi đâm phải một con nai."
+        },
+        {
+          "speaker": "B",
+          "en": "Is the car okay?",
+          "vi": "Xe có sao không?"
+        }
+      ]
+    },
+    {
+      "word": "Zebra",
+      "ipa": "/ˈziːbrə/",
+      "meaning": "Ngựa vằn",
+      "example": {
+        "en": "Black and white zebra.",
+        "vi": "Ngựa vằn đen trắng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It looks like a horse.",
+          "vi": "Nó trông giống ngựa."
+        },
+        {
+          "speaker": "B",
+          "en": "But striped.",
+          "vi": "Nhưng có vằn."
+        }
+      ]
+    },
+    {
+      "word": "Giraffe",
+      "ipa": "/dʒɪˈræf/",
+      "meaning": "Hươu cao cổ",
+      "example": {
+        "en": "Tall giraffe.",
+        "vi": "Hươu cao cổ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Long neck.",
+          "vi": "Cổ dài."
+        },
+        {
+          "speaker": "B",
+          "en": "It eats leaves.",
+          "vi": "Nó ăn lá cây."
+        }
+      ]
+    }
+  ]
 }

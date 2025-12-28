@@ -1,6 +1,217 @@
 {
   "id": "270",
   "title": "270. Human Resources – Nhân sự",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Recruit",
+      "ipa": "/rɪˈkruːt/",
+      "meaning": "Tuyển dụng",
+      "example": {
+        "en": "Recruit staff.",
+        "vi": "Tuyển nhân viên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hire.",
+          "vi": "Thuê."
+        },
+        {
+          "speaker": "B",
+          "en": "Talent.",
+          "vi": "Tài năng."
+        }
+      ]
+    },
+    {
+      "word": "Interview",
+      "ipa": "/ˈɪntərvjuː/",
+      "meaning": "Phỏng vấn",
+      "example": {
+        "en": "Job interview.",
+        "vi": "Phỏng vấn xin việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Questions.",
+          "vi": "Câu hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Impress.",
+          "vi": "Gây ấn tượng."
+        }
+      ]
+    },
+    {
+      "word": "Salary",
+      "ipa": "/ˈsæləri/",
+      "meaning": "Lương",
+      "example": {
+        "en": "High salary.",
+        "vi": "Lương cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pay.",
+          "vi": "Trả."
+        },
+        {
+          "speaker": "B",
+          "en": "Month.",
+          "vi": "Tháng."
+        }
+      ]
+    },
+    {
+      "word": "Contract",
+      "ipa": "/ˈkɒntrækt/",
+      "meaning": "Hợp đồng",
+      "example": {
+        "en": "Sign contract.",
+        "vi": "Ký hợp đồng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Terms.",
+          "vi": "Điều khoản."
+        },
+        {
+          "speaker": "B",
+          "en": "Job.",
+          "vi": "Công việc."
+        }
+      ]
+    },
+    {
+      "word": "Resume",
+      "ipa": "/rɪˈzjuːm/",
+      "meaning": "Sơ yếu lý lịch (CV)",
+      "example": {
+        "en": "Send resume.",
+        "vi": "Gửi CV."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Experience.",
+          "vi": "Kinh nghiệm."
+        },
+        {
+          "speaker": "B",
+          "en": "Skill.",
+          "vi": "Kỹ năng."
+        }
+      ]
+    },
+    {
+      "word": "Training",
+      "ipa": "/ˈtreɪnɪŋ/",
+      "meaning": "Đào tạo",
+      "example": {
+        "en": "Staff training.",
+        "vi": "Đào tạo nhân viên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn.",
+          "vi": "Học."
+        },
+        {
+          "speaker": "B",
+          "en": "Improve.",
+          "vi": "Cải thiện."
+        }
+      ]
+    },
+    {
+      "word": "Employee",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "meaning": "Nhân viên",
+      "example": {
+        "en": "New employee.",
+        "vi": "Nhân viên mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Welcome.",
+          "vi": "Chào mừng."
+        },
+        {
+          "speaker": "B",
+          "en": "Team.",
+          "vi": "Nhóm."
+        }
+      ]
+    },
+    {
+      "word": "Employer",
+      "ipa": "/ɪmˈplɔɪər/",
+      "meaning": "Nhà tuyển dụng / Ông chủ",
+      "example": {
+        "en": "Good employer.",
+        "vi": "Ông chủ tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Boss.",
+          "vi": "Sếp."
+        },
+        {
+          "speaker": "B",
+          "en": "Rules.",
+          "vi": "Quy định."
+        }
+      ]
+    },
+    {
+      "word": "Promotion",
+      "ipa": "/prəˈmoʊʃən/",
+      "meaning": "Thăng chức",
+      "example": {
+        "en": "Get promotion.",
+        "vi": "Được thăng chức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Work hard.",
+          "vi": "Làm việc chăm chỉ."
+        },
+        {
+          "speaker": "B",
+          "en": "Success.",
+          "vi": "Thành công."
+        }
+      ]
+    },
+    {
+      "word": "Benefits",
+      "ipa": "/ˈbɛnɪfɪts/",
+      "meaning": "Phúc lợi",
+      "example": {
+        "en": "Job benefits.",
+        "vi": "Phúc lợi công việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Insurance.",
+          "vi": "Bảo hiểm."
+        },
+        {
+          "speaker": "B",
+          "en": "Bonus.",
+          "vi": "Thưởng."
+        }
+      ]
+    }
+  ]
 }

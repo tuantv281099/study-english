@@ -1,6 +1,217 @@
 {
   "id": "209",
   "title": "209. Compliments – Khen ngợi",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Compliment",
+      "ipa": "/ˈkɒmplɪmənt/",
+      "meaning": "Lời khen",
+      "example": {
+        "en": "Give compliment.",
+        "vi": "Đưa ra lời khen."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice hair.",
+          "vi": "Tóc đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Thank you.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Nice",
+      "ipa": "/naɪs/",
+      "meaning": "Đẹp / Tốt",
+      "example": {
+        "en": "Looks nice.",
+        "vi": "Trông đẹp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New dress.",
+          "vi": "Váy mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Fits well.",
+          "vi": "Vừa vặn."
+        }
+      ]
+    },
+    {
+      "word": "Great",
+      "ipa": "/ɡreɪt/",
+      "meaning": "Tuyệt vời",
+      "example": {
+        "en": "Great job.",
+        "vi": "Làm tốt lắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Finished work.",
+          "vi": "Xong việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Proud.",
+          "vi": "Tự hào."
+        }
+      ]
+    },
+    {
+      "word": "Amazing",
+      "ipa": "/əˈmeɪzɪŋ/",
+      "meaning": "Kinh ngạc / Tuyệt",
+      "example": {
+        "en": "You are amazing.",
+        "vi": "Bạn thật tuyệt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Talented.",
+          "vi": "Tài năng."
+        },
+        {
+          "speaker": "B",
+          "en": "Blushing.",
+          "vi": "Đỏ mặt."
+        }
+      ]
+    },
+    {
+      "word": "Beautiful",
+      "ipa": "/ˈbjuːtɪfʊl/",
+      "meaning": "Xinh đẹp",
+      "example": {
+        "en": "Beautiful smile.",
+        "vi": "Nụ cười đẹp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Charming.",
+          "vi": "Duyên dáng."
+        },
+        {
+          "speaker": "B",
+          "en": "So sweet.",
+          "vi": "Ngọt ngào quá."
+        }
+      ]
+    },
+    {
+      "word": "Like",
+      "ipa": "/laɪk/",
+      "meaning": "Thích",
+      "example": {
+        "en": "I like it.",
+        "vi": "Tôi thích nó."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Your style.",
+          "vi": "Phong cách bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Unique.",
+          "vi": "Độc đáo."
+        }
+      ]
+    },
+    {
+      "word": "Well done",
+      "ipa": "/wɛl dʌn/",
+      "meaning": "Làm tốt lắm",
+      "example": {
+        "en": "Well done you.",
+        "vi": "Bạn làm tốt lắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High score.",
+          "vi": "Điểm cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Hard work.",
+          "vi": "Chăm chỉ."
+        }
+      ]
+    },
+    {
+      "word": "Good",
+      "ipa": "/ɡʊd/",
+      "meaning": "Tốt",
+      "example": {
+        "en": "Good idea.",
+        "vi": "Ý hay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smart.",
+          "vi": "Thông minh."
+        },
+        {
+          "speaker": "B",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Perfect",
+      "ipa": "/ˈpɜːrfɛkt/",
+      "meaning": "Hoàn hảo",
+      "example": {
+        "en": "Just perfect.",
+        "vi": "Thật hoàn hảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No mistakes.",
+          "vi": "Không lỗi nào."
+        },
+        {
+          "speaker": "B",
+          "en": "Excellent.",
+          "vi": "Xuất sắc."
+        }
+      ]
+    },
+    {
+      "word": "Admire",
+      "ipa": "/ədˈmaɪər/",
+      "meaning": "Ngưỡng mộ",
+      "example": {
+        "en": "I admire you.",
+        "vi": "Tôi ngưỡng mộ bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Role model.",
+          "vi": "Hình mẫu."
+        },
+        {
+          "speaker": "B",
+          "en": "Inspiring.",
+          "vi": "Truyền cảm hứng."
+        }
+      ]
+    }
+  ]
 }

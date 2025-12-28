@@ -1,6 +1,217 @@
 {
   "id": "76",
   "title": "76. Zoo Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Cage",
+      "ipa": "/keɪdʒ/",
+      "meaning": "Cái lồng",
+      "example": {
+        "en": "Lion in a cage.",
+        "vi": "Sư tử trong lồng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't get close.",
+          "vi": "Đừng lại gần."
+        },
+        {
+          "speaker": "B",
+          "en": "It is safe.",
+          "vi": "An toàn mà."
+        }
+      ]
+    },
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "Vé",
+      "example": {
+        "en": "Buy a zoo ticket.",
+        "vi": "Mua vé sở thú."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How much?",
+          "vi": "Bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "en": "Ten dollars.",
+          "vi": "Mười đô la."
+        }
+      ]
+    },
+    {
+      "word": "Guide",
+      "ipa": "/ɡaɪd/",
+      "meaning": "Hướng dẫn viên",
+      "example": {
+        "en": "Tour guide.",
+        "vi": "Hướng dẫn viên du lịch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Listen to the guide.",
+          "vi": "Nghe hướng dẫn viên đi."
+        },
+        {
+          "speaker": "B",
+          "en": "He knows facts.",
+          "vi": "Anh ấy biết nhiều thông tin."
+        }
+      ]
+    },
+    {
+      "word": "Map",
+      "ipa": "/mæp/",
+      "meaning": "Bản đồ",
+      "example": {
+        "en": "Zoo map.",
+        "vi": "Bản đồ sở thú."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where are the pandas?",
+          "vi": "Gấu trúc ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Check the map.",
+          "vi": "Xem bản đồ đi."
+        }
+      ]
+    },
+    {
+      "word": "Feed",
+      "ipa": "/fiːd/",
+      "meaning": "Cho ăn",
+      "example": {
+        "en": "Do not feed animals.",
+        "vi": "Không cho động vật ăn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can I give it bread?",
+          "vi": "Tôi cho nó bánh mì được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, forbidden.",
+          "vi": "Không, bị cấm đấy."
+        }
+      ]
+    },
+    {
+      "word": "Show",
+      "ipa": "/ʃoʊ/",
+      "meaning": "Buổi biểu diễn",
+      "example": {
+        "en": "Dolphin show.",
+        "vi": "Biểu diễn cá heo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "When does it start?",
+          "vi": "Khi nào bắt đầu?"
+        },
+        {
+          "speaker": "B",
+          "en": "At noon.",
+          "vi": "Lúc trưa."
+        }
+      ]
+    },
+    {
+      "word": "Keeper",
+      "ipa": "/ˈkiːpər/",
+      "meaning": "Người trông coi",
+      "example": {
+        "en": "Zoo keeper.",
+        "vi": "Người trông coi sở thú."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "He feeds them.",
+          "vi": "Anh ấy cho chúng ăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Dangerous job.",
+          "vi": "Công việc nguy hiểm."
+        }
+      ]
+    },
+    {
+      "word": "Visit",
+      "ipa": "/ˈvɪzɪt/",
+      "meaning": "Tham quan",
+      "example": {
+        "en": "Visit the zoo.",
+        "vi": "Tham quan sở thú."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Class trip.",
+          "vi": "Chuyến đi của lớp."
+        },
+        {
+          "speaker": "B",
+          "en": "So fun.",
+          "vi": "Vui quá."
+        }
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "ipa": "/ˌsuːvəˈnɪər/",
+      "meaning": "Quà lưu niệm",
+      "example": {
+        "en": "Buy a souvenir.",
+        "vi": "Mua quà lưu niệm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I want a plush toy.",
+          "vi": "Tôi muốn con thú bông."
+        },
+        {
+          "speaker": "B",
+          "en": "Too expensive.",
+          "vi": "Đắt quá."
+        }
+      ]
+    },
+    {
+      "word": "Entrance",
+      "ipa": "/ˈɛntrəns/",
+      "meaning": "Lối vào",
+      "example": {
+        "en": "Meet at the entrance.",
+        "vi": "Gặp nhau ở lối vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the gate?",
+          "vi": "Cổng ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Over there.",
+          "vi": "Đằng kia."
+        }
+      ]
+    }
+  ]
 }

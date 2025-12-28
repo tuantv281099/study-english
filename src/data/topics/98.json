@@ -1,6 +1,217 @@
 {
   "id": "98",
   "title": "98. University Life",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Campus",
+      "ipa": "/ˈkæmpəs/",
+      "meaning": "Khuôn viên trường",
+      "example": {
+        "en": "Big campus.",
+        "vi": "Khuôn viên rộng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Walk on campus.",
+          "vi": "Đi dạo trong trường."
+        },
+        {
+          "speaker": "B",
+          "en": "Beautiful trees.",
+          "vi": "Cây đẹp quá."
+        }
+      ]
+    },
+    {
+      "word": "Dormitory",
+      "ipa": "/ˈdɔːrmɪtɔːri/",
+      "meaning": "Ký túc xá",
+      "example": {
+        "en": "Live in dormitory.",
+        "vi": "Sống ở ký túc xá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Shared room.",
+          "vi": "Phòng chung."
+        },
+        {
+          "speaker": "B",
+          "en": "Fun life.",
+          "vi": "Cuộc sống vui vẻ."
+        }
+      ]
+    },
+    {
+      "word": "Major",
+      "ipa": "/ˈmeɪdʒər/",
+      "meaning": "Chuyên ngành",
+      "example": {
+        "en": "Choose a major.",
+        "vi": "Chọn chuyên ngành."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your major?",
+          "vi": "Bạn học ngành gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Biology.",
+          "vi": "Sinh học."
+        }
+      ]
+    },
+    {
+      "word": "Lecture",
+      "ipa": "/ˈlɛktʃər/",
+      "meaning": "Bài giảng",
+      "example": {
+        "en": "Attend a lecture.",
+        "vi": "Tham dự bài giảng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Take notes.",
+          "vi": "Ghi chép."
+        },
+        {
+          "speaker": "B",
+          "en": "Interesting topic.",
+          "vi": "Chủ đề thú vị."
+        }
+      ]
+    },
+    {
+      "word": "Degree",
+      "ipa": "/dɪˈɡriː/",
+      "meaning": "Bằng cấp",
+      "example": {
+        "en": "University degree.",
+        "vi": "Bằng đại học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Get a job.",
+          "vi": "Tìm việc."
+        },
+        {
+          "speaker": "B",
+          "en": "After graduation.",
+          "vi": "Sau khi tốt nghiệp."
+        }
+      ]
+    },
+    {
+      "word": "Tuition",
+      "ipa": "/tuˈɪʃən/",
+      "meaning": "Học phí",
+      "example": {
+        "en": "Pay tuition.",
+        "vi": "Đóng học phí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Expensive.",
+          "vi": "Đắt đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Apply for scholarship.",
+          "vi": "Xin học bổng đi."
+        }
+      ]
+    },
+    {
+      "word": "Graduate",
+      "ipa": "/ˈɡrædʒuət/",
+      "meaning": "Tốt nghiệp",
+      "example": {
+        "en": "Graduate soon.",
+        "vi": "Sắp tốt nghiệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ceremony.",
+          "vi": "Buổi lễ."
+        },
+        {
+          "speaker": "B",
+          "en": "Throw cap.",
+          "vi": "Tung mũ."
+        }
+      ]
+    },
+    {
+      "word": "Club",
+      "ipa": "/klʌb/",
+      "meaning": "Câu lạc bộ",
+      "example": {
+        "en": "Join a club.",
+        "vi": "Tham gia câu lạc bộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Chess club.",
+          "vi": "CLB cờ vua."
+        },
+        {
+          "speaker": "B",
+          "en": "Make friends.",
+          "vi": "Kết bạn."
+        }
+      ]
+    },
+    {
+      "word": "Thesis",
+      "ipa": "/ˈθiːsɪs/",
+      "meaning": "Luận văn",
+      "example": {
+        "en": "Write a thesis.",
+        "vi": "Viết luận văn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lot of research.",
+          "vi": "Nghiên cứu nhiều lắm."
+        },
+        {
+          "speaker": "B",
+          "en": "Final project.",
+          "vi": "Dự án cuối cùng."
+        }
+      ]
+    },
+    {
+      "word": "Semester",
+      "ipa": "/sɪˈmɛstər/",
+      "meaning": "Học kỳ",
+      "example": {
+        "en": "Spring semester.",
+        "vi": "Học kỳ mùa xuân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Break time.",
+          "vi": "Giờ nghỉ giải lao."
+        },
+        {
+          "speaker": "B",
+          "en": "Exams coming.",
+          "vi": "Kỳ thi sắp đến."
+        }
+      ]
+    }
+  ]
 }

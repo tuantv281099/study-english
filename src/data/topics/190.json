@@ -1,6 +1,217 @@
 {
   "id": "190",
   "title": "190. Museums & Galleries – Bảo tàng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Museum",
+      "ipa": "/mjuːˈziːəm/",
+      "meaning": "Bảo tàng",
+      "example": {
+        "en": "Visit museum.",
+        "vi": "Thăm bảo tàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ancient artifacts.",
+          "vi": "Cổ vật."
+        },
+        {
+          "speaker": "B",
+          "en": "History.",
+          "vi": "Lịch sử."
+        }
+      ]
+    },
+    {
+      "word": "Gallery",
+      "ipa": "/ˈɡæləri/",
+      "meaning": "Phòng trưng bày",
+      "example": {
+        "en": "Art gallery.",
+        "vi": "Phòng trưng bày nghệ thuật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Paintings.",
+          "vi": "Tranh vẽ."
+        },
+        {
+          "speaker": "B",
+          "en": "Sculptures.",
+          "vi": "Tượng điêu khắc."
+        }
+      ]
+    },
+    {
+      "word": "Exhibit",
+      "ipa": "/ɪɡˈzɪbɪt/",
+      "meaning": "Triển lãm / Vật trưng bày",
+      "example": {
+        "en": "New exhibit.",
+        "vi": "Triển lãm mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dinosaur bones.",
+          "vi": "Xương khủng long."
+        },
+        {
+          "speaker": "B",
+          "en": "Impressive.",
+          "vi": "Ấn tượng."
+        }
+      ]
+    },
+    {
+      "word": "Tour",
+      "ipa": "/tʊər/",
+      "meaning": "Chuyến tham quan",
+      "example": {
+        "en": "Guided tour.",
+        "vi": "Chuyến tham quan có hướng dẫn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Audio guide.",
+          "vi": "Hướng dẫn âm thanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Learn more.",
+          "vi": "Học hỏi thêm."
+        }
+      ]
+    },
+    {
+      "word": "Artifact",
+      "ipa": "/ˈɑːrtɪfækt/",
+      "meaning": "Cổ vật / Hiện vật",
+      "example": {
+        "en": "Rare artifact.",
+        "vi": "Hiện vật quý hiếm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Very old.",
+          "vi": "Rất cũ."
+        },
+        {
+          "speaker": "B",
+          "en": "Handle with care.",
+          "vi": "Cầm cẩn thận."
+        }
+      ]
+    },
+    {
+      "word": "Display",
+      "ipa": "/dɪˈspleɪ/",
+      "meaning": "Trưng bày",
+      "example": {
+        "en": "On display.",
+        "vi": "Đang được trưng bày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Glass case.",
+          "vi": "Tủ kính."
+        },
+        {
+          "speaker": "B",
+          "en": "Protect it.",
+          "vi": "Bảo vệ nó."
+        }
+      ]
+    },
+    {
+      "word": "History",
+      "ipa": "/ˈhɪstəri/",
+      "meaning": "Lịch sử",
+      "example": {
+        "en": "Natural history.",
+        "vi": "Lịch sử tự nhiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Past times.",
+          "vi": "Thời xưa."
+        },
+        {
+          "speaker": "B",
+          "en": "Evolution.",
+          "vi": "Tiến hóa."
+        }
+      ]
+    },
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "Vé",
+      "example": {
+        "en": "Buy ticket.",
+        "vi": "Mua vé."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Admission fee.",
+          "vi": "Phí vào cửa."
+        },
+        {
+          "speaker": "B",
+          "en": "Student discount.",
+          "vi": "Giảm giá sinh viên."
+        }
+      ]
+    },
+    {
+      "word": "Information",
+      "ipa": "/ˌɪnfərˈmeɪʃən/",
+      "meaning": "Thông tin",
+      "example": {
+        "en": "Information desk.",
+        "vi": "Quầy thông tin."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask map.",
+          "vi": "Hỏi bản đồ."
+        },
+        {
+          "speaker": "B",
+          "en": "Get help.",
+          "vi": "Nhận giúp đỡ."
+        }
+      ]
+    },
+    {
+      "word": "Gift",
+      "ipa": "/ɡɪft/",
+      "meaning": "Quà tặng",
+      "example": {
+        "en": "Gift shop.",
+        "vi": "Cửa hàng quà tặng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Souvenirs.",
+          "vi": "Đồ lưu niệm."
+        },
+        {
+          "speaker": "B",
+          "en": "Postcards.",
+          "vi": "Bưu thiếp."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "57",
   "title": "57. Fitness & Exercise",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Gym",
+      "ipa": "/dʒɪm/",
+      "meaning": "Phòng tập thể dục",
+      "example": {
+        "en": "Go to the gym.",
+        "vi": "Đến phòng tập đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you go to the gym?",
+          "vi": "Bạn có đi tập gym không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, every day.",
+          "vi": "Có, mỗi ngày."
+        }
+      ]
+    },
+    {
+      "word": "Run",
+      "ipa": "/rʌn/",
+      "meaning": "Chạy",
+      "example": {
+        "en": "Run fast.",
+        "vi": "Chạy nhanh lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I like to run.",
+          "vi": "Tôi thích chạy bộ."
+        },
+        {
+          "speaker": "B",
+          "en": "It is good cardio.",
+          "vi": "Tốt cho tim mạch đấy."
+        }
+      ]
+    },
+    {
+      "word": "Walk",
+      "ipa": "/wɔːk/",
+      "meaning": "Đi bộ",
+      "example": {
+        "en": "Walk in the park.",
+        "vi": "Đi bộ trong công viên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let's go for a walk.",
+          "vi": "Đi dạo đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Nice idea.",
+          "vi": "Ý hay đấy."
+        }
+      ]
+    },
+    {
+      "word": "Push",
+      "ipa": "/pʊʃ/",
+      "meaning": "Đẩy",
+      "example": {
+        "en": "Push hard.",
+        "vi": "Đẩy mạnh vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Push-ups are hard.",
+          "vi": "Hít đất khó quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Keep trying.",
+          "vi": "Cố lên."
+        }
+      ]
+    },
+    {
+      "word": "Pull",
+      "ipa": "/pʊl/",
+      "meaning": "Kéo",
+      "example": {
+        "en": "Pull the rope.",
+        "vi": "Kéo dây đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pull usage.",
+          "vi": "Sử dụng lực kéo."
+        },
+        {
+          "speaker": "B",
+          "en": "Be strong.",
+          "vi": "Mạnh mẽ lên."
+        }
+      ]
+    },
+    {
+      "word": "Strong",
+      "ipa": "/strɒŋ/",
+      "meaning": "Khỏe mạnh",
+      "example": {
+        "en": "He is strong.",
+        "vi": "Anh ấy rất khỏe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I want to be strong.",
+          "vi": "Tôi muốn khỏe mạnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Lift weights.",
+          "vi": "Nâng tạ đi."
+        }
+      ]
+    },
+    {
+      "word": "Weak",
+      "ipa": "/wiːk/",
+      "meaning": "Yếu",
+      "example": {
+        "en": "I feel weak.",
+        "vi": "Tôi thấy yếu quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't be weak.",
+          "vi": "Đừng yếu đuối."
+        },
+        {
+          "speaker": "B",
+          "en": "I need food.",
+          "vi": "Tôi cần ăn."
+        }
+      ]
+    },
+    {
+      "word": "Fit",
+      "ipa": "/fɪt/",
+      "meaning": "Cân đối / Khỏe khoắn",
+      "example": {
+        "en": "Stay fit.",
+        "vi": "Giữ dáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You look fit.",
+          "vi": "Trông bạn cân đối đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Yoga",
+      "ipa": "/ˈjoʊɡə/",
+      "meaning": "Yoga",
+      "example": {
+        "en": "Practice yoga.",
+        "vi": "Tập yoga."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Yoga is relaxing.",
+          "vi": "Yoga rất thư giãn."
+        },
+        {
+          "speaker": "B",
+          "en": "I want to try.",
+          "vi": "Tôi muốn thử."
+        }
+      ]
+    },
+    {
+      "word": "Sport",
+      "ipa": "/spɔːrt/",
+      "meaning": "Thể thao",
+      "example": {
+        "en": "Play a sport.",
+        "vi": "Chơi thể thao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your favorite sport?",
+          "vi": "Môn thể thao yêu thích của bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Soccer.",
+          "vi": "Bóng đá."
+        }
+      ]
+    }
+  ]
 }

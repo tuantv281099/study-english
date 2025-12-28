@@ -1,6 +1,217 @@
 {
   "id": "272",
   "title": "272. Risk Management – Quản lý rủi ro",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Risk",
+      "ipa": "/rɪsk/",
+      "meaning": "Rủi ro",
+      "example": {
+        "en": "High risk.",
+        "vi": "Rủi ro cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Danger.",
+          "vi": "Nguy hiểm."
+        },
+        {
+          "speaker": "B",
+          "en": "Chance.",
+          "vi": "Cơ hội."
+        }
+      ]
+    },
+    {
+      "word": "Manage",
+      "ipa": "/ˈmænɪdʒ/",
+      "meaning": "Quản lý",
+      "example": {
+        "en": "Manage crisis.",
+        "vi": "Quản lý khủng hoảng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Control.",
+          "vi": "Kiểm soát."
+        },
+        {
+          "speaker": "B",
+          "en": "Handle.",
+          "vi": "Xử lý."
+        }
+      ]
+    },
+    {
+      "word": "Assess",
+      "ipa": "/əˈsɛs/",
+      "meaning": "Đánh giá",
+      "example": {
+        "en": "Assess damage.",
+        "vi": "Đánh giá thiệt hại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check.",
+          "vi": "Kiểm tra."
+        },
+        {
+          "speaker": "B",
+          "en": "Evaluate.",
+          "vi": "Định giá."
+        }
+      ]
+    },
+    {
+      "word": "Plan",
+      "ipa": "/plæn/",
+      "meaning": "Kế hoạch",
+      "example": {
+        "en": "Contingency plan.",
+        "vi": "Kế hoạch dự phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Prepare.",
+          "vi": "Chuẩn bị."
+        },
+        {
+          "speaker": "B",
+          "en": "Ready.",
+          "vi": "Sẵn sàng."
+        }
+      ]
+    },
+    {
+      "word": "Safety",
+      "ipa": "/ˈseɪfti/",
+      "meaning": "An toàn",
+      "example": {
+        "en": "Safety measure.",
+        "vi": "Biện pháp an toàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Protect.",
+          "vi": "Bảo vệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Secure.",
+          "vi": "An tâm."
+        }
+      ]
+    },
+    {
+      "word": "Avoid",
+      "ipa": "/əˈvɔɪd/",
+      "meaning": "Tránh",
+      "example": {
+        "en": "Avoid mistake.",
+        "vi": "Tránh sai lầm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Careful.",
+          "vi": "Cẩn thận."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop.",
+          "vi": "Dừng lại."
+        }
+      ]
+    },
+    {
+      "word": "Crisis",
+      "ipa": "/ˈkraɪsɪs/",
+      "meaning": "Khủng hoảng",
+      "example": {
+        "en": "Financial crisis.",
+        "vi": "Khủng hoảng tài chính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Panic.",
+          "vi": "Hoảng loạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Calm.",
+          "vi": "Bình tĩnh."
+        }
+      ]
+    },
+    {
+      "word": "Reduce",
+      "ipa": "/rɪˈduːs/",
+      "meaning": "Giảm thiểu",
+      "example": {
+        "en": "Reduce risk.",
+        "vi": "Giảm thiểu rủi ro."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lower.",
+          "vi": "Hạ thấp."
+        },
+        {
+          "speaker": "B",
+          "en": "Less.",
+          "vi": "Ít hơn."
+        }
+      ]
+    },
+    {
+      "word": "Insurance",
+      "ipa": "/ɪnˈʃʊərəns/",
+      "meaning": "Bảo hiểm",
+      "example": {
+        "en": "Buy insurance.",
+        "vi": "Mua bảo hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cover.",
+          "vi": "Bảo vệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Pay.",
+          "vi": "Chi trả."
+        }
+      ]
+    },
+    {
+      "word": "Analysis",
+      "ipa": "/əˈnælɪsɪs/",
+      "meaning": "Phân tích",
+      "example": {
+        "en": "Risk analysis.",
+        "vi": "Phân tích rủi ro."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Data.",
+          "vi": "Dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Result.",
+          "vi": "Kết quả."
+        }
+      ]
+    }
+  ]
 }

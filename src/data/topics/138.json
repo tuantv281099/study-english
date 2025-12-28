@@ -1,6 +1,217 @@
 {
   "id": "138",
   "title": "138. Password & Security",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Password",
+      "ipa": "/ˈpæswɜːrd/",
+      "meaning": "Mật khẩu",
+      "example": {
+        "en": "Strong password.",
+        "vi": "Mật khẩu mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Use numbers.",
+          "vi": "Dùng số."
+        },
+        {
+          "speaker": "B",
+          "en": "Mix letters.",
+          "vi": "Trộn chữ cái."
+        }
+      ]
+    },
+    {
+      "word": "Secure",
+      "ipa": "/sɪˈkjʊər/",
+      "meaning": "An toàn / Bảo mật",
+      "example": {
+        "en": "Secure site.",
+        "vi": "Trang web bảo mật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lock icon.",
+          "vi": "Biểu tượng ổ khóa."
+        },
+        {
+          "speaker": "B",
+          "en": "https.",
+          "vi": "https."
+        }
+      ]
+    },
+    {
+      "word": "Login",
+      "ipa": "/ˈlɒɡɪn/",
+      "meaning": "Đăng nhập",
+      "example": {
+        "en": "Login page.",
+        "vi": "Trang đăng nhập."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Username.",
+          "vi": "Tên người dùng."
+        },
+        {
+          "speaker": "B",
+          "en": "Forgot password?",
+          "vi": "Quên mật khẩu?"
+        }
+      ]
+    },
+    {
+      "word": "Access",
+      "ipa": "/ˈæksɛs/",
+      "meaning": "Truy cập",
+      "example": {
+        "en": "Access denied.",
+        "vi": "Truy cập bị từ chối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wrong code.",
+          "vi": "Mã sai."
+        },
+        {
+          "speaker": "B",
+          "en": "Try again.",
+          "vi": "Thử lại."
+        }
+      ]
+    },
+    {
+      "word": "Protect",
+      "ipa": "/prəˈtɛkt/",
+      "meaning": "Bảo vệ",
+      "example": {
+        "en": "Protect data.",
+        "vi": "Bảo vệ dữ liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Encryption.",
+          "vi": "Mã hóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe.",
+          "vi": "An toàn."
+        }
+      ]
+    },
+    {
+      "word": "Verify",
+      "ipa": "/ˈvɛrɪfaɪ/",
+      "meaning": "Xác minh",
+      "example": {
+        "en": "Verify identity.",
+        "vi": "Xác minh danh tính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Two steps.",
+          "vi": "Hai bước."
+        },
+        {
+          "speaker": "B",
+          "en": "Code sent.",
+          "vi": "Mã đã gửi."
+        }
+      ]
+    },
+    {
+      "word": "Auth",
+      "ipa": "/ɔːθ/",
+      "meaning": "Xác thực (viết tắt)",
+      "example": {
+        "en": "Two-factor auth.",
+        "vi": "Xác thực hai yếu tố."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Extra layer.",
+          "vi": "Lớp bảo vệ thêm."
+        },
+        {
+          "speaker": "B",
+          "en": "Phone code.",
+          "vi": "Mã qua điện thoại."
+        }
+      ]
+    },
+    {
+      "word": "Backup",
+      "ipa": "/ˈbækʌp/",
+      "meaning": "Sao lưu",
+      "example": {
+        "en": "Backup files.",
+        "vi": "Sao lưu tệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't lose data.",
+          "vi": "Đừng để mất dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Cloud save.",
+          "vi": "Lưu trên đám mây."
+        }
+      ]
+    },
+    {
+      "word": "Breach",
+      "ipa": "/briːtʃ/",
+      "meaning": "Vi phạm (dữ liệu)",
+      "example": {
+        "en": "Data breach.",
+        "vi": "Rò rỉ dữ liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Emails leaked.",
+          "vi": "Email bị lộ."
+        },
+        {
+          "speaker": "B",
+          "en": "Serious.",
+          "vi": "Nghiêm trọng."
+        }
+      ]
+    },
+    {
+      "word": "Reset",
+      "ipa": "/ˌriːˈsɛt/",
+      "meaning": "Đặt lại",
+      "example": {
+        "en": "Reset password.",
+        "vi": "Đặt lại mật khẩu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Link sent.",
+          "vi": "Liên kết đã gửi."
+        },
+        {
+          "speaker": "B",
+          "en": "New one.",
+          "vi": "Mật khẩu mới."
+        }
+      ]
+    }
+  ]
 }

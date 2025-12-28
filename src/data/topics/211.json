@@ -1,6 +1,217 @@
 {
   "id": "211",
   "title": "211. Complaints – Phàn nàn",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Complain",
+      "ipa": "/kəmˈpleɪn/",
+      "meaning": "Phàn nàn",
+      "example": {
+        "en": "Stop complaining.",
+        "vi": "Ngừng phàn nàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not happy.",
+          "vi": "Không vui."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix it.",
+          "vi": "Sửa nó."
+        }
+      ]
+    },
+    {
+      "word": "Problem",
+      "ipa": "/ˈprɒbləm/",
+      "meaning": "Vấn đề",
+      "example": {
+        "en": "Big problem.",
+        "vi": "Vấn đề lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Something wrong.",
+          "vi": "Có gì đó sai."
+        },
+        {
+          "speaker": "B",
+          "en": "Solve it.",
+          "vi": "Giải quyết nó."
+        }
+      ]
+    },
+    {
+      "word": "Issue",
+      "ipa": "/ˈɪʃuː/",
+      "meaning": "Vấn đề / Sự cố",
+      "example": {
+        "en": "Technical issue.",
+        "vi": "Sự cố kỹ thuật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not working.",
+          "vi": "Không hoạt động."
+        },
+        {
+          "speaker": "B",
+          "en": "Call support.",
+          "vi": "Gọi hỗ trợ."
+        }
+      ]
+    },
+    {
+      "word": "Bad",
+      "ipa": "/bæd/",
+      "meaning": "Tệ",
+      "example": {
+        "en": "Bad service.",
+        "vi": "Dịch vụ tệ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Slow food.",
+          "vi": "Đồ ăn chậm."
+        },
+        {
+          "speaker": "B",
+          "en": "Cold soup.",
+          "vi": "Súp nguội."
+        }
+      ]
+    },
+    {
+      "word": "Unhappy",
+      "ipa": "/ʌnˈhæpi/",
+      "meaning": "Không hài lòng",
+      "example": {
+        "en": "Unhappy customer.",
+        "vi": "Khách hàng không hài lòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Refund.",
+          "vi": "Hoàn tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Apologize.",
+          "vi": "Xin lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Wrong",
+      "ipa": "/rɒŋ/",
+      "meaning": "Sai / Hỏng",
+      "example": {
+        "en": "What's wrong?",
+        "vi": "Có chuyện gì vậy?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It broke.",
+          "vi": "Nó hỏng rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Replace.",
+          "vi": "Thay thế."
+        }
+      ]
+    },
+    {
+      "word": "Late",
+      "ipa": "/leɪt/",
+      "meaning": "Trễ",
+      "example": {
+        "en": "Too late.",
+        "vi": "Quá trễ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Delivery.",
+          "vi": "Giao hàng."
+        },
+        {
+          "speaker": "B",
+          "en": "Annoying.",
+          "vi": "Phiền phức."
+        }
+      ]
+    },
+    {
+      "word": "Noisy",
+      "ipa": "/ˈnɔɪzi/",
+      "meaning": "Ồn ào",
+      "example": {
+        "en": "Too noisy.",
+        "vi": "Ồn quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Neighbors.",
+          "vi": "Hàng xóm."
+        },
+        {
+          "speaker": "B",
+          "en": "Keep quiet.",
+          "vi": "Giữ yên lặng."
+        }
+      ]
+    },
+    {
+      "word": "Dirty",
+      "ipa": "/ˈdɜːrti/",
+      "meaning": "Bẩn",
+      "example": {
+        "en": "Dirty room.",
+        "vi": "Phòng bẩn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not clean.",
+          "vi": "Không sạch."
+        },
+        {
+          "speaker": "B",
+          "en": "Cleaning lady.",
+          "vi": "Cô lao công."
+        }
+      ]
+    },
+    {
+      "word": "Rude",
+      "ipa": "/ruːd/",
+      "meaning": "Thô lỗ",
+      "example": {
+        "en": "Rude staff.",
+        "vi": "Nhân viên thô lỗ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No manners.",
+          "vi": "Không có lịch sự."
+        },
+        {
+          "speaker": "B",
+          "en": "Report.",
+          "vi": "Báo cáo."
+        }
+      ]
+    }
+  ]
 }

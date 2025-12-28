@@ -1,6 +1,217 @@
 {
   "id": "104",
   "title": "104. Working from Home",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Remote",
+      "ipa": "/rɪˈmoʊt/",
+      "meaning": "Từ xa",
+      "example": {
+        "en": "Work remote.",
+        "vi": "Làm việc từ xa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No commute.",
+          "vi": "Không phải đi lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Save time.",
+          "vi": "Tiết kiệm thời gian."
+        }
+      ]
+    },
+    {
+      "word": "Home office",
+      "ipa": "/hoʊm ˈɒfɪs/",
+      "meaning": "Văn phòng tại nhà",
+      "example": {
+        "en": "Set up home office.",
+        "vi": "Thiết lập văn phòng tại nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need a quiet space.",
+          "vi": "Cần không gian yên tĩnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Good chair.",
+          "vi": "Ghế tốt."
+        }
+      ]
+    },
+    {
+      "word": "Meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "meaning": "Cuộc họp",
+      "example": {
+        "en": "Zoom meeting.",
+        "vi": "Họp qua Zoom."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Join the call.",
+          "vi": "Tham gia cuộc gọi."
+        },
+        {
+          "speaker": "B",
+          "en": "Camera on.",
+          "vi": "Bật camera lên."
+        }
+      ]
+    },
+    {
+      "word": "Flexible",
+      "ipa": "/ˈflɛksɪbəl/",
+      "meaning": "Linh hoạt",
+      "example": {
+        "en": "Flexible hours.",
+        "vi": "Giờ giấc linh hoạt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Start early.",
+          "vi": "Bắt đầu sớm."
+        },
+        {
+          "speaker": "B",
+          "en": "Finish late.",
+          "vi": "Kết thúc muộn."
+        }
+      ]
+    },
+    {
+      "word": "Distraction",
+      "ipa": "/dɪˈstrækʃən/",
+      "meaning": "Sự xao nhãng",
+      "example": {
+        "en": "Avoid distractions.",
+        "vi": "Tránh xao nhãng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Kids playing.",
+          "vi": "Trẻ con đang chơi."
+        },
+        {
+          "speaker": "B",
+          "en": "Close the door.",
+          "vi": "Đóng cửa lại."
+        }
+      ]
+    },
+    {
+      "word": "Productive",
+      "ipa": "/prəˈdʌktɪv/",
+      "meaning": "Năng suất",
+      "example": {
+        "en": "Be productive.",
+        "vi": "Làm việc năng suất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Focus on tasks.",
+          "vi": "Tập trung vào nhiệm vụ."
+        },
+        {
+          "speaker": "B",
+          "en": "Take breaks.",
+          "vi": "Nghỉ giải lao."
+        }
+      ]
+    },
+    {
+      "word": "Wifi",
+      "ipa": "/ˈwaɪfaɪ/",
+      "meaning": "Wifi",
+      "example": {
+        "en": "Strong wifi.",
+        "vi": "Wifi mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Connection dropped.",
+          "vi": "Mất kết nối rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Reset router.",
+          "vi": "Khởi động lại router."
+        }
+      ]
+    },
+    {
+      "word": "Balance",
+      "ipa": "/ˈbæləns/",
+      "meaning": "Cân bằng",
+      "example": {
+        "en": "Work-life balance.",
+        "vi": "Cân bằng công việc và cuộc sống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Switch off.",
+          "vi": "Ngắt kết nối."
+        },
+        {
+          "speaker": "B",
+          "en": "Relax at night.",
+          "vi": "Thư giãn vào buổi tối."
+        }
+      ]
+    },
+    {
+      "word": "Communication",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "Giao tiếp",
+      "example": {
+        "en": "Online communication.",
+        "vi": "Giao tiếp trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Use Slack.",
+          "vi": "Dùng Slack."
+        },
+        {
+          "speaker": "B",
+          "en": "Stay in touch.",
+          "vi": "Giữ liên lạc."
+        }
+      ]
+    },
+    {
+      "word": "Laptop",
+      "ipa": "/ˈlæptɒp/",
+      "meaning": "Máy tính xách tay",
+      "example": {
+        "en": "Work laptop.",
+        "vi": "Laptop làm việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Portable.",
+          "vi": "Di động."
+        },
+        {
+          "speaker": "B",
+          "en": "Charge battery.",
+          "vi": "Sạc pin."
+        }
+      ]
+    }
+  ]
 }

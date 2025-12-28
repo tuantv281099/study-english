@@ -1,6 +1,217 @@
 {
   "id": "122",
   "title": "122. Crime & Law",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Theft",
+      "ipa": "/θɛft/",
+      "meaning": "Trộm cắp",
+      "example": {
+        "en": "Car theft.",
+        "vi": "Trộm xe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Report theft.",
+          "vi": "Báo cáo vụ trộm."
+        },
+        {
+          "speaker": "B",
+          "en": "Call police.",
+          "vi": "Gọi cảnh sát."
+        }
+      ]
+    },
+    {
+      "word": "Murder",
+      "ipa": "/ˈmɜːrdər/",
+      "meaning": "Giết người",
+      "example": {
+        "en": "Solve murder.",
+        "vi": "Phá án giết người."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Serious crime.",
+          "vi": "Tội nghiêm trọng."
+        },
+        {
+          "speaker": "B",
+          "en": "Life in prison.",
+          "vi": "Tù chung thân."
+        }
+      ]
+    },
+    {
+      "word": "Prison",
+      "ipa": "/ˈprɪzən/",
+      "meaning": "Nhà tù",
+      "example": {
+        "en": "Send to prison.",
+        "vi": "Gửi vào tù."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Locked up.",
+          "vi": "Bị nhốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Visit hours.",
+          "vi": "Giờ thăm nuôi."
+        }
+      ]
+    },
+    {
+      "word": "Arrest",
+      "ipa": "/əˈrɛst/",
+      "meaning": "Bắt giữ",
+      "example": {
+        "en": "Under arrest.",
+        "vi": "Bị bắt giữ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hands up.",
+          "vi": "Giơ tay lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Read rights.",
+          "vi": "Đọc quyền."
+        }
+      ]
+    },
+    {
+      "word": "Thief",
+      "ipa": "/θiːf/",
+      "meaning": "Kẻ trộm",
+      "example": {
+        "en": "Catch the thief.",
+        "vi": "Bắt kẻ trộm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stole my wallet.",
+          "vi": "Trộm ví của tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "Run fast.",
+          "vi": "Chạy nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Fraud",
+      "ipa": "/frɔːd/",
+      "meaning": "Gian lận / Lừa đảo",
+      "example": {
+        "en": "Bank fraud.",
+        "vi": "Lừa đảo ngân hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lost money.",
+          "vi": "Mất tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Fake ID.",
+          "vi": "Giấy tờ giả."
+        }
+      ]
+    },
+    {
+      "word": "Guilty",
+      "ipa": "/ˈɡɪlti/",
+      "meaning": "Có tội",
+      "example": {
+        "en": "Found guilty.",
+        "vi": "Bị kết tội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Verdict.",
+          "vi": "Phán quyết."
+        },
+        {
+          "speaker": "B",
+          "en": "Punishment.",
+          "vi": "Hình phạt."
+        }
+      ]
+    },
+    {
+      "word": "Innocent",
+      "ipa": "/ˈɪnəsənt/",
+      "meaning": "Vô tội",
+      "example": {
+        "en": "I am innocent.",
+        "vi": "Tôi vô tội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Prove it.",
+          "vi": "Chứng minh đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Free to go.",
+          "vi": "Được thả tự do."
+        }
+      ]
+    },
+    {
+      "word": "Weapon",
+      "ipa": "/ˈwɛpən/",
+      "meaning": "Vũ khí",
+      "example": {
+        "en": "Carry weapon.",
+        "vi": "Mang vũ khí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dangerous.",
+          "vi": "Nguy hiểm."
+        },
+        {
+          "speaker": "B",
+          "en": "Gun or knife.",
+          "vi": "Súng hoặc dao."
+        }
+      ]
+    },
+    {
+      "word": "Victim",
+      "ipa": "/ˈvɪktɪm/",
+      "meaning": "Nạn nhân",
+      "example": {
+        "en": "Help victim.",
+        "vi": "Giúp nạn nhân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Trauma.",
+          "vi": "Chấn thương."
+        },
+        {
+          "speaker": "B",
+          "en": "Support.",
+          "vi": "Hỗ trợ."
+        }
+      ]
+    }
+  ]
 }

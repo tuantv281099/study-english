@@ -1,6 +1,217 @@
 {
   "id": "64",
   "title": "64. Hairstyles",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hair",
+      "ipa": "/hɛər/",
+      "meaning": "Tóc",
+      "example": {
+        "en": "Brush your hair.",
+        "vi": "Chải tóc đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Your hair is long.",
+          "vi": "Tóc bạn dài thế."
+        },
+        {
+          "speaker": "B",
+          "en": "I want to cut it.",
+          "vi": "Tôi muốn cắt."
+        }
+      ]
+    },
+    {
+      "word": "Cut",
+      "ipa": "/kʌt/",
+      "meaning": "Cắt tóc",
+      "example": {
+        "en": "Get a haircut.",
+        "vi": "Đi cắt tóc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice haircut.",
+          "vi": "Kiểu tóc đẹp đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Style",
+      "ipa": "/staɪl/",
+      "meaning": "Kiểu dáng",
+      "example": {
+        "en": "New hair style.",
+        "vi": "Kiểu tóc mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I like your style.",
+          "vi": "Tôi thích phong cách của bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "I tried something new.",
+          "vi": "Tôi thử cái mới."
+        }
+      ]
+    },
+    {
+      "word": "Short",
+      "ipa": "/ʃɔːrt/",
+      "meaning": "Ngắn",
+      "example": {
+        "en": "Short hair.",
+        "vi": "Tóc ngắn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Keep it short.",
+          "vi": "Cắt ngắn thôi nhé."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Long",
+      "ipa": "/lɒŋ/",
+      "meaning": "Dài",
+      "example": {
+        "en": "Long hair.",
+        "vi": "Tóc dài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How long is your hair?",
+          "vi": "Tóc bạn dài bao nhiêu?"
+        },
+        {
+          "speaker": "B",
+          "en": "To my waist.",
+          "vi": "Đến eo."
+        }
+      ]
+    },
+    {
+      "word": "Curly",
+      "ipa": "/ˈkɜːrli/",
+      "meaning": "Xoăn",
+      "example": {
+        "en": "Curly hair.",
+        "vi": "Tóc xoăn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is your hair naturally curly?",
+          "vi": "Tóc bạn xoăn tự nhiên à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Đúng vậy."
+        }
+      ]
+    },
+    {
+      "word": "Straight",
+      "ipa": "/streɪt/",
+      "meaning": "Thẳng",
+      "example": {
+        "en": "Straight hair.",
+        "vi": "Tóc thẳng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I want straight hair.",
+          "vi": "Tôi muốn tóc thẳng."
+        },
+        {
+          "speaker": "B",
+          "en": "Use a straightener.",
+          "vi": "Dùng máy duỗi đi."
+        }
+      ]
+    },
+    {
+      "word": "Blonde",
+      "ipa": "/blɒnd/",
+      "meaning": "Vàng hoe",
+      "example": {
+        "en": "Blonde hair.",
+        "vi": "Tóc vàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "She is blonde.",
+          "vi": "Cô ấy tóc vàng."
+        },
+        {
+          "speaker": "B",
+          "en": "It looks bright.",
+          "vi": "Trông sáng sủa đấy."
+        }
+      ]
+    },
+    {
+      "word": "Barber",
+      "ipa": "/ˈbɑːrbər/",
+      "meaning": "Thợ cắt tóc",
+      "example": {
+        "en": "Go to the barber.",
+        "vi": "Đến tiệm cắt tóc nam."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The barber is busy.",
+          "vi": "Thợ cắt tóc đang bận."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait a bit.",
+          "vi": "Đợi chút."
+        }
+      ]
+    },
+    {
+      "word": "Comb",
+      "ipa": "/koʊm/",
+      "meaning": "Cái lược / Chải",
+      "example": {
+        "en": "Comb your hair.",
+        "vi": "Chải tóc đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the comb?",
+          "vi": "Cái lược đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "On the table.",
+          "vi": "Trên bàn."
+        }
+      ]
+    }
+  ]
 }

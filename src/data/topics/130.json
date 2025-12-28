@@ -1,6 +1,217 @@
 {
   "id": "130",
   "title": "130. AI & Robotics",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Robot",
+      "ipa": "/ˈroʊbɒt/",
+      "meaning": "Rô-bốt",
+      "example": {
+        "en": "Smart robot.",
+        "vi": "Rô-bốt thông minh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It cleans floors.",
+          "vi": "Nó lau nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Helpful machine.",
+          "vi": "Máy móc hữu ích."
+        }
+      ]
+    },
+    {
+      "word": "Artificial",
+      "ipa": "/ˌɑːrtɪˈfɪʃəl/",
+      "meaning": "Nhân tạo",
+      "example": {
+        "en": "Artificial intelligence.",
+        "vi": "Trí tuệ nhân tạo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "AI is future.",
+          "vi": "AI là tương lai."
+        },
+        {
+          "speaker": "B",
+          "en": "Learning machine.",
+          "vi": "Máy học."
+        }
+      ]
+    },
+    {
+      "word": "Smart",
+      "ipa": "/smɑːrt/",
+      "meaning": "Thông minh",
+      "example": {
+        "en": "Smart home.",
+        "vi": "Nhà thông minh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Voice control.",
+          "vi": "Điều khiển bằng giọng nói."
+        },
+        {
+          "speaker": "B",
+          "en": "Convenient.",
+          "vi": "Tiện lợi."
+        }
+      ]
+    },
+    {
+      "word": "Code",
+      "ipa": "/koʊd/",
+      "meaning": "Mã (lập trình)",
+      "example": {
+        "en": "Write code.",
+        "vi": "Viết mã."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Program robot.",
+          "vi": "Lập trình rô-bốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Python language.",
+          "vi": "Ngôn ngữ Python."
+        }
+      ]
+    },
+    {
+      "word": "Future",
+      "ipa": "/ˈfjuːtʃər/",
+      "meaning": "Tương lai",
+      "example": {
+        "en": "Future tech.",
+        "vi": "Công nghệ tương lai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Flying cars?",
+          "vi": "Xe bay ư?"
+        },
+        {
+          "speaker": "B",
+          "en": "Maybe soon.",
+          "vi": "Có lẽ sớm thôi."
+        }
+      ]
+    },
+    {
+      "word": "Machine",
+      "ipa": "/məˈʃiːn/",
+      "meaning": "Máy móc",
+      "example": {
+        "en": "Complex machine.",
+        "vi": "Máy móc phức tạp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How does it work?",
+          "vi": "Nó hoạt động thế nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "Gears and motors.",
+          "vi": "Bánh răng và động cơ."
+        }
+      ]
+    },
+    {
+      "word": "Data",
+      "ipa": "/ˈdeɪtə/",
+      "meaning": "Dữ liệu",
+      "example": {
+        "en": "Process data.",
+        "vi": "Xử lý dữ liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Big data.",
+          "vi": "Dữ liệu lớn."
+        },
+        {
+          "speaker": "B",
+          "en": "Information.",
+          "vi": "Thông tin."
+        }
+      ]
+    },
+    {
+      "word": "Learn",
+      "ipa": "/lɜːrn/",
+      "meaning": "Học",
+      "example": {
+        "en": "Machine learning.",
+        "vi": "Học máy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It gets smarter.",
+          "vi": "Nó trở nên thông minh hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "From experience.",
+          "vi": "Từ trải nghiệm."
+        }
+      ]
+    },
+    {
+      "word": "Automate",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "meaning": "Tự động hóa",
+      "example": {
+        "en": "Automate tasks.",
+        "vi": "Tự động hóa tác vụ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save time.",
+          "vi": "Tiết kiệm thời gian."
+        },
+        {
+          "speaker": "B",
+          "en": "No human needed.",
+          "vi": "Không cần con người."
+        }
+      ]
+    },
+    {
+      "word": "Design",
+      "ipa": "/dɪˈzaɪn/",
+      "meaning": "Thiết kế",
+      "example": {
+        "en": "Robot design.",
+        "vi": "Thiết kế rô-bốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Looks human.",
+          "vi": "Trông giống người."
+        },
+        {
+          "speaker": "B",
+          "en": "Creepy.",
+          "vi": "Đáng sợ."
+        }
+      ]
+    }
+  ]
 }

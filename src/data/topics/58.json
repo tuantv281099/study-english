@@ -1,6 +1,217 @@
 {
   "id": "58",
   "title": "58. Diet & Nutrition",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Diet",
+      "ipa": "/ˈdaɪət/",
+      "meaning": "Chế độ ăn",
+      "example": {
+        "en": "Healthy diet.",
+        "vi": "Chế độ ăn lành mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I am on a diet.",
+          "vi": "Tôi đang ăn kiêng."
+        },
+        {
+          "speaker": "B",
+          "en": "Good luck.",
+          "vi": "Chúc may mắn."
+        }
+      ]
+    },
+    {
+      "word": "Nutrition",
+      "ipa": "/njuːˈtrɪʃən/",
+      "meaning": "Dinh dưỡng",
+      "example": {
+        "en": "Good nutrition is key.",
+        "vi": "Dinh dưỡng tốt là chìa khóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Study nutrition.",
+          "vi": "Học về dinh dưỡng đi."
+        },
+        {
+          "speaker": "B",
+          "en": "It is complex.",
+          "vi": "Nó phức tạp lắm."
+        }
+      ]
+    },
+    {
+      "word": "Vitamin",
+      "ipa": "/ˈvɪtəmɪn/",
+      "meaning": "Vitamin",
+      "example": {
+        "en": "Take your vitamins.",
+        "vi": "Uống vitamin đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Vitamin C is good.",
+          "vi": "Vitamin C rất tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "For colds?",
+          "vi": "Cho cảm lạnh à?"
+        }
+      ]
+    },
+    {
+      "word": "Protein",
+      "ipa": "/ˈproʊtiːn/",
+      "meaning": "Chất đạm",
+      "example": {
+        "en": "Meat has protein.",
+        "vi": "Thịt có chất đạm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need more protein.",
+          "vi": "Tôi cần thêm đạm."
+        },
+        {
+          "speaker": "B",
+          "en": "Eat eggs.",
+          "vi": "Ăn trứng đi."
+        }
+      ]
+    },
+    {
+      "word": "Fat",
+      "ipa": "/fæt/",
+      "meaning": "Chất béo",
+      "example": {
+        "en": "Avoid bad fats.",
+        "vi": "Tránh chất béo xấu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is this low fat?",
+          "vi": "Cái này ít béo phải không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Đúng vậy."
+        }
+      ]
+    },
+    {
+      "word": "Sugar",
+      "ipa": "/ˈʃʊɡər/",
+      "meaning": "Đường",
+      "example": {
+        "en": "Too much sugar.",
+        "vi": "Nhiều đường quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No sugar for me.",
+          "vi": "Tôi không ăn đường."
+        },
+        {
+          "speaker": "B",
+          "en": "It is sweet.",
+          "vi": "Nó ngọt mà."
+        }
+      ]
+    },
+    {
+      "word": "Salt",
+      "ipa": "/sɔːlt/",
+      "meaning": "Muối",
+      "example": {
+        "en": "Pass the salt.",
+        "vi": "Đưa tôi lọ muối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It needs salt.",
+          "vi": "Nó cần thêm muối."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't add too much.",
+          "vi": "Đừng cho nhiều quá."
+        }
+      ]
+    },
+    {
+      "word": "Water",
+      "ipa": "/ˈwɔːtər/",
+      "meaning": "Nước",
+      "example": {
+        "en": "Drink plenty of water.",
+        "vi": "Uống nhiều nước vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Water is life.",
+          "vi": "Nước là sự sống."
+        },
+        {
+          "speaker": "B",
+          "en": "True.",
+          "vi": "Đúng vậy."
+        }
+      ]
+    },
+    {
+      "word": "Calorie",
+      "ipa": "/ˈkæləri/",
+      "meaning": "Calo",
+      "example": {
+        "en": "Count calories.",
+        "vi": "Tính calo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High calories.",
+          "vi": "Nhiều calo quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Exercise more.",
+          "vi": "Tập thể dục nhiều hơn."
+        }
+      ]
+    },
+    {
+      "word": "Vegetable",
+      "ipa": "/ˈvɛdʒtəbəl/",
+      "meaning": "Rau",
+      "example": {
+        "en": "Eat your vegetables.",
+        "vi": "Ăn rau đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I love vegetables.",
+          "vi": "Tôi thích rau."
+        },
+        {
+          "speaker": "B",
+          "en": "Fresh ones are best.",
+          "vi": "Rau tươi là tốt nhất."
+        }
+      ]
+    }
+  ]
 }

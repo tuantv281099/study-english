@@ -1,6 +1,217 @@
 {
   "id": "136",
   "title": "136. E-commerce",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Online",
+      "ipa": "/ˈɒnlaɪn/",
+      "meaning": "Trực tuyến",
+      "example": {
+        "en": "Shop online.",
+        "vi": "Mua sắm trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Convenient.",
+          "vi": "Tiện lợi."
+        },
+        {
+          "speaker": "B",
+          "en": "Delivery.",
+          "vi": "Giao hàng."
+        }
+      ]
+    },
+    {
+      "word": "Cart",
+      "ipa": "/kɑːrt/",
+      "meaning": "Giỏ hàng",
+      "example": {
+        "en": "Add to cart.",
+        "vi": "Thêm vào giỏ hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check out.",
+          "vi": "Thanh toán."
+        },
+        {
+          "speaker": "B",
+          "en": "Review list.",
+          "vi": "Xem lại danh sách."
+        }
+      ]
+    },
+    {
+      "word": "Payment",
+      "ipa": "/ˈpeɪmənt/",
+      "meaning": "Thanh toán",
+      "example": {
+        "en": "Secure payment.",
+        "vi": "Thanh toán an toàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Credit card.",
+          "vi": "Thẻ tín dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "E-wallet.",
+          "vi": "Ví điện tử."
+        }
+      ]
+    },
+    {
+      "word": "Shipping",
+      "ipa": "/ˈʃɪpɪŋ/",
+      "meaning": "Vận chuyển",
+      "example": {
+        "en": "Free shipping.",
+        "vi": "Miễn phí vận chuyển."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How long?",
+          "vi": "Bao lâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "3 days.",
+          "vi": "3 ngày."
+        }
+      ]
+    },
+    {
+      "word": "Order",
+      "ipa": "/ˈɔːrdər/",
+      "meaning": "Đơn hàng",
+      "example": {
+        "en": "Track order.",
+        "vi": "Theo dõi đơn hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It shipped.",
+          "vi": "Đã gửi đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Arriving soon.",
+          "vi": "Sắp đến nơi."
+        }
+      ]
+    },
+    {
+      "word": "Review",
+      "ipa": "/rɪˈvjuː/",
+      "meaning": "Đánh giá",
+      "example": {
+        "en": "Read reviews.",
+        "vi": "Đọc đánh giá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "5 stars.",
+          "vi": "5 sao."
+        },
+        {
+          "speaker": "B",
+          "en": "Good product.",
+          "vi": "Sản phẩm tốt."
+        }
+      ]
+    },
+    {
+      "word": "Discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "meaning": "Giảm giá",
+      "example": {
+        "en": "Get a discount.",
+        "vi": "Được giảm giá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Promo code.",
+          "vi": "Mã khuyến mãi."
+        },
+        {
+          "speaker": "B",
+          "en": "Save money.",
+          "vi": "Tiết kiệm tiền."
+        }
+      ]
+    },
+    {
+      "word": "Account",
+      "ipa": "/əˈkaʊnt/",
+      "meaning": "Tài khoản",
+      "example": {
+        "en": "Create account.",
+        "vi": "Tạo tài khoản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Login.",
+          "vi": "Đăng nhập."
+        },
+        {
+          "speaker": "B",
+          "en": "Password.",
+          "vi": "Mật khẩu."
+        }
+      ]
+    },
+    {
+      "word": "Search",
+      "ipa": "/sɜːrtʃ/",
+      "meaning": "Tìm kiếm",
+      "example": {
+        "en": "Search product.",
+        "vi": "Tìm kiếm sản phẩm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Filter results.",
+          "vi": "Lọc kết quả."
+        },
+        {
+          "speaker": "B",
+          "en": "Best match.",
+          "vi": "Kết quả phù hợp nhất."
+        }
+      ]
+    },
+    {
+      "word": "Return",
+      "ipa": "/rɪˈtɜːrn/",
+      "meaning": "Trả hàng",
+      "example": {
+        "en": "Return policy.",
+        "vi": "Chính sách đổi trả."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't like it.",
+          "vi": "Không thích nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Send back.",
+          "vi": "Gửi trả lại."
+        }
+      ]
+    }
+  ]
 }

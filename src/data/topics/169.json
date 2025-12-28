@@ -1,6 +1,217 @@
 {
   "id": "169",
   "title": "169. Real Estate – Bất động sản",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "House",
+      "ipa": "/haʊs/",
+      "meaning": "Nhà",
+      "example": {
+        "en": "Buy house.",
+        "vi": "Mua nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Big garden.",
+          "vi": "Vườn rộng."
+        },
+        {
+          "speaker": "B",
+          "en": "Dream home.",
+          "vi": "Ngôi nhà mơ ước."
+        }
+      ]
+    },
+    {
+      "word": "Agent",
+      "ipa": "/ˈeɪdʒənt/",
+      "meaning": "Nhân viên môi giới",
+      "example": {
+        "en": "Real estate agent.",
+        "vi": "Môi giới bất động sản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Find listing.",
+          "vi": "Tìm danh sách nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Commission.",
+          "vi": "Hoa hồng."
+        }
+      ]
+    },
+    {
+      "word": "Price",
+      "ipa": "/praɪs/",
+      "meaning": "Giá",
+      "example": {
+        "en": "Asking price.",
+        "vi": "Giá chào bán."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Negotiate.",
+          "vi": "Thương lượng."
+        },
+        {
+          "speaker": "B",
+          "en": "Market value.",
+          "vi": "Giá thị trường."
+        }
+      ]
+    },
+    {
+      "word": "Listing",
+      "ipa": "/ˈlɪstɪŋ/",
+      "meaning": "Danh sách (nhà bán)",
+      "example": {
+        "en": "New listing.",
+        "vi": "Danh sách mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check photos.",
+          "vi": "Xem ảnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Book tour.",
+          "vi": "Đặt lịch xem."
+        }
+      ]
+    },
+    {
+      "word": "Location",
+      "ipa": "/loʊˈkeɪʃən/",
+      "meaning": "Vị trí",
+      "example": {
+        "en": "Prime location.",
+        "vi": "Vị trí đắc địa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Near school.",
+          "vi": "Gần trường học."
+        },
+        {
+          "speaker": "B",
+          "en": "Quiet area.",
+          "vi": "Khu yên tĩnh."
+        }
+      ]
+    },
+    {
+      "word": "Offer",
+      "ipa": "/ˈɔːfər/",
+      "meaning": "Lời đề nghị / Trả giá",
+      "example": {
+        "en": "Make an offer.",
+        "vi": "Đưa ra mức giá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Accepted.",
+          "vi": "Được chấp nhận."
+        },
+        {
+          "speaker": "B",
+          "en": "Sign paper.",
+          "vi": "Ký giấy tờ."
+        }
+      ]
+    },
+    {
+      "word": "Sell",
+      "ipa": "/sɛl/",
+      "meaning": "Bán",
+      "example": {
+        "en": "Sell property.",
+        "vi": "Bán bất động sản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "For profit.",
+          "vi": "Để kiếm lời."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast sale.",
+          "vi": "Bán nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Invest",
+      "ipa": "/ɪnˈvɛst/",
+      "meaning": "Đầu tư",
+      "example": {
+        "en": "Invest in land.",
+        "vi": "Đầu tư đất đai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Value up.",
+          "vi": "Giá trị tăng."
+        },
+        {
+          "speaker": "B",
+          "en": "Passive income.",
+          "vi": "Thu nhập thụ động."
+        }
+      ]
+    },
+    {
+      "word": "Apartment",
+      "ipa": "/əˈpɑːrtmənt/",
+      "meaning": "Căn hộ",
+      "example": {
+        "en": "Luxury apartment.",
+        "vi": "Căn hộ cao cấp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High floor.",
+          "vi": "Tầng cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Nice view.",
+          "vi": "Cảnh đẹp."
+        }
+      ]
+    },
+    {
+      "word": "Contract",
+      "ipa": "/ˈkɒntrækt/",
+      "meaning": "Hợp đồng",
+      "example": {
+        "en": "Sign contract.",
+        "vi": "Ký hợp đồng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Read carefully.",
+          "vi": "Đọc kỹ."
+        },
+        {
+          "speaker": "B",
+          "en": "Legal.",
+          "vi": "Pháp lý."
+        }
+      ]
+    }
+  ]
 }

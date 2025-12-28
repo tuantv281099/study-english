@@ -1,6 +1,217 @@
 {
   "id": "297",
   "title": "297. Love & Dating – Tình yêu",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Love",
+      "ipa": "/lʌv/",
+      "meaning": "Yêu / Tình yêu",
+      "example": {
+        "en": "I love you.",
+        "vi": "Anh yêu em."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Me too.",
+          "vi": "Em cũng vậy."
+        },
+        {
+          "speaker": "B",
+          "en": "Kiss.",
+          "vi": "Hôn."
+        }
+      ]
+    },
+    {
+      "word": "Date",
+      "ipa": "/deɪt/",
+      "meaning": "Hẹn hò",
+      "example": {
+        "en": "First date.",
+        "vi": "Buổi hẹn đầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dinner?",
+          "vi": "Ăn tối nhé?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Boyfriend",
+      "ipa": "/ˈbɔɪfrɛnd/",
+      "meaning": "Bạn trai",
+      "example": {
+        "en": "My boyfriend.",
+        "vi": "Bạn trai tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice.",
+          "vi": "Tốt bụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Handsome.",
+          "vi": "Đẹp trai."
+        }
+      ]
+    },
+    {
+      "word": "Girlfriend",
+      "ipa": "/ˈɡɜːrlfrɛnd/",
+      "meaning": "Bạn gái",
+      "example": {
+        "en": "His girlfriend.",
+        "vi": "Bạn gái anh ấy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pretty.",
+          "vi": "Xinh đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Smart.",
+          "vi": "Thông minh."
+        }
+      ]
+    },
+    {
+      "word": "Crush",
+      "ipa": "/krʌʃ/",
+      "meaning": "Người mình thích thầm",
+      "example": {
+        "en": "Have a crush.",
+        "vi": "Thích thầm ai đó."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who?",
+          "vi": "Ai thế?"
+        },
+        {
+          "speaker": "B",
+          "en": "Secret.",
+          "vi": "Bí mật."
+        }
+      ]
+    },
+    {
+      "word": "Flirt",
+      "ipa": "/flɜːrt/",
+      "meaning": "Tán tỉnh",
+      "example": {
+        "en": "He flirts.",
+        "vi": "Anh ấy tán tỉnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smile.",
+          "vi": "Cười."
+        },
+        {
+          "speaker": "B",
+          "en": "Wink.",
+          "vi": "Nháy mắt."
+        }
+      ]
+    },
+    {
+      "word": "Kiss",
+      "ipa": "/kɪs/",
+      "meaning": "Hôn",
+      "example": {
+        "en": "First kiss.",
+        "vi": "Nụ hôn đầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sweet.",
+          "vi": "Ngọt ngào."
+        },
+        {
+          "speaker": "B",
+          "en": "Shy.",
+          "vi": "Ngại ngùng."
+        }
+      ]
+    },
+    {
+      "word": "Hug",
+      "ipa": "/hʌɡ/",
+      "meaning": "Ôm",
+      "example": {
+        "en": "Big hug.",
+        "vi": "Cái ôm chặt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Warm.",
+          "vi": "Ấm áp."
+        },
+        {
+          "speaker": "B",
+          "en": "Comfort.",
+          "vi": "An ủi."
+        }
+      ]
+    },
+    {
+      "word": "Romance",
+      "ipa": "/roʊˈmæns/",
+      "meaning": "Sự lãng mạn",
+      "example": {
+        "en": "Need romance.",
+        "vi": "Cần sự lãng mạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Flowers.",
+          "vi": "Hoa."
+        },
+        {
+          "speaker": "B",
+          "en": "Candles.",
+          "vi": "Nến."
+        }
+      ]
+    },
+    {
+      "word": "Marry",
+      "ipa": "/ˈmæri/",
+      "meaning": "Kết hôn",
+      "example": {
+        "en": "Marry me.",
+        "vi": "Cưới anh nhé."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Yes!",
+          "vi": "Em đồng ý!"
+        },
+        {
+          "speaker": "B",
+          "en": "Ring.",
+          "vi": "Nhẫn."
+        }
+      ]
+    }
+  ]
 }

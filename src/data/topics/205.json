@@ -1,6 +1,217 @@
 {
   "id": "205",
   "title": "205. Agreeing & Disagreeing – Đồng tình & phản đối",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Agree",
+      "ipa": "/əˈɡriː/",
+      "meaning": "Đồng ý",
+      "example": {
+        "en": "Totally agree.",
+        "vi": "Hoàn toàn đồng ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Yes.",
+          "vi": "Có."
+        },
+        {
+          "speaker": "B",
+          "en": "Correct.",
+          "vi": "Đúng."
+        }
+      ]
+    },
+    {
+      "word": "Disagree",
+      "ipa": "/ˌdɪsəˈɡriː/",
+      "meaning": "Không đồng ý",
+      "example": {
+        "en": "I disagree.",
+        "vi": "Tôi không đồng ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No way.",
+          "vi": "Không đời nào."
+        },
+        {
+          "speaker": "B",
+          "en": "Wrong.",
+          "vi": "Sai."
+        }
+      ]
+    },
+    {
+      "word": "Right",
+      "ipa": "/raɪt/",
+      "meaning": "Đúng",
+      "example": {
+        "en": "You are right.",
+        "vi": "Bạn đúng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "True point.",
+          "vi": "Điểm đúng."
+        },
+        {
+          "speaker": "B",
+          "en": "Spot on.",
+          "vi": "Chuẩn xác."
+        }
+      ]
+    },
+    {
+      "word": "Wrong",
+      "ipa": "/rɒŋ/",
+      "meaning": "Sai",
+      "example": {
+        "en": "That is wrong.",
+        "vi": "Điều đó sai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mistake.",
+          "vi": "Lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "Incorrect.",
+          "vi": "Không đúng."
+        }
+      ]
+    },
+    {
+      "word": "True",
+      "ipa": "/truː/",
+      "meaning": "Sự thật / Đúng",
+      "example": {
+        "en": "It is true.",
+        "vi": "Đó là sự thật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fact.",
+          "vi": "Thực tế."
+        },
+        {
+          "speaker": "B",
+          "en": "Believe me.",
+          "vi": "Tin tôi đi."
+        }
+      ]
+    },
+    {
+      "word": "Point",
+      "ipa": "/pɔɪnt/",
+      "meaning": "Quan điểm / Điểm",
+      "example": {
+        "en": "Good point.",
+        "vi": "Điểm hay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Valid.",
+          "vi": "Có lý."
+        },
+        {
+          "speaker": "B",
+          "en": "Take it.",
+          "vi": "Ghi nhận."
+        }
+      ]
+    },
+    {
+      "word": "Maybe",
+      "ipa": "/ˈmeɪbi/",
+      "meaning": "Có lẽ",
+      "example": {
+        "en": "Maybe so.",
+        "vi": "Có lẽ vậy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not sure.",
+          "vi": "Không chắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Possibility.",
+          "vi": "Khả năng."
+        }
+      ]
+    },
+    {
+      "word": "Depends",
+      "ipa": "/dɪˈpɛndz/",
+      "meaning": "Tùy thuộc",
+      "example": {
+        "en": "It depends.",
+        "vi": "Còn tùy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "On what?",
+          "vi": "Vào cái gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Situation.",
+          "vi": "Hoàn cảnh."
+        }
+      ]
+    },
+    {
+      "word": "Exactly",
+      "ipa": "/ɪɡˈzæktli/",
+      "meaning": "Chính xác",
+      "example": {
+        "en": "That's exactly it.",
+        "vi": "Chính xác là vậy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Precisely.",
+          "vi": "Chính xác."
+        },
+        {
+          "speaker": "B",
+          "en": "Indeed.",
+          "vi": "Quả thực."
+        }
+      ]
+    },
+    {
+      "word": "Sense",
+      "ipa": "/sɛns/",
+      "meaning": "Hợp lý",
+      "example": {
+        "en": "Makes sense.",
+        "vi": "Có lý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Locial.",
+          "vi": "Hợp logic."
+        },
+        {
+          "speaker": "B",
+          "en": "Understand.",
+          "vi": "Hiểu."
+        }
+      ]
+    }
+  ]
 }

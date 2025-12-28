@@ -1,6 +1,217 @@
 {
   "id": "109",
   "title": "109. Advertising",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Ad",
+      "ipa": "/æd/",
+      "meaning": "Quảng cáo (ngắn)",
+      "example": {
+        "en": "TV ad.",
+        "vi": "Quảng cáo trên TV."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Skip ad.",
+          "vi": "Bỏ qua quảng cáo."
+        },
+        {
+          "speaker": "B",
+          "en": "Short video.",
+          "vi": "Video ngắn."
+        }
+      ]
+    },
+    {
+      "word": "Banner",
+      "ipa": "/ˈbænər/",
+      "meaning": "Biểu ngữ / Băng rôn",
+      "example": {
+        "en": "Web banner.",
+        "vi": "Banner web."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Click here.",
+          "vi": "Nhấn vào đây."
+        },
+        {
+          "speaker": "B",
+          "en": "Eye-catching.",
+          "vi": "Bắt mắt."
+        }
+      ]
+    },
+    {
+      "word": "Slogan",
+      "ipa": "/ˈsloʊɡən/",
+      "meaning": "Khẩu hiệu",
+      "example": {
+        "en": "Catchy slogan.",
+        "vi": "Khẩu hiệu bắt tai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Just do it.",
+          "vi": "Just do it."
+        },
+        {
+          "speaker": "B",
+          "en": "Memorable.",
+          "vi": "Dễ nhớ."
+        }
+      ]
+    },
+    {
+      "word": "Brand",
+      "ipa": "/brænd/",
+      "meaning": "Thương hiệu",
+      "example": {
+        "en": "Famous brand.",
+        "vi": "Thương hiệu nổi tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Trust the brand.",
+          "vi": "Tin tưởng thương hiệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Loyal customer.",
+          "vi": "Khách hàng trung thành."
+        }
+      ]
+    },
+    {
+      "word": "Logo",
+      "ipa": "/ˈloʊɡoʊ/",
+      "meaning": "Lô-gô",
+      "example": {
+        "en": "Design a logo.",
+        "vi": "Thiết kế logo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Simple shape.",
+          "vi": "Hình dáng đơn giản."
+        },
+        {
+          "speaker": "B",
+          "en": "Recognizable.",
+          "vi": "Dễ nhận biết."
+        }
+      ]
+    },
+    {
+      "word": "Commercial",
+      "ipa": "/kəˈmɜːrʃəl/",
+      "meaning": "Quảng cáo (thương mại)",
+      "example": {
+        "en": "Watch a commercial.",
+        "vi": "Xem quảng cáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Funny clip.",
+          "vi": "Clip hài hước."
+        },
+        {
+          "speaker": "B",
+          "en": "During the game.",
+          "vi": "Trong trận đấu."
+        }
+      ]
+    },
+    {
+      "word": "Influence",
+      "ipa": "/ˈɪnfluəns/",
+      "meaning": "Ảnh hưởng",
+      "example": {
+        "en": "Influencer marketing.",
+        "vi": "Tiếp thị qua người ảnh hưởng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Followers.",
+          "vi": "Người theo dõi."
+        },
+        {
+          "speaker": "B",
+          "en": "Promote products.",
+          "vi": "Quảng bá sản phẩm."
+        }
+      ]
+    },
+    {
+      "word": "Media",
+      "ipa": "/ˈmiːdiə/",
+      "meaning": "Truyền thông",
+      "example": {
+        "en": "Social media.",
+        "vi": "Mạng xã hội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Post content.",
+          "vi": "Đăng nội dung."
+        },
+        {
+          "speaker": "B",
+          "en": "Viral.",
+          "vi": "Lan truyền."
+        }
+      ]
+    },
+    {
+      "word": "Audience",
+      "ipa": "/ˈɔːdiəns/",
+      "meaning": "Khán giả / Đối tượng",
+      "example": {
+        "en": "Reach audience.",
+        "vi": "Tiếp cận khán giả."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who is watching?",
+          "vi": "Ai đang xem?"
+        },
+        {
+          "speaker": "B",
+          "en": "Millions.",
+          "vi": "Hàng triệu người."
+        }
+      ]
+    },
+    {
+      "word": "Budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "meaning": "Ngân sách",
+      "example": {
+        "en": "Ad budget.",
+        "vi": "Ngân sách quảng cáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Spend wise.",
+          "vi": "Chi tiêu khôn ngoan."
+        },
+        {
+          "speaker": "B",
+          "en": "High return.",
+          "vi": "Lợi nhuận cao."
+        }
+      ]
+    }
+  ]
 }

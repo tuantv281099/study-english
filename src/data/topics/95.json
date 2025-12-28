@@ -1,6 +1,217 @@
 {
   "id": "95",
   "title": "95. Classroom Objects",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Pen",
+      "ipa": "/pɛn/",
+      "meaning": "Bút bi",
+      "example": {
+        "en": "Blue pen.",
+        "vi": "Bút bi xanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can I borrow a pen?",
+          "vi": "Cho tôi mượn bút được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Here you go.",
+          "vi": "Của bạn đây."
+        }
+      ]
+    },
+    {
+      "word": "Pencil",
+      "ipa": "/ˈpɛnsəl/",
+      "meaning": "Bút chì",
+      "example": {
+        "en": "Sharpen the pencil.",
+        "vi": "Gọt bút chì."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Write in pencil.",
+          "vi": "Viết bằng bút chì."
+        },
+        {
+          "speaker": "B",
+          "en": "Erasable.",
+          "vi": "Tẩy được."
+        }
+      ]
+    },
+    {
+      "word": "Book",
+      "ipa": "/bʊk/",
+      "meaning": "Sách",
+      "example": {
+        "en": "Read a book.",
+        "vi": "Đọc sách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Open page 10.",
+          "vi": "Mở trang 10."
+        },
+        {
+          "speaker": "B",
+          "en": "Interesting story.",
+          "vi": "Câu chuyện thú vị."
+        }
+      ]
+    },
+    {
+      "word": "Notebook",
+      "ipa": "/ˈnoʊtbʊk/",
+      "meaning": "Vở",
+      "example": {
+        "en": "Write in notebook.",
+        "vi": "Viết vào vở."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Take notes.",
+          "vi": "Ghi chép."
+        },
+        {
+          "speaker": "B",
+          "en": "Neat handwriting.",
+          "vi": "Chữ viết gọn gàng."
+        }
+      ]
+    },
+    {
+      "word": "Desk",
+      "ipa": "/dɛsk/",
+      "meaning": "Bàn học",
+      "example": {
+        "en": "Sit at the desk.",
+        "vi": "Ngồi vào bàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clean your desk.",
+          "vi": "Dọn bàn đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Organized.",
+          "vi": "Ngăn nắp."
+        }
+      ]
+    },
+    {
+      "word": "Chair",
+      "ipa": "/tʃɛər/",
+      "meaning": "Ghế",
+      "example": {
+        "en": "School chair.",
+        "vi": "Ghế trường học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sit down.",
+          "vi": "Ngồi xuống."
+        },
+        {
+          "speaker": "B",
+          "en": "Comfortable?",
+          "vi": "Có thoải mái không?"
+        }
+      ]
+    },
+    {
+      "word": "Board",
+      "ipa": "/bɔːrd/",
+      "meaning": "Bảng",
+      "example": {
+        "en": "Look at the board.",
+        "vi": "Nhìn lên bảng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Write the answer.",
+          "vi": "Viết câu trả lời."
+        },
+        {
+          "speaker": "B",
+          "en": "Use chalk.",
+          "vi": "Dùng phấn."
+        }
+      ]
+    },
+    {
+      "word": "Ruler",
+      "ipa": "/ˈruːlər/",
+      "meaning": "Thước kẻ",
+      "example": {
+        "en": "Measure with ruler.",
+        "vi": "Đo bằng thước kẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Draw a line.",
+          "vi": "Kẻ một đường thẳng."
+        },
+        {
+          "speaker": "B",
+          "en": "Straight edge.",
+          "vi": "Cạnh thẳng."
+        }
+      ]
+    },
+    {
+      "word": "Eraser",
+      "ipa": "/ɪˈreɪsər/",
+      "meaning": "Cục tẩy",
+      "example": {
+        "en": "Use an eraser.",
+        "vi": "Dùng cục tẩy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rub it out.",
+          "vi": "Tẩy nó đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Mistake gone.",
+          "vi": "Lỗi sai biến mất."
+        }
+      ]
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "meaning": "Cặp sách",
+      "example": {
+        "en": "School bag.",
+        "vi": "Cặp đi học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pack your bag.",
+          "vi": "Soạn cặp."
+        },
+        {
+          "speaker": "B",
+          "en": "Ready to go.",
+          "vi": "Sẵn sàng đi."
+        }
+      ]
+    }
+  ]
 }

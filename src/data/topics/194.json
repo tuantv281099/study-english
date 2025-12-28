@@ -1,6 +1,217 @@
 {
   "id": "194",
   "title": "194. Customs – Phong tục",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Custom",
+      "ipa": "/ˈkʌstəm/",
+      "meaning": "Phong tục",
+      "example": {
+        "en": "Observe custom.",
+        "vi": "Tuân theo phong tục."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Shake hands.",
+          "vi": "Bắt tay."
+        },
+        {
+          "speaker": "B",
+          "en": "Polite.",
+          "vi": "Lịch sự."
+        }
+      ]
+    },
+    {
+      "word": "Manner",
+      "ipa": "/ˈmænər/",
+      "meaning": "Cư xử / Tác phong",
+      "example": {
+        "en": "Good manners.",
+        "vi": "Cách cư xử tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Say please.",
+          "vi": "Nói làm ơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Say thanks.",
+          "vi": "Nói cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Greeting",
+      "ipa": "/ˈɡriːtɪŋ/",
+      "meaning": "Lời chào",
+      "example": {
+        "en": "Warm greeting.",
+        "vi": "Lời chào nồng nhiệt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hello.",
+          "vi": "Xin chào."
+        },
+        {
+          "speaker": "B",
+          "en": "Hug.",
+          "vi": "Om."
+        }
+      ]
+    },
+    {
+      "word": "Gift",
+      "ipa": "/ɡɪft/",
+      "meaning": "Quà tặng",
+      "example": {
+        "en": "Bring gift.",
+        "vi": "Mang quà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "For host.",
+          "vi": "Cho chủ nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Small token.",
+          "vi": "Món quà nhỏ."
+        }
+      ]
+    },
+    {
+      "word": "Meal",
+      "ipa": "/miːl/",
+      "meaning": "Bữa ăn",
+      "example": {
+        "en": "Shared meal.",
+        "vi": "Bữa ăn chung."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Eat together.",
+          "vi": "Ăn cùng nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Talk.",
+          "vi": "Trò chuyện."
+        }
+      ]
+    },
+    {
+      "word": "Guest",
+      "ipa": "/ɡɛst/",
+      "meaning": "Khách",
+      "example": {
+        "en": "Welcome guest.",
+        "vi": "Chào đón khách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Feel at home.",
+          "vi": "Cứ tự nhiên như ở nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Hospitality.",
+          "vi": "Lòng hiếu khách."
+        }
+      ]
+    },
+    {
+      "word": "Host",
+      "ipa": "/hoʊst/",
+      "meaning": "Chủ nhà",
+      "example": {
+        "en": "Kind host.",
+        "vi": "Chủ nhà tốt bụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Serve food.",
+          "vi": "Phục vụ thức ăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Take care.",
+          "vi": "Chăm sóc."
+        }
+      ]
+    },
+    {
+      "word": "Shoe",
+      "ipa": "/ʃuː/",
+      "meaning": "Giày",
+      "example": {
+        "en": "Remove shoes.",
+        "vi": "Cởi giày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Inside house.",
+          "vi": "Trong nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean floor.",
+          "vi": "Sàn sạch."
+        }
+      ]
+    },
+    {
+      "word": "Time",
+      "ipa": "/taɪm/",
+      "meaning": "Thời gian",
+      "example": {
+        "en": "Be on time.",
+        "vi": "Đúng giờ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Punctual.",
+          "vi": "Đúng giờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Respect.",
+          "vi": "Tôn trọng."
+        }
+      ]
+    },
+    {
+      "word": "Bow",
+      "ipa": "/baʊ/",
+      "meaning": "Cúi chào",
+      "example": {
+        "en": "Deep bow.",
+        "vi": "Cúi chào sâu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "In Japan.",
+          "vi": "Ở Nhật Bản."
+        },
+        {
+          "speaker": "B",
+          "en": "Show honor.",
+          "vi": "Thể hiện sự kính trọng."
+        }
+      ]
+    }
+  ]
 }

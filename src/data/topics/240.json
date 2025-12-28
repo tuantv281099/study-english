@@ -1,6 +1,217 @@
 {
   "id": "240",
   "title": "240. Vocabulary by Root – Từ gốc",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Bio (Life)",
+      "ipa": "/ˈbaɪoʊ/",
+      "meaning": "Sự sống (Gốc từ)",
+      "example": {
+        "en": "Biology is study of life.",
+        "vi": "Sinh học là nghiên cứu về sự sống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Biography.",
+          "vi": "Tiểu sử."
+        },
+        {
+          "speaker": "B",
+          "en": "Living.",
+          "vi": "Đang sống."
+        }
+      ]
+    },
+    {
+      "word": "Graph (Write)",
+      "ipa": "/ɡræf/",
+      "meaning": "Viết / Vẽ (Gốc từ)",
+      "example": {
+        "en": "Autograph please.",
+        "vi": "Xin chữ ký."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Paragraph.",
+          "vi": "Đoạn văn."
+        },
+        {
+          "speaker": "B",
+          "en": "Write.",
+          "vi": "Viết."
+        }
+      ]
+    },
+    {
+      "word": "Tele (Far)",
+      "ipa": "/ˈtɛli/",
+      "meaning": "Xa (Gốc từ)",
+      "example": {
+        "en": "Telephone calls far.",
+        "vi": "Điện thoại gọi đi xa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Telescope.",
+          "vi": "Kính thiên văn."
+        },
+        {
+          "speaker": "B",
+          "en": "Remote.",
+          "vi": "Từ xa."
+        }
+      ]
+    },
+    {
+      "word": "Micro (Small)",
+      "ipa": "/ˈmaɪkroʊ/",
+      "meaning": "Nhỏ (Gốc từ)",
+      "example": {
+        "en": "Microscope sees small.",
+        "vi": "Kính hiển vi nhìn vật nhỏ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tiny.",
+          "vi": "Tí hon."
+        },
+        {
+          "speaker": "B",
+          "en": "Zoom.",
+          "vi": "Phóng to."
+        }
+      ]
+    },
+    {
+      "word": "Phone (Sound)",
+      "ipa": "/foʊn/",
+      "meaning": "Âm thanh (Gốc từ)",
+      "example": {
+        "en": "Telephone sound.",
+        "vi": "Âm thanh điện thoại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Symphony.",
+          "vi": "Giao hưởng (sai gốc phonetic, nhưng liên quan âm thanh)."
+        },
+        {
+          "speaker": "B",
+          "en": "Hear.",
+          "vi": "Nghe."
+        }
+      ]
+    },
+    {
+      "word": "Photo (Light)",
+      "ipa": "/ˈfoʊtoʊ/",
+      "meaning": "Ánh sáng (Gốc từ)",
+      "example": {
+        "en": "Photograph needs light.",
+        "vi": "Chụp ảnh cần ánh sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Camera.",
+          "vi": "Máy ảnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Flash.",
+          "vi": "Đèn flash."
+        }
+      ]
+    },
+    {
+      "word": "Auto (Self)",
+      "ipa": "/ˈɔːtoʊ/",
+      "meaning": "Tự động / Bản thân (Gốc từ)",
+      "example": {
+        "en": "Automatic door.",
+        "vi": "Cửa tự động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Autobiography.",
+          "vi": "Tự truyện."
+        },
+        {
+          "speaker": "B",
+          "en": "Self.",
+          "vi": "Bản thân."
+        }
+      ]
+    },
+    {
+      "word": "Cycle (Circle)",
+      "ipa": "/ˈsaɪkəl/",
+      "meaning": "Vòng tròn (Gốc từ)",
+      "example": {
+        "en": "Bicycle wheels.",
+        "vi": "Bánh xe đạp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Recycle.",
+          "vi": "Tái chế."
+        },
+        {
+          "speaker": "B",
+          "en": "Round.",
+          "vi": "Tròn."
+        }
+      ]
+    },
+    {
+      "word": "Re (Again)",
+      "ipa": "/riː/",
+      "meaning": "Lại (Tiền tố/Gốc từ)",
+      "example": {
+        "en": "Redo it.",
+        "vi": "Làm lại đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Repeat.",
+          "vi": "Lặp lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Again.",
+          "vi": "Lần nữa."
+        }
+      ]
+    },
+    {
+      "word": "Sub (Under)",
+      "ipa": "/sʌb/",
+      "meaning": "Dưới (Gốc từ)",
+      "example": {
+        "en": "Submarine goes under.",
+        "vi": "Tàu ngầm đi bên dưới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Subway.",
+          "vi": "Tàu điện ngầm."
+        },
+        {
+          "speaker": "B",
+          "en": "Below.",
+          "vi": "Bên dưới."
+        }
+      ]
+    }
+  ]
 }

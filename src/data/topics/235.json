@@ -1,6 +1,217 @@
 {
   "id": "235",
   "title": "235. British vs American English – Anh - Mỹ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Cookie (US) / Biscuit (UK)",
+      "ipa": "/ˈkʊki/ - /ˈbɪskɪt/",
+      "meaning": "Bánh quy",
+      "example": {
+        "en": "Eat a cookie.",
+        "vi": "Ăn bánh quy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sweet.",
+          "vi": "Ngọt."
+        },
+        {
+          "speaker": "B",
+          "en": "Tea time.",
+          "vi": "Giờ trà."
+        }
+      ]
+    },
+    {
+      "word": "Apartment (US) / Flat (UK)",
+      "ipa": "/əˈpɑːrtmənt/ - /flæt/",
+      "meaning": "Căn hộ",
+      "example": {
+        "en": "Rent an apartment.",
+        "vi": "Thuê căn hộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "City center.",
+          "vi": "Trung tâm thành phố."
+        },
+        {
+          "speaker": "B",
+          "en": "Convinient.",
+          "vi": "Tiện lợi."
+        }
+      ]
+    },
+    {
+      "word": "Soccer (US) / Football (UK)",
+      "ipa": "/ˈsɒkər/ - /ˈfʊtbɔːl/",
+      "meaning": "Bóng đá",
+      "example": {
+        "en": "Play soccer.",
+        "vi": "Chơi bóng đá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "World Cup.",
+          "vi": "World Cup."
+        },
+        {
+          "speaker": "B",
+          "en": "Goal.",
+          "vi": "Bàn thắng."
+        }
+      ]
+    },
+    {
+      "word": "Elevator (US) / Lift (UK)",
+      "ipa": "/ˈɛləveɪtər/ - /lɪft/",
+      "meaning": "Thang máy",
+      "example": {
+        "en": "Take elevator.",
+        "vi": "Đi thang máy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Top floor.",
+          "vi": "Tầng cao nhất."
+        },
+        {
+          "speaker": "B",
+          "en": "Going up.",
+          "vi": "Đi lên."
+        }
+      ]
+    },
+    {
+      "word": "Truck (US) / Lorry (UK)",
+      "ipa": "/trʌk/ - /ˈlɒri/",
+      "meaning": "Xe tải",
+      "example": {
+        "en": "Big truck.",
+        "vi": "Xe tải lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cargo.",
+          "vi": "Hàng hóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Drive.",
+          "vi": "Lái xe."
+        }
+      ]
+    },
+    {
+      "word": "Vacation (US) / Holiday (UK)",
+      "ipa": "/veɪˈkeɪʃən/ - /ˈhɒlɪdeɪ/",
+      "meaning": "Kỳ nghỉ",
+      "example": {
+        "en": "Summer vacation.",
+        "vi": "Kỳ nghỉ hè."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Travel.",
+          "vi": "Du lịch."
+        },
+        {
+          "speaker": "B",
+          "en": "Beach.",
+          "vi": "Biển."
+        }
+      ]
+    },
+    {
+      "word": "Color (US) / Colour (UK)",
+      "ipa": "/ˈkʌlər/",
+      "meaning": "Màu sắc",
+      "example": {
+        "en": "Bright color.",
+        "vi": "Màu sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Red.",
+          "vi": "Đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Blue.",
+          "vi": "Xanh."
+        }
+      ]
+    },
+    {
+      "word": "Fries (US) / Chips (UK)",
+      "ipa": "/fraɪz/ - /tʃɪps/",
+      "meaning": "Khoai tây chiên",
+      "example": {
+        "en": "Burger and fries.",
+        "vi": "Bánh mì kẹp và khoai chiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast food.",
+          "vi": "Đồ ăn nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Yummy.",
+          "vi": "Ngon."
+        }
+      ]
+    },
+    {
+      "word": "Movie (US) / Film (UK)",
+      "ipa": "/ˈmuːvi/ - /fɪlm/",
+      "meaning": "Phim",
+      "example": {
+        "en": "Watch a movie.",
+        "vi": "Xem phim."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cinema.",
+          "vi": "Rạp phim."
+        },
+        {
+          "speaker": "B",
+          "en": "Popcorn.",
+          "vi": "Bắp rang."
+        }
+      ]
+    },
+    {
+      "word": "Sneakers (US) / Trainers (UK)",
+      "ipa": "/ˈsniːkərz/ - /ˈtreɪnərz/",
+      "meaning": "Giày thể thao",
+      "example": {
+        "en": "New sneakers.",
+        "vi": "Giày thể thao mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Running.",
+          "vi": "Chạy bộ."
+        },
+        {
+          "speaker": "B",
+          "en": "Comfortable.",
+          "vi": "Thoải mái."
+        }
+      ]
+    }
+  ]
 }

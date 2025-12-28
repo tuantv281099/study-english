@@ -1,6 +1,217 @@
 {
   "id": "176",
   "title": "176. Taxes – Thuế",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Tax",
+      "ipa": "/tæks/",
+      "meaning": "Thuế",
+      "example": {
+        "en": "Pay tax.",
+        "vi": "Nộp thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Income tax.",
+          "vi": "Thuế thu nhập."
+        },
+        {
+          "speaker": "B",
+          "en": "Government.",
+          "vi": "Chính phủ."
+        }
+      ]
+    },
+    {
+      "word": "File",
+      "ipa": "/faɪl/",
+      "meaning": "Khai báo / Nộp (hồ sơ)",
+      "example": {
+        "en": "File taxes.",
+        "vi": "Khai thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Deadline April.",
+          "vi": "Hạn chót tháng 4."
+        },
+        {
+          "speaker": "B",
+          "en": "Use software.",
+          "vi": "Dùng phần mềm."
+        }
+      ]
+    },
+    {
+      "word": "Return",
+      "ipa": "/rɪˈtɜːrn/",
+      "meaning": "Hoàn thuế / Tờ khai",
+      "example": {
+        "en": "Tax return.",
+        "vi": "Tờ khai thuế / Tiền hoàn thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Get refund.",
+          "vi": "Được hoàn tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Submit form.",
+          "vi": "Nộp biểu mẫu."
+        }
+      ]
+    },
+    {
+      "word": "Deduct",
+      "ipa": "/dɪˈdʌkt/",
+      "meaning": "Khấu trừ",
+      "example": {
+        "en": "Tax deduct.",
+        "vi": "Khấu trừ thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Business expense.",
+          "vi": "Chi phí kinh doanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Lower tax.",
+          "vi": "Giảm thuế."
+        }
+      ]
+    },
+    {
+      "word": "Income",
+      "ipa": "/ˈɪnkʌm/",
+      "meaning": "Thu nhập",
+      "example": {
+        "en": "Taxable income.",
+        "vi": "Thu nhập chịu thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Salary.",
+          "vi": "Lương."
+        },
+        {
+          "speaker": "B",
+          "en": "Bonus.",
+          "vi": "Thưởng."
+        }
+      ]
+    },
+    {
+      "word": "Audit",
+      "ipa": "/ˈɔːdɪt/",
+      "meaning": "Kiểm toán / Thanh tra",
+      "example": {
+        "en": "Tax audit.",
+        "vi": "Thanh tra thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check records.",
+          "vi": "Kiểm tra hồ sơ."
+        },
+        {
+          "speaker": "B",
+          "en": "Keep receipt.",
+          "vi": "Giữ hóa đơn."
+        }
+      ]
+    },
+    {
+      "word": "Rate",
+      "ipa": "/reɪt/",
+      "meaning": "Thuế suất",
+      "example": {
+        "en": "Tax rate.",
+        "vi": "Thuế suất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High bracket.",
+          "vi": "Mức cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Percent.",
+          "vi": "Phần trăm."
+        }
+      ]
+    },
+    {
+      "word": "Owe",
+      "ipa": "/oʊ/",
+      "meaning": "Nợ",
+      "example": {
+        "en": "Owe taxes.",
+        "vi": "Nợ thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pay now.",
+          "vi": "Trả ngay."
+        },
+        {
+          "speaker": "B",
+          "en": "Avoid penalty.",
+          "vi": "Tránh bị phạt."
+        }
+      ]
+    },
+    {
+      "word": "Refund",
+      "ipa": "/ˈriːfʌnd/",
+      "meaning": "Tiền hoàn lại",
+      "example": {
+        "en": "Tax refund.",
+        "vi": "Tiền hoàn thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Big check.",
+          "vi": "Séc lớn."
+        },
+        {
+          "speaker": "B",
+          "en": "Spend it.",
+          "vi": "Tiêu nó."
+        }
+      ]
+    },
+    {
+      "word": "Sales",
+      "ipa": "/seɪlz/",
+      "meaning": "Bán hàng",
+      "example": {
+        "en": "Sales tax.",
+        "vi": "Thuế bán hàng (VAT)."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Added to price.",
+          "vi": "Cộng vào giá."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy goods.",
+          "vi": "Mua hàng hóa."
+        }
+      ]
+    }
+  ]
 }

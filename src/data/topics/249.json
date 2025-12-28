@@ -1,6 +1,217 @@
 {
   "id": "249",
   "title": "249. Philosophy Vocabulary – Triết học",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Idea",
+      "ipa": "/aɪˈdɪə/",
+      "meaning": "Ý tưởng",
+      "example": {
+        "en": "Big idea.",
+        "vi": "Ý tưởng lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Thought.",
+          "vi": "Suy nghĩ."
+        },
+        {
+          "speaker": "B",
+          "en": "Concept.",
+          "vi": "Khái niệm."
+        }
+      ]
+    },
+    {
+      "word": "Truth",
+      "ipa": "/truːθ/",
+      "meaning": "Sự thật",
+      "example": {
+        "en": "Seek truth.",
+        "vi": "Tìm kiếm sự thật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reality.",
+          "vi": "Thực tế."
+        },
+        {
+          "speaker": "B",
+          "en": "Honest.",
+          "vi": "Trung thực."
+        }
+      ]
+    },
+    {
+      "word": "Reason",
+      "ipa": "/ˈriːzən/",
+      "meaning": "Lý trí / Lý do",
+      "example": {
+        "en": "Use reason.",
+        "vi": "Dùng lý trí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Logic.",
+          "vi": "Logic."
+        },
+        {
+          "speaker": "B",
+          "en": "Think.",
+          "vi": "Suy nghĩ."
+        }
+      ]
+    },
+    {
+      "word": "Logic",
+      "ipa": "/ˈlɒdʒɪk/",
+      "meaning": "Logic",
+      "example": {
+        "en": "Apply logic.",
+        "vi": "Áp dụng logic."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Makes sense.",
+          "vi": "Có lý."
+        },
+        {
+          "speaker": "B",
+          "en": "Argument.",
+          "vi": "Lập luận."
+        }
+      ]
+    },
+    {
+      "word": "Ethics",
+      "ipa": "/ˈɛθɪks/",
+      "meaning": "Đạo đức học",
+      "example": {
+        "en": "Study ethics.",
+        "vi": "Nghiên cứu đạo đức học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Right.",
+          "vi": "Đúng."
+        },
+        {
+          "speaker": "B",
+          "en": "Wrong.",
+          "vi": "Sai."
+        }
+      ]
+    },
+    {
+      "word": "Moral",
+      "ipa": "/ˈmɔːrəl/",
+      "meaning": "Đạo đức / Luân lý",
+      "example": {
+        "en": "Moral dilemma.",
+        "vi": "Tình huống khó xử về đạo đức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good.",
+          "vi": "Tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Bad.",
+          "vi": "Xấu."
+        }
+      ]
+    },
+    {
+      "word": "Self",
+      "ipa": "/sɛlf/",
+      "meaning": "Bản ngã",
+      "example": {
+        "en": "Know thyself.",
+        "vi": "Hiểu chính mình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who am I?",
+          "vi": "Tôi là ai?"
+        },
+        {
+          "speaker": "B",
+          "en": "Identity.",
+          "vi": "Danh tính."
+        }
+      ]
+    },
+    {
+      "word": "Mind",
+      "ipa": "/maɪnd/",
+      "meaning": "Tâm trí",
+      "example": {
+        "en": "Body and mind.",
+        "vi": "Cơ thể và tâm trí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Consciousness.",
+          "vi": "Ý thức."
+        },
+        {
+          "speaker": "B",
+          "en": "Soul.",
+          "vi": "Tâm hồn."
+        }
+      ]
+    },
+    {
+      "word": "Existence",
+      "ipa": "/ɪɡˈzɪstəns/",
+      "meaning": "Sự tồn tại",
+      "example": {
+        "en": "Meaning of existence.",
+        "vi": "Ý nghĩa của sự tồn tại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Life.",
+          "vi": "Sự sống."
+        },
+        {
+          "speaker": "B",
+          "en": "Purpose.",
+          "vi": "Mục đích."
+        }
+      ]
+    },
+    {
+      "word": "Wisdom",
+      "ipa": "/ˈwɪzdəm/",
+      "meaning": "Trí tuệ / Sự khôn ngoan",
+      "example": {
+        "en": "Ancient wisdom.",
+        "vi": "Trí tuệ cổ xưa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wise.",
+          "vi": "Khôn ngoan."
+        },
+        {
+          "speaker": "B",
+          "en": "Learn.",
+          "vi": "Học hỏi."
+        }
+      ]
+    }
+  ]
 }

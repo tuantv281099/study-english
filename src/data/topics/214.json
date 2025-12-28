@@ -1,6 +1,217 @@
 {
   "id": "214",
   "title": "214. Texting Vocabulary – Nhắn tin",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Text",
+      "ipa": "/tɛkst/",
+      "meaning": "Tin nhắn văn bản",
+      "example": {
+        "en": "Send a text.",
+        "vi": "Gửi một tin nhắn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "SMS.",
+          "vi": "SMS."
+        },
+        {
+          "speaker": "B",
+          "en": "Short message.",
+          "vi": "Tin nhắn ngắn."
+        }
+      ]
+    },
+    {
+      "word": "LOL",
+      "ipa": "/ɛl oʊ ɛl/",
+      "meaning": "Cười lớn (từ viết tắt)",
+      "example": {
+        "en": "That's funny LOL.",
+        "vi": "Buồn cười quá LOL."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Joke.",
+          "vi": "Trò đùa."
+        },
+        {
+          "speaker": "B",
+          "en": "Laughing.",
+          "vi": "Đang cười."
+        }
+      ]
+    },
+    {
+      "word": "Emoji",
+      "ipa": "/ɪˈmoʊdʒi/",
+      "meaning": "Biểu tượng cảm xúc",
+      "example": {
+        "en": "Use emoji.",
+        "vi": "Dùng biểu tượng cảm xúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smile face.",
+          "vi": "Mặt cười."
+        },
+        {
+          "speaker": "B",
+          "en": "Express mood.",
+          "vi": "Thể hiện tâm trạng."
+        }
+      ]
+    },
+    {
+      "word": "Reply",
+      "ipa": "/rɪˈplaɪ/",
+      "meaning": "Trả lời",
+      "example": {
+        "en": "Fast reply.",
+        "vi": "Trả lời nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Waiting.",
+          "vi": "Đang chờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Busy typing.",
+          "vi": "Đang bận gõ."
+        }
+      ]
+    },
+    {
+      "word": "Typing",
+      "ipa": "/ˈtaɪpɪŋ/",
+      "meaning": "Đang gõ",
+      "example": {
+        "en": "Typing bubble.",
+        "vi": "Bong bóng đang gõ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Writing long.",
+          "vi": "Viết dài."
+        },
+        {
+          "speaker": "B",
+          "en": "Be patient.",
+          "vi": "Kiên nhẫn."
+        }
+      ]
+    },
+    {
+      "word": "Group",
+      "ipa": "/ɡruːp/",
+      "meaning": "Nhóm chat",
+      "example": {
+        "en": "Group chat.",
+        "vi": "Chat nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Many people.",
+          "vi": "Nhiều người."
+        },
+        {
+          "speaker": "B",
+          "en": "Notifications.",
+          "vi": "Thông báo."
+        }
+      ]
+    },
+    {
+      "word": "Mute",
+      "ipa": "/mjuːt/",
+      "meaning": "Tắt thông báo",
+      "example": {
+        "en": "Mute group.",
+        "vi": "Tắt thông báo nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too noisy.",
+          "vi": "Ồn quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Sleeping.",
+          "vi": "Đang ngủ."
+        }
+      ]
+    },
+    {
+      "word": "Send",
+      "ipa": "/sɛnd/",
+      "meaning": "Gửi",
+      "example": {
+        "en": "Hit send.",
+        "vi": "Nhấn gửi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Delivered.",
+          "vi": "Đã gửi."
+        },
+        {
+          "speaker": "B",
+          "en": "Seen.",
+          "vi": "Đã xem."
+        }
+      ]
+    },
+    {
+      "word": "Photo",
+      "ipa": "/ˈfoʊtoʊ/",
+      "meaning": "Ảnh",
+      "example": {
+        "en": "Send photo.",
+        "vi": "Gửi ảnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Selfie.",
+          "vi": "Ảnh tự sướng."
+        },
+        {
+          "speaker": "B",
+          "en": "Nice pic.",
+          "vi": "Ảnh đẹp."
+        }
+      ]
+    },
+    {
+      "word": "BRB",
+      "ipa": "/biː ɑːr biː/",
+      "meaning": "Quay lại ngay",
+      "example": {
+        "en": "BRB lunch.",
+        "vi": "Quay lại ngay, ăn trưa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be right back.",
+          "vi": "Quay lại ngay."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Ok."
+        }
+      ]
+    }
+  ]
 }

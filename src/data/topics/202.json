@@ -1,6 +1,217 @@
 {
   "id": "202",
   "title": "202. Small Talk – Trò chuyện xã giao",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Weather",
+      "ipa": "/ˈwɛðər/",
+      "meaning": "Thời tiết",
+      "example": {
+        "en": "Nice weather.",
+        "vi": "Thời tiết đẹp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sunny today.",
+          "vi": "Hôm nay nắng."
+        },
+        {
+          "speaker": "B",
+          "en": "Perfect.",
+          "vi": "Hoàn hảo."
+        }
+      ]
+    },
+    {
+      "word": "Work",
+      "ipa": "/wɜːrk/",
+      "meaning": "Công việc",
+      "example": {
+        "en": "How is work?",
+        "vi": "Công việc thế nào?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Busy.",
+          "vi": "Bận rộn."
+        },
+        {
+          "speaker": "B",
+          "en": "Same here.",
+          "vi": "Tôi cũng vậy."
+        }
+      ]
+    },
+    {
+      "word": "Weekend",
+      "ipa": "/ˈwiːkɛnd/",
+      "meaning": "Cuối tuần",
+      "example": {
+        "en": "Good weekend?",
+        "vi": "Cuối tuần vui không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Relaxed.",
+          "vi": "Đã thư giãn."
+        },
+        {
+          "speaker": "B",
+          "en": "Went out.",
+          "vi": "Đã đi chơi."
+        }
+      ]
+    },
+    {
+      "word": "Traffic",
+      "ipa": "/ˈtræfɪk/",
+      "meaning": "Giao thông",
+      "example": {
+        "en": "Bad traffic.",
+        "vi": "Giao thông tệ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stuck in jam.",
+          "vi": "Bị kẹt xe."
+        },
+        {
+          "speaker": "B",
+          "en": "Always.",
+          "vi": "Lúc nào cũng vậy."
+        }
+      ]
+    },
+    {
+      "word": "News",
+      "ipa": "/nuːz/",
+      "meaning": "Tin tức",
+      "example": {
+        "en": "Heard news?",
+        "vi": "Nghe tin gì chưa?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you see?",
+          "vi": "Bạn thấy chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Interesting.",
+          "vi": "Thú vị."
+        }
+      ]
+    },
+    {
+      "word": "Hobby",
+      "ipa": "/ˈhɒbi/",
+      "meaning": "Sở thích",
+      "example": {
+        "en": "Any hobbies?",
+        "vi": "Có sở thích gì không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Play golf.",
+          "vi": "Chơi gôn."
+        },
+        {
+          "speaker": "B",
+          "en": "Fun.",
+          "vi": "Vui."
+        }
+      ]
+    },
+    {
+      "word": "Family",
+      "ipa": "/ˈfæmɪli/",
+      "meaning": "Gia đình",
+      "example": {
+        "en": "Family well?",
+        "vi": "Gia đình khỏe không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Kids growing.",
+          "vi": "Hội trẻ đang lớn."
+        },
+        {
+          "speaker": "B",
+          "en": "Time flies.",
+          "vi": "Thời gian trôi nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Trip",
+      "ipa": "/trɪp/",
+      "meaning": "Chuyến đi",
+      "example": {
+        "en": "Nice trip.",
+        "vi": "Chuyến đi tuyệt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Go anywhere?",
+          "vi": "Có đi đâu không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Just home.",
+          "vi": "Ở nhà thôi."
+        }
+      ]
+    },
+    {
+      "word": "Busy",
+      "ipa": "/ˈbɪzi/",
+      "meaning": "Bận rộn",
+      "example": {
+        "en": "Keeping busy.",
+        "vi": "Vẫn bận rộn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lots to do.",
+          "vi": "Nhiều việc phải làm."
+        },
+        {
+          "speaker": "B",
+          "en": "Take break.",
+          "vi": "Nghỉ ngơi chút đi."
+        }
+      ]
+    },
+    {
+      "word": "Lately",
+      "ipa": "/ˈleɪtli/",
+      "meaning": "Gần đây",
+      "example": {
+        "en": "Seen lately?",
+        "vi": "Gần đây có gặp không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not much.",
+          "vi": "Không nhiều."
+        },
+        {
+          "speaker": "B",
+          "en": "Catch up.",
+          "vi": "Hàn huyên chút."
+        }
+      ]
+    }
+  ]
 }

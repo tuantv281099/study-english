@@ -1,6 +1,217 @@
 {
   "id": "227",
   "title": "227. SAT Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Vocabulary",
+      "ipa": "/voʊˈkæbjʊləri/",
+      "meaning": "Từ vựng",
+      "example": {
+        "en": "SAT vocabulary.",
+        "vi": "Từ vựng SAT."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hard words.",
+          "vi": "Từ khó."
+        },
+        {
+          "speaker": "B",
+          "en": "Flashcards.",
+          "vi": "Thẻ ghi nhớ."
+        }
+      ]
+    },
+    {
+      "word": "Math",
+      "ipa": "/mæθ/",
+      "meaning": "Toán",
+      "example": {
+        "en": "Math section.",
+        "vi": "Phần toán ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Algebra.",
+          "vi": "Đại số."
+        },
+        {
+          "speaker": "B",
+          "en": "Geometry.",
+          "vi": "Hình học."
+        }
+      ]
+    },
+    {
+      "word": "Reading",
+      "ipa": "/ˈriːdɪŋ/",
+      "meaning": "Đọc hiểu",
+      "example": {
+        "en": "Critical reading.",
+        "vi": "Đọc hiểu phản biện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Passage.",
+          "vi": "Đoạn văn."
+        },
+        {
+          "speaker": "B",
+          "en": "Answer.",
+          "vi": "Trả lời."
+        }
+      ]
+    },
+    {
+      "word": "Writing",
+      "ipa": "/ˈraɪtɪŋ/",
+      "meaning": "Viết",
+      "example": {
+        "en": "Writing skills.",
+        "vi": "Kỹ năng viết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Grammar.",
+          "vi": "Ngữ pháp."
+        },
+        {
+          "speaker": "B",
+          "en": "Essay.",
+          "vi": "Bài luận."
+        }
+      ]
+    },
+    {
+      "word": "College",
+      "ipa": "/ˈkɒlɪdʒ/",
+      "meaning": "Đại học",
+      "example": {
+        "en": "College admission.",
+        "vi": "Xét tuyển đại học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Apply.",
+          "vi": "Nộp đơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Acceptance.",
+          "vi": "Thư mời nhập học."
+        }
+      ]
+    },
+    {
+      "word": "Score",
+      "ipa": "/skɔːr/",
+      "meaning": "Điểm số",
+      "example": {
+        "en": "Perfect score.",
+        "vi": "Điểm tuyệt đối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "1600.",
+          "vi": "1600."
+        },
+        {
+          "speaker": "B",
+          "en": "Scholarship.",
+          "vi": "Học bổng."
+        }
+      ]
+    },
+    {
+      "word": "Analyze",
+      "ipa": "/ˈænəlaɪz/",
+      "meaning": "Phân tích",
+      "example": {
+        "en": "Analyze data.",
+        "vi": "Phân tích dữ liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Charts.",
+          "vi": "Biểu đồ."
+        },
+        {
+          "speaker": "B",
+          "en": "Graphs.",
+          "vi": "Đồ thị."
+        }
+      ]
+    },
+    {
+      "word": "Evidence",
+      "ipa": "/ˈɛvɪdəns/",
+      "meaning": "Bằng chứng",
+      "example": {
+        "en": "Find evidence.",
+        "vi": "Tìm bằng chứng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Support claim.",
+          "vi": "Ủng hộ luận điểm."
+        },
+        {
+          "speaker": "B",
+          "en": "Text.",
+          "vi": "Văn bản."
+        }
+      ]
+    },
+    {
+      "word": "Practice",
+      "ipa": "/ˈpræktɪs/",
+      "meaning": "Luyện tập",
+      "example": {
+        "en": "Practice test.",
+        "vi": "Bài kiểm tra thử."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Timer.",
+          "vi": "Đồng hồ bấm giờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Improve.",
+          "vi": "Cải thiện."
+        }
+      ]
+    },
+    {
+      "word": "Strategy",
+      "ipa": "/ˈstrætədʒi/",
+      "meaning": "Chiến thuật",
+      "example": {
+        "en": "Test strategy.",
+        "vi": "Chiến thuật làm bài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Guessing.",
+          "vi": "Đoán."
+        },
+        {
+          "speaker": "B",
+          "en": "Pacing.",
+          "vi": "Phân bổ thời gian."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "262",
   "title": "262. Construction – Xây dựng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Site",
+      "ipa": "/saɪt/",
+      "meaning": "Công trường",
+      "example": {
+        "en": "Building site.",
+        "vi": "Công trường xây dựng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Work.",
+          "vi": "Làm việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Visit.",
+          "vi": "Thăm."
+        }
+      ]
+    },
+    {
+      "word": "Foundation",
+      "ipa": "/faʊnˈdeɪʃən/",
+      "meaning": "Nền móng",
+      "example": {
+        "en": "Solid foundation.",
+        "vi": "Nền móng vững chắc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dig.",
+          "vi": "Đào."
+        },
+        {
+          "speaker": "B",
+          "en": "Concrete.",
+          "vi": "Bê tông."
+        }
+      ]
+    },
+    {
+      "word": "Crane",
+      "ipa": "/kreɪn/",
+      "meaning": "Cần cẩu",
+      "example": {
+        "en": "Tall crane.",
+        "vi": "Cần cẩu cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lift.",
+          "vi": "Nâng."
+        },
+        {
+          "speaker": "B",
+          "en": "Heavy.",
+          "vi": "Nặng."
+        }
+      ]
+    },
+    {
+      "word": "Blueprint",
+      "ipa": "/ˈbluːprɪnt/",
+      "meaning": "Bản thiết kế",
+      "example": {
+        "en": "Read blueprint.",
+        "vi": "Đọc bản thiết kế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Plan.",
+          "vi": "Kế hoạch."
+        },
+        {
+          "speaker": "B",
+          "en": "Architect.",
+          "vi": "Kiến trúc sư."
+        }
+      ]
+    },
+    {
+      "word": "Scaffold",
+      "ipa": "/ˈskæfoʊld/",
+      "meaning": "Giàn giáo",
+      "example": {
+        "en": "Climb scaffold.",
+        "vi": "Leo giàn giáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High.",
+          "vi": "Cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Dangerous.",
+          "vi": "Nguy hiểm."
+        }
+      ]
+    },
+    {
+      "word": "Brick",
+      "ipa": "/brɪk/",
+      "meaning": "Gạch",
+      "example": {
+        "en": "Red brick.",
+        "vi": "Gạch đỏ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wall.",
+          "vi": "Tường."
+        },
+        {
+          "speaker": "B",
+          "en": "Lay.",
+          "vi": "Xếp."
+        }
+      ]
+    },
+    {
+      "word": "Cement",
+      "ipa": "/sɪˈmɛnt/",
+      "meaning": "Xi măng",
+      "example": {
+        "en": "Mix cement.",
+        "vi": "Trộn xi măng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Strong.",
+          "vi": "Cứng."
+        },
+        {
+          "speaker": "B",
+          "en": "Dry.",
+          "vi": "Khô."
+        }
+      ]
+    },
+    {
+      "word": "Contractor",
+      "ipa": "/ˈkɒntræktər/",
+      "meaning": "Nhà thầu",
+      "example": {
+        "en": "Hire contractor.",
+        "vi": "Thuê nhà thầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Agreement.",
+          "vi": "Hợp đồng."
+        },
+        {
+          "speaker": "B",
+          "en": "Build.",
+          "vi": "Xây."
+        }
+      ]
+    },
+    {
+      "word": "Renovate",
+      "ipa": "/ˈrɛnəveɪt/",
+      "meaning": "Cải tạo",
+      "example": {
+        "en": "Renovate house.",
+        "vi": "Cải tạo nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New look.",
+          "vi": "Diện mạo mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix.",
+          "vi": "Sửa."
+        }
+      ]
+    },
+    {
+      "word": "Helmet",
+      "ipa": "/ˈhɛlmɪt/",
+      "meaning": "Mũ bảo hộ",
+      "example": {
+        "en": "Wear helmet.",
+        "vi": "Đội mũ bảo hộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Head.",
+          "vi": "Đầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Rule.",
+          "vi": "Quy định."
+        }
+      ]
+    }
+  ]
 }

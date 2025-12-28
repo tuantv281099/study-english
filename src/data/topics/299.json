@@ -1,6 +1,217 @@
 {
   "id": "299",
   "title": "299. Parenting Vocabulary – Nuôi dạy con",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Parent",
+      "ipa": "/ˈpɛərənt/",
+      "meaning": "Cha mẹ",
+      "example": {
+        "en": "Good parent.",
+        "vi": "Cha mẹ tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Love.",
+          "vi": "Yêu thương."
+        },
+        {
+          "speaker": "B",
+          "en": "Teach.",
+          "vi": "Dạy dỗ."
+        }
+      ]
+    },
+    {
+      "word": "Baby",
+      "ipa": "/ˈbeɪbi/",
+      "meaning": "Em bé",
+      "example": {
+        "en": "Cute baby.",
+        "vi": "Em bé dễ thương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smile.",
+          "vi": "Cười."
+        },
+        {
+          "speaker": "B",
+          "en": "Sleep.",
+          "vi": "Ngủ."
+        }
+      ]
+    },
+    {
+      "word": "Child",
+      "ipa": "/tʃaɪld/",
+      "meaning": "Đứa trẻ",
+      "example": {
+        "en": "Happy child.",
+        "vi": "Đứa trẻ hạnh phúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Play.",
+          "vi": "Chơi."
+        },
+        {
+          "speaker": "B",
+          "en": "School.",
+          "vi": "Trường học."
+        }
+      ]
+    },
+    {
+      "word": "Family",
+      "ipa": "/ˈfæmɪli/",
+      "meaning": "Gia đình",
+      "example": {
+        "en": "Big family.",
+        "vi": "Gia đình lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Home.",
+          "vi": "Nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Together.",
+          "vi": "Cùng nhau."
+        }
+      ]
+    },
+    {
+      "word": "Love",
+      "ipa": "/lʌv/",
+      "meaning": "Yêu thương",
+      "example": {
+        "en": "Family love.",
+        "vi": "Tình yêu gia đình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Care.",
+          "vi": "Quan tâm."
+        },
+        {
+          "speaker": "B",
+          "en": "Hug.",
+          "vi": "Ôm."
+        }
+      ]
+    },
+    {
+      "word": "Teach",
+      "ipa": "/tiːtʃ/",
+      "meaning": "Dạy",
+      "example": {
+        "en": "Teach manners.",
+        "vi": "Dạy cư xử."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn.",
+          "vi": "Học."
+        },
+        {
+          "speaker": "B",
+          "en": "Good.",
+          "vi": "Tốt."
+        }
+      ]
+    },
+    {
+      "word": "School",
+      "ipa": "/skuːl/",
+      "meaning": "Trường học",
+      "example": {
+        "en": "Go to school.",
+        "vi": "Đi học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Class.",
+          "vi": "Lớp học."
+        },
+        {
+          "speaker": "B",
+          "en": "Friend.",
+          "vi": "Bạn bè."
+        }
+      ]
+    },
+    {
+      "word": "Play",
+      "ipa": "/pleɪ/",
+      "meaning": "Chơi",
+      "example": {
+        "en": "Play outside.",
+        "vi": "Chơi ngoài trời."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fun.",
+          "vi": "Vui."
+        },
+        {
+          "speaker": "B",
+          "en": "Toy.",
+          "vi": "Đồ chơi."
+        }
+      ]
+    },
+    {
+      "word": "Sleep",
+      "ipa": "/sliːp/",
+      "meaning": "Ngủ",
+      "example": {
+        "en": "Baby sleep.",
+        "vi": "Bé ngủ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Quiet.",
+          "vi": "Yên lặng."
+        },
+        {
+          "speaker": "B",
+          "en": "Night.",
+          "vi": "Đêm."
+        }
+      ]
+    },
+    {
+      "word": "Grow",
+      "ipa": "/ɡroʊ/",
+      "meaning": "Lớn lên",
+      "example": {
+        "en": "Grow fast.",
+        "vi": "Lớn nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tall.",
+          "vi": "Cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Strong.",
+          "vi": "Khỏe."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "200",
   "title": "200. Intercultural Communication – Giao tiếp liên văn hóa",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Communicate",
+      "ipa": "/kəˈmjuːnɪkeɪt/",
+      "meaning": "Giao tiếp",
+      "example": {
+        "en": "Communicate well.",
+        "vi": "Giao tiếp tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Talk clearly.",
+          "vi": "Nói rõ ràng."
+        },
+        {
+          "speaker": "B",
+          "en": "Listen.",
+          "vi": "Lắng nghe."
+        }
+      ]
+    },
+    {
+      "word": "Understand",
+      "ipa": "/ˌʌndərˈstænd/",
+      "meaning": "Hiểu",
+      "example": {
+        "en": "Understand culture.",
+        "vi": "Hiểu văn hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be open.",
+          "vi": "Cởi mở."
+        },
+        {
+          "speaker": "B",
+          "en": "Ask questions.",
+          "vi": "Đặt câu hỏi."
+        }
+      ]
+    },
+    {
+      "word": "Respect",
+      "ipa": "/rɪˈspɛkt/",
+      "meaning": "Tôn trọng",
+      "example": {
+        "en": "Show respect.",
+        "vi": "Thể hiện sự tôn trọng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Different views.",
+          "vi": "Quan điểm khác nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Polite.",
+          "vi": "Lịch sự."
+        }
+      ]
+    },
+    {
+      "word": "Difference",
+      "ipa": "/ˈdɪfrəns/",
+      "meaning": "Sự khác biệt",
+      "example": {
+        "en": "Cultural difference.",
+        "vi": "Sự khác biệt văn hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn from it.",
+          "vi": "Học từ nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Interesting.",
+          "vi": "Thú vị."
+        }
+      ]
+    },
+    {
+      "word": "Body language",
+      "ipa": "/ˈbɒdi ˈlæŋɡwɪdʒ/",
+      "meaning": "Ngôn ngữ cơ thể",
+      "example": {
+        "en": "Read body language.",
+        "vi": "Đọc ngôn ngữ cơ thể."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Eye contact.",
+          "vi": "Giao tiếp mắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Gestures.",
+          "vi": "Cử chỉ."
+        }
+      ]
+    },
+    {
+      "word": "Misunderstand",
+      "ipa": "/ˌmɪsʌndərˈstænd/",
+      "meaning": "Hiểu lầm",
+      "example": {
+        "en": "Easy to misunderstand.",
+        "vi": "Dễ hiểu lầm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clarify.",
+          "vi": "Làm rõ."
+        },
+        {
+          "speaker": "B",
+          "en": "Explain.",
+          "vi": "Giải thích."
+        }
+      ]
+    },
+    {
+      "word": "Adapt",
+      "ipa": "/əˈdæpt/",
+      "meaning": "Thích nghi",
+      "example": {
+        "en": "Adapt to culture.",
+        "vi": "Thích nghi với văn hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be flexible.",
+          "vi": "Linh hoạt."
+        },
+        {
+          "speaker": "B",
+          "en": "Change habits.",
+          "vi": "Thay đổi thói quen."
+        }
+      ]
+    },
+    {
+      "word": "Open-minded",
+      "ipa": "/ˈoʊpən ˈmaɪndɪd/",
+      "meaning": "Cởi mở",
+      "example": {
+        "en": "Be open-minded.",
+        "vi": "Hãy cởi mở."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Accept ideas.",
+          "vi": "Chấp nhận ý tưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "No judge.",
+          "vi": "Không phán xét."
+        }
+      ]
+    },
+    {
+      "word": "Stereotype",
+      "ipa": "/ˈstɛriətaɪp/",
+      "meaning": "Định kiến",
+      "example": {
+        "en": "Avoid stereotype.",
+        "vi": "Tránh định kiến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not true.",
+          "vi": "Không đúng."
+        },
+        {
+          "speaker": "B",
+          "en": "Know person.",
+          "vi": "Biết con người thật."
+        }
+      ]
+    },
+    {
+      "word": "Bridge",
+      "ipa": "/brɪdʒ/",
+      "meaning": "Cầu nối (ẩn dụ)",
+      "example": {
+        "en": "Bridge gap.",
+        "vi": "Thu hẹp khoảng cách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Connect us.",
+          "vi": "Kết nối chúng ta."
+        },
+        {
+          "speaker": "B",
+          "en": "Friendship.",
+          "vi": "Tình bạn."
+        }
+      ]
+    }
+  ]
 }

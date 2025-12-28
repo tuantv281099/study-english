@@ -1,6 +1,217 @@
 {
   "id": "210",
   "title": "210. Requests – Yêu cầu",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Request",
+      "ipa": "/rɪˈkwɛst/",
+      "meaning": "Yêu cầu",
+      "example": {
+        "en": "Make a request.",
+        "vi": "Đưa ra yêu cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need something.",
+          "vi": "Cần gì đó."
+        },
+        {
+          "speaker": "B",
+          "en": "Ask nicely.",
+          "vi": "Hỏi lịch sự."
+        }
+      ]
+    },
+    {
+      "word": "Please",
+      "ipa": "/pliːz/",
+      "meaning": "Làm ơn",
+      "example": {
+        "en": "Help please.",
+        "vi": "Làm ơn giúp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Polite word.",
+          "vi": "Từ lịch sự."
+        },
+        {
+          "speaker": "B",
+          "en": "Of course.",
+          "vi": "Tất nhiên."
+        }
+      ]
+    },
+    {
+      "word": "Help",
+      "ipa": "/hɛlp/",
+      "meaning": "Giúp đỡ",
+      "example": {
+        "en": "Need help?",
+        "vi": "Cần giúp không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Carry this.",
+          "vi": "Mang cái này."
+        },
+        {
+          "speaker": "B",
+          "en": "Heavy.",
+          "vi": "Nặng."
+        }
+      ]
+    },
+    {
+      "word": "Can",
+      "ipa": "/kæn/",
+      "meaning": "Có thể",
+      "example": {
+        "en": "Can you do it?",
+        "vi": "Bạn làm được không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ability.",
+          "vi": "Khả năng."
+        },
+        {
+          "speaker": "B",
+          "en": "Yes I can.",
+          "vi": "Có tôi có thể."
+        }
+      ]
+    },
+    {
+      "word": "Could",
+      "ipa": "/kʊd/",
+      "meaning": "Có thể (lịch sự)",
+      "example": {
+        "en": "Could you help?",
+        "vi": "Bạn có thể giúp không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Favor.",
+          "vi": "Ân huệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Sure.",
+          "vi": "Được chứ."
+        }
+      ]
+    },
+    {
+      "word": "Mind",
+      "ipa": "/maɪnd/",
+      "meaning": "Phiền",
+      "example": {
+        "en": "Do you mind?",
+        "vi": "Bạn có phiền không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Opening window.",
+          "vi": "Mở cửa sổ."
+        },
+        {
+          "speaker": "B",
+          "en": "Not at all.",
+          "vi": "Không hề."
+        }
+      ]
+    },
+    {
+      "word": "Need",
+      "ipa": "/niːd/",
+      "meaning": "Cần",
+      "example": {
+        "en": "I need water.",
+        "vi": "Tôi cần nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Thirsty.",
+          "vi": "Khát."
+        },
+        {
+          "speaker": "B",
+          "en": "Here.",
+          "vi": "Đây."
+        }
+      ]
+    },
+    {
+      "word": "Want",
+      "ipa": "/wɒnt/",
+      "meaning": "Muốn",
+      "example": {
+        "en": "I want coffee.",
+        "vi": "Tôi muốn cà phê."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Order now.",
+          "vi": "Gọi ngay."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait.",
+          "vi": "Chờ đã."
+        }
+      ]
+    },
+    {
+      "word": "Favor",
+      "ipa": "/ˈfeɪvər/",
+      "meaning": "Sự giúp đỡ / Ân huệ",
+      "example": {
+        "en": "Do me a favor.",
+        "vi": "Giúp tôi một việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Small task.",
+          "vi": "Việc nhỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Anytime.",
+          "vi": "Bất cứ lúc nào."
+        }
+      ]
+    },
+    {
+      "word": "Borrow",
+      "ipa": "/ˈbɒroʊ/",
+      "meaning": "Mượn",
+      "example": {
+        "en": "Borrow pen.",
+        "vi": "Mượn bút."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Forgot mine.",
+          "vi": "Quên của tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "Return later.",
+          "vi": "Trả sau."
+        }
+      ]
+    }
+  ]
 }

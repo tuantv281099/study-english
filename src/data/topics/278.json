@@ -1,6 +1,217 @@
 {
   "id": "278",
   "title": "278. Time Management – Quản lý thời gian",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Schedule",
+      "ipa": "/ˈʃɛdjuːl/",
+      "meaning": "Lịch trình",
+      "example": {
+        "en": "Busy schedule.",
+        "vi": "Lịch trình bận rộn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Time.",
+          "vi": "Thời gian."
+        },
+        {
+          "speaker": "B",
+          "en": "Meeting.",
+          "vi": "Cuộc họp."
+        }
+      ]
+    },
+    {
+      "word": "Deadline",
+      "ipa": "/ˈdɛdlaɪn/",
+      "meaning": "Hạn chót",
+      "example": {
+        "en": "Tight deadline.",
+        "vi": "Hạn chót gấp gáp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hurry.",
+          "vi": "Nhanh lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Finish.",
+          "vi": "Hoàn thành."
+        }
+      ]
+    },
+    {
+      "word": "Priority",
+      "ipa": "/praɪˈɒrɪti/",
+      "meaning": "Sự ưu tiên",
+      "example": {
+        "en": "Top priority.",
+        "vi": "Ưu tiên hàng đầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "First.",
+          "vi": "Đầu tiên."
+        },
+        {
+          "speaker": "B",
+          "en": "ImportaNT.",
+          "vi": "Quan trọng."
+        }
+      ]
+    },
+    {
+      "word": "Efficient",
+      "ipa": "/ɪˈfɪʃənt/",
+      "meaning": "Hiệu quả",
+      "example": {
+        "en": "Work efficient.",
+        "vi": "Làm việc hiệu quả."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save time.",
+          "vi": "Tiết kiệm thời gian."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast.",
+          "vi": "Nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Plan",
+      "ipa": "/plæn/",
+      "meaning": "Kế hoạch",
+      "example": {
+        "en": "Daily plan.",
+        "vi": "Kế hoạch hàng ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "List.",
+          "vi": "Danh sách."
+        },
+        {
+          "speaker": "B",
+          "en": "Do.",
+          "vi": "Làm."
+        }
+      ]
+    },
+    {
+      "word": "Focus",
+      "ipa": "/ˈfoʊkəs/",
+      "meaning": "Sự tập trung",
+      "example": {
+        "en": "Stay focused.",
+        "vi": "Giữ sự tập trung."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Distraction.",
+          "vi": "Sự xao nhãng."
+        },
+        {
+          "speaker": "B",
+          "en": "Work.",
+          "vi": "Công việc."
+        }
+      ]
+    },
+    {
+      "word": "Urgent",
+      "ipa": "/ˈɜːrdʒənt/",
+      "meaning": "Khẩn cấp",
+      "example": {
+        "en": "Urgent task.",
+        "vi": "Nhiệm vụ khẩn cấp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Now.",
+          "vi": "Ngay bây giờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait.",
+          "vi": "Chờ đợi."
+        }
+      ]
+    },
+    {
+      "word": "Break",
+      "ipa": "/breɪk/",
+      "meaning": "Nghỉ giải lao",
+      "example": {
+        "en": "Take a break.",
+        "vi": "Nghỉ giải lao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tired.",
+          "vi": "Mệt."
+        },
+        {
+          "speaker": "B",
+          "en": "Rest.",
+          "vi": "Nghỉ ngơi."
+        }
+      ]
+    },
+    {
+      "word": "Organize",
+      "ipa": "/ˈɔːrɡənaɪz/",
+      "meaning": "Sắp xếp / Tổ chức",
+      "example": {
+        "en": "Organize time.",
+        "vi": "Sắp xếp thời gian."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Order.",
+          "vi": "Trật tự."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean.",
+          "vi": "Gọn gàng."
+        }
+      ]
+    },
+    {
+      "word": "Late",
+      "ipa": "/leɪt/",
+      "meaning": "Muộn",
+      "example": {
+        "en": "Don't be late.",
+        "vi": "Đừng đến muộn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Time.",
+          "vi": "Giờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Sorry.",
+          "vi": "Xin lỗi."
+        }
+      ]
+    }
+  ]
 }

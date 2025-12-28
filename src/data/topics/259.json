@@ -1,6 +1,217 @@
 {
   "id": "259",
   "title": "259. Fashion Industry – Ngành thời trang",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Fashion",
+      "ipa": "/ˈfæʃən/",
+      "meaning": "Thời trang",
+      "example": {
+        "en": "Love fashion.",
+        "vi": "Yêu thời trang."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Style.",
+          "vi": "Phong cách."
+        },
+        {
+          "speaker": "B",
+          "en": "Clothes.",
+          "vi": "Quần áo."
+        }
+      ]
+    },
+    {
+      "word": "Design",
+      "ipa": "/dɪˈzaɪn/",
+      "meaning": "Thiết kế",
+      "example": {
+        "en": "Fashion design.",
+        "vi": "Thiết kế thời trang."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        },
+        {
+          "speaker": "B",
+          "en": "New.",
+          "vi": "Mới."
+        }
+      ]
+    },
+    {
+      "word": "Trend",
+      "ipa": "/trɛnd/",
+      "meaning": "Xu hướng",
+      "example": {
+        "en": "New trend.",
+        "vi": "Xu hướng mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Popular.",
+          "vi": "Phổ biến."
+        },
+        {
+          "speaker": "B",
+          "en": "Follow.",
+          "vi": "Làm theo."
+        }
+      ]
+    },
+    {
+      "word": "Model",
+      "ipa": "/ˈmɒdl/",
+      "meaning": "Người mẫu",
+      "example": {
+        "en": "Top model.",
+        "vi": "Người mẫu hàng đầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Runway.",
+          "vi": "Sàn diễn."
+        },
+        {
+          "speaker": "B",
+          "en": "Pose.",
+          "vi": "Tạo dáng."
+        }
+      ]
+    },
+    {
+      "word": "Brand",
+      "ipa": "/brænd/",
+      "meaning": "Thương hiệu",
+      "example": {
+        "en": "Luxury brand.",
+        "vi": "Thương hiệu xa xỉ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Expensive.",
+          "vi": "Đắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Logo.",
+          "vi": "Logo."
+        }
+      ]
+    },
+    {
+      "word": "Style",
+      "ipa": "/staɪl/",
+      "meaning": "Phong cách",
+      "example": {
+        "en": "My style.",
+        "vi": "Phong cách của tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cool.",
+          "vi": "Ngầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Unique.",
+          "vi": "Độc đáo."
+        }
+      ]
+    },
+    {
+      "word": "Show",
+      "ipa": "/ʃoʊ/",
+      "meaning": "Buổi trình diễn",
+      "example": {
+        "en": "Fashion show.",
+        "vi": "Show thời trang."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Watch.",
+          "vi": "Xem."
+        },
+        {
+          "speaker": "B",
+          "en": "Catwalk.",
+          "vi": "Sàn catwalk."
+        }
+      ]
+    },
+    {
+      "word": "Collection",
+      "ipa": "/kəˈlɛkʃən/",
+      "meaning": "Bộ sưu tập",
+      "example": {
+        "en": "Summer collection.",
+        "vi": "Bộ sưu tập hè."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy.",
+          "vi": "Mua."
+        },
+        {
+          "speaker": "B",
+          "en": "Colors.",
+          "vi": "Màu sắc."
+        }
+      ]
+    },
+    {
+      "word": "Fabric",
+      "ipa": "/ˈfæbrɪk/",
+      "meaning": "Vải",
+      "example": {
+        "en": "Soft fabric.",
+        "vi": "Vải mềm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Material.",
+          "vi": "Chất liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Silk.",
+          "vi": "Lụa."
+        }
+      ]
+    },
+    {
+      "word": "Designer",
+      "ipa": "/dɪˈzaɪnər/",
+      "meaning": "Nhà thiết kế",
+      "example": {
+        "en": "Famous designer.",
+        "vi": "Nhà thiết kế nổi tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Art.",
+          "vi": "Nghệ thuật."
+        },
+        {
+          "speaker": "B",
+          "en": "Create.",
+          "vi": "Tạo ra."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "154",
   "title": "154. Programming Basics – Lập trình cơ bản",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Code",
+      "ipa": "/koʊd/",
+      "meaning": "Mã",
+      "example": {
+        "en": "Write code.",
+        "vi": "Viết mã."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hello World.",
+          "vi": "Xin chào thế giới."
+        },
+        {
+          "speaker": "B",
+          "en": "Start here.",
+          "vi": "Bắt đầu tạ đây."
+        }
+      ]
+    },
+    {
+      "word": "Loop",
+      "ipa": "/luːp/",
+      "meaning": "Vòng lặp",
+      "example": {
+        "en": "For loop.",
+        "vi": "Vòng lặp For."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Repeat task.",
+          "vi": "Lặp lại tác vụ."
+        },
+        {
+          "speaker": "B",
+          "en": "While true.",
+          "vi": "Trong khi đúng."
+        }
+      ]
+    },
+    {
+      "word": "If",
+      "ipa": "/ɪf/",
+      "meaning": "Nếu",
+      "example": {
+        "en": "If statement.",
+        "vi": "Câu lệnh If."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Condition.",
+          "vi": "Điều kiện."
+        },
+        {
+          "speaker": "B",
+          "en": "Else.",
+          "vi": "Ngược lại."
+        }
+      ]
+    },
+    {
+      "word": "Variable",
+      "ipa": "/ˈvɛəriəbəl/",
+      "meaning": "Biến",
+      "example": {
+        "en": "Create variable.",
+        "vi": "Tạo biến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Store value.",
+          "vi": "Lưu giá trị."
+        },
+        {
+          "speaker": "B",
+          "en": "Name it.",
+          "vi": "Đặt tên cho nó."
+        }
+      ]
+    },
+    {
+      "word": "Function",
+      "ipa": "/ˈfʌŋkʃən/",
+      "meaning": "Hàm",
+      "example": {
+        "en": "Define function.",
+        "vi": "Định nghĩa hàm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reusable code.",
+          "vi": "Mã tái sử dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Call it.",
+          "vi": "Gọi nó."
+        }
+      ]
+    },
+    {
+      "word": "Array",
+      "ipa": "/əˈreɪ/",
+      "meaning": "Mảng",
+      "example": {
+        "en": "List of items.",
+        "vi": "Danh sách các mục."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Index 0.",
+          "vi": "Chỉ mục 0."
+        },
+        {
+          "speaker": "B",
+          "en": "Store many.",
+          "vi": "Lưu nhiều thứ."
+        }
+      ]
+    },
+    {
+      "word": "String",
+      "ipa": "/strɪŋ/",
+      "meaning": "Chuỗi (ký tự)",
+      "example": {
+        "en": "Text string.",
+        "vi": "Chuỗi văn bản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "In quotes.",
+          "vi": "Trong dấu ngoặc kép."
+        },
+        {
+          "speaker": "B",
+          "en": "Words.",
+          "vi": "Từ ngữ."
+        }
+      ]
+    },
+    {
+      "word": "Integer",
+      "ipa": "/ˈɪntɪdʒər/",
+      "meaning": "Số nguyên",
+      "example": {
+        "en": "Whole number.",
+        "vi": "Số nguyên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Count.",
+          "vi": "Đếm."
+        },
+        {
+          "speaker": "B",
+          "en": "No decimal.",
+          "vi": "Không có thập phân."
+        }
+      ]
+    },
+    {
+      "word": "Print",
+      "ipa": "/prɪnt/",
+      "meaning": "In (ra màn hình)",
+      "example": {
+        "en": "Print line.",
+        "vi": "In dòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show result.",
+          "vi": "Hiển thị kết quả."
+        },
+        {
+          "speaker": "B",
+          "en": "Console log.",
+          "vi": "Ghi nhật ký console."
+        }
+      ]
+    },
+    {
+      "word": "Run",
+      "ipa": "/rʌn/",
+      "meaning": "Chạy",
+      "example": {
+        "en": "Run program.",
+        "vi": "Chạy chương trình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Execute.",
+          "vi": "Thực thi."
+        },
+        {
+          "speaker": "B",
+          "en": "No errors.",
+          "vi": "Không có lỗi."
+        }
+      ]
+    }
+  ]
 }

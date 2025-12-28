@@ -1,6 +1,217 @@
 {
   "id": "99",
   "title": "99. Teaching Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Lesson",
+      "ipa": "/ˈlɛsən/",
+      "meaning": "Bài học",
+      "example": {
+        "en": "Plan a lesson.",
+        "vi": "Soạn bài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Today's lesson.",
+          "vi": "Bài học hôm nay."
+        },
+        {
+          "speaker": "B",
+          "en": "Pay attention.",
+          "vi": "Chú ý lắng nghe."
+        }
+      ]
+    },
+    {
+      "word": "Explain",
+      "ipa": "/ɪkˈspleɪn/",
+      "meaning": "Giải thích",
+      "example": {
+        "en": "Explain clearly.",
+        "vi": "Giải thích rõ ràng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I don't understand.",
+          "vi": "Tôi không hiểu."
+        },
+        {
+          "speaker": "B",
+          "en": "Let me explain.",
+          "vi": "Để tôi giải thích."
+        }
+      ]
+    },
+    {
+      "word": "Teach",
+      "ipa": "/tiːtʃ/",
+      "meaning": "Dạy",
+      "example": {
+        "en": "Teach English.",
+        "vi": "Dạy tiếng Anh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I love teaching.",
+          "vi": "Tôi yêu nghề dạy học."
+        },
+        {
+          "speaker": "B",
+          "en": "Rewarding job.",
+          "vi": "Công việc ý nghĩa."
+        }
+      ]
+    },
+    {
+      "word": "Learn",
+      "ipa": "/lɜːrn/",
+      "meaning": "Học",
+      "example": {
+        "en": "Learn fast.",
+        "vi": "Học nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Keep learning.",
+          "vi": "Tiếp tục học hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Never stop.",
+          "vi": "Đừng bao giờ dừng lại."
+        }
+      ]
+    },
+    {
+      "word": "Correct",
+      "ipa": "/kəˈrɛkt/",
+      "meaning": "Sửa đúng / Đúng",
+      "example": {
+        "en": "Correct mistakes.",
+        "vi": "Sửa lỗi sai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is this correct?",
+          "vi": "Cái này đúng không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, perfect.",
+          "vi": "Vâng, hoàn hảo."
+        }
+      ]
+    },
+    {
+      "word": "Mark",
+      "ipa": "/mɑːrk/",
+      "meaning": "Chấm điểm",
+      "example": {
+        "en": "Mark papers.",
+        "vi": "Chấm bài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Red pen.",
+          "vi": "Bút đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Good feedback.",
+          "vi": "Phản hồi tốt."
+        }
+      ]
+    },
+    {
+      "word": "Prepare",
+      "ipa": "/prɪˈpɛər/",
+      "meaning": "Chuẩn bị",
+      "example": {
+        "en": "Prepare materials.",
+        "vi": "Chuẩn bị tài liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ready for class.",
+          "vi": "Sẵn sàng cho lớp học."
+        },
+        {
+          "speaker": "B",
+          "en": "Organized.",
+          "vi": "Sắp xếp gọn gàng."
+        }
+      ]
+    },
+    {
+      "word": "Encourage",
+      "ipa": "/ɪnˈkɜːrɪdʒ/",
+      "meaning": "Khuyến khích",
+      "example": {
+        "en": "Encourage students.",
+        "vi": "Khuyến khích học sinh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You can do it.",
+          "vi": "Em làm được mà."
+        },
+        {
+          "speaker": "B",
+          "en": "Try harder.",
+          "vi": "Cố gắng hơn nữa."
+        }
+      ]
+    },
+    {
+      "word": "Activity",
+      "ipa": "/ækˈtɪvɪti/",
+      "meaning": "Hoạt động",
+      "example": {
+        "en": "Class activity.",
+        "vi": "Hoạt động lớp học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Group work.",
+          "vi": "Làm việc nhóm."
+        },
+        {
+          "speaker": "B",
+          "en": "Fun game.",
+          "vi": "Trò chơi vui."
+        }
+      ]
+    },
+    {
+      "word": "Skill",
+      "ipa": "/skɪl/",
+      "meaning": "Kỹ năng",
+      "example": {
+        "en": "New skill.",
+        "vi": "Kỹ năng mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Practice makes perfect.",
+          "vi": "Có công mài sắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Useful for life.",
+          "vi": "Có ích cho cuộc sống."
+        }
+      ]
+    }
+  ]
 }

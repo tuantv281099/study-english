@@ -1,6 +1,217 @@
 {
   "id": "204",
   "title": "204. Giving Opinions – Nêu ý kiến",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Opinion",
+      "ipa": "/əˈpɪnjən/",
+      "meaning": "Ý kiến",
+      "example": {
+        "en": "My opinion.",
+        "vi": "Ý kiến của tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What you think?",
+          "vi": "Bạn nghĩ gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "It's good.",
+          "vi": "Nó tốt."
+        }
+      ]
+    },
+    {
+      "word": "Think",
+      "ipa": "/θɪŋk/",
+      "meaning": "Nghĩ",
+      "example": {
+        "en": "I think so.",
+        "vi": "Tôi nghĩ vậy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Believe it.",
+          "vi": "Tin điều đó."
+        },
+        {
+          "speaker": "B",
+          "en": "Maybe not.",
+          "vi": "Có lẽ không."
+        }
+      ]
+    },
+    {
+      "word": "Feel",
+      "ipa": "/fiːl/",
+      "meaning": "Cảm thấy",
+      "example": {
+        "en": "I feel that.",
+        "vi": "Tôi cảm thấy rằng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Strong sense.",
+          "vi": "Cảm giác mạnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Share feeling.",
+          "vi": "Chia sẻ cảm xúc."
+        }
+      ]
+    },
+    {
+      "word": "Believe",
+      "ipa": "/bɪˈliːv/",
+      "meaning": "Tin rằng",
+      "example": {
+        "en": "I believe.",
+        "vi": "Tôi tin rằng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It's true.",
+          "vi": "Là sự thật."
+        },
+        {
+          "speaker": "B",
+          "en": "Have faith.",
+          "vi": "Có niềm tin."
+        }
+      ]
+    },
+    {
+      "word": "View",
+      "ipa": "/vjuː/",
+      "meaning": "Quan điểm",
+      "example": {
+        "en": "Point of view.",
+        "vi": "Quan điểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "From my side.",
+          "vi": "Từ phía tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "Different.",
+          "vi": "Khác biệt."
+        }
+      ]
+    },
+    {
+      "word": "Seem",
+      "ipa": "/siːm/",
+      "meaning": "Dường như",
+      "example": {
+        "en": "It seems good.",
+        "vi": "Có vẻ tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Looks okay.",
+          "vi": "Trông ổn."
+        },
+        {
+          "speaker": "B",
+          "en": "Not sure.",
+          "vi": "Không chắc."
+        }
+      ]
+    },
+    {
+      "word": "Impressed",
+      "ipa": "/ɪmˈprɛst/",
+      "meaning": "Ấn tượng",
+      "example": {
+        "en": "I'm impressed.",
+        "vi": "Tôi bị ấn tượng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Great job.",
+          "vi": "Làm tốt lắm."
+        },
+        {
+          "speaker": "B",
+          "en": "Awesome.",
+          "vi": "Tuyệt vời."
+        }
+      ]
+    },
+    {
+      "word": "Doubt",
+      "ipa": "/daʊt/",
+      "meaning": "Nghi ngờ",
+      "example": {
+        "en": "I doubt it.",
+        "vi": "Tôi nghi ngờ điều đó."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Unlikely.",
+          "vi": "Khó xảy ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Skeptical.",
+          "vi": "Hoài nghi."
+        }
+      ]
+    },
+    {
+      "word": "Prefer",
+      "ipa": "/prɪˈfɜːr/",
+      "meaning": "Thích hơn",
+      "example": {
+        "en": "I prefer tea.",
+        "vi": "Tôi thích trà hơn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Better choice.",
+          "vi": "Lựa chọn tốt hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Like it.",
+          "vi": "Thích nó."
+        }
+      ]
+    },
+    {
+      "word": "Agree",
+      "ipa": "/əˈɡriː/",
+      "meaning": "Đồng ý",
+      "example": {
+        "en": "I agree.",
+        "vi": "Tôi đồng ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Same thought.",
+          "vi": "Cùng suy nghĩ."
+        },
+        {
+          "speaker": "B",
+          "en": "You're right.",
+          "vi": "Bạn đúng."
+        }
+      ]
+    }
+  ]
 }

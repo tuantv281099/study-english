@@ -1,6 +1,217 @@
 {
   "id": "145",
   "title": "145. Internet Vocabulary – Từ vựng mạng Internet",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Download",
+      "ipa": "/ˈdaʊnloʊd/",
+      "meaning": "Tải xuống",
+      "example": {
+        "en": "Download file.",
+        "vi": "Tải tệp xuống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save to disk.",
+          "vi": "Lưu vào đĩa."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast speed.",
+          "vi": "Tốc độ nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Upload",
+      "ipa": "/ˈʌploʊd/",
+      "meaning": "Tải lên",
+      "example": {
+        "en": "Upload photo.",
+        "vi": "Tải ảnh lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "To the cloud.",
+          "vi": "Lên đám mây."
+        },
+        {
+          "speaker": "B",
+          "en": "Share it.",
+          "vi": "Chia sẻ nó."
+        }
+      ]
+    },
+    {
+      "word": "Wifi",
+      "ipa": "/ˈwaɪfaɪ/",
+      "meaning": "Wifi",
+      "example": {
+        "en": "Free wifi.",
+        "vi": "Wifi miễn phí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Password?",
+          "vi": "Mật khẩu là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Connect now.",
+          "vi": "Kết nối ngay."
+        }
+      ]
+    },
+    {
+      "word": "Stream",
+      "ipa": "/striːm/",
+      "meaning": "Phát trực tiếp / Xem trực tuyến",
+      "example": {
+        "en": "Stream video.",
+        "vi": "Xem video trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Live stream.",
+          "vi": "Phát trực tiếp."
+        },
+        {
+          "speaker": "B",
+          "en": "No buffering.",
+          "vi": "Không giật lag."
+        }
+      ]
+    },
+    {
+      "word": "Blog",
+      "ipa": "/blɒɡ/",
+      "meaning": "Blog / Nhật ký web",
+      "example": {
+        "en": "Write a blog.",
+        "vi": "Viết blog."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Travel blog.",
+          "vi": "Blog du lịch."
+        },
+        {
+          "speaker": "B",
+          "en": "Read posts.",
+          "vi": "Đọc bài đăng."
+        }
+      ]
+    },
+    {
+      "word": "Vlog",
+      "ipa": "/vlɒɡ/",
+      "meaning": "Vlog (Video log)",
+      "example": {
+        "en": "Watch vlog.",
+        "vi": "Xem vlog."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Daily life.",
+          "vi": "Cuộc sống hàng ngày."
+        },
+        {
+          "speaker": "B",
+          "en": "Subscribe.",
+          "vi": "Đăng ký."
+        }
+      ]
+    },
+    {
+      "word": "Hashtag",
+      "ipa": "/ˈhæʃtæɡ/",
+      "meaning": "Thẻ bắt đầu bằng #",
+      "example": {
+        "en": "Use hashtag.",
+        "vi": "Dùng hashtag."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "#trending.",
+          "vi": "#xuhuong."
+        },
+        {
+          "speaker": "B",
+          "en": "Search tag.",
+          "vi": "Tìm thẻ."
+        }
+      ]
+    },
+    {
+      "word": "Viral",
+      "ipa": "/ˈvaɪrəl/",
+      "meaning": "Lan truyền nhanh",
+      "example": {
+        "en": "Go viral.",
+        "vi": "Trở nên lan truyền."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Million views.",
+          "vi": "Triệu lượt xem."
+        },
+        {
+          "speaker": "B",
+          "en": "Famous.",
+          "vi": "Nổi tiếng."
+        }
+      ]
+    },
+    {
+      "word": "Spam",
+      "ipa": "/spæm/",
+      "meaning": "Thư rác",
+      "example": {
+        "en": "Spam folder.",
+        "vi": "Thư mục rác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Delete it.",
+          "vi": "Xóa nó đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Too much.",
+          "vi": "Quá nhiều."
+        }
+      ]
+    },
+    {
+      "word": "Surfing",
+      "ipa": "/ˈsɜːrfɪŋ/",
+      "meaning": "Lướt (web)",
+      "example": {
+        "en": "Web surfing.",
+        "vi": "Lướt web."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Browse sites.",
+          "vi": "Duyệt các trang web."
+        },
+        {
+          "speaker": "B",
+          "en": "Kill time.",
+          "vi": "Giết thời gian."
+        }
+      ]
+    }
+  ]
 }

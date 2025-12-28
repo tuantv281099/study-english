@@ -1,6 +1,217 @@
 {
   "id": "184",
   "title": "184. Theater & Drama – Kịch & sân khấu",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Theater",
+      "ipa": "/ˈθɪətər/",
+      "meaning": "Nhà hát / Kịch",
+      "example": {
+        "en": "Go to theater.",
+        "vi": "Đi xem kịch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Live show.",
+          "vi": "Buổi biểu diễn trực tiếp."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy tickets.",
+          "vi": "Mua vé."
+        }
+      ]
+    },
+    {
+      "word": "Drama",
+      "ipa": "/ˈdrɑːmə/",
+      "meaning": "Kịch / Kịch tính",
+      "example": {
+        "en": "School drama.",
+        "vi": "Kịch trường học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Acting.",
+          "vi": "Diễn xuất."
+        },
+        {
+          "speaker": "B",
+          "en": "Emotion.",
+          "vi": "Cảm xúc."
+        }
+      ]
+    },
+    {
+      "word": "Stage",
+      "ipa": "/steɪdʒ/",
+      "meaning": "Sân khấu",
+      "example": {
+        "en": "On stage.",
+        "vi": "Trên sân khấu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Spotlight.",
+          "vi": "Đèn sân khấu."
+        },
+        {
+          "speaker": "B",
+          "en": "Audience.",
+          "vi": "Khán giả."
+        }
+      ]
+    },
+    {
+      "word": "Actor",
+      "ipa": "/ˈæktər/",
+      "meaning": "Diễn viên (nam)",
+      "example": {
+        "en": "Lead actor.",
+        "vi": "Nam diễn viên chính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Act well.",
+          "vi": "Diễn tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Character.",
+          "vi": "Nhân vật."
+        }
+      ]
+    },
+    {
+      "word": "Actress",
+      "ipa": "/ˈæktrɪs/",
+      "meaning": "Diễn viên (nữ)",
+      "example": {
+        "en": "Famous actress.",
+        "vi": "Nữ diễn viên nổi tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Role.",
+          "vi": "Vai diễn."
+        },
+        {
+          "speaker": "B",
+          "en": "Star.",
+          "vi": "Ngôi sao."
+        }
+      ]
+    },
+    {
+      "word": "Script",
+      "ipa": "/skrɪpt/",
+      "meaning": "Kịch bản",
+      "example": {
+        "en": "Read script.",
+        "vi": "Đọc kịch bản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lines.",
+          "vi": "Lời thoại."
+        },
+        {
+          "speaker": "B",
+          "en": "Memorize.",
+          "vi": "Ghi nhớ."
+        }
+      ]
+    },
+    {
+      "word": "Play",
+      "ipa": "/pleɪ/",
+      "meaning": "Vở kịch",
+      "example": {
+        "en": "Shakespeare play.",
+        "vi": "Kịch Shakespeare."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Romeo and Juliet.",
+          "vi": "Romeo và Juliet."
+        },
+        {
+          "speaker": "B",
+          "en": "Tragedy.",
+          "vi": "Bi kịch."
+        }
+      ]
+    },
+    {
+      "word": "Costume",
+      "ipa": "/ˈkɒstjuːm/",
+      "meaning": "Trang phục (diễn)",
+      "example": {
+        "en": "Wear costume.",
+        "vi": "Mặc trang phục diễn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look real.",
+          "vi": "Trông như thật."
+        },
+        {
+          "speaker": "B",
+          "en": "Period dress.",
+          "vi": "Trang phục thời kỳ."
+        }
+      ]
+    },
+    {
+      "word": "Director",
+      "ipa": "/dɪˈrɛktər/",
+      "meaning": "Đạo diễn",
+      "example": {
+        "en": "Play director.",
+        "vi": "Đạo diễn vở kịch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Guide actors.",
+          "vi": "Hướng dẫn diễn viên."
+        },
+        {
+          "speaker": "B",
+          "en": "Vision.",
+          "vi": "Tầm nhìn."
+        }
+      ]
+    },
+    {
+      "word": "Applause",
+      "ipa": "/əˈplɔːz/",
+      "meaning": "Vỗ tay",
+      "example": {
+        "en": "Big applause.",
+        "vi": "Tràng pháo tay lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clap hands.",
+          "vi": "Vỗ tay."
+        },
+        {
+          "speaker": "B",
+          "en": "Bravo.",
+          "vi": "Hoan hô."
+        }
+      ]
+    }
+  ]
 }

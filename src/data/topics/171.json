@@ -1,6 +1,217 @@
 {
   "id": "171",
   "title": "171. Interior Design – Thiết kế nội thất",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Design",
+      "ipa": "/dɪˈzaɪn/",
+      "meaning": "Thiết kế",
+      "example": {
+        "en": "Modern design.",
+        "vi": "Thiết kế hiện đại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Minimalist style.",
+          "vi": "Phong cách tối giản."
+        },
+        {
+          "speaker": "B",
+          "en": "Looks clean.",
+          "vi": "Trông sạch sẽ."
+        }
+      ]
+    },
+    {
+      "word": "Furniture",
+      "ipa": "/ˈfɜːrnɪtʃər/",
+      "meaning": "Đồ nội thất",
+      "example": {
+        "en": "Wooden furniture.",
+        "vi": "Đồ nội thất gỗ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New sofa.",
+          "vi": "Ghế sofa mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Matches rug.",
+          "vi": "Hợp với tấm thảm."
+        }
+      ]
+    },
+    {
+      "word": "Decor",
+      "ipa": "/deɪˈkɔːr/",
+      "meaning": "Trang trí",
+      "example": {
+        "en": "Home decor.",
+        "vi": "Trang trí nhà cửa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wall art.",
+          "vi": "Tranh treo tường."
+        },
+        {
+          "speaker": "B",
+          "en": "Add color.",
+          "vi": "Thêm màu sắc."
+        }
+      ]
+    },
+    {
+      "word": "Layout",
+      "ipa": "/ˈleɪaʊt/",
+      "meaning": "Bố cục",
+      "example": {
+        "en": "Room layout.",
+        "vi": "Bố cục phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Open plan.",
+          "vi": "Không gian mở."
+        },
+        {
+          "speaker": "B",
+          "en": "Flows well.",
+          "vi": "Lưu thông tốt."
+        }
+      ]
+    },
+    {
+      "word": "Color",
+      "ipa": "/ˈkʌlər/",
+      "meaning": "Màu sắc",
+      "example": {
+        "en": "Color palette.",
+        "vi": "Bảng màu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Warm tones.",
+          "vi": "Tông màu ấm."
+        },
+        {
+          "speaker": "B",
+          "en": "Cozy feel.",
+          "vi": "Cảm giác ấm cúng."
+        }
+      ]
+    },
+    {
+      "word": "Texture",
+      "ipa": "/ˈtɛkstʃər/",
+      "meaning": "Kết cấu / Chất liệu",
+      "example": {
+        "en": "Soft texture.",
+        "vi": "Kết cấu mềm mại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Velvet chair.",
+          "vi": "Ghế nhung."
+        },
+        {
+          "speaker": "B",
+          "en": "Smooth wood.",
+          "vi": "Gỗ mịn."
+        }
+      ]
+    },
+    {
+      "word": "Lighting",
+      "ipa": "/ˈlaɪtɪŋ/",
+      "meaning": "Ánh sáng",
+      "example": {
+        "en": "Ambient lighting.",
+        "vi": "Ánh sáng nền."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Table lamp.",
+          "vi": "Đèn bàn."
+        },
+        {
+          "speaker": "B",
+          "en": "Brighten corner.",
+          "vi": "Làm sáng góc."
+        }
+      ]
+    },
+    {
+      "word": "Space",
+      "ipa": "/speɪs/",
+      "meaning": "Không gian",
+      "example": {
+        "en": "Small space.",
+        "vi": "Không gian nhỏ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Use mirrors.",
+          "vi": "Dùng gương."
+        },
+        {
+          "speaker": "B",
+          "en": "Look bigger.",
+          "vi": "Trông rộng hơn."
+        }
+      ]
+    },
+    {
+      "word": "Style",
+      "ipa": "/staɪl/",
+      "meaning": "Phong cách",
+      "example": {
+        "en": "Vintage style.",
+        "vi": "Phong cách cổ điển."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Old charm.",
+          "vi": "Nét quyến rũ cũ."
+        },
+        {
+          "speaker": "B",
+          "en": "Unique pieces.",
+          "vi": "Món đồ độc đáo."
+        }
+      ]
+    },
+    {
+      "word": "Renovate",
+      "ipa": "/ˈrɛnəveɪt/",
+      "meaning": "Cải tạo",
+      "example": {
+        "en": "Renovate kitchen.",
+        "vi": "Cải tạo bếp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New tiles.",
+          "vi": "Gạch mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Modern look.",
+          "vi": "Vẻ hiện đại."
+        }
+      ]
+    }
+  ]
 }

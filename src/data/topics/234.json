@@ -1,6 +1,217 @@
 {
   "id": "234",
   "title": "234. Formal vs Informal – Trang trọng & thân mật",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Inform",
+      "ipa": "/ɪnˈfɔːrm/",
+      "meaning": "Thông báo (Trang trọng)",
+      "example": {
+        "en": "Inform you.",
+        "vi": "Thông báo cho bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Official letter.",
+          "vi": "Thư chính thức."
+        },
+        {
+          "speaker": "B",
+          "en": "Received.",
+          "vi": "Đã nhận."
+        }
+      ]
+    },
+    {
+      "word": "Tell",
+      "ipa": "/tɛl/",
+      "meaning": "Nói / Kể (Thân mật)",
+      "example": {
+        "en": "Tell me.",
+        "vi": "Kể tôi nghe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Secret.",
+          "vi": "Bí mật."
+        },
+        {
+          "speaker": "B",
+          "en": "Listen.",
+          "vi": "Nghe."
+        }
+      ]
+    },
+    {
+      "word": "Request",
+      "ipa": "/rɪˈkwɛst/",
+      "meaning": "Yêu cầu (Trang trọng)",
+      "example": {
+        "en": "Submit request.",
+        "vi": "Gửi yêu cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Form.",
+          "vi": "Mẫu đơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait.",
+          "vi": "Chờ."
+        }
+      ]
+    },
+    {
+      "word": "Ask for",
+      "ipa": "/æsk fɔːr/",
+      "meaning": "Xin (Thân mật)",
+      "example": {
+        "en": "Ask for help.",
+        "vi": "Xin giúp đỡ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need hand.",
+          "vi": "Cần một tay."
+        },
+        {
+          "speaker": "B",
+          "en": "Sure.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Apologize",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "meaning": "Xin lỗi (Trang trọng)",
+      "example": {
+        "en": "I apologize.",
+        "vi": "Tôi thành thật xin lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mistake.",
+          "vi": "Lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "Forgiven.",
+          "vi": "Được tha thứ."
+        }
+      ]
+    },
+    {
+      "word": "Sorry",
+      "ipa": "/ˈsɒri/",
+      "meaning": "Xin lỗi (Thân mật)",
+      "example": {
+        "en": "I'm sorry.",
+        "vi": "Tôi xin lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Oops.",
+          "vi": "Úi."
+        },
+        {
+          "speaker": "B",
+          "en": "No worries.",
+          "vi": "Không sao."
+        }
+      ]
+    },
+    {
+      "word": "Receive",
+      "ipa": "/rɪˈsiːv/",
+      "meaning": "Nhận (Trang trọng)",
+      "example": {
+        "en": "Receive email.",
+        "vi": "Nhận email."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check inbox.",
+          "vi": "Kiểm tra hộp thư."
+        },
+        {
+          "speaker": "B",
+          "en": "Got it.",
+          "vi": "Nhận rồi."
+        }
+      ]
+    },
+    {
+      "word": "Get",
+      "ipa": "/ɡɛt/",
+      "meaning": "Nhận / Lấy (Thân mật)",
+      "example": {
+        "en": "Get message.",
+        "vi": "Nhận tin nhắn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you get it?",
+          "vi": "Nhận chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Rồi."
+        }
+      ]
+    },
+    {
+      "word": "Assist",
+      "ipa": "/əˈsɪst/",
+      "meaning": "Hỗ trợ (Trang trọng)",
+      "example": {
+        "en": "Assist client.",
+        "vi": "Hỗ trợ khách hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Help desk.",
+          "vi": "Bàn hỗ trợ."
+        },
+        {
+          "speaker": "B",
+          "en": "Thank you.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Help",
+      "ipa": "/hɛlp/",
+      "meaning": "Giúp (Thân mật)",
+      "example": {
+        "en": "Help me.",
+        "vi": "Giúp tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stuck.",
+          "vi": "Mắc kẹt."
+        },
+        {
+          "speaker": "B",
+          "en": "Coming.",
+          "vi": "Đến đây."
+        }
+      ]
+    }
+  ]
 }

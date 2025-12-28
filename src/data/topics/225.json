@@ -1,6 +1,217 @@
 {
   "id": "225",
   "title": "225. TOEIC Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Business",
+      "ipa": "/ˈbɪznɪs/",
+      "meaning": "Kinh doanh (TOEIC focus)",
+      "example": {
+        "en": "Business English.",
+        "vi": "Tiếng Anh thương mại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Workplace.",
+          "vi": "Nơi làm việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Meeting.",
+          "vi": "Cuộc họp."
+        }
+      ]
+    },
+    {
+      "word": "Score",
+      "ipa": "/skɔːr/",
+      "meaning": "Điểm số",
+      "example": {
+        "en": "TOEIC score.",
+        "vi": "Điểm TOEIC."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High score.",
+          "vi": "Điểm cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Requirement.",
+          "vi": "Yêu cầu."
+        }
+      ]
+    },
+    {
+      "word": "Listening",
+      "ipa": "/ˈlɪsnɪŋ/",
+      "meaning": "Nghe",
+      "example": {
+        "en": "Listening section.",
+        "vi": "Phần nghe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Conversations.",
+          "vi": "Hội thoại."
+        },
+        {
+          "speaker": "B",
+          "en": "Short talks.",
+          "vi": "Bài nói ngắn."
+        }
+      ]
+    },
+    {
+      "word": "Reading",
+      "ipa": "/ˈriːdɪŋ/",
+      "meaning": "Đọc",
+      "example": {
+        "en": "Reading section.",
+        "vi": "Phần đọc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Incomplete sentences.",
+          "vi": "Câu chưa hoàn chỉnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Texts.",
+          "vi": "Văn bản."
+        }
+      ]
+    },
+    {
+      "word": "Office",
+      "ipa": "/ˈɒfɪs/",
+      "meaning": "Văn phòng",
+      "example": {
+        "en": "Office setting.",
+        "vi": "Bối cảnh văn phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Email.",
+          "vi": "Email."
+        },
+        {
+          "speaker": "B",
+          "en": "Phone call.",
+          "vi": "Cuộc gọi."
+        }
+      ]
+    },
+    {
+      "word": "Contract",
+      "ipa": "/ˈkɒntrækt/",
+      "meaning": "Hợp đồng",
+      "example": {
+        "en": "Sign contract.",
+        "vi": "Ký hợp đồng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Terms.",
+          "vi": "Điều khoản."
+        },
+        {
+          "speaker": "B",
+          "en": "Agreement.",
+          "vi": "Thỏa thuận."
+        }
+      ]
+    },
+    {
+      "word": "Meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "meaning": "Cuộc họp",
+      "example": {
+        "en": "Attend meeting.",
+        "vi": "Tham dự cuộc họp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Agenda.",
+          "vi": "Chương trình nghị sự."
+        },
+        {
+          "speaker": "B",
+          "en": "Discuss.",
+          "vi": "Thảo luận."
+        }
+      ]
+    },
+    {
+      "word": "Schedule",
+      "ipa": "/ˈʃɛdjuːl/",
+      "meaning": "Lịch trình",
+      "example": {
+        "en": "Work schedule.",
+        "vi": "Lịch làm việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Busy.",
+          "vi": "Bận."
+        },
+        {
+          "speaker": "B",
+          "en": "Appointment.",
+          "vi": "Cuộc hẹn."
+        }
+      ]
+    },
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːrkɪt/",
+      "meaning": "Thị trường",
+      "example": {
+        "en": "Global market.",
+        "vi": "Thị trường toàn cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sales.",
+          "vi": "Doanh số."
+        },
+        {
+          "speaker": "B",
+          "en": "Product.",
+          "vi": "Sản phẩm."
+        }
+      ]
+    },
+    {
+      "word": "Employee",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "meaning": "Nhân viên",
+      "example": {
+        "en": "Good employee.",
+        "vi": "Nhân viên tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hire.",
+          "vi": "Tuyển dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Salary.",
+          "vi": "Lương."
+        }
+      ]
+    }
+  ]
 }

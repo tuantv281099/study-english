@@ -1,6 +1,217 @@
 {
   "id": "175",
   "title": "175. Investment – Đầu tư",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Stock",
+      "ipa": "/stɒk/",
+      "meaning": "Cổ phiếu",
+      "example": {
+        "en": "Buy stocks.",
+        "vi": "Mua cổ phiếu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Apple stock.",
+          "vi": "Cổ phiếu Apple."
+        },
+        {
+          "speaker": "B",
+          "en": "Market up.",
+          "vi": "Thị trường lên."
+        }
+      ]
+    },
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːrkɪt/",
+      "meaning": "Thị trường",
+      "example": {
+        "en": "Stock market.",
+        "vi": "Thị trường chứng khoán."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Bull market.",
+          "vi": "Thị trường giá lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Bear market.",
+          "vi": "Thị trường giá xuống."
+        }
+      ]
+    },
+    {
+      "word": "Profit",
+      "ipa": "/ˈprɒfɪt/",
+      "meaning": "Lợi nhuận",
+      "example": {
+        "en": "Make profit.",
+        "vi": "Kiếm lời."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sell high.",
+          "vi": "Bán giá cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Good return.",
+          "vi": "Lợi nhuận tốt."
+        }
+      ]
+    },
+    {
+      "word": "Loss",
+      "ipa": "/lɔːs/",
+      "meaning": "Thua lỗ / Mất",
+      "example": {
+        "en": "Stop loss.",
+        "vi": "Cắt lỗ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Price crash.",
+          "vi": "Giá sập."
+        },
+        {
+          "speaker": "B",
+          "en": "Lost money.",
+          "vi": "Mất tiền."
+        }
+      ]
+    },
+    {
+      "word": "Portfolio",
+      "ipa": "/pɔːrtˈfoʊlioʊ/",
+      "meaning": "Danh mục đầu tư",
+      "example": {
+        "en": "Diverse portfolio.",
+        "vi": "Danh mục đa dạng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mix assets.",
+          "vi": "Kết hợp tài sản."
+        },
+        {
+          "speaker": "B",
+          "en": "Reduce risk.",
+          "vi": "Giảm rủi ro."
+        }
+      ]
+    },
+    {
+      "word": "Asset",
+      "ipa": "/ˈæsɛt/",
+      "meaning": "Tài sản",
+      "example": {
+        "en": "Digital asset.",
+        "vi": "Tài sản kỹ thuật số."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Real estate.",
+          "vi": "Bất động sản."
+        },
+        {
+          "speaker": "B",
+          "en": "Gold.",
+          "vi": "Vàng."
+        }
+      ]
+    },
+    {
+      "word": "Bond",
+      "ipa": "/bɒnd/",
+      "meaning": "Trái phiếu",
+      "example": {
+        "en": "Government bond.",
+        "vi": "Trái phiếu chính phủ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Safe option.",
+          "vi": "Lựa chọn an toàn."
+        },
+        {
+          "speaker": "B",
+          "en": "Fixed income.",
+          "vi": "Thu nhập cố định."
+        }
+      ]
+    },
+    {
+      "word": "Dividend",
+      "ipa": "/ˈdɪvɪdɛnd/",
+      "meaning": "Cổ tức",
+      "example": {
+        "en": "Pay dividend.",
+        "vi": "Trả cổ tức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Quarterly.",
+          "vi": "Hàng quý."
+        },
+        {
+          "speaker": "B",
+          "en": "Passive income.",
+          "vi": "Thu nhập thụ động."
+        }
+      ]
+    },
+    {
+      "word": "Trade",
+      "ipa": "/treɪd/",
+      "meaning": "Giao dịch",
+      "example": {
+        "en": "Day trade.",
+        "vi": "Giao dịch trong ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy and sell.",
+          "vi": "Mua và bán."
+        },
+        {
+          "speaker": "B",
+          "en": "Watch charts.",
+          "vi": "Xem biểu đồ."
+        }
+      ]
+    },
+    {
+      "word": "Growth",
+      "ipa": "/ɡroʊθ/",
+      "meaning": "Tăng trưởng",
+      "example": {
+        "en": "Long-term growth.",
+        "vi": "Tăng trưởng dài hạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Patient.",
+          "vi": "Kiên nhẫn."
+        },
+        {
+          "speaker": "B",
+          "en": "Compound interest.",
+          "vi": "Lãi kép."
+        }
+      ]
+    }
+  ]
 }

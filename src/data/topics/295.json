@@ -1,6 +1,217 @@
 {
   "id": "295",
   "title": "295. Job Application English – Hồ sơ xin việc",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Resume",
+      "ipa": "/rɪˈzjuːm/",
+      "meaning": "Sơ yếu lý lịch (CV)",
+      "example": {
+        "en": "Send resume.",
+        "vi": "Gửi CV."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Update.",
+          "vi": "Cập nhật."
+        },
+        {
+          "speaker": "B",
+          "en": "PDF.",
+          "vi": "File PDF."
+        }
+      ]
+    },
+    {
+      "word": "Apply",
+      "ipa": "/əˈplaɪ/",
+      "meaning": "Nộp đơn",
+      "example": {
+        "en": "Apply for job.",
+        "vi": "Nộp đơn xin việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Online.",
+          "vi": "Trực tuyến."
+        },
+        {
+          "speaker": "B",
+          "en": "Form.",
+          "vi": "Mẫu đơn."
+        }
+      ]
+    },
+    {
+      "word": "Interview",
+      "ipa": "/ˈɪntərvjuː/",
+      "meaning": "Phỏng vấn",
+      "example": {
+        "en": "Interview date.",
+        "vi": "Ngày phỏng vấn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Prepare.",
+          "vi": "Chuẩn bị."
+        },
+        {
+          "speaker": "B",
+          "en": "Nervous.",
+          "vi": "Lo lắng."
+        }
+      ]
+    },
+    {
+      "word": "Skill",
+      "ipa": "/skɪl/",
+      "meaning": "Kỹ năng",
+      "example": {
+        "en": "Key skill.",
+        "vi": "Kỹ năng chính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "List.",
+          "vi": "Liệt kê."
+        },
+        {
+          "speaker": "B",
+          "en": "Match.",
+          "vi": "Phù hợp."
+        }
+      ]
+    },
+    {
+      "word": "Experience",
+      "ipa": "/ɪkˈsprɪəns/",
+      "meaning": "Kinh nghiệm",
+      "example": {
+        "en": "Past experience.",
+        "vi": "Kinh nghiệm quá khứ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Work.",
+          "vi": "Làm việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Tell.",
+          "vi": "Kể."
+        }
+      ]
+    },
+    {
+      "word": "Hire",
+      "ipa": "/haɪər/",
+      "meaning": "Thuê / Tuyển",
+      "example": {
+        "en": "You are hired.",
+        "vi": "Bạn đã được nhận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Start.",
+          "vi": "Bắt đầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Glad.",
+          "vi": "Vui mừng."
+        }
+      ]
+    },
+    {
+      "word": "Salary",
+      "ipa": "/ˈsæləri/",
+      "meaning": "Lương",
+      "example": {
+        "en": "Expected salary.",
+        "vi": "Mức lương mong muốn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Negotiate.",
+          "vi": "Thương lượng."
+        },
+        {
+          "speaker": "B",
+          "en": "Fair.",
+          "vi": "Công bằng."
+        }
+      ]
+    },
+    {
+      "word": "Reference",
+      "ipa": "/ˈrɛfərəns/",
+      "meaning": "Người tham chiếu",
+      "example": {
+        "en": "Job reference.",
+        "vi": "Người tham chiếu công việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check.",
+          "vi": "Kiểm tra."
+        },
+        {
+          "speaker": "B",
+          "en": "Boss.",
+          "vi": "Sếp."
+        }
+      ]
+    },
+    {
+      "word": "Cover letter",
+      "ipa": "/ˈkʌvər ˈlɛtər/",
+      "meaning": "Thư xin việc",
+      "example": {
+        "en": "Write cover letter.",
+        "vi": "Viết thư xin việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Explain.",
+          "vi": "Giải thích."
+        },
+        {
+          "speaker": "B",
+          "en": "Why.",
+          "vi": "Tại sao."
+        }
+      ]
+    },
+    {
+      "word": "Position",
+      "ipa": "/pəˈzɪʃən/",
+      "meaning": "Vị trí",
+      "example": {
+        "en": "Open position.",
+        "vi": "Vị trí đang tuyển."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Role.",
+          "vi": "Vai trò."
+        },
+        {
+          "speaker": "B",
+          "en": "Fit.",
+          "vi": "Phù hợp."
+        }
+      ]
+    }
+  ]
 }

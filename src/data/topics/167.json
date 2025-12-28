@@ -1,6 +1,217 @@
 {
   "id": "167",
   "title": "167. Online Banking – Ngân hàng trực tuyến",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Bank",
+      "ipa": "/bæŋk/",
+      "meaning": "Ngân hàng",
+      "example": {
+        "en": "Online bank.",
+        "vi": "Ngân hàng trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Use app.",
+          "vi": "Dùng ứng dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "No queue.",
+          "vi": "Không phải xếp hàng."
+        }
+      ]
+    },
+    {
+      "word": "Log in",
+      "ipa": "/lɔɡ ɪn/",
+      "meaning": "Đăng nhập",
+      "example": {
+        "en": "Log in now.",
+        "vi": "Đăng nhập ngay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Username.",
+          "vi": "Tên người dùng."
+        },
+        {
+          "speaker": "B",
+          "en": "Password.",
+          "vi": "Mật khẩu."
+        }
+      ]
+    },
+    {
+      "word": "Transfer",
+      "ipa": "/trænsˈfɜːr/",
+      "meaning": "Chuyển tiền",
+      "example": {
+        "en": "Money transfer.",
+        "vi": "Chuyển tiền."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Send to friend.",
+          "vi": "Gửi cho bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Instant.",
+          "vi": "Tức thì."
+        }
+      ]
+    },
+    {
+      "word": "Balance",
+      "ipa": "/ˈbæləns/",
+      "meaning": "Số dư",
+      "example": {
+        "en": "Check balance.",
+        "vi": "Kiểm tra số dư."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How much left?",
+          "vi": "Còn bao nhiêu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Enough to buy.",
+          "vi": "Đủ để mua."
+        }
+      ]
+    },
+    {
+      "word": "Statement",
+      "ipa": "/ˈsteɪtmənt/",
+      "meaning": "Sao kê",
+      "example": {
+        "en": "Bank statement.",
+        "vi": "Sao kê ngân hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "View history.",
+          "vi": "Xem lịch sử."
+        },
+        {
+          "speaker": "B",
+          "en": "PDF file.",
+          "vi": "Tệp PDF."
+        }
+      ]
+    },
+    {
+      "word": "Secure",
+      "ipa": "/sɪˈkjʊər/",
+      "meaning": "An toàn / Bảo mật",
+      "example": {
+        "en": "Secure payment.",
+        "vi": "Thanh toán an toàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "OTP code.",
+          "vi": "Mã OTP."
+        },
+        {
+          "speaker": "B",
+          "en": "Verify.",
+          "vi": "Xác minh."
+        }
+      ]
+    },
+    {
+      "word": "Fee",
+      "ipa": "/fiː/",
+      "meaning": "Phí",
+      "example": {
+        "en": "Service fee.",
+        "vi": "Phí dịch vụ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Free transfer.",
+          "vi": "Miễn phí chuyển khoản."
+        },
+        {
+          "speaker": "B",
+          "en": "Save cost.",
+          "vi": "Tiết kiệm chi phí."
+        }
+      ]
+    },
+    {
+      "word": "Card",
+      "ipa": "/kɑːrd/",
+      "meaning": "Thẻ",
+      "example": {
+        "en": "Debit card.",
+        "vi": "Thẻ ghi nợ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lock card.",
+          "vi": "Khóa thẻ (trong app)."
+        },
+        {
+          "speaker": "B",
+          "en": "Lost it.",
+          "vi": "Làm mất nó."
+        }
+      ]
+    },
+    {
+      "word": "Support",
+      "ipa": "/səˈpɔːrt/",
+      "meaning": "Hỗ trợ",
+      "example": {
+        "en": "Chat support.",
+        "vi": "Hỗ trợ qua chat."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need help.",
+          "vi": "Cần giúp đỡ."
+        },
+        {
+          "speaker": "B",
+          "en": "24/7 service.",
+          "vi": "Dịch vụ 24/7."
+        }
+      ]
+    },
+    {
+      "word": "Mobile",
+      "ipa": "/ˈmoʊbəl/",
+      "meaning": "Di động",
+      "example": {
+        "en": "Mobile banking.",
+        "vi": "Ngân hàng trên di động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Convenient.",
+          "vi": "Tiện lợi."
+        },
+        {
+          "speaker": "B",
+          "en": "Do anywhere.",
+          "vi": "Làm mọi nơi."
+        }
+      ]
+    }
+  ]
 }

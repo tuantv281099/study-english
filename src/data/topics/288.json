@@ -1,6 +1,217 @@
 {
   "id": "288",
   "title": "288. Mental Health – Sức khỏe tinh thần",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Mental",
+      "ipa": "/ˈmɛntl/",
+      "meaning": "Tinh thần",
+      "example": {
+        "en": "Mental health.",
+        "vi": "Sức khỏe tinh thần."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Important.",
+          "vi": "Quan trọng."
+        },
+        {
+          "speaker": "B",
+          "en": "Mind.",
+          "vi": "Tâm trí."
+        }
+      ]
+    },
+    {
+      "word": "Stress",
+      "ipa": "/strɛs/",
+      "meaning": "Căng thẳng",
+      "example": {
+        "en": "Reduce stress.",
+        "vi": "Giảm căng thẳng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Relax.",
+          "vi": "Thư giãn."
+        },
+        {
+          "speaker": "B",
+          "en": "Pressure.",
+          "vi": "Áp lực."
+        }
+      ]
+    },
+    {
+      "word": "Anxiety",
+      "ipa": "/æŋˈzaɪəti/",
+      "meaning": "Lo âu",
+      "example": {
+        "en": "Feel anxiety.",
+        "vi": "Cảm thấy lo âu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Worry.",
+          "vi": "Lo lắng."
+        },
+        {
+          "speaker": "B",
+          "en": "Calm.",
+          "vi": "Bình tĩnh."
+        }
+      ]
+    },
+    {
+      "word": "Depression",
+      "ipa": "/dɪˈprɛʃən/",
+      "meaning": "Trầm mưu",
+      "example": {
+        "en": "Fight depression.",
+        "vi": "Chống lại trầm cảm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sad.",
+          "vi": "Buồn."
+        },
+        {
+          "speaker": "B",
+          "en": "Help.",
+          "vi": "Giúp đỡ."
+        }
+      ]
+    },
+    {
+      "word": "Therapy",
+      "ipa": "/ˈθɛrəpi/",
+      "meaning": "Trị liệu",
+      "example": {
+        "en": "Go to therapy.",
+        "vi": "Đi trị liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Talk.",
+          "vi": "Nói chuyện."
+        },
+        {
+          "speaker": "B",
+          "en": "Doctor.",
+          "vi": "Bác sĩ."
+        }
+      ]
+    },
+    {
+      "word": "Mindfulness",
+      "ipa": "/ˈmaɪndfʊlnəs/",
+      "meaning": "Chánh niệm",
+      "example": {
+        "en": "Practice mindfulness.",
+        "vi": "Thực hành chánh niệm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Present.",
+          "vi": "Hiện tại."
+        },
+        {
+          "speaker": "B",
+          "en": "Aware.",
+          "vi": "Nhận thức."
+        }
+      ]
+    },
+    {
+      "word": "Support",
+      "ipa": "/səˈpɔːrt/",
+      "meaning": "Hỗ trợ",
+      "example": {
+        "en": "Seek support.",
+        "vi": "Tìm kiếm hỗ trợ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Family.",
+          "vi": "Gia đình."
+        },
+        {
+          "speaker": "B",
+          "en": "Friends.",
+          "vi": "Bạn bè."
+        }
+      ]
+    },
+    {
+      "word": "Balance",
+      "ipa": "/ˈbæləns/",
+      "meaning": "Cân bằng",
+      "example": {
+        "en": "Life balance.",
+        "vi": "Cân bằng cuộc sống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Work.",
+          "vi": "Làm việc."
+        },
+        {
+          "speaker": "B",
+          "en": "Play.",
+          "vi": "Chơi."
+        }
+      ]
+    },
+    {
+      "word": "Emotion",
+      "ipa": "/ɪˈmoʊʃən/",
+      "meaning": "Cảm xúc",
+      "example": {
+        "en": "Control emotion.",
+        "vi": "Kiểm soát cảm xúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Feel.",
+          "vi": "Cảm thấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Express.",
+          "vi": "Bày tỏ."
+        }
+      ]
+    },
+    {
+      "word": "Well-being",
+      "ipa": "/ˌwɛlˈbiːɪŋ/",
+      "meaning": "Hạnh phúc / Sự khỏe mạnh",
+      "example": {
+        "en": "Overall well-being.",
+        "vi": "Sự khỏe mạnh toàn diện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good.",
+          "vi": "Tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "Happy.",
+          "vi": "Hạnh phúc."
+        }
+      ]
+    }
+  ]
 }

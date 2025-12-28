@@ -1,6 +1,217 @@
 {
   "id": "162",
   "title": "162. Green Living – Sống xanh",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Organic",
+      "ipa": "/ɔːrˈɡænɪk/",
+      "meaning": "Hữu cơ",
+      "example": {
+        "en": "Organic food.",
+        "vi": "Thực phẩm hữu cơ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No chemicals.",
+          "vi": "Không hóa chất."
+        },
+        {
+          "speaker": "B",
+          "en": "Healthy.",
+          "vi": "Tốt cho sức khỏe."
+        }
+      ]
+    },
+    {
+      "word": "Local",
+      "ipa": "/ˈloʊkəl/",
+      "meaning": "Địa phương",
+      "example": {
+        "en": "Buy local.",
+        "vi": "Mua hàng địa phương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Support farmers.",
+          "vi": "Ủng hộ nông dân."
+        },
+        {
+          "speaker": "B",
+          "en": "Fresh produce.",
+          "vi": "Nông sản tươi."
+        }
+      ]
+    },
+    {
+      "word": "Plastic",
+      "ipa": "/ˈplæstɪk/",
+      "meaning": "Nhựa",
+      "example": {
+        "en": "No plastic.",
+        "vi": "Không dùng nhựa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Paper bag.",
+          "vi": "Túi giấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Reusable cup.",
+          "vi": "Ly tái sử dụng."
+        }
+      ]
+    },
+    {
+      "word": "Garden",
+      "ipa": "/ˈɡɑːrdən/",
+      "meaning": "Vườn",
+      "example": {
+        "en": "Grow garden.",
+        "vi": "Trồng vườn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Vegetables.",
+          "vi": "Rau củ."
+        },
+        {
+          "speaker": "B",
+          "en": "Home grown.",
+          "vi": "Cây nhà lá vườn."
+        }
+      ]
+    },
+    {
+      "word": "Solar",
+      "ipa": "/ˈsoʊlər/",
+      "meaning": "Mặt trời (năng lượng)",
+      "example": {
+        "en": "Solar panel.",
+        "vi": "Tấm pin mặt trời."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sun power.",
+          "vi": "Năng lượng mặt trời."
+        },
+        {
+          "speaker": "B",
+          "en": "Cut bill.",
+          "vi": "Giảm hóa đơn."
+        }
+      ]
+    },
+    {
+      "word": "Clean",
+      "ipa": "/kliːn/",
+      "meaning": "Sạch",
+      "example": {
+        "en": "Clean air.",
+        "vi": "Không khí sạch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Plant plants.",
+          "vi": "Trồng cây."
+        },
+        {
+          "speaker": "B",
+          "en": "Breathe easy.",
+          "vi": "Dễ thở."
+        }
+      ]
+    },
+    {
+      "word": "Walk",
+      "ipa": "/wɔːk/",
+      "meaning": "Đi bộ",
+      "example": {
+        "en": "Walk more.",
+        "vi": "Đi bộ nhiều hơn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Less car.",
+          "vi": "Ít đi xe."
+        },
+        {
+          "speaker": "B",
+          "en": "Healthy habit.",
+          "vi": "Thói quen lành mạnh."
+        }
+      ]
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "meaning": "Túi",
+      "example": {
+        "en": "Cloth bag.",
+        "vi": "Túi vải."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Bring your own.",
+          "vi": "Mang theo túi riêng."
+        },
+        {
+          "speaker": "B",
+          "en": "Shopping.",
+          "vi": "Mua sắm."
+        }
+      ]
+    },
+    {
+      "word": "Water",
+      "ipa": "/ˈwɔːtər/",
+      "meaning": "Nước",
+      "example": {
+        "en": "Filter water.",
+        "vi": "Lọc nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Drink tap.",
+          "vi": "Uống nước máy."
+        },
+        {
+          "speaker": "B",
+          "en": "No bottles.",
+          "vi": "Không dùng chai."
+        }
+      ]
+    },
+    {
+      "word": "Compost",
+      "ipa": "/ˈkɒmpoʊst/",
+      "meaning": "Phân hữu cơ",
+      "example": {
+        "en": "Make compost.",
+        "vi": "Làm phân hữu cơ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Food scraps.",
+          "vi": "Thức ăn thừa."
+        },
+        {
+          "speaker": "B",
+          "en": "For garden.",
+          "vi": "Cho khu vườn."
+        }
+      ]
+    }
+  ]
 }

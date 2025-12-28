@@ -1,6 +1,217 @@
 {
   "id": "139",
   "title": "139. Data & Analytics",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Data",
+      "ipa": "/ˈdeɪtə/",
+      "meaning": "Dữ liệu",
+      "example": {
+        "en": "Collect data.",
+        "vi": "Thu thập dữ liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Numbers and facts.",
+          "vi": "Con số và sự thật."
+        },
+        {
+          "speaker": "B",
+          "en": "Analyze it.",
+          "vi": "Phân tích nó."
+        }
+      ]
+    },
+    {
+      "word": "Analytics",
+      "ipa": "/ˌænəˈlɪtɪks/",
+      "meaning": "Phân tích (số liệu)",
+      "example": {
+        "en": "Web analytics.",
+        "vi": "Phân tích web."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Visitor count.",
+          "vi": "Số lượng khách truy cập."
+        },
+        {
+          "speaker": "B",
+          "en": "Trends.",
+          "vi": "Xu hướng."
+        }
+      ]
+    },
+    {
+      "word": "Chart",
+      "ipa": "/tʃɑːrt/",
+      "meaning": "Biểu đồ",
+      "example": {
+        "en": "Bar chart.",
+        "vi": "Biểu đồ cột."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Visualize.",
+          "vi": "Trực quan hóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Easy to read.",
+          "vi": "Dễ đọc."
+        }
+      ]
+    },
+    {
+      "word": "Graph",
+      "ipa": "/ɡræf/",
+      "meaning": "Đồ thị",
+      "example": {
+        "en": "Line graph.",
+        "vi": "Biểu đồ đường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show growth.",
+          "vi": "Thể hiện sự tăng trưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Going up.",
+          "vi": "Đang đi lên."
+        }
+      ]
+    },
+    {
+      "word": "Report",
+      "ipa": "/rɪˈpɔːrt/",
+      "meaning": "Báo cáo",
+      "example": {
+        "en": "Monthly report.",
+        "vi": "Báo cáo hàng tháng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Performance.",
+          "vi": "Hiệu suất."
+        },
+        {
+          "speaker": "B",
+          "en": "Results.",
+          "vi": "Kết quả."
+        }
+      ]
+    },
+    {
+      "word": "Database",
+      "ipa": "/ˈdeɪtəbeɪs/",
+      "meaning": "Cơ sở dữ liệu",
+      "example": {
+        "en": "Store in database.",
+        "vi": "Lưu trong cơ sở dữ liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "SQL.",
+          "vi": "SQL."
+        },
+        {
+          "speaker": "B",
+          "en": "Organized info.",
+          "vi": "Thông tin được tổ chức."
+        }
+      ]
+    },
+    {
+      "word": "Metric",
+      "ipa": "/ˈmɛtrɪk/",
+      "meaning": "Chỉ số",
+      "example": {
+        "en": "Key metric.",
+        "vi": "Chỉ số chính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Measure success.",
+          "vi": "Đo lường thành công."
+        },
+        {
+          "speaker": "B",
+          "en": "KPI.",
+          "vi": "KPI."
+        }
+      ]
+    },
+    {
+      "word": "Insight",
+      "ipa": "/ˈɪnsaɪt/",
+      "meaning": "Thông tin chi tiết / Cái nhìn sâu sắc",
+      "example": {
+        "en": "Gain insights.",
+        "vi": "Thu được thông tin chi tiết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Understand why.",
+          "vi": "Hiểu tại sao."
+        },
+        {
+          "speaker": "B",
+          "en": "Make decisions.",
+          "vi": "Đưa ra quyết định."
+        }
+      ]
+    },
+    {
+      "word": "Track",
+      "ipa": "/træk/",
+      "meaning": "Theo dõi",
+      "example": {
+        "en": "Track progress.",
+        "vi": "Theo dõi tiến độ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Monitor.",
+          "vi": "Giám sát."
+        },
+        {
+          "speaker": "B",
+          "en": "Real time.",
+          "vi": "Thời gian thực."
+        }
+      ]
+    },
+    {
+      "word": "Big data",
+      "ipa": "/bɪɡ ˈdeɪtə/",
+      "meaning": "Dữ liệu lớn",
+      "example": {
+        "en": "Big data analysis.",
+        "vi": "Phân tích dữ liệu lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Huge volume.",
+          "vi": "Khối lượng khổng lồ."
+        },
+        {
+          "speaker": "B",
+          "en": "Complex.",
+          "vi": "Phức tạp."
+        }
+      ]
+    }
+  ]
 }

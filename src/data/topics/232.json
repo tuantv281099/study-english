@@ -1,6 +1,217 @@
 {
   "id": "232",
   "title": "232. Proverbs – Tục ngữ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Time is money",
+      "ipa": "/taɪm ɪz ˈmʌni/",
+      "meaning": "Thời gian là vàng bạc",
+      "example": {
+        "en": "Remember, time is money.",
+        "vi": "Nhớ rằng, thời gian là vàng bạc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hurry up.",
+          "vi": "Nhanh lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Working fast.",
+          "vi": "Đang làm nhanh đây."
+        }
+      ]
+    },
+    {
+      "word": "Better late than never",
+      "ipa": "/ˈbɛtər leɪt ðæn ˈnɛvər/",
+      "meaning": "Muộn còn hơn không",
+      "example": {
+        "en": "I arrived late, better late than never.",
+        "vi": "Tôi đến muộn, còn hơn không."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Finally here.",
+          "vi": "Cuối cùng cũng đến."
+        },
+        {
+          "speaker": "B",
+          "en": "Welcome.",
+          "vi": "Chào mừng."
+        }
+      ]
+    },
+    {
+      "word": "No pain no gain",
+      "ipa": "/noʊ peɪn noʊ ɡeɪn/",
+      "meaning": "Có công mài sắt có ngày nên kim",
+      "example": {
+        "en": "Workout is hard, no pain no gain.",
+        "vi": "Tập luyện vất vả, có công mài sắt có ngày nên kim."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Muscles sore.",
+          "vi": "Đau cơ."
+        },
+        {
+          "speaker": "B",
+          "en": "Result coming.",
+          "vi": "Kết quả đang đến."
+        }
+      ]
+    },
+    {
+      "word": "Actions speak louder than words",
+      "ipa": "/ˈækʃənz spiːk ˈlaʊdər ðæn wɜːrdz/",
+      "meaning": "Hành động quan trọng hơn lời nói",
+      "example": {
+        "en": "Show me, actions speak louder than words.",
+        "vi": "Chứng minh đi, làm quan trọng hơn nói."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I promise.",
+          "vi": "Tôi hứa."
+        },
+        {
+          "speaker": "B",
+          "en": "Do it.",
+          "vi": "Làm đi."
+        }
+      ]
+    },
+    {
+      "word": "Knowledge is power",
+      "ipa": "/ˈnɒlɪdʒ ɪz ˈpaʊər/",
+      "meaning": "Kiến thức là sức mạnh",
+      "example": {
+        "en": "Read books, knowledge is power.",
+        "vi": "Đọc sách đi, kiến thức là sức mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn more.",
+          "vi": "Học thêm."
+        },
+        {
+          "speaker": "B",
+          "en": "Success.",
+          "vi": "Thành công."
+        }
+      ]
+    },
+    {
+      "word": "Practice makes perfect",
+      "ipa": "/ˈpræktɪs meɪks ˈpɜːrfɛkt/",
+      "meaning": "Có công mài sắt có ngày nên kim",
+      "example": {
+        "en": "Keep trying, practice makes perfect.",
+        "vi": "Cố gắng lên, có công mài sắt có ngày nên kim."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I failed.",
+          "vi": "Tôi thất bại."
+        },
+        {
+          "speaker": "B",
+          "en": "Try again.",
+          "vi": "Thử lại."
+        }
+      ]
+    },
+    {
+      "word": "Honesty is the best policy",
+      "ipa": "/ˈɒnɪsti ɪz ðə bɛst ˈpɒlɪsi/",
+      "meaning": "Thật thà là thượng sách",
+      "example": {
+        "en": "Tell truth, honesty is the best policy.",
+        "vi": "Nói thật đi, thật thà là thượng sách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I lied.",
+          "vi": "Tôi nói dối."
+        },
+        {
+          "speaker": "B",
+          "en": "Confess.",
+          "vi": "Thú nhận."
+        }
+      ]
+    },
+    {
+      "word": "Look before you leap",
+      "ipa": "/lʊk bɪˈfɔːr juː liːp/",
+      "meaning": "Cẩn tắc vô áy náy",
+      "example": {
+        "en": "Don't rush, look before you leap.",
+        "vi": "Đừng vội, cẩn tắc vô áy náy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Risky move.",
+          "vi": "Bước đi mạo hiểm."
+        },
+        {
+          "speaker": "B",
+          "en": "Check first.",
+          "vi": "Kiểm tra trước."
+        }
+      ]
+    },
+    {
+      "word": "Time flies",
+      "ipa": "/taɪm flaɪz/",
+      "meaning": "Thời gian trôi nhanh",
+      "example": {
+        "en": "Have fun, time flies.",
+        "vi": "Vui vẻ thì thời gian trôi nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Already 10?",
+          "vi": "Đã 10 giờ rồi ư?"
+        },
+        {
+          "speaker": "B",
+          "en": "So fast.",
+          "vi": "Nhanh quá."
+        }
+      ]
+    },
+    {
+      "word": "Easy come easy go",
+      "ipa": "/ˈiːzi kʌm ˈiːzi ɡoʊ/",
+      "meaning": "Dễ đến dễ đi",
+      "example": {
+        "en": "Money won is easy come easy go.",
+        "vi": "Tiền thắng cược thì dễ đến dễ đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lost cash.",
+          "vi": "Mất tiền mặt."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't worry.",
+          "vi": "Đừng lo."
+        }
+      ]
+    }
+  ]
 }

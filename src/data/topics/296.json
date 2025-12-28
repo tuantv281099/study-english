@@ -1,6 +1,217 @@
 {
   "id": "296",
   "title": "296. Travel Phrases – Câu giao tiếp khi du lịch",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "Vé",
+      "example": {
+        "en": "One ticket please.",
+        "vi": "Cho tôi một vé."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where to?",
+          "vi": "Đi đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "London.",
+          "vi": "Luân Đôn."
+        }
+      ]
+    },
+    {
+      "word": "Map",
+      "ipa": "/mæp/",
+      "meaning": "Bản đồ",
+      "example": {
+        "en": "Look at map.",
+        "vi": "Xem bản đồ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lost?",
+          "vi": "Bị lạc à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Vâng."
+        }
+      ]
+    },
+    {
+      "word": "Hotel",
+      "ipa": "/hoʊˈtɛl/",
+      "meaning": "Khách sạn",
+      "example": {
+        "en": "Find hotel.",
+        "vi": "Tìm khách sạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reservation?",
+          "vi": "Có đặt trước không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No.",
+          "vi": "Không."
+        }
+      ]
+    },
+    {
+      "word": "Train",
+      "ipa": "/treɪn/",
+      "meaning": "Tàu hỏa",
+      "example": {
+        "en": "Catch train.",
+        "vi": "Bắt tàu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Platform?",
+          "vi": "Sân ga nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "Five.",
+          "vi": "Số 5."
+        }
+      ]
+    },
+    {
+      "word": "Bus",
+      "ipa": "/bʌs/",
+      "meaning": "Xe buýt",
+      "example": {
+        "en": "Bus stop.",
+        "vi": "Trạm xe buýt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Number?",
+          "vi": "Số mấy?"
+        },
+        {
+          "speaker": "B",
+          "en": "Ten.",
+          "vi": "Số 10."
+        }
+      ]
+    },
+    {
+      "word": "Taxi",
+      "ipa": "/ˈtæksi/",
+      "meaning": "Taxi",
+      "example": {
+        "en": "Call taxi.",
+        "vi": "Gọi taxi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Address?",
+          "vi": "Địa chỉ?"
+        },
+        {
+          "speaker": "B",
+          "en": "Here.",
+          "vi": "Đây."
+        }
+      ]
+    },
+    {
+      "word": "Airport",
+      "ipa": "/ˈɛərpɔːrt/",
+      "meaning": "Sân bay",
+      "example": {
+        "en": "To airport.",
+        "vi": "Đến sân bay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Terminal?",
+          "vi": "Nhà ga nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "One.",
+          "vi": "Số 1."
+        }
+      ]
+    },
+    {
+      "word": "Restaurant",
+      "ipa": "/ˈrɛstərənt/",
+      "meaning": "Nhà hàng",
+      "example": {
+        "en": "Good restaurant.",
+        "vi": "Nhà hàng ngon."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Eat.",
+          "vi": "Ăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Hungry.",
+          "vi": "Đói."
+        }
+      ]
+    },
+    {
+      "word": "Museum",
+      "ipa": "/mjuːˈziːəm/",
+      "meaning": "Bảo tàng",
+      "example": {
+        "en": "Visit museum.",
+        "vi": "Thăm bảo tàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ticket?",
+          "vi": "Vé?"
+        },
+        {
+          "speaker": "B",
+          "en": "Free.",
+          "vi": "Miễn phí."
+        }
+      ]
+    },
+    {
+      "word": "Help",
+      "ipa": "/hɛlp/",
+      "meaning": "Giúp đỡ",
+      "example": {
+        "en": "Can you help?",
+        "vi": "Bạn giúp tôi được không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sure.",
+          "vi": "Chắc chắn."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    }
+  ]
 }

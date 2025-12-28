@@ -1,6 +1,217 @@
 {
   "id": "55",
   "title": "55. Illness & Treatment",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Sick",
+      "ipa": "/sɪk/",
+      "meaning": "Ốm",
+      "example": {
+        "en": "He is sick.",
+        "vi": "Anh ấy bị ốm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you feeling sick?",
+          "vi": "Bạn thấy mệt à?"
+        },
+        {
+          "speaker": "B",
+          "en": "A little.",
+          "vi": "Một chút."
+        }
+      ]
+    },
+    {
+      "word": "Fever",
+      "ipa": "/ˈfiːvər/",
+      "meaning": "Sốt",
+      "example": {
+        "en": "I have a fever.",
+        "vi": "Tôi bị sốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check your temperature.",
+          "vi": "Kiểm tra nhiệt độ xem."
+        },
+        {
+          "speaker": "B",
+          "en": "It is high.",
+          "vi": "Cao quá."
+        }
+      ]
+    },
+    {
+      "word": "Cough",
+      "ipa": "/kɒf/",
+      "meaning": "Ho",
+      "example": {
+        "en": "He has a bad cough.",
+        "vi": "Anh ấy ho nặng quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cover your mouth when you cough.",
+          "vi": "Che miệng khi ho nhé."
+        },
+        {
+          "speaker": "B",
+          "en": "Sorry.",
+          "vi": "Xin lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Cold",
+      "ipa": "/koʊld/",
+      "meaning": "Cảm lạnh",
+      "example": {
+        "en": "Catch a cold.",
+        "vi": "Bị cảm lạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I have a cold.",
+          "vi": "Tôi bị cảm rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Rest well.",
+          "vi": "Nghỉ ngơi đi."
+        }
+      ]
+    },
+    {
+      "word": "Flu",
+      "ipa": "/fluː/",
+      "meaning": "Cúm",
+      "example": {
+        "en": "The flu spreads fast.",
+        "vi": "Bệnh cúm lây nhanh lắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you get the flu shot?",
+          "vi": "Bạn tiêm phòng cúm chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Not yet.",
+          "vi": "Chưa."
+        }
+      ]
+    },
+    {
+      "word": "Pill",
+      "ipa": "/pɪl/",
+      "meaning": "Viên thuốc",
+      "example": {
+        "en": "Take a pill.",
+        "vi": "Uống một viên thuốc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "This pill is big.",
+          "vi": "Viên thuốc này to quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Swallow it with water.",
+          "vi": "Nuốt với nước đi."
+        }
+      ]
+    },
+    {
+      "word": "Rest",
+      "ipa": "/rɛst/",
+      "meaning": "Nghỉ ngơi",
+      "example": {
+        "en": "You need rest.",
+        "vi": "Bạn cần nghỉ ngơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Go home and rest.",
+          "vi": "Về nhà nghỉ đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi sẽ về."
+        }
+      ]
+    },
+    {
+      "word": "Nurse",
+      "ipa": "/nɜːrs/",
+      "meaning": "Y tá",
+      "example": {
+        "en": "The nurse helped me.",
+        "vi": "Cô y tá đã giúp tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call the nurse.",
+          "vi": "Gọi y tá đi."
+        },
+        {
+          "speaker": "B",
+          "en": "She is coming.",
+          "vi": "Cô ấy đang đến."
+        }
+      ]
+    },
+    {
+      "word": "Heal",
+      "ipa": "/hiːl/",
+      "meaning": "Chữa lành",
+      "example": {
+        "en": "Time heals all wounds.",
+        "vi": "Thời gian chữa lành mọi vết thương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Will it heal?",
+          "vi": "Nó có lành không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, soon.",
+          "vi": "Có, sớm thôi."
+        }
+      ]
+    },
+    {
+      "word": "Hurt",
+      "ipa": "/hɜːrt/",
+      "meaning": "Đau / Làm đau",
+      "example": {
+        "en": "It hurts.",
+        "vi": "Đau quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you hurt yourself?",
+          "vi": "Bạn làm mình bị thương à?"
+        },
+        {
+          "speaker": "B",
+          "en": "I fell.",
+          "vi": "Tôi bị ngã."
+        }
+      ]
+    }
+  ]
 }

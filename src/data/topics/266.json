@@ -1,6 +1,217 @@
 {
   "id": "266",
   "title": "266. Tourism & Travel Services – Du lịch",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Tour",
+      "ipa": "/tʊər/",
+      "meaning": "Chuyến đi",
+      "example": {
+        "en": "Guided tour.",
+        "vi": "Chuyến đi có hướng dẫn viên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "City.",
+          "vi": "Thành phố."
+        },
+        {
+          "speaker": "B",
+          "en": "Walk.",
+          "vi": "Đi bộ."
+        }
+      ]
+    },
+    {
+      "word": "Travel",
+      "ipa": "/ˈtrævəl/",
+      "meaning": "Du lịch",
+      "example": {
+        "en": "Love travel.",
+        "vi": "Yêu du lịch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "World.",
+          "vi": "Thế giới."
+        },
+        {
+          "speaker": "B",
+          "en": "Explore.",
+          "vi": "Khám phá."
+        }
+      ]
+    },
+    {
+      "word": "Guide",
+      "ipa": "/ɡaɪd/",
+      "meaning": "Hướng dẫn viên",
+      "example": {
+        "en": "Tour guide.",
+        "vi": "Hướng dẫn viên du lịch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Listen.",
+          "vi": "Lắng nghe."
+        },
+        {
+          "speaker": "B",
+          "en": "Explain.",
+          "vi": "Giải thích."
+        }
+      ]
+    },
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "Vé",
+      "example": {
+        "en": "Buy ticket.",
+        "vi": "Mua vé."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Price.",
+          "vi": "Giá tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Entrance.",
+          "vi": "Lối vào."
+        }
+      ]
+    },
+    {
+      "word": "Destination",
+      "ipa": "/ˌdɛstɪˈneɪʃən/",
+      "meaning": "Điểm đến",
+      "example": {
+        "en": "Popular destination.",
+        "vi": "Điểm đến phổ biến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Paris.",
+          "vi": "Paris."
+        },
+        {
+          "speaker": "B",
+          "en": "Beautiful.",
+          "vi": "Đẹp."
+        }
+      ]
+    },
+    {
+      "word": "Visa",
+      "ipa": "/ˈviːzə/",
+      "meaning": "Thị thực",
+      "example": {
+        "en": "Apply for visa.",
+        "vi": "Xin thị thực."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Passport.",
+          "vi": "Hộ chiếu."
+        },
+        {
+          "speaker": "B",
+          "en": "Embassy.",
+          "vi": "Đại sứ quán."
+        }
+      ]
+    },
+    {
+      "word": "Itinerary",
+      "ipa": "/aɪˈtɪnəreri/",
+      "meaning": "Lịch trình",
+      "example": {
+        "en": "Trip itinerary.",
+        "vi": "Lịch trình chuyến đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Plan.",
+          "vi": "Kế hoạch."
+        },
+        {
+          "speaker": "B",
+          "en": "Schedule.",
+          "vi": "Lịch trình."
+        }
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "ipa": "/ˌsuːvəˈnɪər/",
+      "meaning": "Quà lưu niệm",
+      "example": {
+        "en": "Buy souvenir.",
+        "vi": "Mua quà lưu niệm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Gift.",
+          "vi": "Quà tặng."
+        },
+        {
+          "speaker": "B",
+          "en": "Memory.",
+          "vi": "Kỷ niệm."
+        }
+      ]
+    },
+    {
+      "word": "Booking",
+      "ipa": "/ˈbʊkɪŋ/",
+      "meaning": "Đặt chỗ",
+      "example": {
+        "en": "Online booking.",
+        "vi": "Đặt chỗ trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Confirm.",
+          "vi": "Xác nhận."
+        },
+        {
+          "speaker": "B",
+          "en": "Easy.",
+          "vi": "Dễ dàng."
+        }
+      ]
+    },
+    {
+      "word": "Culture",
+      "ipa": "/ˈkʌltʃər/",
+      "meaning": "Văn hóa",
+      "example": {
+        "en": "Local culture.",
+        "vi": "Văn hóa địa phương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn.",
+          "vi": "Học hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Respect.",
+          "vi": "Tôn trọng."
+        }
+      ]
+    }
+  ]
 }

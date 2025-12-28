@@ -1,6 +1,217 @@
 {
   "id": "203",
   "title": "203. Asking Questions – Đặt câu hỏi",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Ask",
+      "ipa": "/æsk/",
+      "meaning": "Hỏi",
+      "example": {
+        "en": "May I ask?",
+        "vi": "Tôi có thể hỏi không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Question.",
+          "vi": "Câu hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Go ahead.",
+          "vi": "Cứ tự nhiên."
+        }
+      ]
+    },
+    {
+      "word": "What",
+      "ipa": "/wɒt/",
+      "meaning": "Cái gì",
+      "example": {
+        "en": "What is it?",
+        "vi": "Nó là gì?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What time?",
+          "vi": "Mấy giờ?"
+        },
+        {
+          "speaker": "B",
+          "en": "Five o'clock.",
+          "vi": "Năm giờ."
+        }
+      ]
+    },
+    {
+      "word": "Where",
+      "ipa": "/wɛər/",
+      "meaning": "Ở đâu",
+      "example": {
+        "en": "Where do you live?",
+        "vi": "Bạn sống ở đâu?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "London.",
+          "vi": "Luân Đôn."
+        },
+        {
+          "speaker": "B",
+          "en": "Nice city.",
+          "vi": "Thành phố đẹp."
+        }
+      ]
+    },
+    {
+      "word": "When",
+      "ipa": "/wɛn/",
+      "meaning": "Khi nào",
+      "example": {
+        "en": "When to meet?",
+        "vi": "Khi nào gặp?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tomorrow.",
+          "vi": "Ngày mai."
+        },
+        {
+          "speaker": "B",
+          "en": "Perfect.",
+          "vi": "Hoàn hảo."
+        }
+      ]
+    },
+    {
+      "word": "Who",
+      "ipa": "/huː/",
+      "meaning": "Ai",
+      "example": {
+        "en": "Who is that?",
+        "vi": "Đó là ai?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "My boss.",
+          "vi": "Sếp tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "Looks nice.",
+          "vi": "Trông tử tế."
+        }
+      ]
+    },
+    {
+      "word": "Why",
+      "ipa": "/waɪ/",
+      "meaning": "Tại sao",
+      "example": {
+        "en": "Why go?",
+        "vi": "Sao lại đi?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need rest.",
+          "vi": "Cần nghỉ ngơi."
+        },
+        {
+          "speaker": "B",
+          "en": "Understand.",
+          "vi": "Hiểu rồi."
+        }
+      ]
+    },
+    {
+      "word": "How",
+      "ipa": "/haʊ/",
+      "meaning": "Như thế nào",
+      "example": {
+        "en": "How to do?",
+        "vi": "Làm thế nào?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show me.",
+          "vi": "Chỉ tôi với."
+        },
+        {
+          "speaker": "B",
+          "en": "Easy.",
+          "vi": "Dễ thôi."
+        }
+      ]
+    },
+    {
+      "word": "Question",
+      "ipa": "/ˈkwɛstʃən/",
+      "meaning": "Câu hỏi",
+      "example": {
+        "en": "Have a question.",
+        "vi": "Có một câu hỏi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Answer it.",
+          "vi": "Trả lời nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't know.",
+          "vi": "Không biết."
+        }
+      ]
+    },
+    {
+      "word": "Curious",
+      "ipa": "/ˈkjʊəriəs/",
+      "meaning": "Tò mò",
+      "example": {
+        "en": "Just curious.",
+        "vi": "Chỉ tò mò thôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Want to know.",
+          "vi": "Muốn biết."
+        },
+        {
+          "speaker": "B",
+          "en": "Secret.",
+          "vi": "Bí mật."
+        }
+      ]
+    },
+    {
+      "word": "Answer",
+      "ipa": "/ˈɑːnsər/",
+      "meaning": "Câu trả lời",
+      "example": {
+        "en": "Right answer.",
+        "vi": "Câu trả lời đúng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wait for reply.",
+          "vi": "Chờ hồi âm."
+        },
+        {
+          "speaker": "B",
+          "en": "Think first.",
+          "vi": "Nghĩ trước đã."
+        }
+      ]
+    }
+  ]
 }

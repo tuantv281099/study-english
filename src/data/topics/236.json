@@ -1,6 +1,217 @@
 {
   "id": "236",
   "title": "236. Synonyms & Antonyms – Từ đồng & trái nghĩa",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Big - Large",
+      "ipa": "/bɪɡ/ - /lɑːrdʒ/",
+      "meaning": "To lớn (Đồng nghĩa)",
+      "example": {
+        "en": "Big house.",
+        "vi": "Nhà to."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Giant.",
+          "vi": "Khổng lồ."
+        },
+        {
+          "speaker": "B",
+          "en": "Huge.",
+          "vi": "To lớn."
+        }
+      ]
+    },
+    {
+      "word": "Small - Tiny",
+      "ipa": "/smɔːl/ - /ˈtaɪni/",
+      "meaning": "Nhỏ bé (Đồng nghĩa)",
+      "example": {
+        "en": "Tiny bug.",
+        "vi": "Con bọ tí hon."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Little.",
+          "vi": "Nhỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Micro.",
+          "vi": "Vi mô."
+        }
+      ]
+    },
+    {
+      "word": "Happy - Glad",
+      "ipa": "/ˈhæpi/ - /ɡlæd/",
+      "meaning": "Vui vẻ (Đồng nghĩa)",
+      "example": {
+        "en": "I'm glad.",
+        "vi": "Tôi vui."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smile.",
+          "vi": "Cười."
+        },
+        {
+          "speaker": "B",
+          "en": "Joy.",
+          "vi": "Niềm vui."
+        }
+      ]
+    },
+    {
+      "word": "Start - Begin",
+      "ipa": "/stɑːrt/ - /bɪˈɡɪn/",
+      "meaning": "Bắt đầu (Đồng nghĩa)",
+      "example": {
+        "en": "Let's begin.",
+        "vi": "Bắt đầu thôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ready.",
+          "vi": "Sẵn sàng."
+        },
+        {
+          "speaker": "B",
+          "en": "Go.",
+          "vi": "Đi."
+        }
+      ]
+    },
+    {
+      "word": "End - Finish",
+      "ipa": "/ɛnd/ - /ˈfɪnɪʃ/",
+      "meaning": "Kết thúc (Đồng nghĩa)",
+      "example": {
+        "en": "Finish work.",
+        "vi": "Kết thúc công việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Done.",
+          "vi": "Xong."
+        },
+        {
+          "speaker": "B",
+          "en": "Complete.",
+          "vi": "Hoàn thành."
+        }
+      ]
+    },
+    {
+      "word": "Hot - Cold",
+      "ipa": "/hɒt/ - /koʊld/",
+      "meaning": "Nóng - Lạnh (Trái nghĩa)",
+      "example": {
+        "en": "Hot coffee.",
+        "vi": "Cà phê nóng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Summer.",
+          "vi": "Mùa hè."
+        },
+        {
+          "speaker": "B",
+          "en": "Winter.",
+          "vi": "Mùa đông."
+        }
+      ]
+    },
+    {
+      "word": "Fast - Slow",
+      "ipa": "/fæst/ - /sloʊ/",
+      "meaning": "Nhanh - Chậm (Trái nghĩa)",
+      "example": {
+        "en": "Fast car.",
+        "vi": "Xe nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Speed.",
+          "vi": "Tốc độ."
+        },
+        {
+          "speaker": "B",
+          "en": "Turtle.",
+          "vi": "Rùa."
+        }
+      ]
+    },
+    {
+      "word": "Hard - Soft",
+      "ipa": "/hɑːrd/ - /sɒft/",
+      "meaning": "Cứng - Mềm (Trái nghĩa)",
+      "example": {
+        "en": "Hard rock.",
+        "vi": "Đá cứng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pillow.",
+          "vi": "Gối."
+        },
+        {
+          "speaker": "B",
+          "en": "Comfort.",
+          "vi": "Thoải mái."
+        }
+      ]
+    },
+    {
+      "word": "Happy - Sad",
+      "ipa": "/ˈhæpi/ - /sæd/",
+      "meaning": "Vui - Buồn (Trái nghĩa)",
+      "example": {
+        "en": "Sad movie.",
+        "vi": "Phim buồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cry.",
+          "vi": "Khóc."
+        },
+        {
+          "speaker": "B",
+          "en": "Laugh.",
+          "vi": "Cười."
+        }
+      ]
+    },
+    {
+      "word": "Rich - Poor",
+      "ipa": "/rɪtʃ/ - /pʊər/",
+      "meaning": "Giàu - Nghèo (Trái nghĩa)",
+      "example": {
+        "en": "Rich man.",
+        "vi": "Người giàu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Money.",
+          "vi": "Tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Need help.",
+          "vi": "Cần giúp đỡ."
+        }
+      ]
+    }
+  ]
 }

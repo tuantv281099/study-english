@@ -1,6 +1,217 @@
 {
   "id": "94",
   "title": "94. School Subjects",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Math",
+      "ipa": "/mæθ/",
+      "meaning": "Toán học",
+      "example": {
+        "en": "Study math.",
+        "vi": "Học toán."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Add numbers.",
+          "vi": "Cộng các số."
+        },
+        {
+          "speaker": "B",
+          "en": "It is hard.",
+          "vi": "Khó quá."
+        }
+      ]
+    },
+    {
+      "word": "Science",
+      "ipa": "/ˈsaɪəns/",
+      "meaning": "Khoa học",
+      "example": {
+        "en": "Science class.",
+        "vi": "Lớp khoa học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Experiments.",
+          "vi": "Thí nghiệm."
+        },
+        {
+          "speaker": "B",
+          "en": "Fun reaction.",
+          "vi": "Phản ứng thú vị."
+        }
+      ]
+    },
+    {
+      "word": "History",
+      "ipa": "/ˈhɪstəri/",
+      "meaning": "Lịch sử",
+      "example": {
+        "en": "Learn history.",
+        "vi": "Học lịch sử."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Past events.",
+          "vi": "Các sự kiện quá khứ."
+        },
+        {
+          "speaker": "B",
+          "en": "Famous people.",
+          "vi": "Những người nổi tiếng."
+        }
+      ]
+    },
+    {
+      "word": "Art",
+      "ipa": "/ɑːrt/",
+      "meaning": "Mỹ thuật",
+      "example": {
+        "en": "Art class.",
+        "vi": "Lớp mỹ thuật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Paint a picture.",
+          "vi": "Vẽ tranh."
+        },
+        {
+          "speaker": "B",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Music",
+      "ipa": "/ˈmjuːzɪk/",
+      "meaning": "Âm nhạc",
+      "example": {
+        "en": "Play music.",
+        "vi": "Chơi nhạc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sing a song.",
+          "vi": "Hát một bài."
+        },
+        {
+          "speaker": "B",
+          "en": "Play guitar.",
+          "vi": "Chơi đàn guitar."
+        }
+      ]
+    },
+    {
+      "word": "English",
+      "ipa": "/ˈɪŋɡlɪʃ/",
+      "meaning": "Tiếng Anh",
+      "example": {
+        "en": "Speak English.",
+        "vi": "Nói tiếng Anh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn new words.",
+          "vi": "Học từ mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Practice daily.",
+          "vi": "Luyện tập hàng ngày."
+        }
+      ]
+    },
+    {
+      "word": "Geography",
+      "ipa": "/dʒiˈɒɡrəfi/",
+      "meaning": "Địa lý",
+      "example": {
+        "en": "World geography.",
+        "vi": "Địa lý thế giới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Maps and countries.",
+          "vi": "Bản đồ và các quốc gia."
+        },
+        {
+          "speaker": "B",
+          "en": "Where is Vietnam?",
+          "vi": "Việt Nam ở đâu?"
+        }
+      ]
+    },
+    {
+      "word": "Sport",
+      "ipa": "/spɔːrt/",
+      "meaning": "Thể dục / Thể thao",
+      "example": {
+        "en": "Play sports.",
+        "vi": "Chơi thể thao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "PE class.",
+          "vi": "Lớp thể dục."
+        },
+        {
+          "speaker": "B",
+          "en": "Run fast.",
+          "vi": "Chạy nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Test",
+      "ipa": "/tɛst/",
+      "meaning": "Bài kiểm tra",
+      "example": {
+        "en": "Take a test.",
+        "vi": "Làm bài kiểm tra."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you pass?",
+          "vi": "Bạn có đỗ không?"
+        },
+        {
+          "speaker": "B",
+          "en": "I got an A.",
+          "vi": "Tôi được điểm A."
+        }
+      ]
+    },
+    {
+      "word": "Study",
+      "ipa": "/ˈstʌdi/",
+      "meaning": "Học tập",
+      "example": {
+        "en": "Study hard.",
+        "vi": "Học chăm chỉ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "For the exam.",
+          "vi": "Cho kỳ thi."
+        },
+        {
+          "speaker": "B",
+          "en": "Good luck.",
+          "vi": "Chúc may mắn."
+        }
+      ]
+    }
+  ]
 }

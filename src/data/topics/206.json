@@ -1,6 +1,217 @@
 {
   "id": "206",
   "title": "206. Making Suggestions – Đưa ra gợi ý",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Suggest",
+      "ipa": "/səˈdʒɛst/",
+      "meaning": "Gợi ý",
+      "example": {
+        "en": "I suggest calling.",
+        "vi": "Tôi gợi ý gọi điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good idea.",
+          "vi": "Ý hay."
+        },
+        {
+          "speaker": "B",
+          "en": "Let's do it.",
+          "vi": "Làm thôi."
+        }
+      ]
+    },
+    {
+      "word": "Idea",
+      "ipa": "/aɪˈdɪə/",
+      "meaning": "Ý tưởng",
+      "example": {
+        "en": "Any ideas?",
+        "vi": "Có ý tưởng gì không?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Try this.",
+          "vi": "Thử cái này."
+        },
+        {
+          "speaker": "B",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Recommend",
+      "ipa": "/ˌrɛkəˈmɛnd/",
+      "meaning": "Khuyên / Đề xuất",
+      "example": {
+        "en": "Highly recommend.",
+        "vi": "Rất khuyến khích."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Best content.",
+          "vi": "Nội dung hay nhất."
+        },
+        {
+          "speaker": "B",
+          "en": "Trust you.",
+          "vi": "Tin bạn."
+        }
+      ]
+    },
+    {
+      "word": "Think",
+      "ipa": "/θɪŋk/",
+      "meaning": "Nghĩ (về việc làm gì)",
+      "example": {
+        "en": "Think about it.",
+        "vi": "Suy nghĩ về nó."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Consider.",
+          "vi": "Cân nhắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Maybe later.",
+          "vi": "Có lẽ để sau."
+        }
+      ]
+    },
+    {
+      "word": "Should",
+      "ipa": "/ʃʊd/",
+      "meaning": "Nên",
+      "example": {
+        "en": "You should go.",
+        "vi": "Bạn nên đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Advice.",
+          "vi": "Lời khuyên."
+        },
+        {
+          "speaker": "B",
+          "en": "Will try.",
+          "vi": "Sẽ thử."
+        }
+      ]
+    },
+    {
+      "word": "Advice",
+      "ipa": "/ədˈvaɪs/",
+      "meaning": "Lời khuyên",
+      "example": {
+        "en": "Need advice.",
+        "vi": "Cần lời khuyên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Help me.",
+          "vi": "Giúp tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "Listen.",
+          "vi": "Nghe này."
+        }
+      ]
+    },
+    {
+      "word": "Let",
+      "ipa": "/lɛt/",
+      "meaning": "Hãy (rủ rê)",
+      "example": {
+        "en": "Let's eat.",
+        "vi": "Cùng ăn nào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hungry.",
+          "vi": "Đói."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Proposal",
+      "ipa": "/prəˈpoʊzəl/",
+      "meaning": "Đề xuất",
+      "example": {
+        "en": "Make a proposal.",
+        "vi": "Đưa ra đề xuất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Business plan.",
+          "vi": "Kế hoạch kinh doanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Review it.",
+          "vi": "Xem xét nó."
+        }
+      ]
+    },
+    {
+      "word": "Tip",
+      "ipa": "/tɪp/",
+      "meaning": "Mẹo",
+      "example": {
+        "en": "Helpful tip.",
+        "vi": "Mẹo hữu ích."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Easier way.",
+          "vi": "Cách dễ hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Plan",
+      "ipa": "/plæn/",
+      "meaning": "Kế hoạch",
+      "example": {
+        "en": "Good plan.",
+        "vi": "Kế hoạch hay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Execute.",
+          "vi": "Thực hiện."
+        },
+        {
+          "speaker": "B",
+          "en": "Success.",
+          "vi": "Thành công."
+        }
+      ]
+    }
+  ]
 }

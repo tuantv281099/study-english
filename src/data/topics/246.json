@@ -1,6 +1,217 @@
 {
   "id": "246",
   "title": "246. Geography Vocabulary – Địa lý",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Map",
+      "ipa": "/mæp/",
+      "meaning": "Bản đồ",
+      "example": {
+        "en": "Read map.",
+        "vi": "Đọc bản đồ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lost.",
+          "vi": "Lạc đường."
+        },
+        {
+          "speaker": "B",
+          "en": "Directions.",
+          "vi": "Chỉ đường."
+        }
+      ]
+    },
+    {
+      "word": "Compass",
+      "ipa": "/ˈkʌmpəs/",
+      "meaning": "La bàn",
+      "example": {
+        "en": "Use compass.",
+        "vi": "Dùng la bàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "North.",
+          "vi": "Hướng bắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Navigate.",
+          "vi": "Điều hướng."
+        }
+      ]
+    },
+    {
+      "word": "Continent",
+      "ipa": "/ˈkɒntɪnənt/",
+      "meaning": "Lục địa",
+      "example": {
+        "en": "Seven continents.",
+        "vi": "Bảy lục địa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Asia.",
+          "vi": "Châu Á."
+        },
+        {
+          "speaker": "B",
+          "en": "Europe.",
+          "vi": "Châu Âu."
+        }
+      ]
+    },
+    {
+      "word": "Ocean",
+      "ipa": "/ˈoʊʃən/",
+      "meaning": "Đại dương",
+      "example": {
+        "en": "Pacific Ocean.",
+        "vi": "Thái Bình Dương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Deep.",
+          "vi": "Sâu."
+        },
+        {
+          "speaker": "B",
+          "en": "Blue.",
+          "vi": "Xanh."
+        }
+      ]
+    },
+    {
+      "word": "Mountain",
+      "ipa": "/ˈmaʊntɪn/",
+      "meaning": "Núi",
+      "example": {
+        "en": "High mountain.",
+        "vi": "Núi cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Climb.",
+          "vi": "Leo núi."
+        },
+        {
+          "speaker": "B",
+          "en": "Peak.",
+          "vi": "Đỉnh."
+        }
+      ]
+    },
+    {
+      "word": "River",
+      "ipa": "/ˈrɪvər/",
+      "meaning": "Sông",
+      "example": {
+        "en": "Long river.",
+        "vi": "Sông dài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Flow.",
+          "vi": "Dòng chảy."
+        },
+        {
+          "speaker": "B",
+          "en": "Fish.",
+          "vi": "Cá."
+        }
+      ]
+    },
+    {
+      "word": "Desert",
+      "ipa": "/ˈdɛzərt/",
+      "meaning": "Sa mạc",
+      "example": {
+        "en": "Hot desert.",
+        "vi": "Sa mạc nóng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sand.",
+          "vi": "Cát."
+        },
+        {
+          "speaker": "B",
+          "en": "Dry.",
+          "vi": "Khô."
+        }
+      ]
+    },
+    {
+      "word": "Island",
+      "ipa": "/ˈhaɪlənd/",
+      "meaning": "Đảo",
+      "example": {
+        "en": "Tropical island.",
+        "vi": "Đảo nhiệt đới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Beach.",
+          "vi": "Bãi biển."
+        },
+        {
+          "speaker": "B",
+          "en": "Vacation.",
+          "vi": "Kỳ nghỉ."
+        }
+      ]
+    },
+    {
+      "word": "Border",
+      "ipa": "/ˈbɔːrdər/",
+      "meaning": "Biên giới",
+      "example": {
+        "en": "Cross border.",
+        "vi": "Vượt biên giới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Passport.",
+          "vi": "Hộ chiếu."
+        },
+        {
+          "speaker": "B",
+          "en": "Customs.",
+          "vi": "Hải quan."
+        }
+      ]
+    },
+    {
+      "word": "Capital",
+      "ipa": "/ˈkæpɪtl/",
+      "meaning": "Thủ đô",
+      "example": {
+        "en": "Capital city.",
+        "vi": "Thủ đô."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Government.",
+          "vi": "Chính phủ."
+        },
+        {
+          "speaker": "B",
+          "en": "Visit.",
+          "vi": "Tham quan."
+        }
+      ]
+    }
+  ]
 }

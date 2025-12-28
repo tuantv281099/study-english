@@ -1,6 +1,217 @@
 {
   "id": "281",
   "title": "281. Motivation – Động lực",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Motivate",
+      "ipa": "/ˈmoʊtɪveɪt/",
+      "meaning": "Thúc đẩy / Tạo động lực",
+      "example": {
+        "en": "Motivate team.",
+        "vi": "Tạo động lực cho nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Encourage.",
+          "vi": "Khuyến khích."
+        },
+        {
+          "speaker": "B",
+          "en": "Push.",
+          "vi": "Thúc đẩy."
+        }
+      ]
+    },
+    {
+      "word": "Drive",
+      "ipa": "/draɪv/",
+      "meaning": "Động lực (nội tại)",
+      "example": {
+        "en": "Inner drive.",
+        "vi": "Động lực bên trong."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Passion.",
+          "vi": "Đam mê."
+        },
+        {
+          "speaker": "B",
+          "en": "Want.",
+          "vi": "Muốn."
+        }
+      ]
+    },
+    {
+      "word": "Inspire",
+      "ipa": "/ɪnˈspaɪər/",
+      "meaning": "Truyền cảm hứng",
+      "example": {
+        "en": "Inspire others.",
+        "vi": "Truyền cảm hứng cho người khác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Role model.",
+          "vi": "Hình mẫu."
+        },
+        {
+          "speaker": "B",
+          "en": "Follow.",
+          "vi": "Noi theo."
+        }
+      ]
+    },
+    {
+      "word": "Passion",
+      "ipa": "/ˈpæʃən/",
+      "meaning": "Đam mê",
+      "example": {
+        "en": "Follow passion.",
+        "vi": "Theo đuổi đam mê."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Love.",
+          "vi": "Yêu."
+        },
+        {
+          "speaker": "B",
+          "en": "Work.",
+          "vi": "Công việc."
+        }
+      ]
+    },
+    {
+      "word": "Reward",
+      "ipa": "/rɪˈwɔːrd/",
+      "meaning": "Phần thưởng",
+      "example": {
+        "en": "Big reward.",
+        "vi": "Phần thưởng lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Bonus.",
+          "vi": "Thưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Happy.",
+          "vi": "Vui."
+        }
+      ]
+    },
+    {
+      "word": "Discipline",
+      "ipa": "/ˈdɪsɪplɪn/",
+      "meaning": "Kỷ luật",
+      "example": {
+        "en": "Self discipline.",
+        "vi": "Kỷ luật bản thân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Strict.",
+          "vi": "Nghiêm khắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Habit.",
+          "vi": "Thói quen."
+        }
+      ]
+    },
+    {
+      "word": "Action",
+      "ipa": "/ˈækʃən/",
+      "meaning": "Hành động",
+      "example": {
+        "en": "Take action.",
+        "vi": "Hành động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Start.",
+          "vi": "Bắt đầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Do.",
+          "vi": "Làm."
+        }
+      ]
+    },
+    {
+      "word": "Purpose",
+      "ipa": "/ˈpɜːrpəs/",
+      "meaning": "Mục đích",
+      "example": {
+        "en": "Life purpose.",
+        "vi": "Mục đích sống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Meaning.",
+          "vi": "Ý nghĩa."
+        },
+        {
+          "speaker": "B",
+          "en": "Why.",
+          "vi": "Tại sao."
+        }
+      ]
+    },
+    {
+      "word": "Energy",
+      "ipa": "/ˈɛnərdʒi/",
+      "meaning": "Năng lượng",
+      "example": {
+        "en": "High energy.",
+        "vi": "Năng lượng cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Active.",
+          "vi": "Hoạt bát."
+        },
+        {
+          "speaker": "B",
+          "en": "Tired.",
+          "vi": "Mệt."
+        }
+      ]
+    },
+    {
+      "word": "Positive",
+      "ipa": "/ˈpɒzɪtɪv/",
+      "meaning": "Tích cực",
+      "example": {
+        "en": "Think positive.",
+        "vi": "Nghĩ tích cực."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Optimistic.",
+          "vi": "Lạc quan."
+        },
+        {
+          "speaker": "B",
+          "en": "Good.",
+          "vi": "Tốt."
+        }
+      ]
+    }
+  ]
 }

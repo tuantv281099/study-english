@@ -1,6 +1,217 @@
 {
   "id": "144",
   "title": "144. Online Communication – Giao tiếp trực tuyến",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Chat",
+      "ipa": "/tʃæt/",
+      "meaning": "Trò chuyện",
+      "example": {
+        "en": "Group chat.",
+        "vi": "Trò chuyện nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Send emoji.",
+          "vi": "Gửi biểu tượng cảm xúc."
+        },
+        {
+          "speaker": "B",
+          "en": "Reply fast.",
+          "vi": "Trả lời nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Call",
+      "ipa": "/kɔːl/",
+      "meaning": "Cuộc gọi",
+      "example": {
+        "en": "Video call.",
+        "vi": "Cuộc gọi video."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "See your face.",
+          "vi": "Thấy mặt bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Connection bad.",
+          "vi": "Kết nối kém."
+        }
+      ]
+    },
+    {
+      "word": "Message",
+      "ipa": "/ˈmɛsɪdʒ/",
+      "meaning": "Tin nhắn",
+      "example": {
+        "en": "Text message.",
+        "vi": "Tin nhắn văn bản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you get it?",
+          "vi": "Bạn nhận được chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Just read it.",
+          "vi": "Vừa đọc xong."
+        }
+      ]
+    },
+    {
+      "word": "Social",
+      "ipa": "/ˈsoʊʃəl/",
+      "meaning": "Xã hội (mạng)",
+      "example": {
+        "en": "Social media.",
+        "vi": "Mạng xã hội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Facebook post.",
+          "vi": "Bài đăng Facebook."
+        },
+        {
+          "speaker": "B",
+          "en": "Like and share.",
+          "vi": "Thích và chia sẻ."
+        }
+      ]
+    },
+    {
+      "word": "Profile",
+      "ipa": "/ˈproʊfaɪl/",
+      "meaning": "Hồ sơ",
+      "example": {
+        "en": "Edit profile.",
+        "vi": "Chỉnh sửa hồ sơ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New photo.",
+          "vi": "Ảnh mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Update status.",
+          "vi": "Cập nhật trạng thái."
+        }
+      ]
+    },
+    {
+      "word": "Comment",
+      "ipa": "/ˈkɒmɛnt/",
+      "meaning": "Bình luận",
+      "example": {
+        "en": "Leave a comment.",
+        "vi": "Để lại bình luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice pic.",
+          "vi": "Ảnh đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Follow",
+      "ipa": "/ˈfɒloʊ/",
+      "meaning": "Theo dõi",
+      "example": {
+        "en": "Follow user.",
+        "vi": "Theo dõi người dùng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "More updates.",
+          "vi": "Thêm cập nhật."
+        },
+        {
+          "speaker": "B",
+          "en": "Influencer.",
+          "vi": "Người có ảnh hưởng."
+        }
+      ]
+    },
+    {
+      "word": "Block",
+      "ipa": "/blɒk/",
+      "meaning": "Chặn",
+      "example": {
+        "en": "Block spam.",
+        "vi": "Chặn thư rác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Annoying.",
+          "vi": "Phiền phức."
+        },
+        {
+          "speaker": "B",
+          "en": "Privacy.",
+          "vi": "Quyền riêng tư."
+        }
+      ]
+    },
+    {
+      "word": "Group",
+      "ipa": "/ɡruːp/",
+      "meaning": "Nhóm",
+      "example": {
+        "en": "Join group.",
+        "vi": "Tham gia nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Family group.",
+          "vi": "Nhóm gia đình."
+        },
+        {
+          "speaker": "B",
+          "en": "Discuss plans.",
+          "vi": "Thảo luận kế hoạch."
+        }
+      ]
+    },
+    {
+      "word": "Mute",
+      "ipa": "/mjuːt/",
+      "meaning": "Tắt tiếng",
+      "example": {
+        "en": "Mute mic.",
+        "vi": "Tắt mic."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too noisy.",
+          "vi": "Ồn quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Can't hear you.",
+          "vi": "Không nghe thấy bạn."
+        }
+      ]
+    }
+  ]
 }

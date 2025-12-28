@@ -1,6 +1,217 @@
 {
   "id": "239",
   "title": "239. Word Formation – Hình thành từ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Nation - National",
+      "ipa": "/ˈneɪʃən/ - /ˈnæʃənəl/",
+      "meaning": "Quốc gia - Thuộc về quốc gia (Danh từ -> Tính từ)",
+      "example": {
+        "en": "National anthem.",
+        "vi": "Quốc ca."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Country.",
+          "vi": "Đất nước."
+        },
+        {
+          "speaker": "B",
+          "en": "Flag.",
+          "vi": "Cờ."
+        }
+      ]
+    },
+    {
+      "word": "Create - Creation",
+      "ipa": "/kriˈeɪt/ - /kriˈeɪʃən/",
+      "meaning": "Tạo ra - Sự sáng tạo (Động từ -> Danh từ)",
+      "example": {
+        "en": "God's creation.",
+        "vi": "Sự sáng tạo của Chúa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Make.",
+          "vi": "Làm."
+        },
+        {
+          "speaker": "B",
+          "en": "New.",
+          "vi": "Mới."
+        }
+      ]
+    },
+    {
+      "word": "Beauty - Beautiful",
+      "ipa": "/ˈbjuːti/ - /ˈbjuːtɪfʊl/",
+      "meaning": "Vẻ đẹp - Xinh đẹp (Danh từ -> Tính từ)",
+      "example": {
+        "en": "Beautiful girl.",
+        "vi": "Cô gái xinh đẹp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pretty.",
+          "vi": "Đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Model.",
+          "vi": "Người mẫu."
+        }
+      ]
+    },
+    {
+      "word": "Happy - Happiness",
+      "ipa": "/ˈhæpi/ - /ˈhæpɪnəs/",
+      "meaning": "Vui - Hạnh phúc (Tính từ -> Danh từ)",
+      "example": {
+        "en": "Find happiness.",
+        "vi": "Tìm kiếm hạnh phúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Smile.",
+          "vi": "Cười."
+        },
+        {
+          "speaker": "B",
+          "en": "Joy.",
+          "vi": "Niềm vui."
+        }
+      ]
+    },
+    {
+      "word": "Dark - Darkness",
+      "ipa": "/dɑːrk/ - /ˈdɑːrknəs/",
+      "meaning": "Tối - Bóng tối (Tính từ -> Danh từ)",
+      "example": {
+        "en": "Fear darkness.",
+        "vi": "Sợ bóng tối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Night.",
+          "vi": "Đêm."
+        },
+        {
+          "speaker": "B",
+          "en": "Light.",
+          "vi": "Ánh sáng."
+        }
+      ]
+    },
+    {
+      "word": "Friend - Friendship",
+      "ipa": "/frɛnd/ - /ˈfrɛndʃɪp/",
+      "meaning": "Bạn - Tình bạn (Danh từ -> Danh từ)",
+      "example": {
+        "en": "True friendship.",
+        "vi": "Tình bạn đích thực."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Besties.",
+          "vi": "Bạn thân."
+        },
+        {
+          "speaker": "B",
+          "en": "Forever.",
+          "vi": "Mãi mãi."
+        }
+      ]
+    },
+    {
+      "word": "Danger - Dangerous",
+      "ipa": "/ˈdeɪndʒər/ - /ˈdeɪndʒərəs/",
+      "meaning": "Mối nguy - Nguy hiểm (Danh từ -> Tính từ)",
+      "example": {
+        "en": "Dangerous animal.",
+        "vi": "Động vật nguy hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lion.",
+          "vi": "Sư tử."
+        },
+        {
+          "speaker": "B",
+          "en": "Run.",
+          "vi": "Chạy."
+        }
+      ]
+    },
+    {
+      "word": "Use - Useless",
+      "ipa": "/juːs/ - /ˈjuːslɪs/",
+      "meaning": "Dùng - Vô dụng (Danh từ -> Tính từ)",
+      "example": {
+        "en": "Useless tool.",
+        "vi": "Dụng cụ vô dụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Broken.",
+          "vi": "Hỏng."
+        },
+        {
+          "speaker": "B",
+          "en": "Trash.",
+          "vi": "Rác."
+        }
+      ]
+    },
+    {
+      "word": "Employ - Employer",
+      "ipa": "/ɪmˈplɔɪ/ - /ɪmˈplɔɪər/",
+      "meaning": "Thuê - Ông chủ (Động từ -> Danh từ)",
+      "example": {
+        "en": "Good employer.",
+        "vi": "Ông chủ tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Boss.",
+          "vi": "Sếp."
+        },
+        {
+          "speaker": "B",
+          "en": "Job.",
+          "vi": "Việc làm."
+        }
+      ]
+    },
+    {
+      "word": "Music - Musician",
+      "ipa": "/ˈmjuːzɪk/ - /mjuˈzɪʃən/",
+      "meaning": "Âm nhạc - Nhạc sĩ (Danh từ -> Danh từ)",
+      "example": {
+        "en": "Talented musician.",
+        "vi": "Nhạc sĩ tài năng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Play guitar.",
+          "vi": "Chơi guitar."
+        },
+        {
+          "speaker": "B",
+          "en": "Song.",
+          "vi": "Bài hát."
+        }
+      ]
+    }
+  ]
 }

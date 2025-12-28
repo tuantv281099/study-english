@@ -1,6 +1,217 @@
 {
   "id": "61",
   "title": "61. Clothing Accessories",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hat",
+      "ipa": "/hæt/",
+      "meaning": "Mũ",
+      "example": {
+        "en": "Wear a hat.",
+        "vi": "Đội mũ vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice hat.",
+          "vi": "Mũ đẹp đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Belt",
+      "ipa": "/bɛlt/",
+      "meaning": "Thắt lưng",
+      "example": {
+        "en": "Fasten your belt.",
+        "vi": "Thắt dây lưng vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need a belt.",
+          "vi": "Tôi cần một cái thắt lưng."
+        },
+        {
+          "speaker": "B",
+          "en": "Take mine.",
+          "vi": "Lấy của tôi này."
+        }
+      ]
+    },
+    {
+      "word": "Scarf",
+      "ipa": "/skɑːrf/",
+      "meaning": "Khăn quàng cổ",
+      "example": {
+        "en": "Wear a scarf in winter.",
+        "vi": "Quàng khăn vào mùa đông."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is cold, take a scarf.",
+          "vi": "Lạnh đấy, quàng khăn vào."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Gloves",
+      "ipa": "/ɡlʌvz/",
+      "meaning": "Găng tay",
+      "example": {
+        "en": "Put on gloves.",
+        "vi": "Đeo găng tay vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where are my gloves?",
+          "vi": "Găng tay của tôi đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "In your pocket.",
+          "vi": "Trong túi của bạn."
+        }
+      ]
+    },
+    {
+      "word": "Glasses",
+      "ipa": "/ˈɡlæsɪz/",
+      "meaning": "Kính mắt",
+      "example": {
+        "en": "I need glasses to read.",
+        "vi": "Tôi cần kính để đọc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New glasses?",
+          "vi": "Kính mới à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Ừ."
+        }
+      ]
+    },
+    {
+      "word": "Watch",
+      "ipa": "/wɒtʃ/",
+      "meaning": "Đồng hồ đeo tay",
+      "example": {
+        "en": "Check your watch.",
+        "vi": "Xem đồng hồ đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What time is it?",
+          "vi": "Mấy giờ rồi?"
+        },
+        {
+          "speaker": "B",
+          "en": "Look at your watch.",
+          "vi": "Nhìn đồng hồ của bạn ấy."
+        }
+      ]
+    },
+    {
+      "word": "Tie",
+      "ipa": "/taɪ/",
+      "meaning": "Cà vạt",
+      "example": {
+        "en": "Wear a tie.",
+        "vi": "Đeo cà vạt vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do I need a tie?",
+          "vi": "Tôi có cần đeo cà vạt không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, it is formal.",
+          "vi": "Có, trang trọng mà."
+        }
+      ]
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "meaning": "Túi xách",
+      "example": {
+        "en": "Carry the bag.",
+        "vi": "Xách túi đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Heavy bag.",
+          "vi": "Túi nặng quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Let me help.",
+          "vi": "Để tôi giúp."
+        }
+      ]
+    },
+    {
+      "word": "Wallet",
+      "ipa": "/ˈwɒlɪt/",
+      "meaning": "Ví tiền",
+      "example": {
+        "en": "I lost my wallet.",
+        "vi": "Tôi mất ví rồi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check your bag.",
+          "vi": "Kiểm tra túi xem."
+        },
+        {
+          "speaker": "B",
+          "en": "Found it.",
+          "vi": "Thấy rồi."
+        }
+      ]
+    },
+    {
+      "word": "Umbrella",
+      "ipa": "/ʌmˈbrɛlə/",
+      "meaning": "Cái ô",
+      "example": {
+        "en": "Bring an umbrella.",
+        "vi": "Mang ô theo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is raining.",
+          "vi": "Trời đang mưa."
+        },
+        {
+          "speaker": "B",
+          "en": "Open the umbrella.",
+          "vi": "Mở ô ra."
+        }
+      ]
+    }
+  ]
 }

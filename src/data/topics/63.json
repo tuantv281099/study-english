@@ -1,6 +1,217 @@
 {
   "id": "63",
   "title": "63. Footwear",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Shoe",
+      "ipa": "/ʃuː/",
+      "meaning": "Giày",
+      "example": {
+        "en": "Tie your shoes.",
+        "vi": "Buộc dây giày vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice shoes.",
+          "vi": "Giày đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Boot",
+      "ipa": "/buːt/",
+      "meaning": "Ủng / Giày cao cổ",
+      "example": {
+        "en": "Wear boots in rain.",
+        "vi": "Đi ủng khi trời mưa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "These boots are warm.",
+          "vi": "Đôi ủng này ấm lắm."
+        },
+        {
+          "speaker": "B",
+          "en": "Good for winter.",
+          "vi": "Tốt cho mùa đông."
+        }
+      ]
+    },
+    {
+      "word": "Sandal",
+      "ipa": "/ˈsændəl/",
+      "meaning": "Dép xăng-đan",
+      "example": {
+        "en": "Summer sandals.",
+        "vi": "Xăng-đan mùa hè."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wear sandals to the beach.",
+          "vi": "Đi xăng-đan ra biển."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Heel",
+      "ipa": "/hiːl/",
+      "meaning": "Gót chân / Giày cao gót",
+      "example": {
+        "en": "High heels.",
+        "vi": "Giày cao gót."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you walk in heels?",
+          "vi": "Bạn đi giày cao gót được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "It is hard.",
+          "vi": "Khó lắm."
+        }
+      ]
+    },
+    {
+      "word": "Sneaker",
+      "ipa": "/ˈsniːkər/",
+      "meaning": "Giày thể thao",
+      "example": {
+        "en": "Running sneakers.",
+        "vi": "Giày chạy bộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cool sneakers.",
+          "vi": "Giày thể thao ngầu đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "They are comfy.",
+          "vi": "Chúng thoải mái lắm."
+        }
+      ]
+    },
+    {
+      "word": "Sock",
+      "ipa": "/sɒk/",
+      "meaning": "Tất",
+      "example": {
+        "en": "Put on socks.",
+        "vi": "Đi tất vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I lost a sock.",
+          "vi": "Tôi mất một chiếc tất."
+        },
+        {
+          "speaker": "B",
+          "en": "Check the laundry.",
+          "vi": "Kiểm tra đống đồ giặt xem."
+        }
+      ]
+    },
+    {
+      "word": "Slipper",
+      "ipa": "/ˈslɪpər/",
+      "meaning": "Dép đi trong nhà",
+      "example": {
+        "en": "Wear slippers inside.",
+        "vi": "Đi dép trong nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where are my slippers?",
+          "vi": "Dép của tôi đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "By the bed.",
+          "vi": "Cạnh giường."
+        }
+      ]
+    },
+    {
+      "word": "Size",
+      "ipa": "/saɪz/",
+      "meaning": "Kích cỡ",
+      "example": {
+        "en": "What is your shoe size?",
+        "vi": "Cỡ giày của bạn là bao nhiêu?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have my size?",
+          "vi": "Có cỡ của tôi không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Let me check.",
+          "vi": "Để tôi kiểm tra."
+        }
+      ]
+    },
+    {
+      "word": "Fit",
+      "ipa": "/fɪt/",
+      "meaning": "Vừa vặn",
+      "example": {
+        "en": "The shoe fits well.",
+        "vi": "Giày đi vừa lắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Does it fit?",
+          "vi": "Có vừa không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Perfectly.",
+          "vi": "Hoàn hảo."
+        }
+      ]
+    },
+    {
+      "word": "Leather",
+      "ipa": "/ˈlɛðər/",
+      "meaning": "Da (thuộc)",
+      "example": {
+        "en": "Leather shoes.",
+        "vi": "Giày da."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it real leather?",
+          "vi": "Da thật à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Đúng vậy."
+        }
+      ]
+    }
+  ]
 }

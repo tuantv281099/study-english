@@ -1,6 +1,217 @@
 {
   "id": "191",
   "title": "191. Dance Styles – Các kiểu nhảy",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Dance",
+      "ipa": "/dæns/",
+      "meaning": "Nhảy múa",
+      "example": {
+        "en": "Love to dance.",
+        "vi": "Thích nhảy múa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Move body.",
+          "vi": "Di chuyển cơ thể."
+        },
+        {
+          "speaker": "B",
+          "en": "Feel music.",
+          "vi": "Cảm nhận âm nhạc."
+        }
+      ]
+    },
+    {
+      "word": "Ballet",
+      "ipa": "/ˈbæleɪ/",
+      "meaning": "Múa ba lê",
+      "example": {
+        "en": "Ballet dancer.",
+        "vi": "Vũ công ba lê."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Graceful.",
+          "vi": "Duyên dáng."
+        },
+        {
+          "speaker": "B",
+          "en": "Toe shoes.",
+          "vi": "Giày mũi cứng."
+        }
+      ]
+    },
+    {
+      "word": "Salsa",
+      "ipa": "/ˈsɑːlsə/",
+      "meaning": "Điệu nhảy Salsa",
+      "example": {
+        "en": "Dance salsa.",
+        "vi": "Nhảy Salsa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Latin rhythm.",
+          "vi": "Nhịp điệu Latin."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast step.",
+          "vi": "Bước nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Hip-hop",
+      "ipa": "/ˈhɪp hɒp/",
+      "meaning": "Nhạc/Nhảy Hip-hop",
+      "example": {
+        "en": "Hip-hop style.",
+        "vi": "Phong cách Hip-hop."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cool moves.",
+          "vi": "Động tác ngầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Street dance.",
+          "vi": "Nhảy đường phố."
+        }
+      ]
+    },
+    {
+      "word": "Tango",
+      "ipa": "/ˈtæŋɡoʊ/",
+      "meaning": "Điệu nhảy Tango",
+      "example": {
+        "en": "Argentine tango.",
+        "vi": "Tango Argentina."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dramatic.",
+          "vi": "Kịch tính."
+        },
+        {
+          "speaker": "B",
+          "en": "Close hold.",
+          "vi": "Ôm sát."
+        }
+      ]
+    },
+    {
+      "word": "Folk",
+      "ipa": "/foʊk/",
+      "meaning": "Dân gian",
+      "example": {
+        "en": "Folk dance.",
+        "vi": "Múa dân gian."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Traditional.",
+          "vi": "Truyền thống."
+        },
+        {
+          "speaker": "B",
+          "en": "Culture.",
+          "vi": "Văn hóa."
+        }
+      ]
+    },
+    {
+      "word": "Partner",
+      "ipa": "/ˈpɑːrtnər/",
+      "meaning": "Bạn nhảy",
+      "example": {
+        "en": "Dance partner.",
+        "vi": "Bạn nhảy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lead and follow.",
+          "vi": "Dẫn dắt và theo sau."
+        },
+        {
+          "speaker": "B",
+          "en": "Connection.",
+          "vi": "Sự kết nối."
+        }
+      ]
+    },
+    {
+      "word": "Rhythm",
+      "ipa": "/ˈrɪðəm/",
+      "meaning": "Nhịp điệu",
+      "example": {
+        "en": "Feel the rhythm.",
+        "vi": "Cảm nhận nhịp điệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "On beat.",
+          "vi": "Đúng nhịp."
+        },
+        {
+          "speaker": "B",
+          "en": "Tap foot.",
+          "vi": "Nhịp chân."
+        }
+      ]
+    },
+    {
+      "word": "Stage",
+      "ipa": "/steɪdʒ/",
+      "meaning": "Sân khấu",
+      "example": {
+        "en": "Perform on stage.",
+        "vi": "Biểu diễn trên sân khấu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Crowd watch.",
+          "vi": "Khám giả xem."
+        },
+        {
+          "speaker": "B",
+          "en": "Nervous.",
+          "vi": "Hồi hộp."
+        }
+      ]
+    },
+    {
+      "word": "Class",
+      "ipa": "/klæs/",
+      "meaning": "Lớp học",
+      "example": {
+        "en": "Dance class.",
+        "vi": "Lớp học nhảy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn steps.",
+          "vi": "Học các bước."
+        },
+        {
+          "speaker": "B",
+          "en": "Practice.",
+          "vi": "Thực hành."
+        }
+      ]
+    }
+  ]
 }

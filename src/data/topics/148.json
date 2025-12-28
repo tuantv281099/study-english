@@ -1,6 +1,217 @@
 {
   "id": "148",
   "title": "148. Virtual Reality – Thực tế ảo",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Virtual",
+      "ipa": "/ˈvɜːrtʃuəl/",
+      "meaning": "Ảo",
+      "example": {
+        "en": "Virtual world.",
+        "vi": "Thế giới ảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Put on headset.",
+          "vi": "Đeo kính vào."
+        },
+        {
+          "speaker": "B",
+          "en": "Looks real.",
+          "vi": "Trông như thật."
+        }
+      ]
+    },
+    {
+      "word": "Headset",
+      "ipa": "/ˈhɛdsɛt/",
+      "meaning": "Kính thực tế ảo / Tai nghe",
+      "example": {
+        "en": "VR headset.",
+        "vi": "Kính thực tế ảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Adjust strap.",
+          "vi": "Chỉnh dây đeo."
+        },
+        {
+          "speaker": "B",
+          "en": "Immersive.",
+          "vi": "Đắm chìm."
+        }
+      ]
+    },
+    {
+      "word": "Reality",
+      "ipa": "/riˈælɪti/",
+      "meaning": "Thực tế",
+      "example": {
+        "en": "Escape reality.",
+        "vi": "Thoát khỏi thực tại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Augmented reality.",
+          "vi": "Thực tế tăng cường."
+        },
+        {
+          "speaker": "B",
+          "en": "Mix both.",
+          "vi": "Kết hợp cả hai."
+        }
+      ]
+    },
+    {
+      "word": "Game",
+      "ipa": "/ɡeɪm/",
+      "meaning": "Trò chơi",
+      "example": {
+        "en": "VR game.",
+        "vi": "Trò chơi thực tế ảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Move body.",
+          "vi": "Di chuyển cơ thể."
+        },
+        {
+          "speaker": "B",
+          "en": "Fun exercise.",
+          "vi": "Bài tập vui."
+        }
+      ]
+    },
+    {
+      "word": "Experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "meaning": "Trải nghiệm",
+      "example": {
+        "en": "Unique experience.",
+        "vi": "Trải nghiệm độc đáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Travel home.",
+          "vi": "Du lịch tại nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Visit Mars.",
+          "vi": "Thăm sao Hỏa."
+        }
+      ]
+    },
+    {
+      "word": "Controller",
+      "ipa": "/kənˈtroʊlər/",
+      "meaning": "Tay cầm điều khiển",
+      "example": {
+        "en": "Hold controller.",
+        "vi": "Cầm tay điều khiển."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Press trigger.",
+          "vi": "Nhấn cò."
+        },
+        {
+          "speaker": "B",
+          "en": "Interact.",
+          "vi": "Tương tác."
+        }
+      ]
+    },
+    {
+      "word": "Motion",
+      "ipa": "/ˈmoʊʃən/",
+      "meaning": "Chuyển động",
+      "example": {
+        "en": "Motion sickness.",
+        "vi": "Say chuyển động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Feel dizzy.",
+          "vi": "Thấy chóng mặt."
+        },
+        {
+          "speaker": "B",
+          "en": "Take break.",
+          "vi": "Nghỉ ngơi đi."
+        }
+      ]
+    },
+    {
+      "word": "Simulation",
+      "ipa": "/ˌsɪmjʊˈleɪʃən/",
+      "meaning": "Mô phỏng",
+      "example": {
+        "en": "Flight simulation.",
+        "vi": "Mô phỏng bay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Train pilot.",
+          "vi": "Huấn luyện phi công."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe practice.",
+          "vi": "Thực hành an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Space",
+      "ipa": "/speɪs/",
+      "meaning": "Không gian",
+      "example": {
+        "en": "3D space.",
+        "vi": "Không gian 3D."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look around.",
+          "vi": "Nhìn xung quanh."
+        },
+        {
+          "speaker": "B",
+          "en": "360 degrees.",
+          "vi": "360 độ."
+        }
+      ]
+    },
+    {
+      "word": "Digital",
+      "ipa": "/ˈdɪdʒɪtəl/",
+      "meaning": "Kỹ thuật số",
+      "example": {
+        "en": "Digital twin.",
+        "vi": "Bản sao kỹ thuật số."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Virtual copy.",
+          "vi": "Bản sao ảo."
+        },
+        {
+          "speaker": "B",
+          "en": "Test design.",
+          "vi": "Kiểm tra thiết kế."
+        }
+      ]
+    }
+  ]
 }

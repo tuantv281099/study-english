@@ -1,6 +1,217 @@
 {
   "id": "180",
   "title": "180. Rural Life – Cuộc sống nông thôn",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Rural",
+      "ipa": "/ˈrʊərəl/",
+      "meaning": "Nông thôn",
+      "example": {
+        "en": "Rural area.",
+        "vi": "Khu vực nông thôn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Quiet life.",
+          "vi": "Cuộc sống yên tĩnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Fresh air.",
+          "vi": "Không khí trong lành."
+        }
+      ]
+    },
+    {
+      "word": "Farm",
+      "ipa": "/fɑːrm/",
+      "meaning": "Nông trại",
+      "example": {
+        "en": "Live on farm.",
+        "vi": "Sống ở nông trại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Grow crops.",
+          "vi": "Trồng trọt."
+        },
+        {
+          "speaker": "B",
+          "en": "Raise animals.",
+          "vi": "Nuôi động vật."
+        }
+      ]
+    },
+    {
+      "word": "Nature",
+      "ipa": "/ˈneɪtʃər/",
+      "meaning": "Thiên nhiên",
+      "example": {
+        "en": "Close to nature.",
+        "vi": "Gần gũi thiên nhiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Green fields.",
+          "vi": "Cánh đồng xanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Birds singing.",
+          "vi": "Chim hót."
+        }
+      ]
+    },
+    {
+      "word": "Village",
+      "ipa": "/ˈvɪlɪdʒ/",
+      "meaning": "Làng quê",
+      "example": {
+        "en": "Small village.",
+        "vi": "Ngôi làng nhỏ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Everyone knows.",
+          "vi": "Ai cũng biết nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Friendly.",
+          "vi": "Thân thiện."
+        }
+      ]
+    },
+    {
+      "word": "Quiet",
+      "ipa": "/ˈkwaɪət/",
+      "meaning": "Yên tĩnh",
+      "example": {
+        "en": "Peace and quiet.",
+        "vi": "Yên bình và tĩnh lặng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No traffic.",
+          "vi": "Không kẹt xe."
+        },
+        {
+          "speaker": "B",
+          "en": "Relaxing.",
+          "vi": "Thư giãn."
+        }
+      ]
+    },
+    {
+      "word": "Slow",
+      "ipa": "/sloʊ/",
+      "meaning": "Chậm rãi",
+      "example": {
+        "en": "Slow pace.",
+        "vi": "Nhịp sống chậm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No rush.",
+          "vi": "Không vội vã."
+        },
+        {
+          "speaker": "B",
+          "en": "Enjoy time.",
+          "vi": "Tận hưởng thời gian."
+        }
+      ]
+    },
+    {
+      "word": "Community",
+      "ipa": "/kəˈmjuːnɪti/",
+      "meaning": "Cộng đồng",
+      "example": {
+        "en": "Tight community.",
+        "vi": "Cộng đồng gắn kết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Help neighbors.",
+          "vi": "Giúp đỡ hàng xóm."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe place.",
+          "vi": "Nơi an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Simple",
+      "ipa": "/ˈsɪmpəl/",
+      "meaning": "Đơn giản",
+      "example": {
+        "en": "Simple life.",
+        "vi": "Cuộc sống đơn giản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Less stress.",
+          "vi": "Ít căng thẳng."
+        },
+        {
+          "speaker": "B",
+          "en": "Basic needs.",
+          "vi": "Nhu cầu cơ bản."
+        }
+      ]
+    },
+    {
+      "word": "Space",
+      "ipa": "/speɪs/",
+      "meaning": "Không gian",
+      "example": {
+        "en": "Open space.",
+        "vi": "Không gian mở."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Big yard.",
+          "vi": "Sân rộng."
+        },
+        {
+          "speaker": "B",
+          "en": "Stars at night.",
+          "vi": "Sao đêm."
+        }
+      ]
+    },
+    {
+      "word": "Isolation",
+      "ipa": "/ˌaɪsəˈleɪʃən/",
+      "meaning": "Sự cô lập / Biệt lập",
+      "example": {
+        "en": "Feel isolation.",
+        "vi": "Cảm thấy cô lập."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Far from city.",
+          "vi": "Xa thành phố."
+        },
+        {
+          "speaker": "B",
+          "en": "Lonely sometimes.",
+          "vi": "Đôi khi cô đơn."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "237",
   "title": "237. Homophones – Từ đồng âm",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "See - Sea",
+      "ipa": "/siː/",
+      "meaning": "Thấy - Biển (Đồng âm)",
+      "example": {
+        "en": "See the sea.",
+        "vi": "Nhìn thấy biển."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look.",
+          "vi": "Nhìn."
+        },
+        {
+          "speaker": "B",
+          "en": "Blue water.",
+          "vi": "Nước xanh."
+        }
+      ]
+    },
+    {
+      "word": "Flour - Flower",
+      "ipa": "/ˈflaʊər/",
+      "meaning": "Bột mì - Hoa (Đồng âm)",
+      "example": {
+        "en": "Bake flower.",
+        "vi": "Nướng bột (sai chính tả để đùa)."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rose.",
+          "vi": "Hoa hồng."
+        },
+        {
+          "speaker": "B",
+          "en": "Bread.",
+          "vi": "Bánh mì."
+        }
+      ]
+    },
+    {
+      "word": "Knight - Night",
+      "ipa": "/naɪt/",
+      "meaning": "Hiệp sĩ - Đêm (Đồng âm)",
+      "example": {
+        "en": "Dark night.",
+        "vi": "Đêm tối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Armor.",
+          "vi": "Áo giáp."
+        },
+        {
+          "speaker": "B",
+          "en": "Sleep.",
+          "vi": "Ngủ."
+        }
+      ]
+    },
+    {
+      "word": "Right - Write",
+      "ipa": "/raɪt/",
+      "meaning": "Phải/Đúng - Viết (Đồng âm)",
+      "example": {
+        "en": "Write right.",
+        "vi": "Viết đúng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Correct.",
+          "vi": "Đúng."
+        },
+        {
+          "speaker": "B",
+          "en": "Pen.",
+          "vi": "Bút."
+        }
+      ]
+    },
+    {
+      "word": "To - Two - Too",
+      "ipa": "/tuː/",
+      "meaning": "Đến - Hai - Cũng (Đồng âm)",
+      "example": {
+        "en": "Two to go.",
+        "vi": "Hai cái để đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Number 2.",
+          "vi": "Số 2."
+        },
+        {
+          "speaker": "B",
+          "en": "Me too.",
+          "vi": "Tôi cũng vậy."
+        }
+      ]
+    },
+    {
+      "word": "Son - Sun",
+      "ipa": "/sʌn/",
+      "meaning": "Con trai - Mặt trời (Đồng âm)",
+      "example": {
+        "en": "Sun shines.",
+        "vi": "Mặt trời chiếu sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "My son.",
+          "vi": "Con trai tôi."
+        },
+        {
+          "speaker": "B",
+          "en": "Hot.",
+          "vi": "Nóng."
+        }
+      ]
+    },
+    {
+      "word": "Buy - By - Bye",
+      "ipa": "/baɪ/",
+      "meaning": "Mua - Bởi - Tạm biệt (Đồng âm)",
+      "example": {
+        "en": "Buy bye.",
+        "vi": "Mua tạm biệt (vô nghĩa, chơi chữ)."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Shop.",
+          "vi": "Mua sắm."
+        },
+        {
+          "speaker": "B",
+          "en": "Goodbye.",
+          "vi": "Tạm biệt."
+        }
+      ]
+    },
+    {
+      "word": "Meat - Meet",
+      "ipa": "/miːt/",
+      "meaning": "Thịt - Gặp (Đồng âm)",
+      "example": {
+        "en": "Meat to eat.",
+        "vi": "Thịt để ăn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Beef.",
+          "vi": "Thịt bò."
+        },
+        {
+          "speaker": "B",
+          "en": "Hello.",
+          "vi": "Xin chào."
+        }
+      ]
+    },
+    {
+      "word": "Weak - Week",
+      "ipa": "/wiːk/",
+      "meaning": "Yếu - Tuần (Đồng âm)",
+      "example": {
+        "en": "Weak week.",
+        "vi": "Tuần yếu ớt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Seven days.",
+          "vi": "Bảy ngày."
+        },
+        {
+          "speaker": "B",
+          "en": "No strength.",
+          "vi": "Không sức lực."
+        }
+      ]
+    },
+    {
+      "word": "Peace - Piece",
+      "ipa": "/piːs/",
+      "meaning": "Hòa bình - Mảnh (Đồng âm)",
+      "example": {
+        "en": "Piece of peace.",
+        "vi": "Mảnh hòa bình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cake.",
+          "vi": "Bánh."
+        },
+        {
+          "speaker": "B",
+          "en": "No war.",
+          "vi": "Không chiến tranh."
+        }
+      ]
+    }
+  ]
 }

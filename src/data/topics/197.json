@@ -1,6 +1,217 @@
 {
   "id": "197",
   "title": "197. Languages – Ngôn ngữ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Language",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "meaning": "Ngôn ngữ",
+      "example": {
+        "en": "Speak language.",
+        "vi": "Nói ngôn ngữ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "English.",
+          "vi": "Tiếng Anh."
+        },
+        {
+          "speaker": "B",
+          "en": "Vietnamese.",
+          "vi": "Tiếng Việt."
+        }
+      ]
+    },
+    {
+      "word": "Speak",
+      "ipa": "/spiːk/",
+      "meaning": "Nói",
+      "example": {
+        "en": "Speak fluently.",
+        "vi": "Nói trôi chảy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Practice often.",
+          "vi": "Thực hành thường xuyên."
+        },
+        {
+          "speaker": "B",
+          "en": "Confidence.",
+          "vi": "Tự tin."
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "ipa": "/ˈlɪsən/",
+      "meaning": "Nghe",
+      "example": {
+        "en": "Listen carefully.",
+        "vi": "Nghe cẩn thận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Understand.",
+          "vi": "Hiểu."
+        },
+        {
+          "speaker": "B",
+          "en": "Audio.",
+          "vi": "Âm thanh."
+        }
+      ]
+    },
+    {
+      "word": "Read",
+      "ipa": "/riːd/",
+      "meaning": "Đọc",
+      "example": {
+        "en": "Read book.",
+        "vi": "Đọc sách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn words.",
+          "vi": "Học từ mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Improve.",
+          "vi": "Cải thiện."
+        }
+      ]
+    },
+    {
+      "word": "Write",
+      "ipa": "/raɪt/",
+      "meaning": "Viết",
+      "example": {
+        "en": "Write letter.",
+        "vi": "Viết thư."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pen pal.",
+          "vi": "Bạn qua thư."
+        },
+        {
+          "speaker": "B",
+          "en": "Email.",
+          "vi": "Email."
+        }
+      ]
+    },
+    {
+      "word": "Translate",
+      "ipa": "/trænsˈleɪt/",
+      "meaning": "Dịch",
+      "example": {
+        "en": "Translate text.",
+        "vi": "Dịch văn bản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Google Translate.",
+          "vi": "Google Dịch."
+        },
+        {
+          "speaker": "B",
+          "en": "Meaning.",
+          "vi": "Ý nghĩa."
+        }
+      ]
+    },
+    {
+      "word": "Accent",
+      "ipa": "/ˈæksɛnt/",
+      "meaning": "Giọng (vùng miền)",
+      "example": {
+        "en": "British accent.",
+        "vi": "Giọng Anh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hard to understand.",
+          "vi": "Khó hiểu."
+        },
+        {
+          "speaker": "B",
+          "en": "Practice listening.",
+          "vi": "Luyện nghe."
+        }
+      ]
+    },
+    {
+      "word": "Grammar",
+      "ipa": "/ˈɡræmər/",
+      "meaning": "Ngữ pháp",
+      "example": {
+        "en": "Grammar rules.",
+        "vi": "Quy tắc ngữ pháp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Structure.",
+          "vi": "Cấu trúc."
+        },
+        {
+          "speaker": "B",
+          "en": "Correct.",
+          "vi": "Đúng."
+        }
+      ]
+    },
+    {
+      "word": "Vocabulary",
+      "ipa": "/voʊˈkæbjʊləri/",
+      "meaning": "Từ vựng",
+      "example": {
+        "en": "New vocabulary.",
+        "vi": "Từ vựng mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Flashcards.",
+          "vi": "Thẻ ghi nhớ."
+        },
+        {
+          "speaker": "B",
+          "en": "Memorize.",
+          "vi": "Ghi nhớ."
+        }
+      ]
+    },
+    {
+      "word": "Native",
+      "ipa": "/ˈneɪtɪv/",
+      "meaning": "Bản ngữ",
+      "example": {
+        "en": "Native speaker.",
+        "vi": "Người bản ngữ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Talk naturally.",
+          "vi": "Nói tự nhiên."
+        },
+        {
+          "speaker": "B",
+          "en": "Learn idiom.",
+          "vi": "Học thành ngữ."
+        }
+      ]
+    }
+  ]
 }

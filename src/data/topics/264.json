@@ -1,6 +1,217 @@
 {
   "id": "264",
   "title": "264. Import & Export – Xuất nhập khẩu",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Import",
+      "ipa": "/ˈɪmpɔːrt/",
+      "meaning": "Nhập khẩu",
+      "example": {
+        "en": "Import tax.",
+        "vi": "Thuế nhập khẩu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy.",
+          "vi": "Mua."
+        },
+        {
+          "speaker": "B",
+          "en": "Foreign.",
+          "vi": "Nước ngoài."
+        }
+      ]
+    },
+    {
+      "word": "Export",
+      "ipa": "/ˈɛkspɔːrt/",
+      "meaning": "Xuất khẩu",
+      "example": {
+        "en": "Export goods.",
+        "vi": "Xuất khẩu hàng hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sell.",
+          "vi": "Bán."
+        },
+        {
+          "speaker": "B",
+          "en": "Market.",
+          "vi": "Thị trường."
+        }
+      ]
+    },
+    {
+      "word": "Customs",
+      "ipa": "/ˈkʌstəmz/",
+      "meaning": "Hải quan",
+      "example": {
+        "en": "Clear customs.",
+        "vi": "Thông quan."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check.",
+          "vi": "Kiểm tra."
+        },
+        {
+          "speaker": "B",
+          "en": "Duty.",
+          "vi": "Thuế."
+        }
+      ]
+    },
+    {
+      "word": "Tariff",
+      "ipa": "/ˈtærɪf/",
+      "meaning": "Thuế quan",
+      "example": {
+        "en": "High tariff.",
+        "vi": "Thuế quan cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cost.",
+          "vi": "Chi phí."
+        },
+        {
+          "speaker": "B",
+          "en": "Trade war.",
+          "vi": "Chiến tranh thương mại."
+        }
+      ]
+    },
+    {
+      "word": "License",
+      "ipa": "/ˈlaɪsəns/",
+      "meaning": "Giấy phép",
+      "example": {
+        "en": "Import license.",
+        "vi": "Giấy phép nhập khẩu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Document.",
+          "vi": "Tài liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Apply.",
+          "vi": "Xin cấp."
+        }
+      ]
+    },
+    {
+      "word": "Quota",
+      "ipa": "/ˈkwoʊtə/",
+      "meaning": "Hạn ngạch",
+      "example": {
+        "en": "Export quota.",
+        "vi": "Hạn ngạch xuất khẩu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Limit.",
+          "vi": "Giới hạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Amount.",
+          "vi": "Số lượng."
+        }
+      ]
+    },
+    {
+      "word": "Container",
+      "ipa": "/kənˈteɪnər/",
+      "meaning": "Công ten nơ",
+      "example": {
+        "en": "Shipping container.",
+        "vi": "Công ten nơ hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Full.",
+          "vi": "Đầy."
+        },
+        {
+          "speaker": "B",
+          "en": "Ship.",
+          "vi": "Tàu."
+        }
+      ]
+    },
+    {
+      "word": "International",
+      "ipa": "/ˌɪntərˈnæʃənəl/",
+      "meaning": "Quốc tế",
+      "example": {
+        "en": "International trade.",
+        "vi": "Thương mại quốc tế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Global.",
+          "vi": "Toàn cầu."
+        },
+        {
+          "speaker": "B",
+          "en": "World.",
+          "vi": "Thế giới."
+        }
+      ]
+    },
+    {
+      "word": "Document",
+      "ipa": "/ˈdɒkjʊmənt/",
+      "meaning": "Chứng từ",
+      "example": {
+        "en": "Sign document.",
+        "vi": "Ký chứng từ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Bill.",
+          "vi": "Hóa đơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Paperwork.",
+          "vi": "Giấy tờ."
+        }
+      ]
+    },
+    {
+      "word": "Incoterms",
+      "ipa": "/ˈɪnkoʊtɜːrmz/",
+      "meaning": "Điều kiện thương mại quốc tế",
+      "example": {
+        "en": "FOB Incoterms.",
+        "vi": "Điều kiện FOB."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rules.",
+          "vi": "Quy tắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Contract.",
+          "vi": "Hợp đồng."
+        }
+      ]
+    }
+  ]
 }

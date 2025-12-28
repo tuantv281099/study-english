@@ -1,6 +1,217 @@
 {
   "id": "216",
   "title": "216. Online Comments – Bình luận trực tuyến",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Comment",
+      "ipa": "/ˈkɒmɛnt/",
+      "meaning": "Bình luận",
+      "example": {
+        "en": "Read comments.",
+        "vi": "Đọc bình luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Post opinion.",
+          "vi": "Đăng ý kiến."
+        },
+        {
+          "speaker": "B",
+          "en": "Reply.",
+          "vi": "Trả lời."
+        }
+      ]
+    },
+    {
+      "word": "Reply",
+      "ipa": "/rɪˈplaɪ/",
+      "meaning": "Phản hồi",
+      "example": {
+        "en": "Quick reply.",
+        "vi": "Phản hồi nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Answer them.",
+          "vi": "Trả lời họ."
+        },
+        {
+          "speaker": "B",
+          "en": "Argument.",
+          "vi": "Tranh luận."
+        }
+      ]
+    },
+    {
+      "word": "Troll",
+      "ipa": "/troʊl/",
+      "meaning": "Kẻ gây rối (trên mạng)",
+      "example": {
+        "en": "Ignore trolls.",
+        "vi": "Lờ đi những kẻ gây rối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't feed.",
+          "vi": "Đừng quan tâm."
+        },
+        {
+          "speaker": "B",
+          "en": "Annoying.",
+          "vi": "Phiền phức."
+        }
+      ]
+    },
+    {
+      "word": "Report",
+      "ipa": "/rɪˈpɔːrt/",
+      "meaning": "Báo cáo (vi phạm)",
+      "example": {
+        "en": "Report spam.",
+        "vi": "Báo cáo tin rác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Bad content.",
+          "vi": "Nội dung xấu."
+        },
+        {
+          "speaker": "B",
+          "en": "Block user.",
+          "vi": "Chặn người dùng."
+        }
+      ]
+    },
+    {
+      "word": "Block",
+      "ipa": "/blɒk/",
+      "meaning": "Chặn",
+      "example": {
+        "en": "Block him.",
+        "vi": "Chặn anh ta."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Peace.",
+          "vi": "Bình yên."
+        },
+        {
+          "speaker": "B",
+          "en": "No messages.",
+          "vi": "Không tin nhắn."
+        }
+      ]
+    },
+    {
+      "word": "Spam",
+      "ipa": "/spæm/",
+      "meaning": "Tin rác",
+      "example": {
+        "en": "Too much spam.",
+        "vi": "Quá nhiều tin rác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Delete.",
+          "vi": "Xóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Filters.",
+          "vi": "Bộ lọc."
+        }
+      ]
+    },
+    {
+      "word": "Viral",
+      "ipa": "/ˈvaɪrəl/",
+      "meaning": "Lan truyền",
+      "example": {
+        "en": "Go viral.",
+        "vi": "Trở nên lan truyền."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Million views.",
+          "vi": "Triệu lượt xem."
+        },
+        {
+          "speaker": "B",
+          "en": "Famous.",
+          "vi": "Nổi tiếng."
+        }
+      ]
+    },
+    {
+      "word": "Review",
+      "ipa": "/rɪˈvjuː/",
+      "meaning": "Đánh giá",
+      "example": {
+        "en": "Good review.",
+        "vi": "Đánh giá tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Five stars.",
+          "vi": "Năm sao."
+        },
+        {
+          "speaker": "B",
+          "en": "Feedback.",
+          "vi": "Phản hồi."
+        }
+      ]
+    },
+    {
+      "word": "Feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "meaning": "Phản hồi / Góp ý",
+      "example": {
+        "en": "Give feedback.",
+        "vi": "Đưa ra góp ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Improve.",
+          "vi": "Cải thiện."
+        },
+        {
+          "speaker": "B",
+          "en": "Listen.",
+          "vi": "Lắng nghe."
+        }
+      ]
+    },
+    {
+      "word": "Share",
+      "ipa": "/ʃɛər/",
+      "meaning": "Chia sẻ",
+      "example": {
+        "en": "Share thoughts.",
+        "vi": "Chia sẻ suy nghĩ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Public post.",
+          "vi": "Bài đăng công khai."
+        },
+        {
+          "speaker": "B",
+          "en": "Friends only.",
+          "vi": "Chỉ bạn bè."
+        }
+      ]
+    }
+  ]
 }

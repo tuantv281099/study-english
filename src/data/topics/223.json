@@ -1,6 +1,217 @@
 {
   "id": "223",
   "title": "223. Essays & Reports – Bài luận",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Essay",
+      "ipa": "/ˈɛseɪ/",
+      "meaning": "Bài luận",
+      "example": {
+        "en": "Write essay.",
+        "vi": "Viết bài luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Word count.",
+          "vi": "Số từ."
+        },
+        {
+          "speaker": "B",
+          "en": "Deadline.",
+          "vi": "Hạn chót."
+        }
+      ]
+    },
+    {
+      "word": "Report",
+      "ipa": "/rɪˈpɔːrt/",
+      "meaning": "Báo cáo",
+      "example": {
+        "en": "Lab report.",
+        "vi": "Báo cáo thí nghiệm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Data analysis.",
+          "vi": "Phân tích dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Submit.",
+          "vi": "Nộp."
+        }
+      ]
+    },
+    {
+      "word": "Thesis",
+      "ipa": "/ˈθiːsɪs/",
+      "meaning": "Luận điểm / Luận văn",
+      "example": {
+        "en": "Master thesis.",
+        "vi": "Luận văn thạc sĩ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Research.",
+          "vi": "Nghiên cứu."
+        },
+        {
+          "speaker": "B",
+          "en": "Defend.",
+          "vi": "Bảo vệ."
+        }
+      ]
+    },
+    {
+      "word": "Introduction",
+      "ipa": "/ˌɪntrəˈdʌkʃən/",
+      "meaning": "Phần mở đầu",
+      "example": {
+        "en": "Write introduction.",
+        "vi": "Viết phần mở đầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hook reader.",
+          "vi": "Thu hút người đọc."
+        },
+        {
+          "speaker": "B",
+          "en": "Main idea.",
+          "vi": "Ý chính."
+        }
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "ipa": "/kənˈkluːʒən/",
+      "meaning": "Kết luận",
+      "example": {
+        "en": "Draw conclusion.",
+        "vi": "Rút ra kết luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Summarize.",
+          "vi": "Tóm tắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Final thought.",
+          "vi": "Suy nghĩ cuối cùng."
+        }
+      ]
+    },
+    {
+      "word": "Paragraph",
+      "ipa": "/ˈpærəɡræf/",
+      "meaning": "Đoạn văn",
+      "example": {
+        "en": "New paragraph.",
+        "vi": "Đoạn văn mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Topic sentence.",
+          "vi": "Câu chủ đề."
+        },
+        {
+          "speaker": "B",
+          "en": "Structure.",
+          "vi": "Cấu trúc."
+        }
+      ]
+    },
+    {
+      "word": "Draft",
+      "ipa": "/dræft/",
+      "meaning": "Bản nháp",
+      "example": {
+        "en": "First draft.",
+        "vi": "Bản nháp đầu tiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rough.",
+          "vi": "Thô."
+        },
+        {
+          "speaker": "B",
+          "en": "Edit.",
+          "vi": "Chỉnh sửa."
+        }
+      ]
+    },
+    {
+      "word": "Source",
+      "ipa": "/sɔːrs/",
+      "meaning": "Nguồn (tài liệu)",
+      "example": {
+        "en": "Cite sources.",
+        "vi": "Trích dẫn nguồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reliable.",
+          "vi": "Đáng tin cậy."
+        },
+        {
+          "speaker": "B",
+          "en": "Check.",
+          "vi": "Kiểm tra."
+        }
+      ]
+    },
+    {
+      "word": "Plagiarism",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "meaning": "Đạo văn",
+      "example": {
+        "en": "Avoid plagiarism.",
+        "vi": "Tránh đạo văn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Copy paste.",
+          "vi": "Sao chép dán."
+        },
+        {
+          "speaker": "B",
+          "en": "Serious.",
+          "vi": "Nghiêm trọng."
+        }
+      ]
+    },
+    {
+      "word": "Edit",
+      "ipa": "/ˈɛdɪt/",
+      "meaning": "Biên tập",
+      "example": {
+        "en": "Edit paper.",
+        "vi": "Sửa bài viết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fix grammar.",
+          "vi": "Sửa ngữ pháp."
+        },
+        {
+          "speaker": "B",
+          "en": "Improve.",
+          "vi": "Cải thiện."
+        }
+      ]
+    }
+  ]
 }

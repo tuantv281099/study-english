@@ -1,6 +1,217 @@
 {
   "id": "68",
   "title": "68. Bedroom Items",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Pillow",
+      "ipa": "/ˈpɪloʊ/",
+      "meaning": "Cái gối",
+      "example": {
+        "en": "Soft pillow.",
+        "vi": "Gối mềm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need two pillows.",
+          "vi": "Tôi cần hai cái gối."
+        },
+        {
+          "speaker": "B",
+          "en": "Take mine.",
+          "vi": "Lấy của tôi này."
+        }
+      ]
+    },
+    {
+      "word": "Blanket",
+      "ipa": "/ˈblæŋkɪt/",
+      "meaning": "Cái chăn",
+      "example": {
+        "en": "Warm blanket.",
+        "vi": "Chăn ấm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is cold, need a blanket.",
+          "vi": "Lạnh quá, cần cái chăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Here is one.",
+          "vi": "Đây có một cái."
+        }
+      ]
+    },
+    {
+      "word": "Sheet",
+      "ipa": "/ʃiːt/",
+      "meaning": "Ga trải giường",
+      "example": {
+        "en": "Change the sheets.",
+        "vi": "Thay ga giường đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clean sheets.",
+          "vi": "Ga giường sạch."
+        },
+        {
+          "speaker": "B",
+          "en": "Smell good.",
+          "vi": "Thơm quá."
+        }
+      ]
+    },
+    {
+      "word": "Alarm",
+      "ipa": "/əˈlɑːrm/",
+      "meaning": "Đồng hồ báo thức",
+      "example": {
+        "en": "Set the alarm.",
+        "vi": "Đặt báo thức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The alarm rang.",
+          "vi": "Báo thức đã reo."
+        },
+        {
+          "speaker": "B",
+          "en": "I slept through it.",
+          "vi": "Tôi ngủ quên mất."
+        }
+      ]
+    },
+    {
+      "word": "Wardrobe",
+      "ipa": "/ˈwɔːrdroʊb/",
+      "meaning": "Tủ quần áo",
+      "example": {
+        "en": "Open the wardrobe.",
+        "vi": "Mở tủ quần áo ra."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "My wardrobe is full.",
+          "vi": "Tủ của tôi đầy rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Donate some clothes.",
+          "vi": "Quyên góp bớt quần áo đi."
+        }
+      ]
+    },
+    {
+      "word": "Hanger",
+      "ipa": "/ˈhæŋər/",
+      "meaning": "Móc treo quần áo",
+      "example": {
+        "en": "Coat hanger.",
+        "vi": "Móc treo áo khoác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need hangers.",
+          "vi": "Tôi cần móc treo."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy plastic ones.",
+          "vi": "Mua loại nhựa ấy."
+        }
+      ]
+    },
+    {
+      "word": "Bed",
+      "ipa": "/bɛd/",
+      "meaning": "Giường",
+      "example": {
+        "en": "Double bed.",
+        "vi": "Giường đôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Big bed.",
+          "vi": "Giường to thế."
+        },
+        {
+          "speaker": "B",
+          "en": "King size.",
+          "vi": "Cỡ vua đấy."
+        }
+      ]
+    },
+    {
+      "word": "Lamp",
+      "ipa": "/læmp/",
+      "meaning": "Đèn ngủ",
+      "example": {
+        "en": "Reading lamp.",
+        "vi": "Đèn đọc sách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Turn off the lamp.",
+          "vi": "Tắt đèn đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Goodnight.",
+          "vi": "Chúc ngủ ngon."
+        }
+      ]
+    },
+    {
+      "word": "Drawer",
+      "ipa": "/drɔːr/",
+      "meaning": "Ngăn kéo",
+      "example": {
+        "en": "In the drawer.",
+        "vi": "Trong ngăn kéo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check the drawer.",
+          "vi": "Kiểm tra ngăn kéo đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Empty.",
+          "vi": "Trống rỗng."
+        }
+      ]
+    },
+    {
+      "word": "Curtain",
+      "ipa": "/ˈkɜːrtən/",
+      "meaning": "Rèm cửa",
+      "example": {
+        "en": "Close the curtains.",
+        "vi": "Kéo rèm lại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New curtains.",
+          "vi": "Rèm mới à?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, blue ones.",
+          "vi": "Ừ, màu xanh đấy."
+        }
+      ]
+    }
+  ]
 }

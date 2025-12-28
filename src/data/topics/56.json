@@ -1,6 +1,217 @@
 {
   "id": "56",
   "title": "56. Hospital Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "meaning": "Bệnh viện",
+      "example": {
+        "en": "Go to the hospital.",
+        "vi": "Đến bệnh viện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the hospital near?",
+          "vi": "Bệnh viện có gần không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, 5 minutes away.",
+          "vi": "Có, cách 5 phút."
+        }
+      ]
+    },
+    {
+      "word": "Ward",
+      "ipa": "/wɔːrd/",
+      "meaning": "Phòng bệnh",
+      "example": {
+        "en": "In the children's ward.",
+        "vi": "Trong phòng bệnh nhi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Which ward is he in?",
+          "vi": "Anh ấy ở phòng nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "Ward 10.",
+          "vi": "Phòng 10."
+        }
+      ]
+    },
+    {
+      "word": "Emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning": "Khẩn cấp / Cấp cứu",
+      "example": {
+        "en": "Emergency room.",
+        "vi": "Phòng cấp cứu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call 911, it is an emergency.",
+          "vi": "Gọi 911 đi, khẩn cấp đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Ambulance",
+      "ipa": "/ˈæmbjʊləns/",
+      "meaning": "Xe cứu thương",
+      "example": {
+        "en": "The ambulance arrived.",
+        "vi": "Xe cứu thương đã đến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I hear an ambulance.",
+          "vi": "Tôi nghe thấy tiếng xe cứu thương."
+        },
+        {
+          "speaker": "B",
+          "en": "Move aside.",
+          "vi": "Tránh đường nào."
+        }
+      ]
+    },
+    {
+      "word": "Surgery",
+      "ipa": "/ˈsɜːrdʒəri/",
+      "meaning": "Phẫu thuật",
+      "example": {
+        "en": "He needs surgery.",
+        "vi": "Anh ấy cần phẫu thuật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the surgery dangerous?",
+          "vi": "Ca phẫu thuật có nguy hiểm không?"
+        },
+        {
+          "speaker": "B",
+          "en": "There is always risk.",
+          "vi": "Luôn có rủi ro."
+        }
+      ]
+    },
+    {
+      "word": "Patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "meaning": "Bệnh nhân",
+      "example": {
+        "en": "The patient is sleeping.",
+        "vi": "Bệnh nhân đang ngủ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Visit the patient.",
+          "vi": "Thăm bệnh nhân."
+        },
+        {
+          "speaker": "B",
+          "en": "Be quiet.",
+          "vi": "Giữ trật tự nhé."
+        }
+      ]
+    },
+    {
+      "word": "Clinic",
+      "ipa": "/ˈklɪnɪk/",
+      "meaning": "Phòng khám",
+      "example": {
+        "en": "Go to the clinic.",
+        "vi": "Đến phòng khám."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the clinic open?",
+          "vi": "Phòng khám có mở cửa không?"
+        },
+        {
+          "speaker": "B",
+          "en": "On weekends, no.",
+          "vi": "Cuối tuần thì không."
+        }
+      ]
+    },
+    {
+      "word": "Dose",
+      "ipa": "/doʊs/",
+      "meaning": "Liều lượng",
+      "example": {
+        "en": "Take one dose.",
+        "vi": "Uống một liều."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is the dose?",
+          "vi": "Liều lượng thế nào?"
+        },
+        {
+          "speaker": "B",
+          "en": "Two pills a day.",
+          "vi": "Hai viên một ngày."
+        }
+      ]
+    },
+    {
+      "word": "Bandage",
+      "ipa": "/ˈbændɪdʒ/",
+      "meaning": "Băng gạc",
+      "example": {
+        "en": "Put on a bandage.",
+        "vi": "Băng lại đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need a bandage.",
+          "vi": "Tôi cần băng gạc."
+        },
+        {
+          "speaker": "B",
+          "en": "Here.",
+          "vi": "Đây."
+        }
+      ]
+    },
+    {
+      "word": "X-ray",
+      "ipa": "/ˈɛksreɪ/",
+      "meaning": "Chụp X-quang",
+      "example": {
+        "en": "Take an X-ray.",
+        "vi": "Chụp X-quang đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The X-ray shows a break.",
+          "vi": "Phim X-quang cho thấy vết gãy."
+        },
+        {
+          "speaker": "B",
+          "en": "Oh no.",
+          "vi": "Ồ không."
+        }
+      ]
+    }
+  ]
 }

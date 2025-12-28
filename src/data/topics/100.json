@@ -1,6 +1,217 @@
 {
   "id": "100",
   "title": "100. Online Learning",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Online",
+      "ipa": "/ˈɒnlaɪn/",
+      "meaning": "Trực tuyến",
+      "example": {
+        "en": "Study online.",
+        "vi": "Học trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Internet connection.",
+          "vi": "Kết nối mạng."
+        },
+        {
+          "speaker": "B",
+          "en": "Log in.",
+          "vi": "Đăng nhập."
+        }
+      ]
+    },
+    {
+      "word": "Webcam",
+      "ipa": "/ˈwɛbkæm/",
+      "meaning": "Camera máy tính",
+      "example": {
+        "en": "Turn on webcam.",
+        "vi": "Bật camera lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I can't see you.",
+          "vi": "Tôi không thấy bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Lens is covered.",
+          "vi": "Ống kính bị che."
+        }
+      ]
+    },
+    {
+      "word": "Microphone",
+      "ipa": "/ˈmaɪkrəfoʊn/",
+      "meaning": "Micrô",
+      "example": {
+        "en": "Mute microphone.",
+        "vi": "Tắt mic."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is noisy.",
+          "vi": "Ồn quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Speak louder.",
+          "vi": "Nói to lên."
+        }
+      ]
+    },
+    {
+      "word": "Screen",
+      "ipa": "/skriːn/",
+      "meaning": "Màn hình",
+      "example": {
+        "en": "Share screen.",
+        "vi": "Chia sẻ màn hình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look at the slide.",
+          "vi": "Nhìn vào slide kìa."
+        },
+        {
+          "speaker": "B",
+          "en": "Full screen.",
+          "vi": "Toàn màn hình."
+        }
+      ]
+    },
+    {
+      "word": "Platform",
+      "ipa": "/ˈplætfɔːrm/",
+      "meaning": "Nền tảng",
+      "example": {
+        "en": "Learning platform.",
+        "vi": "Nền tảng học tập."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Zoom or Teams.",
+          "vi": "Zoom hay Teams."
+        },
+        {
+          "speaker": "B",
+          "en": "Easy to use.",
+          "vi": "Dễ sử dụng."
+        }
+      ]
+    },
+    {
+      "word": "Virtual",
+      "ipa": "/ˈvɜːrtʃuəl/",
+      "meaning": "Ảo",
+      "example": {
+        "en": "Virtual classroom.",
+        "vi": "Lớp học ảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Not real room.",
+          "vi": "Không phải phòng thật."
+        },
+        {
+          "speaker": "B",
+          "en": "Digital world.",
+          "vi": "Thế giới số."
+        }
+      ]
+    },
+    {
+      "word": "Download",
+      "ipa": "/ˈdaʊnloʊd/",
+      "meaning": "Tải xuống",
+      "example": {
+        "en": "Download file.",
+        "vi": "Tải tệp xuống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save to computer.",
+          "vi": "Lưu vào máy."
+        },
+        {
+          "speaker": "B",
+          "en": "Click the link.",
+          "vi": "Nhấn vào liên kết."
+        }
+      ]
+    },
+    {
+      "word": "Upload",
+      "ipa": "/ˈʌploʊd/",
+      "meaning": "Tải lên",
+      "example": {
+        "en": "Upload assignment.",
+        "vi": "Tải bài tập lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Before deadline.",
+          "vi": "Trước hạn chót."
+        },
+        {
+          "speaker": "B",
+          "en": "File sent.",
+          "vi": "Tệp đã gửi."
+        }
+      ]
+    },
+    {
+      "word": "Chat",
+      "ipa": "/tʃæt/",
+      "meaning": "Trò chuyện (chát)",
+      "example": {
+        "en": "Type in chat.",
+        "vi": "Gõ vào khung chat."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask questions.",
+          "vi": "Đặt câu hỏi."
+        },
+        {
+          "speaker": "B",
+          "en": "Send message.",
+          "vi": "Gửi tin nhắn."
+        }
+      ]
+    },
+    {
+      "word": "Connection",
+      "ipa": "/kəˈnɛkʃən/",
+      "meaning": "Kết nối",
+      "example": {
+        "en": "Lost connection.",
+        "vi": "Mất kết nối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wifi is slow.",
+          "vi": "Wifi chậm quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Reconnect.",
+          "vi": "Kết nối lại."
+        }
+      ]
+    }
+  ]
 }

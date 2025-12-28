@@ -1,6 +1,217 @@
 {
   "id": "230",
   "title": "230. Idioms – Thành ngữ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Piece of cake",
+      "ipa": "/piːs ɒv keɪk/",
+      "meaning": "Dễ ợt",
+      "example": {
+        "en": "It was a piece of cake.",
+        "vi": "Nó dễ ợt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you pass?",
+          "vi": "Bạn đậu không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Too easy.",
+          "vi": "Quá dễ."
+        }
+      ]
+    },
+    {
+      "word": "Break a leg",
+      "ipa": "/breɪk ə lɛɡ/",
+      "meaning": "Chúc may mắn",
+      "example": {
+        "en": "Break a leg tonight.",
+        "vi": "Chúc may mắn tối nay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show starts soon.",
+          "vi": "Show sắp diễn ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Cost an arm and a leg",
+      "ipa": "/kɒst ən ɑːrm ənd ə lɛɡ/",
+      "meaning": "Rất đắt",
+      "example": {
+        "en": "It costs an arm and a leg.",
+        "vi": "Nó đắt cắt cổ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice car.",
+          "vi": "Xe đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Expensive.",
+          "vi": "Đắt lắm."
+        }
+      ]
+    },
+    {
+      "word": "Cold feet",
+      "ipa": "/koʊld fiːt/",
+      "meaning": "Lo lắng / Chùn bước",
+      "example": {
+        "en": "Got cold feet.",
+        "vi": "Bị lo lắng (muốn bỏ cuộc)."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wedding day.",
+          "vi": "Ngày cưới."
+        },
+        {
+          "speaker": "B",
+          "en": "Nervous.",
+          "vi": "Hồi hộp."
+        }
+      ]
+    },
+    {
+      "word": "Hit the books",
+      "ipa": "/hɪt ðə bʊks/",
+      "meaning": "Học bài",
+      "example": {
+        "en": "Time to hit the books.",
+        "vi": "Đến giờ học bài rồi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Exam tomorrow.",
+          "vi": "Mai thi."
+        },
+        {
+          "speaker": "B",
+          "en": "Study hard.",
+          "vi": "Học chăm."
+        }
+      ]
+    },
+    {
+      "word": "Under the weather",
+      "ipa": "/ˈʌndər ðə ˈwɛðər/",
+      "meaning": "Không khỏe",
+      "example": {
+        "en": "Feeling under the weather.",
+        "vi": "Cảm thấy không khỏe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You look tired.",
+          "vi": "Bạn trông mệt."
+        },
+        {
+          "speaker": "B",
+          "en": "Sick.",
+          "vi": "Ốm."
+        }
+      ]
+    },
+    {
+      "word": "Spill the beans",
+      "ipa": "/spɪl ðə biːnz/",
+      "meaning": "Tiết lộ bí mật",
+      "example": {
+        "en": "Don't spill the beans.",
+        "vi": "Đừng lộ bí mật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Surprise party.",
+          "vi": "Tiệc bất ngờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Quiet.",
+          "vi": "Im lặng."
+        }
+      ]
+    },
+    {
+      "word": "Once in a blue moon",
+      "ipa": "/wʌns ɪn ə bluː muːn/",
+      "meaning": "Hiếm khi",
+      "example": {
+        "en": "Once in a blue moon.",
+        "vi": "Rất hiếm khi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you visit?",
+          "vi": "Bạn có hay ghé thăm không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Rarely.",
+          "vi": "Hiếm lắm."
+        }
+      ]
+    },
+    {
+      "word": "See eye to eye",
+      "ipa": "/siː aɪ tuː aɪ/",
+      "meaning": "Đồng quan điểm",
+      "example": {
+        "en": "We see eye to eye.",
+        "vi": "Chúng tôi đồng quan điểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Agreed.",
+          "vi": "Đã đồng ý."
+        },
+        {
+          "speaker": "B",
+          "en": "No conflict.",
+          "vi": "Không xung đột."
+        }
+      ]
+    },
+    {
+      "word": "Call it a day",
+      "ipa": "/kɔːl ɪt ə deɪ/",
+      "meaning": "Nghỉ tay / Kết thúc ngày làm việc",
+      "example": {
+        "en": "Let's call it a day.",
+        "vi": "Kết thúc ngày làm việc thôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tired.",
+          "vi": "Mệt rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Go home.",
+          "vi": "Về nhà."
+        }
+      ]
+    }
+  ]
 }

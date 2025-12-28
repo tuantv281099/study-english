@@ -1,6 +1,217 @@
 {
   "id": "188",
   "title": "188. Writing Skills – Kỹ năng viết",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Write",
+      "ipa": "/raɪt/",
+      "meaning": "Viết",
+      "example": {
+        "en": "Write daily.",
+        "vi": "Viết hàng ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Practice.",
+          "vi": "Thực hành."
+        },
+        {
+          "speaker": "B",
+          "en": "Improve.",
+          "vi": "Cải thiện."
+        }
+      ]
+    },
+    {
+      "word": "Draft",
+      "ipa": "/dræft/",
+      "meaning": "Bản nháp",
+      "example": {
+        "en": "First draft.",
+        "vi": "Bản nháp đầu tiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rough ideas.",
+          "vi": "Ý tưởng thô."
+        },
+        {
+          "speaker": "B",
+          "en": "Edit later.",
+          "vi": "Sửa sau."
+        }
+      ]
+    },
+    {
+      "word": "Edit",
+      "ipa": "/ˈɛdɪt/",
+      "meaning": "Biên tập / Sửa",
+      "example": {
+        "en": "Edit essay.",
+        "vi": "Sửa bài luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check grammar.",
+          "vi": "Kiểm tra ngữ pháp."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix errors.",
+          "vi": "Sửa lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Grammar",
+      "ipa": "/ˈɡræmər/",
+      "meaning": "Ngữ pháp",
+      "example": {
+        "en": "Good grammar.",
+        "vi": "Ngữ pháp tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rules.",
+          "vi": "Quy tắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Structure.",
+          "vi": "Cấu trúc."
+        }
+      ]
+    },
+    {
+      "word": "Spelling",
+      "ipa": "/ˈspɛlɪŋ/",
+      "meaning": "Chính tả",
+      "example": {
+        "en": "Check spelling.",
+        "vi": "Kiểm tra chính tả."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Correct word.",
+          "vi": "Từ đúng."
+        },
+        {
+          "speaker": "B",
+          "en": "Mistake.",
+          "vi": "Lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Style",
+      "ipa": "/staɪl/",
+      "meaning": "Phong cách (viết)",
+      "example": {
+        "en": "Writing style.",
+        "vi": "Phong cách viết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Formal.",
+          "vi": "Trang trọng."
+        },
+        {
+          "speaker": "B",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Vocabulary",
+      "ipa": "/voʊˈkæbjʊləri/",
+      "meaning": "Từ vựng",
+      "example": {
+        "en": "Rich vocabulary.",
+        "vi": "Từ vựng phong phú."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New words.",
+          "vi": "Từ mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Express better.",
+          "vi": "Diễn đạt tốt hơn."
+        }
+      ]
+    },
+    {
+      "word": "Essay",
+      "ipa": "/ˈɛseɪ/",
+      "meaning": "Bài luận",
+      "example": {
+        "en": "Write essay.",
+        "vi": "Viết bài luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Topic.",
+          "vi": "Chủ đề."
+        },
+        {
+          "speaker": "B",
+          "en": "Argument.",
+          "vi": "Lập luận."
+        }
+      ]
+    },
+    {
+      "word": "Outline",
+      "ipa": "/ˈaʊtlaɪn/",
+      "meaning": "Đề cương / Dàn ý",
+      "example": {
+        "en": "Make outline.",
+        "vi": "Làm dàn ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Plan structure.",
+          "vi": "Lên kế hoạch cấu trúc."
+        },
+        {
+          "speaker": "B",
+          "en": "Organize.",
+          "vi": "Sắp xếp."
+        }
+      ]
+    },
+    {
+      "word": "Proofread",
+      "ipa": "/ˈpruːfriːd/",
+      "meaning": "Đọc lại / Hiệu đính",
+      "example": {
+        "en": "Proofread it.",
+        "vi": "Đọc lại nó."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Before submit.",
+          "vi": "Trước khi nộp."
+        },
+        {
+          "speaker": "B",
+          "en": "Catch typos.",
+          "vi": "Bắt lỗi đánh máy."
+        }
+      ]
+    }
+  ]
 }

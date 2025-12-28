@@ -1,6 +1,217 @@
 {
   "id": "212",
   "title": "212. Warnings & Advice – Cảnh báo & lời khuyên",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Warn",
+      "ipa": "/wɔːrn/",
+      "meaning": "Cảnh báo",
+      "example": {
+        "en": "Warn him.",
+        "vi": "Cảnh báo anh ấy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Danger.",
+          "vi": "Nguy hiểm."
+        },
+        {
+          "speaker": "B",
+          "en": "Be careful.",
+          "vi": "Cẩn thận."
+        }
+      ]
+    },
+    {
+      "word": "Careful",
+      "ipa": "/ˈkɛərfʊl/",
+      "meaning": "Cẩn thận",
+      "example": {
+        "en": "Be careful.",
+        "vi": "Hãy cẩn thận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wet floor.",
+          "vi": "Sàn ướt."
+        },
+        {
+          "speaker": "B",
+          "en": "Watch step.",
+          "vi": "Nhìn bước đi."
+        }
+      ]
+    },
+    {
+      "word": "Danger",
+      "ipa": "/ˈdeɪndʒər/",
+      "meaning": "Nguy hiểm",
+      "example": {
+        "en": "In danger.",
+        "vi": "Đang gặp nguy hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Run away.",
+          "vi": "Chạy đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe place.",
+          "vi": "Nơi an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Advice",
+      "ipa": "/ədˈvaɪs/",
+      "meaning": "Lời khuyên",
+      "example": {
+        "en": "Take advice.",
+        "vi": "Nghe lời khuyên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Listen.",
+          "vi": "Lắng nghe."
+        },
+        {
+          "speaker": "B",
+          "en": "Learn.",
+          "vi": "Học hỏi."
+        }
+      ]
+    },
+    {
+      "word": "Suggest",
+      "ipa": "/səˈdʒɛst/",
+      "meaning": "Gợi ý",
+      "example": {
+        "en": "I suggest calling.",
+        "vi": "Tôi gợi ý gọi điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Helpful.",
+          "vi": "Hữu ích."
+        },
+        {
+          "speaker": "B",
+          "en": "Try it.",
+          "vi": "Thử xem."
+        }
+      ]
+    },
+    {
+      "word": "Watch out",
+      "ipa": "/wɒtʃ aʊt/",
+      "meaning": "Coi chừng",
+      "example": {
+        "en": "Watch out car.",
+        "vi": "Coi chừng xe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too fast.",
+          "vi": "Quá nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Close call.",
+          "vi": "Suýt soát."
+        }
+      ]
+    },
+    {
+      "word": "Safe",
+      "ipa": "/seɪf/",
+      "meaning": "An toàn",
+      "example": {
+        "en": "Stay safe.",
+        "vi": "Giữ an toàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lock door.",
+          "vi": "Khóa cửa."
+        },
+        {
+          "speaker": "B",
+          "en": "Secure.",
+          "vi": "Bảo mật."
+        }
+      ]
+    },
+    {
+      "word": "Don't",
+      "ipa": "/doʊnt/",
+      "meaning": "Đừng",
+      "example": {
+        "en": "Don't touch.",
+        "vi": "Đừng chạm vào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hot.",
+          "vi": "Nóng."
+        },
+        {
+          "speaker": "B",
+          "en": "Burn.",
+          "vi": "Bỏng."
+        }
+      ]
+    },
+    {
+      "word": "Should",
+      "ipa": "/ʃʊd/",
+      "meaning": "Nên",
+      "example": {
+        "en": "You should stop.",
+        "vi": "Bạn nên dừng lại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Bad habit.",
+          "vi": "Thói quen xấu."
+        },
+        {
+          "speaker": "B",
+          "en": "Health.",
+          "vi": "Sức khỏe."
+        }
+      ]
+    },
+    {
+      "word": "Risk",
+      "ipa": "/rɪsk/",
+      "meaning": "Rủi ro",
+      "example": {
+        "en": "Take risk.",
+        "vi": "Chấp nhận rủi ro."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Reward.",
+          "vi": "Phần thưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Lose all.",
+          "vi": "Mất tất cả."
+        }
+      ]
+    }
+  ]
 }

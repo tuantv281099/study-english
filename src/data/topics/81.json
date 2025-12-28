@@ -1,6 +1,217 @@
 {
   "id": "81",
   "title": "81. Natural Phenomena",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Rainbow",
+      "ipa": "/ˈreɪnboʊ/",
+      "meaning": "Cầu vồng",
+      "example": {
+        "en": "Look at the rainbow.",
+        "vi": "Nhìn cầu vồng kìa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Seven colors.",
+          "vi": "Bảy sắc màu."
+        },
+        {
+          "speaker": "B",
+          "en": "After the rain.",
+          "vi": "Sau cơn mưa."
+        }
+      ]
+    },
+    {
+      "word": "Lightning",
+      "ipa": "/ˈlaɪtnɪŋ/",
+      "meaning": "Sét",
+      "example": {
+        "en": "Flash of lightning.",
+        "vi": "Tia sét."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you see that?",
+          "vi": "Bạn có thấy cái đó không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, scary.",
+          "vi": "Có, đáng sợ quá."
+        }
+      ]
+    },
+    {
+      "word": "Thunder",
+      "ipa": "/ˈθʌndər/",
+      "meaning": "Sấm",
+      "example": {
+        "en": "Loud thunder.",
+        "vi": "Tiếng sấm lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cover your ears.",
+          "vi": "Bịt tai lại."
+        },
+        {
+          "speaker": "B",
+          "en": "It is booming.",
+          "vi": "Nó đang ầm ầm kìa."
+        }
+      ]
+    },
+    {
+      "word": "Fog",
+      "ipa": "/fɒɡ/",
+      "meaning": "Sương mù",
+      "example": {
+        "en": "Thick fog.",
+        "vi": "Sương mù dày đặc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I can't see the road.",
+          "vi": "Tôi không thấy đường."
+        },
+        {
+          "speaker": "B",
+          "en": "Drive slowly.",
+          "vi": "Lái xe chậm thôi."
+        }
+      ]
+    },
+    {
+      "word": "Wind",
+      "ipa": "/wɪnd/",
+      "meaning": "Gió",
+      "example": {
+        "en": "Strong wind.",
+        "vi": "Gió mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hold onto your hat.",
+          "vi": "Giữ mũ cẩn thận."
+        },
+        {
+          "speaker": "B",
+          "en": "It is windy.",
+          "vi": "Trời gió quá."
+        }
+      ]
+    },
+    {
+      "word": "Rain",
+      "ipa": "/reɪn/",
+      "meaning": "Mưa",
+      "example": {
+        "en": "Heavy rain.",
+        "vi": "Mưa to."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you have an umbrella?",
+          "vi": "Bạn có ô không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, I am wet.",
+          "vi": "Không, tôi ướt hết rồi."
+        }
+      ]
+    },
+    {
+      "word": "Snow",
+      "ipa": "/snoʊ/",
+      "meaning": "Tuyết",
+      "example": {
+        "en": "White snow.",
+        "vi": "Tuyết trắng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let's build a snowman.",
+          "vi": "Hãy đắp người tuyết đi."
+        },
+        {
+          "speaker": "B",
+          "en": "It is cold.",
+          "vi": "Lạnh lắm."
+        }
+      ]
+    },
+    {
+      "word": "Eclipse",
+      "ipa": "/ɪˈklɪps/",
+      "meaning": "Nhật thực / Nguyệt thực",
+      "example": {
+        "en": "Solar eclipse.",
+        "vi": "Nhật thực."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't look directly.",
+          "vi": "Đừng nhìn trực tiếp."
+        },
+        {
+          "speaker": "B",
+          "en": "Use special glasses.",
+          "vi": "Dùng kính đặc biệt."
+        }
+      ]
+    },
+    {
+      "word": "Dawn",
+      "ipa": "/dɔːn/",
+      "meaning": "Bình minh",
+      "example": {
+        "en": "At dawn.",
+        "vi": "Lúc bình minh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The sun rises.",
+          "vi": "Mặt trời mọc."
+        },
+        {
+          "speaker": "B",
+          "en": "Beautiful sky.",
+          "vi": "Bầu trời đẹp quá."
+        }
+      ]
+    },
+    {
+      "word": "Dusk",
+      "ipa": "/dʌsk/",
+      "meaning": "Hoàng hôn / Chạng vạng",
+      "example": {
+        "en": "At dusk.",
+        "vi": "Lúc chạng vạng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is getting dark.",
+          "vi": "Trời đang tối dần."
+        },
+        {
+          "speaker": "B",
+          "en": "Street lights are on.",
+          "vi": "Đèn đường bật rồi."
+        }
+      ]
+    }
+  ]
 }

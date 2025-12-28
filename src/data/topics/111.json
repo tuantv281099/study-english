@@ -1,6 +1,217 @@
 {
   "id": "111",
   "title": "111. Teamwork",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Team",
+      "ipa": "/tiːm/",
+      "meaning": "Đội / Nhóm",
+      "example": {
+        "en": "Work as a team.",
+        "vi": "Làm việc theo nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good team.",
+          "vi": "Đội tốt."
+        },
+        {
+          "speaker": "B",
+          "en": "We support each other.",
+          "vi": "Chúng tôi hỗ trợ lẫn nhau."
+        }
+      ]
+    },
+    {
+      "word": "Cooperate",
+      "ipa": "/koʊˈɒpəreɪt/",
+      "meaning": "Hợp tác",
+      "example": {
+        "en": "Cooperate with others.",
+        "vi": "Hợp tác với người khác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let's cooperate.",
+          "vi": "Hãy hợp tác nhé."
+        },
+        {
+          "speaker": "B",
+          "en": "Achieve more.",
+          "vi": "Đạt được nhiều hơn."
+        }
+      ]
+    },
+    {
+      "word": "Collaborate",
+      "ipa": "/kəˈlæbəreɪt/",
+      "meaning": "Cộng tác",
+      "example": {
+        "en": "Collaborate on a project.",
+        "vi": "Cộng tác trong một dự án."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Share ideas.",
+          "vi": "Chia sẻ ý tưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Create something new.",
+          "vi": "Tạo ra cái gì đó mới."
+        }
+      ]
+    },
+    {
+      "word": "Support",
+      "ipa": "/səˈpɔːrt/",
+      "meaning": "Hỗ trợ",
+      "example": {
+        "en": "Support your team.",
+        "vi": "Hỗ trợ đội của bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need help.",
+          "vi": "Tôi cần giúp đỡ."
+        },
+        {
+          "speaker": "B",
+          "en": "I am here.",
+          "vi": "Có tôi đây."
+        }
+      ]
+    },
+    {
+      "word": "Coordinate",
+      "ipa": "/koʊˈɔːrdɪneɪt/",
+      "meaning": "Phối hợp",
+      "example": {
+        "en": "Coordinate tasks.",
+        "vi": "Phối hợp các nhiệm vụ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who does what?",
+          "vi": "Ai làm việc gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Make a plan.",
+          "vi": "Lập kế hoạch đi."
+        }
+      ]
+    },
+    {
+      "word": "Brainstorm",
+      "ipa": "/ˈbreɪnstɔːrm/",
+      "meaning": "Động não",
+      "example": {
+        "en": "Brainstorm ideas.",
+        "vi": "Động não tìm ý tưởng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Any suggestions?",
+          "vi": "Có đề xuất gì không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Let's think.",
+          "vi": "Cùng suy nghĩ nào."
+        }
+      ]
+    },
+    {
+      "word": "Goal",
+      "ipa": "/ɡoʊl/",
+      "meaning": "Mục tiêu",
+      "example": {
+        "en": "Common goal.",
+        "vi": "Mục tiêu chung."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Win the game.",
+          "vi": "Thắng trận đấu."
+        },
+        {
+          "speaker": "B",
+          "en": "Focus.",
+          "vi": "Tập trung vào."
+        }
+      ]
+    },
+    {
+      "word": "Role",
+      "ipa": "/roʊl/",
+      "meaning": "Vai trò",
+      "example": {
+        "en": "Assign roles.",
+        "vi": "Phân công vai trò."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You lead.",
+          "vi": "Bạn dẫn dắt."
+        },
+        {
+          "speaker": "B",
+          "en": "I follow.",
+          "vi": "Tôi theo sau."
+        }
+      ]
+    },
+    {
+      "word": "Trust",
+      "ipa": "/trʌst/",
+      "meaning": "Tin tưởng",
+      "example": {
+        "en": "Trust your partner.",
+        "vi": "Tin tưởng đối tác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I rely on you.",
+          "vi": "Tôi dựa vào bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "I won't fail.",
+          "vi": "Tôi sẽ không thất bại."
+        }
+      ]
+    },
+    {
+      "word": "Unity",
+      "ipa": "/ˈjuːnɪti/",
+      "meaning": "Sự đoàn kết",
+      "example": {
+        "en": "Strength in unity.",
+        "vi": "Sức mạnh trong sự đoàn kết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stay together.",
+          "vi": "Ở bên nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Unbreakable.",
+          "vi": "Không thể phá vỡ."
+        }
+      ]
+    }
+  ]
 }

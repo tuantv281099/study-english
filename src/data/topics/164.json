@@ -1,6 +1,217 @@
 {
   "id": "164",
   "title": "164. Budgeting – Lập ngân sách",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "meaning": "Ngân sách",
+      "example": {
+        "en": "Monthly budget.",
+        "vi": "Ngân sách hàng tháng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Plan spending.",
+          "vi": "Lên kế hoạch chi tiêu."
+        },
+        {
+          "speaker": "B",
+          "en": "Stick to it.",
+          "vi": "Tuân thủ nó."
+        }
+      ]
+    },
+    {
+      "word": "Expense",
+      "ipa": "/ɪkˈspɛns/",
+      "meaning": "Chi phí",
+      "example": {
+        "en": "Living expense.",
+        "vi": "Chi phí sinh hoạt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Rent and food.",
+          "vi": "Tiền nhà và ăn uống."
+        },
+        {
+          "speaker": "B",
+          "en": "Track daily.",
+          "vi": "Theo dõi hàng ngày."
+        }
+      ]
+    },
+    {
+      "word": "Income",
+      "ipa": "/ˈɪnkʌm/",
+      "meaning": "Thu nhập",
+      "example": {
+        "en": "Annual income.",
+        "vi": "Thu nhập hàng năm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Salary day.",
+          "vi": "Ngày nhận lương."
+        },
+        {
+          "speaker": "B",
+          "en": "Earn more.",
+          "vi": "Kiếm nhiều hơn."
+        }
+      ]
+    },
+    {
+      "word": "Save",
+      "ipa": "/seɪv/",
+      "meaning": "Tiết kiệm",
+      "example": {
+        "en": "Save for trip.",
+        "vi": "Tiết kiệm cho chuyến đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Put aside.",
+          "vi": "Để dành."
+        },
+        {
+          "speaker": "B",
+          "en": "Rainy day.",
+          "vi": "Ngày khó khăn."
+        }
+      ]
+    },
+    {
+      "word": "Debt",
+      "ipa": "/dɛt/",
+      "meaning": "Nợ",
+      "example": {
+        "en": "Pay off debt.",
+        "vi": "Trả hết nợ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Credit card.",
+          "vi": "Thẻ tín dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Interest rate.",
+          "vi": "Lãi suất."
+        }
+      ]
+    },
+    {
+      "word": "Limit",
+      "ipa": "/ˈlɪmɪt/",
+      "meaning": "Hạn mức / Giới hạn",
+      "example": {
+        "en": "Spending limit.",
+        "vi": "Hạn mức chi tiêu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't exceed.",
+          "vi": "Đừng vượt quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Be careful.",
+          "vi": "Cẩn thận."
+        }
+      ]
+    },
+    {
+      "word": "Cost",
+      "ipa": "/kɔːst/",
+      "meaning": "Chi phí / Giá",
+      "example": {
+        "en": "High cost.",
+        "vi": "Chi phí cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cut costs.",
+          "vi": "Cắt giảm chi phí."
+        },
+        {
+          "speaker": "B",
+          "en": "Cheaper option.",
+          "vi": "Lựa chọn rẻ hơn."
+        }
+      ]
+    },
+    {
+      "word": "Bill",
+      "ipa": "/bɪl/",
+      "meaning": "Hóa đơn",
+      "example": {
+        "en": "Electric bill.",
+        "vi": "Hóa đơn tiền điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pay on time.",
+          "vi": "Trả đúng hạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Late fee.",
+          "vi": "Phí trễ hạn."
+        }
+      ]
+    },
+    {
+      "word": "Afford",
+      "ipa": "/əˈfɔːrd/",
+      "meaning": "Đủ khả năng chi trả",
+      "example": {
+        "en": "Can't afford it.",
+        "vi": "Không mua nổi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too expensive.",
+          "vi": "Quá đắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Save up.",
+          "vi": "Tiết kiệm đã."
+        }
+      ]
+    },
+    {
+      "word": "Plan",
+      "ipa": "/plæn/",
+      "meaning": "Kế hoạch",
+      "example": {
+        "en": "Financial plan.",
+        "vi": "Kế hoạch tài chính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Future goals.",
+          "vi": "Mục tiêu tương lai."
+        },
+        {
+          "speaker": "B",
+          "en": "Retire early.",
+          "vi": "Nghỉ hưu sớm."
+        }
+      ]
+    }
+  ]
 }

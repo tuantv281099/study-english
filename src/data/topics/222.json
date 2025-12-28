@@ -1,6 +1,217 @@
 {
   "id": "222",
   "title": "222. Argument & Debate – Tranh luận",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Argue",
+      "ipa": "/ˈɑːrɡjuː/",
+      "meaning": "Tranh luận / Cãi nhau",
+      "example": {
+        "en": "Don't argue.",
+        "vi": "Đừng tranh cãi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pointless.",
+          "vi": "Vô nghĩa."
+        },
+        {
+          "speaker": "B",
+          "en": "Agree.",
+          "vi": "Đồng ý."
+        }
+      ]
+    },
+    {
+      "word": "Debate",
+      "ipa": "/dɪˈbeɪt/",
+      "meaning": "Cuộc tranh luận (chính thức)",
+      "example": {
+        "en": "Public debate.",
+        "vi": "Tranh luận công khai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Two sides.",
+          "vi": "Hai phe."
+        },
+        {
+          "speaker": "B",
+          "en": "Vote.",
+          "vi": "Bình chọn."
+        }
+      ]
+    },
+    {
+      "word": "Opinion",
+      "ipa": "/əˈpɪnjən/",
+      "meaning": "Ý kiến",
+      "example": {
+        "en": "Strong opinion.",
+        "vi": "Ý kiến mạnh mẽ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Express.",
+          "vi": "Bày tỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Respect.",
+          "vi": "Tôn trọng."
+        }
+      ]
+    },
+    {
+      "word": "Support",
+      "ipa": "/səˈpɔːrt/",
+      "meaning": "Ủng hộ",
+      "example": {
+        "en": "Support team.",
+        "vi": "Ủng hộ đội."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cheer.",
+          "vi": "Cổ vũ."
+        },
+        {
+          "speaker": "B",
+          "en": "Help.",
+          "vi": "Giúp đỡ."
+        }
+      ]
+    },
+    {
+      "word": "Oppose",
+      "ipa": "/əˈpoʊz/",
+      "meaning": "Phản đối",
+      "example": {
+        "en": "Oppose plan.",
+        "vi": "Phản đối kế hoạch."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Against.",
+          "vi": "Chống lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Why?",
+          "vi": "Tại sao?"
+        }
+      ]
+    },
+    {
+      "word": "Topic",
+      "ipa": "/ˈtɒpɪk/",
+      "meaning": "Chủ đề",
+      "example": {
+        "en": "Debate topic.",
+        "vi": "Chủ đề tranh luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Controversial.",
+          "vi": "Gây tranh cãi."
+        },
+        {
+          "speaker": "B",
+          "en": "Discuss.",
+          "vi": "Thảo luận."
+        }
+      ]
+    },
+    {
+      "word": "Point",
+      "ipa": "/pɔɪnt/",
+      "meaning": "Luận điểm",
+      "example": {
+        "en": "Make a point.",
+        "vi": "Đưa ra luận điểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clear.",
+          "vi": "Rõ ràng."
+        },
+        {
+          "speaker": "B",
+          "en": "Valid.",
+          "vi": "Có lý."
+        }
+      ]
+    },
+    {
+      "word": "Counter",
+      "ipa": "/ˈkaʊntər/",
+      "meaning": "Phản biện",
+      "example": {
+        "en": "Counter argument.",
+        "vi": "Lập luận phản biện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Respond.",
+          "vi": "Đáp trả."
+        },
+        {
+          "speaker": "B",
+          "en": "Attack.",
+          "vi": "Tấn công."
+        }
+      ]
+    },
+    {
+      "word": "Win",
+      "ipa": "/wɪn/",
+      "meaning": "Thắng",
+      "example": {
+        "en": "Win debate.",
+        "vi": "Thắng tranh luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Convincing.",
+          "vi": "Thuyết phục."
+        },
+        {
+          "speaker": "B",
+          "en": "Celebrate.",
+          "vi": "Ăn mừng."
+        }
+      ]
+    },
+    {
+      "word": "Lose",
+      "ipa": "/luːz/",
+      "meaning": "Thua",
+      "example": {
+        "en": "Lose argument.",
+        "vi": "Thua tranh luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Accept.",
+          "vi": "Chấp nhận."
+        },
+        {
+          "speaker": "B",
+          "en": "Learn.",
+          "vi": "Học hỏi."
+        }
+      ]
+    }
+  ]
 }

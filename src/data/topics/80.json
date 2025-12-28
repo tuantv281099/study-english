@@ -1,6 +1,217 @@
 {
   "id": "80",
   "title": "80. Disaster Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Fire",
+      "ipa": "/faɪər/",
+      "meaning": "Lửa / Hỏa hoạn",
+      "example": {
+        "en": "House fire.",
+        "vi": "Cháy nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call fire department.",
+          "vi": "Gọi cứu hỏa đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Get out fast.",
+          "vi": "Ra ngoài nhanh lên."
+        }
+      ]
+    },
+    {
+      "word": "Flood",
+      "ipa": "/flʌd/",
+      "meaning": "Lũ lụt",
+      "example": {
+        "en": "Big flood.",
+        "vi": "Trận lũ lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Water is rising.",
+          "vi": "Nước đang dâng lên."
+        },
+        {
+          "speaker": "B",
+          "en": "Move to high ground.",
+          "vi": "Di chuyển lên chỗ cao."
+        }
+      ]
+    },
+    {
+      "word": "Earthquake",
+      "ipa": "/ˈɜːrθkweɪk/",
+      "meaning": "Động đất",
+      "example": {
+        "en": "Strong earthquake.",
+        "vi": "Động đất mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ground shaking.",
+          "vi": "Mặt đất rung chuyển."
+        },
+        {
+          "speaker": "B",
+          "en": "Get under the table.",
+          "vi": "Chui xuống gầm bàn."
+        }
+      ]
+    },
+    {
+      "word": "Storm",
+      "ipa": "/stɔːrm/",
+      "meaning": "Bão",
+      "example": {
+        "en": "Heavy storm.",
+        "vi": "Bão to."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Thunder and lightning.",
+          "vi": "Sấm chớp kìa."
+        },
+        {
+          "speaker": "B",
+          "en": "Stay inside.",
+          "vi": "Ở trong nhà đi."
+        }
+      ]
+    },
+    {
+      "word": "Tsunami",
+      "ipa": "/tsuːˈnɑːmi/",
+      "meaning": "Sóng thần",
+      "example": {
+        "en": "Tsunami warning.",
+        "vi": "Cảnh báo sóng thần."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Run from the beach.",
+          "vi": "Chạy khỏi bãi biển mau."
+        },
+        {
+          "speaker": "B",
+          "en": "Huge wave.",
+          "vi": "Sóng khổng lồ."
+        }
+      ]
+    },
+    {
+      "word": "Hurricane",
+      "ipa": "/ˈhʌrɪkeɪn/",
+      "meaning": "Bão cuồng phong",
+      "example": {
+        "en": "Hurricane season.",
+        "vi": "Mùa bão."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wind is blowing hard.",
+          "vi": "Gió thổi mạnh quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Board up windows.",
+          "vi": "Che chắn cửa sổ lại."
+        }
+      ]
+    },
+    {
+      "word": "Drought",
+      "ipa": "/draʊt/",
+      "meaning": "Hạn hán",
+      "example": {
+        "en": "Long drought.",
+        "vi": "Hạn hán kéo dài."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No rain.",
+          "vi": "Không có mưa."
+        },
+        {
+          "speaker": "B",
+          "en": "Plants are dying.",
+          "vi": "Cây cối chết hết rồi."
+        }
+      ]
+    },
+    {
+      "word": "Emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning": "Khẩn cấp",
+      "example": {
+        "en": "Call emergency.",
+        "vi": "Gọi khẩn cấp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is the number?",
+          "vi": "Số mấy thế?"
+        },
+        {
+          "speaker": "B",
+          "en": "911.",
+          "vi": "911."
+        }
+      ]
+    },
+    {
+      "word": "Rescue",
+      "ipa": "/ˈrɛskjuː/",
+      "meaning": "Giải cứu",
+      "example": {
+        "en": "Rescue team.",
+        "vi": "Đội cứu hộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save the victims.",
+          "vi": "Cứu nạn nhân."
+        },
+        {
+          "speaker": "B",
+          "en": "They are coming.",
+          "vi": "Họ đang đến."
+        }
+      ]
+    },
+    {
+      "word": "Shelter",
+      "ipa": "/ˈʃɛltər/",
+      "meaning": "Nơi trú ẩn",
+      "example": {
+        "en": "Seek shelter.",
+        "vi": "Tìm nơi trú ẩn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it safe here?",
+          "vi": "Ở đây có an toàn không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Bomb shelter.",
+          "vi": "Hầm trú bom đấy."
+        }
+      ]
+    }
+  ]
 }

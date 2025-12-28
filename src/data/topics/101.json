@@ -1,6 +1,217 @@
 {
   "id": "101",
   "title": "101. Office Equipment",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Computer",
+      "ipa": "/kəmˈpjuːtər/",
+      "meaning": "Máy tính",
+      "example": {
+        "en": "Desktop computer.",
+        "vi": "Máy tính để bàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast processor.",
+          "vi": "Bộ xử lý nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Big monitor.",
+          "vi": "Màn hình lớn."
+        }
+      ]
+    },
+    {
+      "word": "Printer",
+      "ipa": "/ˈprɪntər/",
+      "meaning": "Máy in",
+      "example": {
+        "en": "Color printer.",
+        "vi": "Máy in màu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Out of ink.",
+          "vi": "Hết mực rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Add paper.",
+          "vi": "Thêm giấy vào."
+        }
+      ]
+    },
+    {
+      "word": "Scanner",
+      "ipa": "/ˈskænər/",
+      "meaning": "Máy quét",
+      "example": {
+        "en": "Scan document.",
+        "vi": "Quét tài liệu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Digital copy.",
+          "vi": "Bản sao kỹ thuật số."
+        },
+        {
+          "speaker": "B",
+          "en": "Send email.",
+          "vi": "Gửi email."
+        }
+      ]
+    },
+    {
+      "word": "Stapler",
+      "ipa": "/ˈsteɪplər/",
+      "meaning": "Cái dập ghim",
+      "example": {
+        "en": "Use a stapler.",
+        "vi": "Dùng dập ghim."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Staple pages.",
+          "vi": "Ghim các trang lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Out of staples.",
+          "vi": "Hết ghim rồi."
+        }
+      ]
+    },
+    {
+      "word": "Calculator",
+      "ipa": "/ˈkælkjʊleɪtər/",
+      "meaning": "Máy tính cầm tay",
+      "example": {
+        "en": "Use calculator.",
+        "vi": "Dùng máy tính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check the numbers.",
+          "vi": "Kiểm tra các con số."
+        },
+        {
+          "speaker": "B",
+          "en": "Add it up.",
+          "vi": "Cộng lại."
+        }
+      ]
+    },
+    {
+      "word": "Desk",
+      "ipa": "/dɛsk/",
+      "meaning": "Bàn làm việc",
+      "example": {
+        "en": "Office desk.",
+        "vi": "Bàn văn phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Messy desk.",
+          "vi": "Bàn bừa bộn."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean it up.",
+          "vi": "Dọn đi."
+        }
+      ]
+    },
+    {
+      "word": "Chair",
+      "ipa": "/tʃɛər/",
+      "meaning": "Ghế",
+      "example": {
+        "en": "Swivel chair.",
+        "vi": "Ghế xoay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Adjust height.",
+          "vi": "Điều chỉnh độ cao."
+        },
+        {
+          "speaker": "B",
+          "en": "Comfortable back.",
+          "vi": "Thoải mái lưng."
+        }
+      ]
+    },
+    {
+      "word": "Phone",
+      "ipa": "/foʊn/",
+      "meaning": "Điện thoại",
+      "example": {
+        "en": "Office phone.",
+        "vi": "Điện thoại văn phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Answer the call.",
+          "vi": "Trả lời cuộc gọi."
+        },
+        {
+          "speaker": "B",
+          "en": "Take a message.",
+          "vi": "Ghi lại lời nhắn."
+        }
+      ]
+    },
+    {
+      "word": "File",
+      "ipa": "/faɪl/",
+      "meaning": "Tài liệu / Hồ sơ",
+      "example": {
+        "en": "File cabinet.",
+        "vi": "Tủ hồ sơ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Organize files.",
+          "vi": "Sắp xếp hồ sơ."
+        },
+        {
+          "speaker": "B",
+          "en": "Alphabetical order.",
+          "vi": "Thứ tự bảng chữ cái."
+        }
+      ]
+    },
+    {
+      "word": "Shredder",
+      "ipa": "/ˈʃrɛdər/",
+      "meaning": "Máy hủy tài liệu",
+      "example": {
+        "en": "Paper shredder.",
+        "vi": "Máy hủy giấy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Destroy secrets.",
+          "vi": "Hủy bí mật."
+        },
+        {
+          "speaker": "B",
+          "en": "Confidential.",
+          "vi": "Bảo mật."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "88",
   "title": "88. Public Transport",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "Vé",
+      "example": {
+        "en": "Bus ticket.",
+        "vi": "Vé xe buýt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How much?",
+          "vi": "Bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "en": "Two dollars.",
+          "vi": "Hai đô la."
+        }
+      ]
+    },
+    {
+      "word": "Stop",
+      "ipa": "/stɒp/",
+      "meaning": "Trạm dừng",
+      "example": {
+        "en": "Bus stop.",
+        "vi": "Trạm xe buýt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where do I get off?",
+          "vi": "Tôi xuống ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Next stop.",
+          "vi": "Trạm kế tiếp."
+        }
+      ]
+    },
+    {
+      "word": "Schedule",
+      "ipa": "/ˈʃɛdjuːl/",
+      "meaning": "Lịch trình",
+      "example": {
+        "en": "Check the schedule.",
+        "vi": "Kiểm tra lịch trình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it on time?",
+          "vi": "Nó có đúng giờ không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Running late.",
+          "vi": "Đang trễ."
+        }
+      ]
+    },
+    {
+      "word": "Seat",
+      "ipa": "/siːt/",
+      "meaning": "Chỗ ngồi",
+      "example": {
+        "en": "Take a seat.",
+        "vi": "Ngồi xuống đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is this taken?",
+          "vi": "Chỗ này có người ngồi chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, sit down.",
+          "vi": "Chưa, ngồi đi."
+        }
+      ]
+    },
+    {
+      "word": "Driver",
+      "ipa": "/ˈdraɪvər/",
+      "meaning": "Tài xế",
+      "example": {
+        "en": "Bus driver.",
+        "vi": "Tài xế xe buýt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask the driver.",
+          "vi": "Hỏi tài xế xem."
+        },
+        {
+          "speaker": "B",
+          "en": "He knows the way.",
+          "vi": "Ông ấy biết đường đấy."
+        }
+      ]
+    },
+    {
+      "word": "Route",
+      "ipa": "/ruːt/",
+      "meaning": "Tuyến đường",
+      "example": {
+        "en": "Bus route.",
+        "vi": "Tuyến xe buýt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Does it go downtown?",
+          "vi": "Nó có đi vào trung tâm không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, route 10.",
+          "vi": "Có, tuyến số 10."
+        }
+      ]
+    },
+    {
+      "word": "Passenger",
+      "ipa": "/ˈpæsɪndʒər/",
+      "meaning": "Hành khách",
+      "example": {
+        "en": "Many passengers.",
+        "vi": "Nhiều hành khách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stand clear.",
+          "vi": "Đứng tránh ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Let them off.",
+          "vi": "Để họ xuống."
+        }
+      ]
+    },
+    {
+      "word": "Platform",
+      "ipa": "/ˈplætfɔːrm/",
+      "meaning": "Sân ga",
+      "example": {
+        "en": "Train platform.",
+        "vi": "Sân ga tàu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mind the gap.",
+          "vi": "Chú ý khoảng hở."
+        },
+        {
+          "speaker": "B",
+          "en": "Step carefully.",
+          "vi": "Bước cẩn thận."
+        }
+      ]
+    },
+    {
+      "word": "Fare",
+      "ipa": "/fɛər/",
+      "meaning": "Giá vé / Tiền xe",
+      "example": {
+        "en": "Pay the fare.",
+        "vi": "Trả tiền xe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Exact change.",
+          "vi": "Tiền lẻ chính xác."
+        },
+        {
+          "speaker": "B",
+          "en": "No coins.",
+          "vi": "Không dùng tiền xu."
+        }
+      ]
+    },
+    {
+      "word": "Transfer",
+      "ipa": "/ˈtrænsfər/",
+      "meaning": "Chuyển tuyến",
+      "example": {
+        "en": "Transfer to another bus.",
+        "vi": "Chuyển sang xe buýt khác."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do I need a new ticket?",
+          "vi": "Tôi có cần vé mới không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Use transfer slip.",
+          "vi": "Dùng phiếu chuyển tuyến."
+        }
+      ]
+    }
+  ]
 }

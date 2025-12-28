@@ -1,6 +1,217 @@
 {
   "id": "132",
   "title": "132. Coding Basics",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Code",
+      "ipa": "/koʊd/",
+      "meaning": "Mã code",
+      "example": {
+        "en": "Learn to code.",
+        "vi": "Học lập trình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hello World.",
+          "vi": "Xin chào thế giới."
+        },
+        {
+          "speaker": "B",
+          "en": "First program.",
+          "vi": "Chương trình đầu tiên."
+        }
+      ]
+    },
+    {
+      "word": "Bug",
+      "ipa": "/bʌɡ/",
+      "meaning": "Lỗi (phần mềm)",
+      "example": {
+        "en": "Fix a bug.",
+        "vi": "Sửa lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It crashed.",
+          "vi": "Nó bị sập rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Debug it.",
+          "vi": "Gỡ lỗi đi."
+        }
+      ]
+    },
+    {
+      "word": "Program",
+      "ipa": "/ˈproʊɡræm/",
+      "meaning": "Chương trình",
+      "example": {
+        "en": "Run program.",
+        "vi": "Chạy chương trình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Start app.",
+          "vi": "Khởi động ứng dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Loading.",
+          "vi": "Đang tải."
+        }
+      ]
+    },
+    {
+      "word": "Language",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "meaning": "Ngôn ngữ (lập trình)",
+      "example": {
+        "en": "Html language.",
+        "vi": "Ngôn ngữ HTML."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Java or C++?",
+          "vi": "Java hay C++?"
+        },
+        {
+          "speaker": "B",
+          "en": "JavaScript.",
+          "vi": "JavaScript."
+        }
+      ]
+    },
+    {
+      "word": "Loop",
+      "ipa": "/luːp/",
+      "meaning": "Vòng lặp",
+      "example": {
+        "en": "Infinite loop.",
+        "vi": "Vòng lặp vô hạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It repeats.",
+          "vi": "Nó lặp lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop it.",
+          "vi": "Dừng nó lại."
+        }
+      ]
+    },
+    {
+      "word": "Variable",
+      "ipa": "/ˈvɛəriəbəl/",
+      "meaning": "Biến số",
+      "example": {
+        "en": "Define variable.",
+        "vi": "Định nghĩa biến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Store value.",
+          "vi": "Lưu giá trị."
+        },
+        {
+          "speaker": "B",
+          "en": "x equals 10.",
+          "vi": "x bằng 10."
+        }
+      ]
+    },
+    {
+      "word": "Function",
+      "ipa": "/ˈfʌŋkʃən/",
+      "meaning": "Hàm",
+      "example": {
+        "en": "Call function.",
+        "vi": "Gọi hàm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do task.",
+          "vi": "Thực hiện tác vụ."
+        },
+        {
+          "speaker": "B",
+          "en": "Return result.",
+          "vi": "Trả về kết quả."
+        }
+      ]
+    },
+    {
+      "word": "Developer",
+      "ipa": "/dɪˈvɛləpər/",
+      "meaning": "Nhà phát triển",
+      "example": {
+        "en": "Web developer.",
+        "vi": "Nhà phát triển web."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Write software.",
+          "vi": "Viết phần mềm."
+        },
+        {
+          "speaker": "B",
+          "en": "High salary.",
+          "vi": "Lương cao."
+        }
+      ]
+    },
+    {
+      "word": "Source",
+      "ipa": "/sɔːrs/",
+      "meaning": "Nguồn",
+      "example": {
+        "en": "Source code.",
+        "vi": "Mã nguồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Open source.",
+          "vi": "Mã nguồn mở."
+        },
+        {
+          "speaker": "B",
+          "en": "Edit it.",
+          "vi": "Chỉnh sửa nó."
+        }
+      ]
+    },
+    {
+      "word": "Error",
+      "ipa": "/ˈɛrər/",
+      "meaning": "Lỗi",
+      "example": {
+        "en": "Syntax error.",
+        "vi": "Lỗi cú pháp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Red text.",
+          "vi": "Chữ đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Missing semicolon.",
+          "vi": "Thiếu dấu chấm phẩy."
+        }
+      ]
+    }
+  ]
 }

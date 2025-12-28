@@ -1,6 +1,217 @@
 {
   "id": "156",
   "title": "156. Cloud Storage – Lưu trữ đám mây",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Cloud",
+      "ipa": "/klaʊd/",
+      "meaning": "Đám mây",
+      "example": {
+        "en": "Store in cloud.",
+        "vi": "Lưu trên đám mây."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Access files.",
+          "vi": "Truy cập tệp tin."
+        },
+        {
+          "speaker": "B",
+          "en": "Anywhere.",
+          "vi": "Bất cứ đâu."
+        }
+      ]
+    },
+    {
+      "word": "Upload",
+      "ipa": "/ˈʌploʊd/",
+      "meaning": "Tải lên",
+      "example": {
+        "en": "Upload photo.",
+        "vi": "Tải ảnh lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Backup data.",
+          "vi": "Sao lưu dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "It is safe.",
+          "vi": "Nó an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Download",
+      "ipa": "/ˈdaʊnloʊd/",
+      "meaning": "Tải xuống",
+      "example": {
+        "en": "Download file.",
+        "vi": "Tải tệp xuống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Get document.",
+          "vi": "Lấy tài liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Fast speed.",
+          "vi": "Tốc độ nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Sync",
+      "ipa": "/sɪŋk/",
+      "meaning": "Đồng bộ hóa",
+      "example": {
+        "en": "Sync devices.",
+        "vi": "Đồng bộ thiết bị."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Phone to PC.",
+          "vi": "Điện thoại sang máy tính."
+        },
+        {
+          "speaker": "B",
+          "en": "Automatic.",
+          "vi": "Tự động."
+        }
+      ]
+    },
+    {
+      "word": "Share",
+      "ipa": "/ʃɛər/",
+      "meaning": "Chia sẻ",
+      "example": {
+        "en": "Share link.",
+        "vi": "Chia sẻ liên kết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Send folder.",
+          "vi": "Gửi thư mục."
+        },
+        {
+          "speaker": "B",
+          "en": "Collaborate.",
+          "vi": "Cộng tác."
+        }
+      ]
+    },
+    {
+      "word": "Storage",
+      "ipa": "/ˈstɔːrɪdʒ/",
+      "meaning": "Lưu trữ",
+      "example": {
+        "en": "Full storage.",
+        "vi": "Bộ nhớ đầy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy more.",
+          "vi": "Mua thêm."
+        },
+        {
+          "speaker": "B",
+          "en": "Delete old.",
+          "vi": "Xóa cái cũ."
+        }
+      ]
+    },
+    {
+      "word": "Backup",
+      "ipa": "/ˈbækʌp/",
+      "meaning": "Sao lưu",
+      "example": {
+        "en": "Daily backup.",
+        "vi": "Sao lưu hàng ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't lose it.",
+          "vi": "Đừng làm mất."
+        },
+        {
+          "speaker": "B",
+          "en": "Restore.",
+          "vi": "Khôi phục."
+        }
+      ]
+    },
+    {
+      "word": "Drive",
+      "ipa": "/draɪv/",
+      "meaning": "Ổ đĩa (đám mây)",
+      "example": {
+        "en": "Google Drive.",
+        "vi": "Google Drive."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save here.",
+          "vi": "Lưu ở đây."
+        },
+        {
+          "speaker": "B",
+          "en": "Organize.",
+          "vi": "Sắp xếp."
+        }
+      ]
+    },
+    {
+      "word": "Secure",
+      "ipa": "/sɪˈkjʊər/",
+      "meaning": "Bảo mật",
+      "example": {
+        "en": "Secure cloud.",
+        "vi": "Đám mây bảo mật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Encrypted.",
+          "vi": "Đã mã hóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Private.",
+          "vi": "Riêng tư."
+        }
+      ]
+    },
+    {
+      "word": "Access",
+      "ipa": "/ˈæksɛs/",
+      "meaning": "Truy cập",
+      "example": {
+        "en": "Grant access.",
+        "vi": "Cấp quyền truy cập."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Login first.",
+          "vi": "Đăng nhập trước."
+        },
+        {
+          "speaker": "B",
+          "en": "Permission.",
+          "vi": "Quyền hạn."
+        }
+      ]
+    }
+  ]
 }

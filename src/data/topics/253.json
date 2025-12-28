@@ -1,6 +1,217 @@
 {
   "id": "253",
   "title": "253. Nursing Vocabulary – Điều dưỡng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Nurse",
+      "ipa": "/nɜːrs/",
+      "meaning": "Y tá / Điều dưỡng",
+      "example": {
+        "en": "Kind nurse.",
+        "vi": "Y tá tốt bụng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Care.",
+          "vi": "Chăm sóc."
+        },
+        {
+          "speaker": "B",
+          "en": "Patient.",
+          "vi": "Bệnh nhân."
+        }
+      ]
+    },
+    {
+      "word": "Patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "meaning": "Bệnh nhân",
+      "example": {
+        "en": "Sick patient.",
+        "vi": "Bệnh nhân ốm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wait.",
+          "vi": "Chờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Doctor.",
+          "vi": "Bác sĩ."
+        }
+      ]
+    },
+    {
+      "word": "Care",
+      "ipa": "/kɛər/",
+      "meaning": "Chăm sóc",
+      "example": {
+        "en": "Take care.",
+        "vi": "Chăm sóc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Help.",
+          "vi": "Giúp đỡ."
+        },
+        {
+          "speaker": "B",
+          "en": "Health.",
+          "vi": "Sức khỏe."
+        }
+      ]
+    },
+    {
+      "word": "Medicine",
+      "ipa": "/ˈmɛdɪsɪn/",
+      "meaning": "Thuốc",
+      "example": {
+        "en": "Give medicine.",
+        "vi": "Phát thuốc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dose.",
+          "vi": "Liều lượng."
+        },
+        {
+          "speaker": "B",
+          "en": "Time.",
+          "vi": "Thời gian."
+        }
+      ]
+    },
+    {
+      "word": "Injection",
+      "ipa": "/ɪnˈdʒɛkʃən/",
+      "meaning": "Tiêm",
+      "example": {
+        "en": "Flu injection.",
+        "vi": "Tiêm cúm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Needle.",
+          "vi": "Kim tiêm."
+        },
+        {
+          "speaker": "B",
+          "en": "Hurt.",
+          "vi": "Đau."
+        }
+      ]
+    },
+    {
+      "word": "Blood",
+      "ipa": "/blʌd/",
+      "meaning": "Máu",
+      "example": {
+        "en": "Draw blood.",
+        "vi": "Lấy máu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Test.",
+          "vi": "Xét nghiệm."
+        },
+        {
+          "speaker": "B",
+          "en": "Pressure.",
+          "vi": "Huyết áp."
+        }
+      ]
+    },
+    {
+      "word": "Record",
+      "ipa": "/ˈrɛkərd/",
+      "meaning": "Hồ sơ bệnh án",
+      "example": {
+        "en": "Medical record.",
+        "vi": "Hồ sơ y tế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "History.",
+          "vi": "Lịch sử."
+        },
+        {
+          "speaker": "B",
+          "en": "Check.",
+          "vi": "Kiểm tra."
+        }
+      ]
+    },
+    {
+      "word": "Shift",
+      "ipa": "/ʃɪft/",
+      "meaning": "Ca trực",
+      "example": {
+        "en": "Night shift.",
+        "vi": "Ca đêm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tired.",
+          "vi": "Mệt."
+        },
+        {
+          "speaker": "B",
+          "en": "Long.",
+          "vi": "Dài."
+        }
+      ]
+    },
+    {
+      "word": "Emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning": "Cấp cứu",
+      "example": {
+        "en": "Emergency room.",
+        "vi": "Phòng cấp cứu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast.",
+          "vi": "Nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Urgent.",
+          "vi": "Khẩn cấp."
+        }
+      ]
+    },
+    {
+      "word": "Uniform",
+      "ipa": "/ˈjuːnɪfɔːrm/",
+      "meaning": "Đồng phục",
+      "example": {
+        "en": "White uniform.",
+        "vi": "Đồng phục trắng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wear.",
+          "vi": "Mặc."
+        },
+        {
+          "speaker": "B",
+          "en": "Identify.",
+          "vi": "Nhận diện."
+        }
+      ]
+    }
+  ]
 }

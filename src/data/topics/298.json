@@ -1,6 +1,217 @@
 {
   "id": "298",
   "title": "298. Breakups & Relationships – Chia tay & quan hệ",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Break up",
+      "ipa": "/breɪk ʌp/",
+      "meaning": "Chia tay",
+      "example": {
+        "en": "They broke up.",
+        "vi": "Họ đã chia tay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Why?",
+          "vi": "Tại sao?"
+        },
+        {
+          "speaker": "B",
+          "en": "Fight.",
+          "vi": "Cãi nhau."
+        }
+      ]
+    },
+    {
+      "word": "Single",
+      "ipa": "/ˈsɪŋɡəl/",
+      "meaning": "Độc thân",
+      "example": {
+        "en": "I am single.",
+        "vi": "Tôi độc thân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Free.",
+          "vi": "Tự do."
+        },
+        {
+          "speaker": "B",
+          "en": "Mingle.",
+          "vi": "Giao lưu."
+        }
+      ]
+    },
+    {
+      "word": "Ex",
+      "ipa": "/ɛks/",
+      "meaning": "Người yêu cũ",
+      "example": {
+        "en": "My ex.",
+        "vi": "Người yêu cũ của tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Forget.",
+          "vi": "Quên đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Move on.",
+          "vi": "Tiếp tục sống."
+        }
+      ]
+    },
+    {
+      "word": "Fight",
+      "ipa": "/faɪt/",
+      "meaning": "Cãi nhau",
+      "example": {
+        "en": "Big fight.",
+        "vi": "Cãi nhau to."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Angry.",
+          "vi": "Tức giận."
+        },
+        {
+          "speaker": "B",
+          "en": "Sorry.",
+          "vi": "Xin lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Sad",
+      "ipa": "/sæd/",
+      "meaning": "Buồn",
+      "example": {
+        "en": "Feel sad.",
+        "vi": "Cảm thấy buồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cry.",
+          "vi": "Khóc."
+        },
+        {
+          "speaker": "B",
+          "en": "Cheer up.",
+          "vi": "Vui lên."
+        }
+      ]
+    },
+    {
+      "word": "Cry",
+      "ipa": "/kraɪ/",
+      "meaning": "Khóc",
+      "example": {
+        "en": "Don't cry.",
+        "vi": "Đừng khóc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Tears.",
+          "vi": "Nước mắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Ổn thôi."
+        }
+      ]
+    },
+    {
+      "word": "Miss",
+      "ipa": "/mɪs/",
+      "meaning": "Nhớ",
+      "example": {
+        "en": "I miss you.",
+        "vi": "Tôi nhớ bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call.",
+          "vi": "Gọi điện."
+        },
+        {
+          "speaker": "B",
+          "en": "Text.",
+          "vi": "Nhắn tin."
+        }
+      ]
+    },
+    {
+      "word": "Heartbreak",
+      "ipa": "/ˈhɑːrtbreɪk/",
+      "meaning": "Đau khổ",
+      "example": {
+        "en": "Feel heartbreak.",
+        "vi": "Cảm thấy đau khổ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pain.",
+          "vi": "Đau."
+        },
+        {
+          "speaker": "B",
+          "en": "Time.",
+          "vi": "Thời gian."
+        }
+      ]
+    },
+    {
+      "word": "Divorce",
+      "ipa": "/dɪˈvɔːrs/",
+      "meaning": "Ly hôn",
+      "example": {
+        "en": "Get divorced.",
+        "vi": "Ly hôn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "End.",
+          "vi": "Kết thúc."
+        },
+        {
+          "speaker": "B",
+          "en": "Papers.",
+          "vi": "Giấy tờ."
+        }
+      ]
+    },
+    {
+      "word": "Friend",
+      "ipa": "/frɛnd/",
+      "meaning": "Bạn bè",
+      "example": {
+        "en": "Just friends.",
+        "vi": "Chỉ là bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Support.",
+          "vi": "Ủng hộ."
+        },
+        {
+          "speaker": "B",
+          "en": "Talk.",
+          "vi": "Nói chuyện."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "146",
   "title": "146. Cybersecurity – An ninh mạng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Hacker",
+      "ipa": "/ˈhækər/",
+      "meaning": "Tin tặc",
+      "example": {
+        "en": "Black hat hacker.",
+        "vi": "Tin tặc mũ đen."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Steal data.",
+          "vi": "Đánh cắp dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Protect system.",
+          "vi": "Bảo vệ hệ thống."
+        }
+      ]
+    },
+    {
+      "word": "Malware",
+      "ipa": "/ˈmælwɛər/",
+      "meaning": "Phần mềm độc hại",
+      "example": {
+        "en": "Detect malware.",
+        "vi": "Phát hiện phần mềm độc hại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Harm computer.",
+          "vi": "Gây hại máy tính."
+        },
+        {
+          "speaker": "B",
+          "en": "Remove it.",
+          "vi": "Gỡ bỏ nó."
+        }
+      ]
+    },
+    {
+      "word": "Phishing",
+      "ipa": "/ˈfɪʃɪŋ/",
+      "meaning": "Lừa đảo (qua mạng)",
+      "example": {
+        "en": "Phishing email.",
+        "vi": "Email lừa đảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fake bank.",
+          "vi": "Ngân hàng giả mạo."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't click.",
+          "vi": "Đừng nhấn vào."
+        }
+      ]
+    },
+    {
+      "word": "Firewall",
+      "ipa": "/ˈfaɪərwɔːl/",
+      "meaning": "Tường lửa",
+      "example": {
+        "en": "Network firewall.",
+        "vi": "Tường lửa mạng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Block access.",
+          "vi": "Chặn truy cập."
+        },
+        {
+          "speaker": "B",
+          "en": "Security layer.",
+          "vi": "Lớp bảo mật."
+        }
+      ]
+    },
+    {
+      "word": "Encrypt",
+      "ipa": "/ɪnˈkrɪpt/",
+      "meaning": "Mã hóa",
+      "example": {
+        "en": "Encrypt files.",
+        "vi": "Mã hóa tệp tin."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Secret code.",
+          "vi": "Mã bí mật."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe sending.",
+          "vi": "Gửi an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Vulnerable",
+      "ipa": "/ˈvʌlnərəbəl/",
+      "meaning": "Dễ bị tấn công / Lỗ hổng",
+      "example": {
+        "en": "Security vulnerable.",
+        "vi": "Lỗ hổng bảo mật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Patch it.",
+          "vi": "Vá nó lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Update soft.",
+          "vi": "Cập nhật phần mềm."
+        }
+      ]
+    },
+    {
+      "word": "Attack",
+      "ipa": "/əˈtæk/",
+      "meaning": "Tấn công",
+      "example": {
+        "en": "Cyber attack.",
+        "vi": "Tấn công mạng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "System down.",
+          "vi": "Hệ thống sập."
+        },
+        {
+          "speaker": "B",
+          "en": "Defend now.",
+          "vi": "Phòng thủ ngay."
+        }
+      ]
+    },
+    {
+      "word": "Password",
+      "ipa": "/ˈpæswɜːrd/",
+      "meaning": "Mật khẩu",
+      "example": {
+        "en": "Reset password.",
+        "vi": "Đặt lại mật khẩu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too weak.",
+          "vi": "Quá yếu."
+        },
+        {
+          "speaker": "B",
+          "en": "Make strong.",
+          "vi": "Làm cho mạnh."
+        }
+      ]
+    },
+    {
+      "word": "Identity",
+      "ipa": "/aɪˈdɛntɪti/",
+      "meaning": "Danh tính",
+      "example": {
+        "en": "Identity theft.",
+        "vi": "Trộm cắp danh tính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pretend be you.",
+          "vi": "Giả danh bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Report police.",
+          "vi": "Báo cảnh sát."
+        }
+      ]
+    },
+    {
+      "word": "Patch",
+      "ipa": "/pætʃ/",
+      "meaning": "Bản vá",
+      "example": {
+        "en": "Security patch.",
+        "vi": "Bản vá bảo mật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fix bug.",
+          "vi": "Sửa lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "Install update.",
+          "vi": "Cài đặt cập nhật."
+        }
+      ]
+    }
+  ]
 }

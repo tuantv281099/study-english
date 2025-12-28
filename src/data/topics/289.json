@@ -1,6 +1,217 @@
 {
   "id": "289",
   "title": "289. Self-care – Chăm sóc bản thân",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Self-care",
+      "ipa": "/sɛlf kɛər/",
+      "meaning": "Chăm sóc bản thân",
+      "example": {
+        "en": "Daily self-care.",
+        "vi": "Chăm sóc bản thân hàng ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Important.",
+          "vi": "Quan trọng."
+        },
+        {
+          "speaker": "B",
+          "en": "Love me.",
+          "vi": "Yêu bản thân."
+        }
+      ]
+    },
+    {
+      "word": "Rest",
+      "ipa": "/rɛst/",
+      "meaning": "Nghỉ ngơi",
+      "example": {
+        "en": "Get rest.",
+        "vi": "Nghỉ ngơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Sleep.",
+          "vi": "Ngủ."
+        },
+        {
+          "speaker": "B",
+          "en": "Tired.",
+          "vi": "Mệt."
+        }
+      ]
+    },
+    {
+      "word": "Relax",
+      "ipa": "/rɪˈlæks/",
+      "meaning": "Thư giãn",
+      "example": {
+        "en": "Relax mind.",
+        "vi": "Thư giãn tâm trí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Chill.",
+          "vi": "Thư thái."
+        },
+        {
+          "speaker": "B",
+          "en": "Calm.",
+          "vi": "Bình tĩnh."
+        }
+      ]
+    },
+    {
+      "word": "Spa",
+      "ipa": "/spɑː/",
+      "meaning": "Spa",
+      "example": {
+        "en": "Spa day.",
+        "vi": "Ngày đi spa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Massage.",
+          "vi": "Mát xa."
+        },
+        {
+          "speaker": "B",
+          "en": "Treat.",
+          "vi": "Trị liệu."
+        }
+      ]
+    },
+    {
+      "word": "Hobby",
+      "ipa": "/ˈhɒbi/",
+      "meaning": "Sở thích",
+      "example": {
+        "en": "Fun hobby.",
+        "vi": "Sở thích vui vẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Enjoy.",
+          "vi": "Tận hưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Time.",
+          "vi": "Thời gian."
+        }
+      ]
+    },
+    {
+      "word": "Meditate",
+      "ipa": "/ˈmɛdɪteɪt/",
+      "meaning": "Thiền",
+      "example": {
+        "en": "Meditate daily.",
+        "vi": "Thiền hàng ngày."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Peace.",
+          "vi": "Bình yên."
+        },
+        {
+          "speaker": "B",
+          "en": "Breath.",
+          "vi": "Hơi thở."
+        }
+      ]
+    },
+    {
+      "word": "Eat",
+      "ipa": "/iːt/",
+      "meaning": "Ăn uống",
+      "example": {
+        "en": "Eat well.",
+        "vi": "Ăn uống lành mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Food.",
+          "vi": "Thức ăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Healthy.",
+          "vi": "Khỏe."
+        }
+      ]
+    },
+    {
+      "word": "Exercise",
+      "ipa": "/ˈɛksərsaɪz/",
+      "meaning": "Tập thể dục",
+      "example": {
+        "en": "Light exercise.",
+        "vi": "Tập thể dục nhẹ nhàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Move.",
+          "vi": "Vận động."
+        },
+        {
+          "speaker": "B",
+          "en": "Body.",
+          "vi": "Cơ thể."
+        }
+      ]
+    },
+    {
+      "word": "Sleep",
+      "ipa": "/sliːp/",
+      "meaning": "Giấc ngủ",
+      "example": {
+        "en": "Good sleep.",
+        "vi": "Giấc ngủ ngon."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Night.",
+          "vi": "Đêm."
+        },
+        {
+          "speaker": "B",
+          "en": "Dream.",
+          "vi": "Mơ."
+        }
+      ]
+    },
+    {
+      "word": "Treat",
+      "ipa": "/triːt/",
+      "meaning": "Đối đãi / Tự thưởng",
+      "example": {
+        "en": "Treat yourself.",
+        "vi": "Tự thưởng cho mình."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Gift.",
+          "vi": "Quà."
+        },
+        {
+          "speaker": "B",
+          "en": "Deserve.",
+          "vi": "Xứng đáng."
+        }
+      ]
+    }
+  ]
 }

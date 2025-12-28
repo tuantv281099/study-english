@@ -1,6 +1,217 @@
 {
   "id": "102",
   "title": "102. Job Interview Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Interview",
+      "ipa": "/ˈɪntərvjuː/",
+      "meaning": "Phỏng vấn",
+      "example": {
+        "en": "Job interview.",
+        "vi": "Phỏng vấn xin việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you nervous?",
+          "vi": "Bạn có lo lắng không?"
+        },
+        {
+          "speaker": "B",
+          "en": "A little bit.",
+          "vi": "Một chút."
+        }
+      ]
+    },
+    {
+      "word": "Resume",
+      "ipa": "/rɪˈzuːm/",
+      "meaning": "Sơ yếu lý lịch (CV)",
+      "example": {
+        "en": "Submit resume.",
+        "vi": "Nộp CV."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Update skills.",
+          "vi": "Cập nhật kỹ năng."
+        },
+        {
+          "speaker": "B",
+          "en": "Check spelling.",
+          "vi": "Kiểm tra chính tả."
+        }
+      ]
+    },
+    {
+      "word": "Experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "meaning": "Kinh nghiệm",
+      "example": {
+        "en": "Work experience.",
+        "vi": "Kinh nghiệm làm việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "5 years.",
+          "vi": "5 năm."
+        },
+        {
+          "speaker": "B",
+          "en": "Relevant field.",
+          "vi": "Lĩnh vực liên quan."
+        }
+      ]
+    },
+    {
+      "word": "Skill",
+      "ipa": "/skɪl/",
+      "meaning": "Kỹ năng",
+      "example": {
+        "en": "Soft skills.",
+        "vi": "Kỹ năng mềm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Communication.",
+          "vi": "Giao tiếp."
+        },
+        {
+          "speaker": "B",
+          "en": "Teamwork.",
+          "vi": "Làm việc nhóm."
+        }
+      ]
+    },
+    {
+      "word": "Offer",
+      "ipa": "/ˈɒfər/",
+      "meaning": "Lời đề nghị",
+      "example": {
+        "en": "Job offer.",
+        "vi": "Lời mời làm việc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Accept or reject?",
+          "vi": "Chấp nhận hay từ chối?"
+        },
+        {
+          "speaker": "B",
+          "en": "Negotiate salary.",
+          "vi": "Đàm phán lương."
+        }
+      ]
+    },
+    {
+      "word": "Salary",
+      "ipa": "/ˈsæləri/",
+      "meaning": "Lương",
+      "example": {
+        "en": "High salary.",
+        "vi": "Lương cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Monthly pay.",
+          "vi": "Trả hàng tháng."
+        },
+        {
+          "speaker": "B",
+          "en": "Before tax.",
+          "vi": "Trước thuế."
+        }
+      ]
+    },
+    {
+      "word": "Position",
+      "ipa": "/pəˈzɪʃən/",
+      "meaning": "Vị trí",
+      "example": {
+        "en": "Manager position.",
+        "vi": "Vị trí quản lý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Apply for it.",
+          "vi": "Ứng tuyển đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Open vacancy.",
+          "vi": "Vị trí còn trống."
+        }
+      ]
+    },
+    {
+      "word": "Reference",
+      "ipa": "/ˈrɛfərəns/",
+      "meaning": "Người tham khảo",
+      "example": {
+        "en": "Check references.",
+        "vi": "Kiểm tra người tham khảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Former boss.",
+          "vi": "Sếp cũ."
+        },
+        {
+          "speaker": "B",
+          "en": "Good words.",
+          "vi": "Lời khen ngợi."
+        }
+      ]
+    },
+    {
+      "word": "Suit",
+      "ipa": "/suːt/",
+      "meaning": "Bộ com-lê",
+      "example": {
+        "en": "Wear a suit.",
+        "vi": "Mặc vest."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look professional.",
+          "vi": "Trông chuyên nghiệp."
+        },
+        {
+          "speaker": "B",
+          "en": "First impression.",
+          "vi": "Ấn tượng đầu tiên."
+        }
+      ]
+    },
+    {
+      "word": "Candidate",
+      "ipa": "/ˈkændɪdeɪt/",
+      "meaning": "Ứng viên",
+      "example": {
+        "en": "Best candidate.",
+        "vi": "Ứng viên tốt nhất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hire him.",
+          "vi": "Thuê anh ấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Good fit.",
+          "vi": "Phù hợp đấy."
+        }
+      ]
+    }
+  ]
 }

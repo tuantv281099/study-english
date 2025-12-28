@@ -1,6 +1,217 @@
 {
   "id": "199",
   "title": "199. Cultural Identity – Bản sắc văn hóa",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Identity",
+      "ipa": "/aɪˈdɛntɪti/",
+      "meaning": "Bản sắc / Danh tính",
+      "example": {
+        "en": "Cultural identity.",
+        "vi": "Bản sắc văn hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Who am I?",
+          "vi": "Tôi là ai?"
+        },
+        {
+          "speaker": "B",
+          "en": "Roots.",
+          "vi": "Cội nguồn."
+        }
+      ]
+    },
+    {
+      "word": "Heritage",
+      "ipa": "/ˈhɛrɪtɪdʒ/",
+      "meaning": "Di sản",
+      "example": {
+        "en": "Proud heritage.",
+        "vi": "Di sản đáng tự hào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ancestors.",
+          "vi": "Tổ tiên."
+        },
+        {
+          "speaker": "B",
+          "en": "History.",
+          "vi": "Lịch sử."
+        }
+      ]
+    },
+    {
+      "word": "Values",
+      "ipa": "/ˈvæljuːz/",
+      "meaning": "Giá trị",
+      "example": {
+        "en": "Core values.",
+        "vi": "Giá trị cốt lõi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Family first.",
+          "vi": "Gia đình là trên hết."
+        },
+        {
+          "speaker": "B",
+          "en": "Honesty.",
+          "vi": "Trung thực."
+        }
+      ]
+    },
+    {
+      "word": "Language",
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "meaning": "Ngôn ngữ",
+      "example": {
+        "en": "Mother tongue.",
+        "vi": "Tiếng mẹ đẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Speak at home.",
+          "vi": "Nói ở nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Keep it alive.",
+          "vi": "Giữ gìn nó."
+        }
+      ]
+    },
+    {
+      "word": "Tradition",
+      "ipa": "/trəˈdɪʃən/",
+      "meaning": "Truyền thống",
+      "example": {
+        "en": "Follow tradition.",
+        "vi": "Theo truyền thống."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Food.",
+          "vi": "Ẩm thực."
+        },
+        {
+          "speaker": "B",
+          "en": "Clothing.",
+          "vi": "Trang phục."
+        }
+      ]
+    },
+    {
+      "word": "Belong",
+      "ipa": "/bɪˈlɒŋ/",
+      "meaning": "Thuộc về",
+      "example": {
+        "en": "Belong to group.",
+        "vi": "Thuộc về nhóm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Community.",
+          "vi": "Cộng đồng."
+        },
+        {
+          "speaker": "B",
+          "en": "Accepted.",
+          "vi": "Được chấp nhận."
+        }
+      ]
+    },
+    {
+      "word": "Unique",
+      "ipa": "/juːˈniːk/",
+      "meaning": "Độc đáo",
+      "example": {
+        "en": "Unique culture.",
+        "vi": "Văn hóa độc đáo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Special.",
+          "vi": "Đặc biệt."
+        },
+        {
+          "speaker": "B",
+          "en": "Different.",
+          "vi": "Khác biệt."
+        }
+      ]
+    },
+    {
+      "word": "Proud",
+      "ipa": "/praʊd/",
+      "meaning": "Tự hào",
+      "example": {
+        "en": "Proud of culture.",
+        "vi": "Tự hào về văn hóa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show it.",
+          "vi": "Thể hiện nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Share it.",
+          "vi": "Chia sẻ nó."
+        }
+      ]
+    },
+    {
+      "word": "Modern",
+      "ipa": "/ˈmɒdərn/",
+      "meaning": "Hiện đại",
+      "example": {
+        "en": "Modern identity.",
+        "vi": "Bản sắc hiện đại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mix old new.",
+          "vi": "Kết hợp cũ mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Evolve.",
+          "vi": "Phát triển."
+        }
+      ]
+    },
+    {
+      "word": "Root",
+      "ipa": "/ruːt/",
+      "meaning": "Gốc rễ / Cội nguồn",
+      "example": {
+        "en": "Know your roots.",
+        "vi": "Biết về cội nguồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Visit home.",
+          "vi": "Thăm quê hương."
+        },
+        {
+          "speaker": "B",
+          "en": "Connection.",
+          "vi": "Kết nối."
+        }
+      ]
+    }
+  ]
 }

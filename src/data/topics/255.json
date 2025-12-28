@@ -1,6 +1,217 @@
 {
   "id": "255",
   "title": "255. Architecture Vocabulary – Kiến trúc",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Building",
+      "ipa": "/ˈbɪldɪŋ/",
+      "meaning": "Tòa nhà / Công trình",
+      "example": {
+        "en": "High building.",
+        "vi": "Tòa nhà cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Office.",
+          "vi": "Văn phòng."
+        },
+        {
+          "speaker": "B",
+          "en": "Design.",
+          "vi": "Thiết kế."
+        }
+      ]
+    },
+    {
+      "word": "Style",
+      "ipa": "/staɪl/",
+      "meaning": "Phong cách",
+      "example": {
+        "en": "Modern style.",
+        "vi": "Phong cách hiện đại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look.",
+          "vi": "Vẻ ngoài."
+        },
+        {
+          "speaker": "B",
+          "en": "Unique.",
+          "vi": "Độc đáo."
+        }
+      ]
+    },
+    {
+      "word": "Plan",
+      "ipa": "/plæn/",
+      "meaning": "Bản vẽ / Kế hoạch",
+      "example": {
+        "en": "Floor plan.",
+        "vi": "Bản vẽ mặt bằng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Room.",
+          "vi": "Phòng."
+        },
+        {
+          "speaker": "B",
+          "en": "Layout.",
+          "vi": "Bố trí."
+        }
+      ]
+    },
+    {
+      "word": "Space",
+      "ipa": "/speɪs/",
+      "meaning": "Không gian",
+      "example": {
+        "en": "Open space.",
+        "vi": "Không gian mở."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wide.",
+          "vi": "Rộng."
+        },
+        {
+          "speaker": "B",
+          "en": "Light.",
+          "vi": "Ánh sáng."
+        }
+      ]
+    },
+    {
+      "word": "Design",
+      "ipa": "/dɪˈzaɪn/",
+      "meaning": "Thiết kế",
+      "example": {
+        "en": "Interior design.",
+        "vi": "Thiết kế nội thất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Beautiful.",
+          "vi": "Đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Functional.",
+          "vi": "Tiện dụng."
+        }
+      ]
+    },
+    {
+      "word": "Form",
+      "ipa": "/fɔːrm/",
+      "meaning": "Hình khối / Hình thức",
+      "example": {
+        "en": "Shape and form.",
+        "vi": "Hình dáng và hình khối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Curve.",
+          "vi": "Đường cong."
+        },
+        {
+          "speaker": "B",
+          "en": "Square.",
+          "vi": "Vuông."
+        }
+      ]
+    },
+    {
+      "word": "Site",
+      "ipa": "/saɪt/",
+      "meaning": "Khu đất / Địa điểm",
+      "example": {
+        "en": "Construction site.",
+        "vi": "Công trường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Location.",
+          "vi": "Vị trí."
+        },
+        {
+          "speaker": "B",
+          "en": "Visit.",
+          "vi": "Thăm."
+        }
+      ]
+    },
+    {
+      "word": "Architect",
+      "ipa": "/ˈɑːrkɪtɛkt/",
+      "meaning": "Kiến trúc sư",
+      "example": {
+        "en": "Famous architect.",
+        "vi": "Kiến trúc sư nổi tiếng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Draw.",
+          "vi": "Vẽ."
+        },
+        {
+          "speaker": "B",
+          "en": "Create.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Sketch",
+      "ipa": "/skɛtʃ/",
+      "meaning": "Phác thảo",
+      "example": {
+        "en": "Hand sketch.",
+        "vi": "Phác thảo tay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Idea.",
+          "vi": "Ý tưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Pencil.",
+          "vi": "Bút chì."
+        }
+      ]
+    },
+    {
+      "word": "Model",
+      "ipa": "/ˈmɒdl/",
+      "meaning": "Mô hình",
+      "example": {
+        "en": "Scale model.",
+        "vi": "Mô hình tỷ lệ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "3D.",
+          "vi": "3D."
+        },
+        {
+          "speaker": "B",
+          "en": "Show.",
+          "vi": "Trình diễn."
+        }
+      ]
+    }
+  ]
 }

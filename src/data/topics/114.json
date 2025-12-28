@@ -1,6 +1,217 @@
 {
   "id": "114",
   "title": "114. Emails & Reports",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Email",
+      "ipa": "/ˈiːmeɪl/",
+      "meaning": "Thư điện tử",
+      "example": {
+        "en": "Send an email.",
+        "vi": "Gửi một email."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What is your address?",
+          "vi": "Địa chỉ email của bạn là gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Check inbox.",
+          "vi": "Kiểm tra hộp thư đến."
+        }
+      ]
+    },
+    {
+      "word": "Report",
+      "ipa": "/rɪˈpɔːrt/",
+      "meaning": "Báo cáo",
+      "example": {
+        "en": "Sales report.",
+        "vi": "Báo cáo doanh số."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it done?",
+          "vi": "Xong chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Almost finished.",
+          "vi": "Gần xong rồi."
+        }
+      ]
+    },
+    {
+      "word": "Subject",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "meaning": "Chủ đề",
+      "example": {
+        "en": "Email subject.",
+        "vi": "Chủ đề email."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Make it clear.",
+          "vi": "Viết rõ ràng vào."
+        },
+        {
+          "speaker": "B",
+          "en": "Important.",
+          "vi": "Quan trọng."
+        }
+      ]
+    },
+    {
+      "word": "Attachment",
+      "ipa": "/əˈtætʃmənt/",
+      "meaning": "Tệp đính kèm",
+      "example": {
+        "en": "Open attachment.",
+        "vi": "Mở tệp đính kèm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "File is big.",
+          "vi": "Tệp lớn quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Use a link.",
+          "vi": "Dùng liên kết đi."
+        }
+      ]
+    },
+    {
+      "word": "Reply",
+      "ipa": "/rɪˈplaɪ/",
+      "meaning": "Trả lời",
+      "example": {
+        "en": "Reply to all.",
+        "vi": "Trả lời tất cả."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Did you answer?",
+          "vi": "Bạn trả lời chưa?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, just now.",
+          "vi": "Rồi, vừa xong."
+        }
+      ]
+    },
+    {
+      "word": "Forward",
+      "ipa": "/ˈfɔːrwərd/",
+      "meaning": "Chuyển tiếp",
+      "example": {
+        "en": "Forward the email.",
+        "vi": "Chuyển tiếp email."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Send it to him.",
+          "vi": "Gửi cho anh ấy đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Done.",
+          "vi": "Xong rồi."
+        }
+      ]
+    },
+    {
+      "word": "Draft",
+      "ipa": "/dræft/",
+      "meaning": "Bản nháp",
+      "example": {
+        "en": "Save as draft.",
+        "vi": "Lưu làm bản nháp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't send yet.",
+          "vi": "Đừng gửi vội."
+        },
+        {
+          "speaker": "B",
+          "en": "Edit first.",
+          "vi": "Chỉnh sửa đã."
+        }
+      ]
+    },
+    {
+      "word": "Summary",
+      "ipa": "/ˈsʌməri/",
+      "meaning": "Tóm tắt",
+      "example": {
+        "en": "Executive summary.",
+        "vi": "Tóm tắt điều hành."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Too long.",
+          "vi": "Dài quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Shorten it.",
+          "vi": "Rút ngắn lại."
+        }
+      ]
+    },
+    {
+      "word": "Chart",
+      "ipa": "/tʃɑːrt/",
+      "meaning": "Biểu đồ",
+      "example": {
+        "en": "Pie chart.",
+        "vi": "Biểu đồ tròn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show data.",
+          "vi": "Hiển thị dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Easy to see.",
+          "vi": "Dễ nhìn."
+        }
+      ]
+    },
+    {
+      "word": "Deadline",
+      "ipa": "/ˈdɛdlaɪn/",
+      "meaning": "Hạn chót",
+      "example": {
+        "en": "Meet the deadline.",
+        "vi": "Kịp hạn chót."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "When is it due?",
+          "vi": "Khi nào đến hạn?"
+        },
+        {
+          "speaker": "B",
+          "en": "Tomorrow.",
+          "vi": "Ngày mai."
+        }
+      ]
+    }
+  ]
 }

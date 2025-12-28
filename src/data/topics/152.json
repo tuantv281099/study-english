@@ -1,6 +1,217 @@
 {
   "id": "152",
   "title": "152. Software Vocabulary – Phần mềm",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "App",
+      "ipa": "/æp/",
+      "meaning": "Ứng dụng",
+      "example": {
+        "en": "Mobile app.",
+        "vi": "Ứng dụng di động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Download store.",
+          "vi": "Tải từ cửa hàng."
+        },
+        {
+          "speaker": "B",
+          "en": "Useful tool.",
+          "vi": "Công cụ hữu ích."
+        }
+      ]
+    },
+    {
+      "word": "Code",
+      "ipa": "/koʊd/",
+      "meaning": "Mã",
+      "example": {
+        "en": "Source code.",
+        "vi": "Mã nguồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Programmer.",
+          "vi": "Lập trình viên."
+        },
+        {
+          "speaker": "B",
+          "en": "Write lines.",
+          "vi": "Viết dòng mã."
+        }
+      ]
+    },
+    {
+      "word": "Bug",
+      "ipa": "/bʌɡ/",
+      "meaning": "Lỗi",
+      "example": {
+        "en": "Found a bug.",
+        "vi": "Tìm thấy lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Software crash.",
+          "vi": "Phần mềm bị sập."
+        },
+        {
+          "speaker": "B",
+          "en": "Report it.",
+          "vi": "Báo cáo nó."
+        }
+      ]
+    },
+    {
+      "word": "Version",
+      "ipa": "/ˈvɜːrʒən/",
+      "meaning": "Phiên bản",
+      "example": {
+        "en": "Latest version.",
+        "vi": "Phiên bản mới nhất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Update 2.0.",
+          "vi": "Cập nhật 2.0."
+        },
+        {
+          "speaker": "B",
+          "en": "New features.",
+          "vi": "Tính năng mới."
+        }
+      ]
+    },
+    {
+      "word": "License",
+      "ipa": "/ˈlaɪsəns/",
+      "meaning": "Giấy phép",
+      "example": {
+        "en": "Software license.",
+        "vi": "Giấy phép phần mềm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy key.",
+          "vi": "Mua khóa bản quyền."
+        },
+        {
+          "speaker": "B",
+          "en": "Activate.",
+          "vi": "Kích hoạt."
+        }
+      ]
+    },
+    {
+      "word": "Interface",
+      "ipa": "/ˈɪntərpfeɪs/",
+      "meaning": "Giao diện",
+      "example": {
+        "en": "User interface.",
+        "vi": "Giao diện người dùng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Easy to use.",
+          "vi": "Dễ sử dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Looks good.",
+          "vi": "Trông đẹp."
+        }
+      ]
+    },
+    {
+      "word": "Menu",
+      "ipa": "/ˈmɛnjuː/",
+      "meaning": "Thực đơn / Menu",
+      "example": {
+        "en": "Open menu.",
+        "vi": "Mở menu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Settings.",
+          "vi": "Cài đặt."
+        },
+        {
+          "speaker": "B",
+          "en": "Options.",
+          "vi": "Tùy chọn."
+        }
+      ]
+    },
+    {
+      "word": "File",
+      "ipa": "/faɪl/",
+      "meaning": "Tệp tin",
+      "example": {
+        "en": "Save file.",
+        "vi": "Lưu tệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Doc or PDF.",
+          "vi": "Doc hay PDF."
+        },
+        {
+          "speaker": "B",
+          "en": "Organize.",
+          "vi": "Sắp xếp."
+        }
+      ]
+    },
+    {
+      "word": "Cloud",
+      "ipa": "/klaʊd/",
+      "meaning": "Đám mây",
+      "example": {
+        "en": "Cloud app.",
+        "vi": "Ứng dụng đám mây."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No install.",
+          "vi": "Không cần cài đặt."
+        },
+        {
+          "speaker": "B",
+          "en": "Run in browser.",
+          "vi": "Chạy trong trình duyệt."
+        }
+      ]
+    },
+    {
+      "word": "Open",
+      "ipa": "/ˈoʊpən/",
+      "meaning": "Mở",
+      "example": {
+        "en": "Open source.",
+        "vi": "Mã nguồn mở."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Free to use.",
+          "vi": "Miễn phí sử dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Community.",
+          "vi": "Cộng đồng."
+        }
+      ]
+    }
+  ]
 }

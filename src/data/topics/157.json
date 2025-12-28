@@ -1,6 +1,217 @@
 {
   "id": "157",
   "title": "157. UI/UX Design – Giao diện & trải nghiệm người dùng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Design",
+      "ipa": "/dɪˈzaɪn/",
+      "meaning": "Thiết kế",
+      "example": {
+        "en": "Web design.",
+        "vi": "Thiết kế web."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "User friendly.",
+          "vi": "Thân thiện người dùng."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean look.",
+          "vi": "Giao diện sạch sẽ."
+        }
+      ]
+    },
+    {
+      "word": "Interface",
+      "ipa": "/ˈɪntərpfeɪs/",
+      "meaning": "Giao diện",
+      "example": {
+        "en": "User interface.",
+        "vi": "Giao diện người dùng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buttons.",
+          "vi": "Các nút bấm."
+        },
+        {
+          "speaker": "B",
+          "en": "Colors.",
+          "vi": "Màu sắc."
+        }
+      ]
+    },
+    {
+      "word": "Flow",
+      "ipa": "/floʊ/",
+      "meaning": "Luồng (người dùng)",
+      "example": {
+        "en": "User flow.",
+        "vi": "Luồng người dùng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Step by step.",
+          "vi": "Từng bước."
+        },
+        {
+          "speaker": "B",
+          "en": "Logical.",
+          "vi": "Hợp lý."
+        }
+      ]
+    },
+    {
+      "word": "Layout",
+      "ipa": "/ˈleɪaʊt/",
+      "meaning": "Bố cục",
+      "example": {
+        "en": "Page layout.",
+        "vi": "Bố cục trang."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Arrange items.",
+          "vi": "Sắp xếp các mục."
+        },
+        {
+          "speaker": "B",
+          "en": "Grid system.",
+          "vi": "Hệ thống lưới."
+        }
+      ]
+    },
+    {
+      "word": "Prototype",
+      "ipa": "/ˈproʊtətaɪp/",
+      "meaning": "Nguyên mẫu",
+      "example": {
+        "en": "Test prototype.",
+        "vi": "Thử nghiệm nguyên mẫu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mockup.",
+          "vi": "Mô hình."
+        },
+        {
+          "speaker": "B",
+          "en": "Clickable.",
+          "vi": "Có thể nhấn được."
+        }
+      ]
+    },
+    {
+      "word": "User",
+      "ipa": "/ˈjuːzər/",
+      "meaning": "Người dùng",
+      "example": {
+        "en": "Target user.",
+        "vi": "Người dùng mục tiêu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Needs.",
+          "vi": "Nhu cầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Feedback.",
+          "vi": "Phản hồi."
+        }
+      ]
+    },
+    {
+      "word": "Experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "meaning": "Trải nghiệm",
+      "example": {
+        "en": "Good experience.",
+        "vi": "Trải nghiệm tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Easy to use.",
+          "vi": "Dễ sử dụng."
+        },
+        {
+          "speaker": "B",
+          "en": "Satisfied.",
+          "vi": "Hài lòng."
+        }
+      ]
+    },
+    {
+      "word": "Responsive",
+      "ipa": "/rɪˈspɒnsɪv/",
+      "meaning": "Thích ứng (thiết bị)",
+      "example": {
+        "en": "Responsive site.",
+        "vi": "Trang web thích ứng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mobile view.",
+          "vi": "Giao diện di động."
+        },
+        {
+          "speaker": "B",
+          "en": "Fits screen.",
+          "vi": "Vừa màn hình."
+        }
+      ]
+    },
+    {
+      "word": "Wireframe",
+      "ipa": "/ˈwaɪərfraɪm/",
+      "meaning": "Khung xương (thiết kế)",
+      "example": {
+        "en": "Draw wireframe.",
+        "vi": "Vẽ khung xương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Structure.",
+          "vi": "Cấu trúc."
+        },
+        {
+          "speaker": "B",
+          "en": "Blueprint.",
+          "vi": "Bản thiết kế."
+        }
+      ]
+    },
+    {
+      "word": "Icon",
+      "ipa": "/ˈaɪkɒn/",
+      "meaning": "Biểu tượng",
+      "example": {
+        "en": "Menu icon.",
+        "vi": "Biểu tượng menu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Visual cue.",
+          "vi": "Dấu hiệu trực quan."
+        },
+        {
+          "speaker": "B",
+          "en": "Recognizable.",
+          "vi": "Dễ nhận biết."
+        }
+      ]
+    }
+  ]
 }

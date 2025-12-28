@@ -1,6 +1,217 @@
 {
   "id": "86",
   "title": "86. Energy Sources",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Solar",
+      "ipa": "/ˈsoʊlər/",
+      "meaning": "Năng lượng mặt trời",
+      "example": {
+        "en": "Solar panel.",
+        "vi": "Tấm pin mặt trời."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Free energy.",
+          "vi": "Năng lượng miễn phí."
+        },
+        {
+          "speaker": "B",
+          "en": "From the sun.",
+          "vi": "Từ mặt trời."
+        }
+      ]
+    },
+    {
+      "word": "Wind",
+      "ipa": "/wɪnd/",
+      "meaning": "Gió",
+      "example": {
+        "en": "Wind turbine.",
+        "vi": "Tuabin gió."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Spinning blades.",
+          "vi": "Cánh quạt quay."
+        },
+        {
+          "speaker": "B",
+          "en": "Generate power.",
+          "vi": "Tạo ra điện."
+        }
+      ]
+    },
+    {
+      "word": "Coal",
+      "ipa": "/koʊl/",
+      "meaning": "Than đá",
+      "example": {
+        "en": "Burn coal.",
+        "vi": "Đốt than."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dirty energy.",
+          "vi": "Năng lượng bẩn."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop using it.",
+          "vi": "Ngừng sử dụng nó."
+        }
+      ]
+    },
+    {
+      "word": "Oil",
+      "ipa": "/ɔɪl/",
+      "meaning": "Dầu mỏ",
+      "example": {
+        "en": "Drill for oil.",
+        "vi": "Khoan dầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Oil spill.",
+          "vi": "Tràn dầu."
+        },
+        {
+          "speaker": "B",
+          "en": "Bad for sea.",
+          "vi": "Hại cho biển."
+        }
+      ]
+    },
+    {
+      "word": "Gas",
+      "ipa": "/ɡæs/",
+      "meaning": "Khí đốt / Xăng",
+      "example": {
+        "en": "Natural gas.",
+        "vi": "Khí tự nhiên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cook with gas.",
+          "vi": "Nấu bằng ga."
+        },
+        {
+          "speaker": "B",
+          "en": "Be careful of leaks.",
+          "vi": "Cẩn thận rò rỉ."
+        }
+      ]
+    },
+    {
+      "word": "electricity",
+      "ipa": "/ɪˌlɛkˈtrɪsɪti/",
+      "meaning": "Điện",
+      "example": {
+        "en": "Generate electricity.",
+        "vi": "Phát điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Power outage.",
+          "vi": "Mất điện."
+        },
+        {
+          "speaker": "B",
+          "en": "Light a candle.",
+          "vi": "Thắp nến lên."
+        }
+      ]
+    },
+    {
+      "word": "Hydropower",
+      "ipa": "/ˈhaɪdroʊpaʊər/",
+      "meaning": "Thủy điện",
+      "example": {
+        "en": "Hydropower dam.",
+        "vi": "Đập thủy điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Water flow.",
+          "vi": "Dòng nước chảy."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean source.",
+          "vi": "Nguồn sạch."
+        }
+      ]
+    },
+    {
+      "word": "Nuclear",
+      "ipa": "/ˈnuːkliər/",
+      "meaning": "Hạt nhân",
+      "example": {
+        "en": "Nuclear plant.",
+        "vi": "Nhà máy hạt nhân."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "High power.",
+          "vi": "Công suất lớn."
+        },
+        {
+          "speaker": "B",
+          "en": "Risk of radiation.",
+          "vi": "Nguy cơ bức xạ."
+        }
+      ]
+    },
+    {
+      "word": "Renewable",
+      "ipa": "/rɪˈnuːəbəl/",
+      "meaning": "Có thể tái tạo",
+      "example": {
+        "en": "Renewable energy.",
+        "vi": "Năng lượng tái tạo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The future.",
+          "vi": "Tương lai."
+        },
+        {
+          "speaker": "B",
+          "en": "Sustainable.",
+          "vi": "Bền vững."
+        }
+      ]
+    },
+    {
+      "word": "Battery",
+      "ipa": "/ˈbætəri/",
+      "meaning": "Pin",
+      "example": {
+        "en": "Rechargeable battery.",
+        "vi": "Pin sạc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Store energy.",
+          "vi": "Lưu trữ năng lượng."
+        },
+        {
+          "speaker": "B",
+          "en": "For later use.",
+          "vi": "Để dùng sau."
+        }
+      ]
+    }
+  ]
 }

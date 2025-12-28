@@ -1,6 +1,217 @@
 {
   "id": "67",
   "title": "67. Bathroom Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Towel",
+      "ipa": "/ˈtaʊəl/",
+      "meaning": "Khăn tắm",
+      "example": {
+        "en": "Dry with a towel.",
+        "vi": "Lau khô bằng khăn tắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need a towel.",
+          "vi": "Tôi cần khăn tắm."
+        },
+        {
+          "speaker": "B",
+          "en": "Here represents one.",
+          "vi": "Đây là một cái."
+        }
+      ]
+    },
+    {
+      "word": "Soap",
+      "ipa": "/soʊp/",
+      "meaning": "Xà phòng",
+      "example": {
+        "en": "Use soap.",
+        "vi": "Dùng xà phòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the soap?",
+          "vi": "Xà phòng đâu rồi?"
+        },
+        {
+          "speaker": "B",
+          "en": "In the dish.",
+          "vi": "Trong khay đựng."
+        }
+      ]
+    },
+    {
+      "word": "Shampoo",
+      "ipa": "/ʃæmˈpuː/",
+      "meaning": "Dầu gội",
+      "example": {
+        "en": "Shampoo your hair.",
+        "vi": "Gội đầu đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Out of shampoo.",
+          "vi": "Hết dầu gội rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy more.",
+          "vi": "Mua thêm đi."
+        }
+      ]
+    },
+    {
+      "word": "Toothbrush",
+      "ipa": "/ˈtuːθbrʌʃ/",
+      "meaning": "Bàn chải đánh răng",
+      "example": {
+        "en": "Blue toothbrush.",
+        "vi": "Bàn chải màu xanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Change your toothbrush.",
+          "vi": "Thay bàn chải đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Every 3 months.",
+          "vi": "3 tháng một lần."
+        }
+      ]
+    },
+    {
+      "word": "Toilet",
+      "ipa": "/ˈtɔɪlɪt/",
+      "meaning": "Nhà vệ sinh",
+      "example": {
+        "en": "Flush the toilet.",
+        "vi": "Xả nước bồn cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the toilet?",
+          "vi": "Nhà vệ sinh ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Down the hall.",
+          "vi": "Cuối hành lang."
+        }
+      ]
+    },
+    {
+      "word": "Bath",
+      "ipa": "/bæθ/",
+      "meaning": "Bồn tắm",
+      "example": {
+        "en": "Take a bath.",
+        "vi": "Tắm bồn đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hot bath.",
+          "vi": "Bồn nước nóng."
+        },
+        {
+          "speaker": "B",
+          "en": "Very relaxing.",
+          "vi": "Rất thư giãn."
+        }
+      ]
+    },
+    {
+      "word": "Shower",
+      "ipa": "/ˈʃaʊər/",
+      "meaning": "Vòi sen",
+      "example": {
+        "en": "Turn on the shower.",
+        "vi": "Mở vòi sen lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cold shower.",
+          "vi": "Tắm nước lạnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Refreshing.",
+          "vi": "Sảng khoái."
+        }
+      ]
+    },
+    {
+      "word": "Mirror",
+      "ipa": "/ˈmɪrər/",
+      "meaning": "Gương",
+      "example": {
+        "en": "Bathroom mirror.",
+        "vi": "Gương phòng tắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is misty.",
+          "vi": "Nó bị mờ hơi nước."
+        },
+        {
+          "speaker": "B",
+          "en": "Wipe it.",
+          "vi": "Lau nó đi."
+        }
+      ]
+    },
+    {
+      "word": "Tissue",
+      "ipa": "/ˈtɪʃuː/",
+      "meaning": "Khăn giấy",
+      "example": {
+        "en": "Toilet tissue.",
+        "vi": "Giấy vệ sinh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pass the tissue.",
+          "vi": "Đưa tôi khăn giấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Here.",
+          "vi": "Đây."
+        }
+      ]
+    },
+    {
+      "word": "Basin",
+      "ipa": "/ˈbeɪsɪn/",
+      "meaning": "Chậu rửa mặt",
+      "example": {
+        "en": "Wash face in the basin.",
+        "vi": "Rửa mặt trong chậu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clean the basin.",
+          "vi": "Cọ chậu rửa đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I will.",
+          "vi": "Tôi sẽ làm."
+        }
+      ]
+    }
+  ]
 }

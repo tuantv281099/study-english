@@ -1,6 +1,217 @@
 {
   "id": "59",
   "title": "59. Mind & Emotions",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Happy",
+      "ipa": "/ˈhæpi/",
+      "meaning": "Hạnh phúc / Vui vẻ",
+      "example": {
+        "en": "I am happy.",
+        "vi": "Tôi đang vui."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You look happy.",
+          "vi": "Trông bạn vui thế."
+        },
+        {
+          "speaker": "B",
+          "en": "I got a gift.",
+          "vi": "Tôi nhận được quà."
+        }
+      ]
+    },
+    {
+      "word": "Sad",
+      "ipa": "/sæd/",
+      "meaning": "Buồn",
+      "example": {
+        "en": "Why are you sad?",
+        "vi": "Tại sao bạn buồn?"
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't be sad.",
+          "vi": "Đừng buồn nữa."
+        },
+        {
+          "speaker": "B",
+          "en": "I miss my dog.",
+          "vi": "Tôi nhớ con chó của tôi."
+        }
+      ]
+    },
+    {
+      "word": "Angry",
+      "ipa": "/ˈæŋɡri/",
+      "meaning": "Tức giận",
+      "example": {
+        "en": "He is angry.",
+        "vi": "Anh ấy đang giận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you angry?",
+          "vi": "Bạn có giận không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, very.",
+          "vi": "Có, rất giận."
+        }
+      ]
+    },
+    {
+      "word": "Scared",
+      "ipa": "/skɛərd/",
+      "meaning": "Sợ hãi",
+      "example": {
+        "en": "I am scared of ghosts.",
+        "vi": "Tôi sợ ma."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't be scared.",
+          "vi": "Đừng sợ."
+        },
+        {
+          "speaker": "B",
+          "en": "Hold my hand.",
+          "vi": "Nắm tay tôi đi."
+        }
+      ]
+    },
+    {
+      "word": "Love",
+      "ipa": "/lʌv/",
+      "meaning": "Yêu",
+      "example": {
+        "en": "I love you.",
+        "vi": "Tôi yêu bạn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you love music?",
+          "vi": "Bạn có yêu âm nhạc không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, deeply.",
+          "vi": "Có, sâu sắc."
+        }
+      ]
+    },
+    {
+      "word": "Hate",
+      "ipa": "/heɪt/",
+      "meaning": "Ghét",
+      "example": {
+        "en": "I hate traffic.",
+        "vi": "Tôi ghét tắc đường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't hate.",
+          "vi": "Đừng ghét bỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "It is annoying.",
+          "vi": "Nó phiền phức mà."
+        }
+      ]
+    },
+    {
+      "word": "Nervous",
+      "ipa": "/ˈnɜːrvəs/",
+      "meaning": "Lo lắng",
+      "example": {
+        "en": "I feel nervous.",
+        "vi": "Tôi cảm thấy lo lắng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Why are you nervous?",
+          "vi": "Sao bạn lo lắng thế?"
+        },
+        {
+          "speaker": "B",
+          "en": "The exam.",
+          "vi": "Kỳ thi."
+        }
+      ]
+    },
+    {
+      "word": "Excited",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "meaning": "Hào hứng",
+      "example": {
+        "en": "I am excited.",
+        "vi": "Tôi rất hào hứng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Are you excited?",
+          "vi": "Bạn có hào hứng không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Can't wait.",
+          "vi": "Không thể chờ nổi."
+        }
+      ]
+    },
+    {
+      "word": "Confused",
+      "ipa": "/kənˈfjuːzd/",
+      "meaning": "Bối rối",
+      "example": {
+        "en": "I am confused.",
+        "vi": "Tôi thấy bối rối."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is confusing.",
+          "vi": "Nó dễ gây nhầm lẫn."
+        },
+        {
+          "speaker": "B",
+          "en": "Let me explain.",
+          "vi": "Để tôi giải thích."
+        }
+      ]
+    },
+    {
+      "word": "Bored",
+      "ipa": "/bɔːrd/",
+      "meaning": "Chán",
+      "example": {
+        "en": "I am bored.",
+        "vi": "Tôi chán quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let's do something.",
+          "vi": "Làm gì đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Like what?",
+          "vi": "Như là gì?"
+        }
+      ]
+    }
+  ]
 }

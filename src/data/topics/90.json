@@ -1,6 +1,217 @@
 {
   "id": "90",
   "title": "90. Driving Vocabulary",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Drive",
+      "ipa": "/draɪv/",
+      "meaning": "Lái xe",
+      "example": {
+        "en": "Drive careful.",
+        "vi": "Lái xe cẩn thận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can you drive?",
+          "vi": "Bạn biết lái xe không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, I have a license.",
+          "vi": "Có, tôi có bằng lái."
+        }
+      ]
+    },
+    {
+      "word": "Park",
+      "ipa": "/pɑːrk/",
+      "meaning": "Đỗ xe",
+      "example": {
+        "en": "Park the car.",
+        "vi": "Đỗ xe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "No parking here.",
+          "vi": "Không được đỗ ở đây."
+        },
+        {
+          "speaker": "B",
+          "en": "Find a garage.",
+          "vi": "Tìm gara đi."
+        }
+      ]
+    },
+    {
+      "word": "Turn",
+      "ipa": "/tɜːrn/",
+      "meaning": "Rẽ / Quay",
+      "example": {
+        "en": "Turn right.",
+        "vi": "Rẽ phải."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Signal first.",
+          "vi": "Xi nhan trước đã."
+        },
+        {
+          "speaker": "B",
+          "en": "Turning now.",
+          "vi": "Đang rẽ đây."
+        }
+      ]
+    },
+    {
+      "word": "Speed",
+      "ipa": "/spiːd/",
+      "meaning": "Tốc độ",
+      "example": {
+        "en": "Speed limit.",
+        "vi": "Giới hạn tốc độ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Slow down.",
+          "vi": "Chậm lại thôi."
+        },
+        {
+          "speaker": "B",
+          "en": "I am not speeding.",
+          "vi": "Tôi có chạy quá tốc độ đâu."
+        }
+      ]
+    },
+    {
+      "word": "Stop",
+      "ipa": "/stɒp/",
+      "meaning": "Dừng lại",
+      "example": {
+        "en": "Stop sign.",
+        "vi": "Biển báo dừng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Full stop.",
+          "vi": "Dừng hẳn lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Look both ways.",
+          "vi": "Nhìn hai phía."
+        }
+      ]
+    },
+    {
+      "word": "Reverse",
+      "ipa": "/rɪˈvɜːrs/",
+      "meaning": "Lùi xe",
+      "example": {
+        "en": "Put it in reverse.",
+        "vi": "Cài số lùi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Back up slowly.",
+          "vi": "Lùi lại từ từ."
+        },
+        {
+          "speaker": "B",
+          "en": "Check behind.",
+          "vi": "Kiểm tra phía sau."
+        }
+      ]
+    },
+    {
+      "word": "Traffic",
+      "ipa": "/ˈtræfɪk/",
+      "meaning": "Giao thông",
+      "example": {
+        "en": "Heavy traffic.",
+        "vi": "Giao thông đông đúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stuck in traffic.",
+          "vi": "Bị kẹt xe."
+        },
+        {
+          "speaker": "B",
+          "en": "We will be late.",
+          "vi": "Chúng ta sẽ muộn mất."
+        }
+      ]
+    },
+    {
+      "word": "License",
+      "ipa": "/ˈlaɪsəns/",
+      "meaning": "Bằng lái",
+      "example": {
+        "en": "Driver's license.",
+        "vi": "Bằng lái xe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show your license.",
+          "vi": "Xuất trình bằng lái."
+        },
+        {
+          "speaker": "B",
+          "en": "Here it is.",
+          "vi": "Đây ạ."
+        }
+      ]
+    },
+    {
+      "word": "Accident",
+      "ipa": "/ˈæksɪdənt/",
+      "meaning": "Tai nạn",
+      "example": {
+        "en": "Car accident.",
+        "vi": "Tai nạn xe hơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Call police.",
+          "vi": "Gọi cảnh sát."
+        },
+        {
+          "speaker": "B",
+          "en": "Is anyone hurt?",
+          "vi": "Có ai bị thương không?"
+        }
+      ]
+    },
+    {
+      "word": "Gas station",
+      "ipa": "/ˈɡæs steɪʃən/",
+      "meaning": "Trạm xăng",
+      "example": {
+        "en": "Stop at gas station.",
+        "vi": "Dừng ở trạm xăng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fill it up.",
+          "vi": "Đổ đầy bình."
+        },
+        {
+          "speaker": "B",
+          "en": "Regular or premium?",
+          "vi": "Xăng thường hay cao cấp?"
+        }
+      ]
+    }
+  ]
 }

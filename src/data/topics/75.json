@@ -1,6 +1,217 @@
 {
   "id": "75",
   "title": "75. Reptiles",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Snake",
+      "ipa": "/sneɪk/",
+      "meaning": "Con rắn",
+      "example": {
+        "en": "Slithering snake.",
+        "vi": "Con rắn đang trườn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it poisonous?",
+          "vi": "Nó có độc không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Stay away.",
+          "vi": "Tránh xa ra."
+        }
+      ]
+    },
+    {
+      "word": "Lizard",
+      "ipa": "/ˈlɪzərd/",
+      "meaning": "Thằn lằn",
+      "example": {
+        "en": "Small lizard.",
+        "vi": "Con thằn lằn nhỏ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It lost its tail.",
+          "vi": "Nó bị đứt đuôi rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "It will grow back.",
+          "vi": "Nó sẽ mọc lại thôi."
+        }
+      ]
+    },
+    {
+      "word": "Turtle",
+      "ipa": "/ˈtɜːrtəl/",
+      "meaning": "Con rùa",
+      "example": {
+        "en": "Slow turtle.",
+        "vi": "Con rùa chậm chạp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hard shell.",
+          "vi": "Cái mai cứng."
+        },
+        {
+          "speaker": "B",
+          "en": "Protests it.",
+          "vi": "Bảo vệ nó."
+        }
+      ]
+    },
+    {
+      "word": "Crocodile",
+      "ipa": "/ˈkrɒkədaɪl/",
+      "meaning": "Cá sấu",
+      "example": {
+        "en": "Dangerous crocodile.",
+        "vi": "Cá sấu nguy hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "In the river.",
+          "vi": "Dưới sông."
+        },
+        {
+          "speaker": "B",
+          "en": "Sharp teeth.",
+          "vi": "Răng sắc nhọn."
+        }
+      ]
+    },
+    {
+      "word": "Frog",
+      "ipa": "/frɒɡ/",
+      "meaning": "Con ếch",
+      "example": {
+        "en": "Frog jumps.",
+        "vi": "Ếch nhảy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Green frog.",
+          "vi": "Ếch xanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Ribbit.",
+          "vi": "Ộp ộp."
+        }
+      ]
+    },
+    {
+      "word": "Chameleon",
+      "ipa": "/kəˈmiːliən/",
+      "meaning": "Tắc kè hoa",
+      "example": {
+        "en": "Changes color.",
+        "vi": "Đổi màu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is it?",
+          "vi": "Nó đâu rồi?"
+        },
+        {
+          "speaker": "B",
+          "en": "Blending in.",
+          "vi": "Đang ngụy trang."
+        }
+      ]
+    },
+    {
+      "word": "Alligator",
+      "ipa": "/ˈælɪɡeɪtər/",
+      "meaning": "Cá sấu (Mỹ)",
+      "example": {
+        "en": "Swamp alligator.",
+        "vi": "Cá sấu đầm lầy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "See the eyes?",
+          "vi": "Thấy mắt nó không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Just above water.",
+          "vi": "Ngay trên mặt nước."
+        }
+      ]
+    },
+    {
+      "word": "Toad",
+      "ipa": "/toʊd/",
+      "meaning": "Con cóc",
+      "example": {
+        "en": "Bumpy toad.",
+        "vi": "Con cóc sần sùi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Different from a frog.",
+          "vi": "Khác với ếch."
+        },
+        {
+          "speaker": "B",
+          "en": "Lives on land.",
+          "vi": "Sống trên cạn."
+        }
+      ]
+    },
+    {
+      "word": "Iguana",
+      "ipa": "/ɪˈɡwɑːnə/",
+      "meaning": "Kỳ nhông",
+      "example": {
+        "en": "Pet iguana.",
+        "vi": "Kỳ nhông cảnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Spikes on back.",
+          "vi": "Gai trên lưng."
+        },
+        {
+          "speaker": "B",
+          "en": "Looks like a dragon.",
+          "vi": "Trông như rồng."
+        }
+      ]
+    },
+    {
+      "word": "Gecko",
+      "ipa": "/ˈɡɛkoʊ/",
+      "meaning": "Tắc kè",
+      "example": {
+        "en": "Wall gecko.",
+        "vi": "Tắc kè trên tường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Climbs walls.",
+          "vi": "Leo tường."
+        },
+        {
+          "speaker": "B",
+          "en": "Sticky feet.",
+          "vi": "Chân dính."
+        }
+      ]
+    }
+  ]
 }

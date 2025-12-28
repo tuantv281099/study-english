@@ -1,6 +1,217 @@
 {
   "id": "174",
   "title": "174. Insurance – Bảo hiểm",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Policy",
+      "ipa": "/ˈpɒlɪsi/",
+      "meaning": "Chính sách / Hợp đồng bảo hiểm",
+      "example": {
+        "en": "Insurance policy.",
+        "vi": "Hợp đồng bảo hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Read terms.",
+          "vi": "Đọc điều khoản."
+        },
+        {
+          "speaker": "B",
+          "en": "Coverage details.",
+          "vi": "Chi tiết bảo hiểm."
+        }
+      ]
+    },
+    {
+      "word": "Premium",
+      "ipa": "/ˈpriːmiəm/",
+      "meaning": "Phí bảo hiểm",
+      "example": {
+        "en": "Monthly premium.",
+        "vi": "Phí bảo hiểm hàng tháng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pay due.",
+          "vi": "Đến hạn trả."
+        },
+        {
+          "speaker": "B",
+          "en": "Keep active.",
+          "vi": "Giữ hiệu lực."
+        }
+      ]
+    },
+    {
+      "word": "Claim",
+      "ipa": "/kleɪm/",
+      "meaning": "Yêu cầu bồi thường",
+      "example": {
+        "en": "File a claim.",
+        "vi": "Gửi yêu cầu bồi thường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Accident happened.",
+          "vi": "Tai nạn xảy ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Get paid.",
+          "vi": "Nhận tiền."
+        }
+      ]
+    },
+    {
+      "word": "Cover",
+      "ipa": "/ˈkʌvər/",
+      "meaning": "Bảo hiểm cho / Chi trả",
+      "example": {
+        "en": "Cover damage.",
+        "vi": "Chi trả thiệt hại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fire theft.",
+          "vi": "Cháy và trộm."
+        },
+        {
+          "speaker": "B",
+          "en": "Full protection.",
+          "vi": "Bảo vệ toàn diện."
+        }
+      ]
+    },
+    {
+      "word": "Risk",
+      "ipa": "/rɪsk/",
+      "meaning": "Rủi ro",
+      "example": {
+        "en": "High risk.",
+        "vi": "Rủi ro cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Health issue.",
+          "vi": "Vấn đề sức khỏe."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy insurance.",
+          "vi": "Mua bảo hiểm."
+        }
+      ]
+    },
+    {
+      "word": "Health",
+      "ipa": "/hɛlθ/",
+      "meaning": "Sức khỏe",
+      "example": {
+        "en": "Health insurance.",
+        "vi": "Bảo hiểm y tế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Doctor visit.",
+          "vi": "Đi khám bác sĩ."
+        },
+        {
+          "speaker": "B",
+          "en": "Hospital stay.",
+          "vi": "Nằm viện."
+        }
+      ]
+    },
+    {
+      "word": "Life",
+      "ipa": "/laɪf/",
+      "meaning": "Nhân thọ / Cuộc sống",
+      "example": {
+        "en": "Life insurance.",
+        "vi": "Bảo hiểm nhân thọ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "For family.",
+          "vi": "Cho gia đình."
+        },
+        {
+          "speaker": "B",
+          "en": "Financial security.",
+          "vi": "An toàn tài chính."
+        }
+      ]
+    },
+    {
+      "word": "Car",
+      "ipa": "/kɑːr/",
+      "meaning": "Ô tô",
+      "example": {
+        "en": "Car insurance.",
+        "vi": "Bảo hiểm ô tô."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Required by law.",
+          "vi": "Luật bắt buộc."
+        },
+        {
+          "speaker": "B",
+          "en": "In case crash.",
+          "vi": "Đề phòng va chạm."
+        }
+      ]
+    },
+    {
+      "word": "Deductible",
+      "ipa": "/dɪˈdʌktɪbəl/",
+      "meaning": "Mức khấu trừ",
+      "example": {
+        "en": "High deductible.",
+        "vi": "Mức khấu trừ cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lower premium.",
+          "vi": "Phí thấp hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Pay first.",
+          "vi": "Trả trước phần này."
+        }
+      ]
+    },
+    {
+      "word": "Agent",
+      "ipa": "/ˈeɪdʒənt/",
+      "meaning": "Đại lý / Nhân viên",
+      "example": {
+        "en": "Insurance agent.",
+        "vi": "Nhân viên bảo hiểm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Ask advice.",
+          "vi": "Hỏi lời khuyên."
+        },
+        {
+          "speaker": "B",
+          "en": "Best plan.",
+          "vi": "Gói tốt nhất."
+        }
+      ]
+    }
+  ]
 }

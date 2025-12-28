@@ -1,6 +1,217 @@
 {
   "id": "105",
   "title": "105. Freelance & Startup",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Freelance",
+      "ipa": "/ˈfriːlæns/",
+      "meaning": "Làm tự do",
+      "example": {
+        "en": "Freelance writer.",
+        "vi": "Người viết lách tự do."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be your own boss.",
+          "vi": "Làm chủ chính mình."
+        },
+        {
+          "speaker": "B",
+          "en": "Find clients.",
+          "vi": "Tìm khách hàng."
+        }
+      ]
+    },
+    {
+      "word": "Client",
+      "ipa": "/ˈklaɪənt/",
+      "meaning": "Khách hàng",
+      "example": {
+        "en": "Happy client.",
+        "vi": "Khách hàng hài lòng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Deliver on time.",
+          "vi": "Giao hành đúng hạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Get paid.",
+          "vi": "Được trả tiền."
+        }
+      ]
+    },
+    {
+      "word": "Project",
+      "ipa": "/ˈprɒdʒɛkt/",
+      "meaning": "Dự án",
+      "example": {
+        "en": "New project.",
+        "vi": "Dự án mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Deadline is soon.",
+          "vi": "Sắp đến hạn chót."
+        },
+        {
+          "speaker": "B",
+          "en": "Work hard.",
+          "vi": "Làm việc chăm chỉ."
+        }
+      ]
+    },
+    {
+      "word": "Contract",
+      "ipa": "/ˈkɒntrækt/",
+      "meaning": "Hợp đồng",
+      "example": {
+        "en": "Sign a contract.",
+        "vi": "Ký hợp đồng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Read carefully.",
+          "vi": "Đọc kỹ vào."
+        },
+        {
+          "speaker": "B",
+          "en": "Agree to terms.",
+          "vi": "Đồng ý các điều khoản."
+        }
+      ]
+    },
+    {
+      "word": "Rate",
+      "ipa": "/reɪt/",
+      "meaning": "Mức giá",
+      "example": {
+        "en": "Hourly rate.",
+        "vi": "Mức giá theo giờ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Charge more.",
+          "vi": "Tính phí cao hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Quality work.",
+          "vi": "Công việc chất lượng."
+        }
+      ]
+    },
+    {
+      "word": "Startup",
+      "ipa": "/ˈstɑːrtʌp/",
+      "meaning": "Khởi nghiệp",
+      "example": {
+        "en": "Tech startup.",
+        "vi": "Công ty khởi nghiệp công nghệ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Big idea.",
+          "vi": "Ý tưởng lớn."
+        },
+        {
+          "speaker": "B",
+          "en": "Needs funding.",
+          "vi": "Cần vốn."
+        }
+      ]
+    },
+    {
+      "word": "Founder",
+      "ipa": "/ˈfaʊndər/",
+      "meaning": "Người sáng lập",
+      "example": {
+        "en": "Startup founder.",
+        "vi": "Người sáng lập startup."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Visionary.",
+          "vi": "Người có tầm nhìn."
+        },
+        {
+          "speaker": "B",
+          "en": "Risk taker.",
+          "vi": "Người dám mạo hiểm."
+        }
+      ]
+    },
+    {
+      "word": "Pitch",
+      "ipa": "/pɪtʃ/",
+      "meaning": "Thuyết trình (chào hàng)",
+      "example": {
+        "en": "Pitch deck.",
+        "vi": "Bản thuyết trình gọi vốn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Convince investors.",
+          "vi": "Thuyết phục nhà đầu tư."
+        },
+        {
+          "speaker": "B",
+          "en": "Short and sweet.",
+          "vi": "Ngắn gọn và súc tích."
+        }
+      ]
+    },
+    {
+      "word": "Investor",
+      "ipa": "/ɪnˈvɛstər/",
+      "meaning": "Nhà đầu tư",
+      "example": {
+        "en": "Angel investor.",
+        "vi": "Nhà đầu tư thiên thần."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Money for shares.",
+          "vi": "Tiền đổi lấy cổ phần."
+        },
+        {
+          "speaker": "B",
+          "en": "Grow the business.",
+          "vi": "Phát triển doanh nghiệp."
+        }
+      ]
+    },
+    {
+      "word": "Portfolio",
+      "ipa": "/pɔːrtˈfoʊlioʊ/",
+      "meaning": "Hồ sơ năng lực",
+      "example": {
+        "en": "Online portfolio.",
+        "vi": "Hồ sơ năng lực trực tuyến."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Show your work.",
+          "vi": "Cho xem sản phẩm của bạn."
+        },
+        {
+          "speaker": "B",
+          "en": "Impress them.",
+          "vi": "Gây ấn tượng với họ."
+        }
+      ]
+    }
+  ]
 }

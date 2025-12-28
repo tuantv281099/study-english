@@ -1,6 +1,217 @@
 {
   "id": "177",
   "title": "177. Retirement – Nghỉ hưu",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Retire",
+      "ipa": "/rɪˈtaɪər/",
+      "meaning": "Nghỉ hưu",
+      "example": {
+        "en": "Retire early.",
+        "vi": "Nghỉ hưu sớm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Age 65.",
+          "vi": "Tuổi 65."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop working.",
+          "vi": "Ngừng làm việc."
+        }
+      ]
+    },
+    {
+      "word": "Pension",
+      "ipa": "/ˈpɛnʃən/",
+      "meaning": "Lương hưu",
+      "example": {
+        "en": "State pension.",
+        "vi": "Lương hưu nhà nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Monthly pay.",
+          "vi": "Tiền trả hàng tháng."
+        },
+        {
+          "speaker": "B",
+          "en": "Enough to live.",
+          "vi": "Đủ sống."
+        }
+      ]
+    },
+    {
+      "word": "Save",
+      "ipa": "/seɪv/",
+      "meaning": "Tiết kiệm",
+      "example": {
+        "en": "Retirement savings.",
+        "vi": "Tiết kiệm hưu trí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Start young.",
+          "vi": "Bắt đầu khi còn trẻ."
+        },
+        {
+          "speaker": "B",
+          "en": "Compound interest.",
+          "vi": "Lãi kép."
+        }
+      ]
+    },
+    {
+      "word": "Fund",
+      "ipa": "/fʌnd/",
+      "meaning": "Quỹ",
+      "example": {
+        "en": "Pension fund.",
+        "vi": "Quỹ hưu trí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Grow money.",
+          "vi": "Tiền tăng trưởng."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe investment.",
+          "vi": "Đầu tư an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Benefit",
+      "ipa": "/ˈbɛnɪfɪt/",
+      "meaning": "Phúc lợi",
+      "example": {
+        "en": "Retirement benefit.",
+        "vi": "Phúc lợi hưu trí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Healthcare.",
+          "vi": "Chăm sóc sức khỏe."
+        },
+        {
+          "speaker": "B",
+          "en": "Travel discount.",
+          "vi": "Giảm giá du lịch."
+        }
+      ]
+    },
+    {
+      "word": "Plan",
+      "ipa": "/plæn/",
+      "meaning": "Kế hoạch",
+      "example": {
+        "en": "Retirement plan.",
+        "vi": "Kế hoạch nghỉ hưu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Live comfortable.",
+          "vi": "Sống thoải mái."
+        },
+        {
+          "speaker": "B",
+          "en": "Enjoy life.",
+          "vi": "Tận hưởng cuộc sống."
+        }
+      ]
+    },
+    {
+      "word": "Senior",
+      "ipa": "/ˈsiːnjər/",
+      "meaning": "Người cao tuổi",
+      "example": {
+        "en": "Senior citizen.",
+        "vi": "Công dân cao tuổi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Respect them.",
+          "vi": "Tôn trọng họ."
+        },
+        {
+          "speaker": "B",
+          "en": "Experience.",
+          "vi": "Kinh nghiệm."
+        }
+      ]
+    },
+    {
+      "word": "Age",
+      "ipa": "/eɪdʒ/",
+      "meaning": "Tuổi",
+      "example": {
+        "en": "Retirement age.",
+        "vi": "Tuổi nghỉ hưu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Getting older.",
+          "vi": "Đang già đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Golden years.",
+          "vi": "Những năm vàng."
+        }
+      ]
+    },
+    {
+      "word": "Relax",
+      "ipa": "/rɪˈlæks/",
+      "meaning": "Thư giãn",
+      "example": {
+        "en": "Time to relax.",
+        "vi": "Thời gian thư giãn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Gardening.",
+          "vi": "Làm vườn."
+        },
+        {
+          "speaker": "B",
+          "en": "Read books.",
+          "vi": "Đọc sách."
+        }
+      ]
+    },
+    {
+      "word": "Income",
+      "ipa": "/ˈɪnkʌm/",
+      "meaning": "Thu nhập",
+      "example": {
+        "en": "Fixed income.",
+        "vi": "Thu nhập cố định."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Budget carefully.",
+          "vi": "Chi tiêu cẩn thận."
+        },
+        {
+          "speaker": "B",
+          "en": "No job.",
+          "vi": "Không có việc làm."
+        }
+      ]
+    }
+  ]
 }

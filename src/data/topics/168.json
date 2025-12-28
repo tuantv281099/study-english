@@ -1,6 +1,217 @@
 {
   "id": "168",
   "title": "168. Home Appliances – Thiết bị gia dụng",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Fridge",
+      "ipa": "/frɪdʒ/",
+      "meaning": "Tủ lạnh",
+      "example": {
+        "en": "Open fridge.",
+        "vi": "Mở tủ lạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cold food.",
+          "vi": "Thức ăn lạnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Make ice.",
+          "vi": "Làm đá."
+        }
+      ]
+    },
+    {
+      "word": "Oven",
+      "ipa": "/ˈʌvən/",
+      "meaning": "Lò nướng",
+      "example": {
+        "en": "Bake in oven.",
+        "vi": "Nướng trong lò."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hot.",
+          "vi": "Nóng."
+        },
+        {
+          "speaker": "B",
+          "en": "Roast chicken.",
+          "vi": "Nướng gà."
+        }
+      ]
+    },
+    {
+      "word": "Washer",
+      "ipa": "/ˈwɒʃər/",
+      "meaning": "Máy giặt",
+      "example": {
+        "en": "Clothes washer.",
+        "vi": "Máy giặt quần áo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dirty laundry.",
+          "vi": "Quần áo bẩn."
+        },
+        {
+          "speaker": "B",
+          "en": "Spin cycle.",
+          "vi": "Vòng vắt."
+        }
+      ]
+    },
+    {
+      "word": "Dryer",
+      "ipa": "/ˈdraɪər/",
+      "meaning": "Máy sấy",
+      "example": {
+        "en": "Tumble dryer.",
+        "vi": "Máy sấy quần áo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wet clothes.",
+          "vi": "Quần áo ướt."
+        },
+        {
+          "speaker": "B",
+          "en": "Dry fast.",
+          "vi": "Khô nhanh."
+        }
+      ]
+    },
+    {
+      "word": "Microwave",
+      "ipa": "/ˈmaɪkroʊˌweɪv/",
+      "meaning": "Lò vi sóng",
+      "example": {
+        "en": "Heat food.",
+        "vi": "Hâm nóng thức ăn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Popcorn.",
+          "vi": "Bỏng ngô."
+        },
+        {
+          "speaker": "B",
+          "en": "1 minute.",
+          "vi": "1 phút."
+        }
+      ]
+    },
+    {
+      "word": "Dishwasher",
+      "ipa": "/ˈdɪʃˌwɒʃər/",
+      "meaning": "Máy rửa bát",
+      "example": {
+        "en": "Load dishwasher.",
+        "vi": "Xếp bát vào máy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Dirty plates.",
+          "vi": "Đĩa bẩn."
+        },
+        {
+          "speaker": "B",
+          "en": "Start it.",
+          "vi": "Bắt đầu nó."
+        }
+      ]
+    },
+    {
+      "word": "Vacuum",
+      "ipa": "/ˈvækjuːm/",
+      "meaning": "Máy hút bụi",
+      "example": {
+        "en": "Vacuum floor.",
+        "vi": "Hút bụi sàn nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Clean carpet.",
+          "vi": "Làm sạch thảm."
+        },
+        {
+          "speaker": "B",
+          "en": "No dust.",
+          "vi": "Không còn bụi."
+        }
+      ]
+    },
+    {
+      "word": "Iron",
+      "ipa": "/ˈaɪərn/",
+      "meaning": "Bàn là / Ủi",
+      "example": {
+        "en": "Steam iron.",
+        "vi": "Bàn là hơi nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wrinkled shirt.",
+          "vi": "Áo nhăn."
+        },
+        {
+          "speaker": "B",
+          "en": "Press it.",
+          "vi": "Là phẳng nó."
+        }
+      ]
+    },
+    {
+      "word": "Fan",
+      "ipa": "/fæn/",
+      "meaning": "Quạt",
+      "example": {
+        "en": "Ceiling fan.",
+        "vi": "Quạt trần."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cool air.",
+          "vi": "Gió mát."
+        },
+        {
+          "speaker": "B",
+          "en": "Summer day.",
+          "vi": "Ngày hè."
+        }
+      ]
+    },
+    {
+      "word": "Heater",
+      "ipa": "/ˈhiːtər/",
+      "meaning": "Lò sưởi",
+      "example": {
+        "en": "Turn on heater.",
+        "vi": "Bật lò sưởi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Winter cold.",
+          "vi": "Mùa đông lạnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Warm room.",
+          "vi": "Phòng ấm."
+        }
+      ]
+    }
+  ]
 }

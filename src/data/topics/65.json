@@ -1,6 +1,217 @@
 {
   "id": "65",
   "title": "65. House Furniture",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Table",
+      "ipa": "/ˈteɪbəl/",
+      "meaning": "Cái bàn",
+      "example": {
+        "en": "Sit at the table.",
+        "vi": "Ngồi vào bàn đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Set the table.",
+          "vi": "Dọn bàn đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Dinner is ready.",
+          "vi": "Bữa tối xong rồi."
+        }
+      ]
+    },
+    {
+      "word": "Chair",
+      "ipa": "/tʃɛər/",
+      "meaning": "Cái ghế",
+      "example": {
+        "en": "Wooden chair.",
+        "vi": "Ghế gỗ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pull up a chair.",
+          "vi": "Kéo ghế lại đây."
+        },
+        {
+          "speaker": "B",
+          "en": "Thanks.",
+          "vi": "Cảm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Sofa",
+      "ipa": "/ˈsoʊfə/",
+      "meaning": "Ghế sô-pha",
+      "example": {
+        "en": "Relax on the sofa.",
+        "vi": "Thư giãn trên ghế sô-pha."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The sofa is soft.",
+          "vi": "Ghế sô-pha mềm quá."
+        },
+        {
+          "speaker": "B",
+          "en": "I could sleep here.",
+          "vi": "Tôi có thể ngủ ở đây."
+        }
+      ]
+    },
+    {
+      "word": "Bed",
+      "ipa": "/bɛd/",
+      "meaning": "Cái giường",
+      "example": {
+        "en": "Go to bed.",
+        "vi": "Đi ngủ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Make the bed.",
+          "vi": "Dọn giường đi."
+        },
+        {
+          "speaker": "B",
+          "en": "In the morning.",
+          "vi": "Sáng mai nhé."
+        }
+      ]
+    },
+    {
+      "word": "Lamp",
+      "ipa": "/læmp/",
+      "meaning": "Đèn ngủ / Đèn bàn",
+      "example": {
+        "en": "Turn on the lamp.",
+        "vi": "Bật đèn lên."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is dark.",
+          "vi": "Tối quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Use the lamp.",
+          "vi": "Dùng đèn đi."
+        }
+      ]
+    },
+    {
+      "word": "Rug",
+      "ipa": "/rʌɡ/",
+      "meaning": "Tấm thảm (nhỏ)",
+      "example": {
+        "en": "Step on the rug.",
+        "vi": "Giẫm lên thảm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Nice rug.",
+          "vi": "Thảm đẹp đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "It keeps feet warm.",
+          "vi": "Nó giữ ấm chân."
+        }
+      ]
+    },
+    {
+      "word": "Shelf",
+      "ipa": "/ʃɛlf/",
+      "meaning": "Cái kệ",
+      "example": {
+        "en": "Book shelf.",
+        "vi": "Kệ sách."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Put it on the shelf.",
+          "vi": "Đặt nó lên kệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Top or bottom?",
+          "vi": "Trên hay dưới?"
+        }
+      ]
+    },
+    {
+      "word": "Mirror",
+      "ipa": "/ˈmɪrər/",
+      "meaning": "Cái gương",
+      "example": {
+        "en": "Look in the mirror.",
+        "vi": "Nhìn vào gương đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The mirror is dirty.",
+          "vi": "Gương bẩn quá."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean it.",
+          "vi": "Lau nó đi."
+        }
+      ]
+    },
+    {
+      "word": "Door",
+      "ipa": "/dɔːr/",
+      "meaning": "Cánh cửa",
+      "example": {
+        "en": "Close the door.",
+        "vi": "Đóng cửa lại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Knock on the door.",
+          "vi": "Gõ cửa đi."
+        },
+        {
+          "speaker": "B",
+          "en": "I did.",
+          "vi": "Tôi gõ rồi."
+        }
+      ]
+    },
+    {
+      "word": "Window",
+      "ipa": "/ˈwɪndoʊ/",
+      "meaning": "Cửa sổ",
+      "example": {
+        "en": "Open the window.",
+        "vi": "Mở cửa sổ ra."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Look out the window.",
+          "vi": "Nhìn ra cửa sổ kìa."
+        },
+        {
+          "speaker": "B",
+          "en": "What do you see?",
+          "vi": "Bạn thấy gì?"
+        }
+      ]
+    }
+  ]
 }

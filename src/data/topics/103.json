@@ -1,6 +1,217 @@
 {
   "id": "103",
   "title": "103. Career Development",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Career",
+      "ipa": "/kəˈrɪər/",
+      "meaning": "Sự nghiệp",
+      "example": {
+        "en": "Build a career.",
+        "vi": "Xây dựng sự nghiệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Long path.",
+          "vi": "Con đường dài."
+        },
+        {
+          "speaker": "B",
+          "en": "Set goals.",
+          "vi": "Đặt mục tiêu."
+        }
+      ]
+    },
+    {
+      "word": "Promote",
+      "ipa": "/prəˈmoʊt/",
+      "meaning": "Thăng chức",
+      "example": {
+        "en": "Get promoted.",
+        "vi": "Được thăng chức."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New title.",
+          "vi": "Chức danh mới."
+        },
+        {
+          "speaker": "B",
+          "en": "More responsibility.",
+          "vi": "Nhiều trách nhiệm hơn."
+        }
+      ]
+    },
+    {
+      "word": "Goal",
+      "ipa": "/ɡoʊl/",
+      "meaning": "Mục tiêu",
+      "example": {
+        "en": "Career goal.",
+        "vi": "Mục tiêu nghề nghiệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Achieve success.",
+          "vi": "Đạt được thành công."
+        },
+        {
+          "speaker": "B",
+          "en": "Work hard.",
+          "vi": "Làm việc chăm chỉ."
+        }
+      ]
+    },
+    {
+      "word": "Network",
+      "ipa": "/ˈnɛtwɜːrk/",
+      "meaning": "Mạng lưới (quan hệ)",
+      "example": {
+        "en": "Expand network.",
+        "vi": "Mở rộng mạng lưới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Meet people.",
+          "vi": "Gặp gỡ mọi người."
+        },
+        {
+          "speaker": "B",
+          "en": "LinkedIn.",
+          "vi": "LinkedIn."
+        }
+      ]
+    },
+    {
+      "word": "Mentor",
+      "ipa": "/ˈmɛntɔːr/",
+      "meaning": "Người cố vấn",
+      "example": {
+        "en": "Find a mentor.",
+        "vi": "Tìm người cố vấn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need advice.",
+          "vi": "Cần lời khuyên."
+        },
+        {
+          "speaker": "B",
+          "en": "Experienced guide.",
+          "vi": "Người hướng dẫn có kinh nghiệm."
+        }
+      ]
+    },
+    {
+      "word": "Training",
+      "ipa": "/ˈtreɪnɪŋ/",
+      "meaning": "Đào tạo",
+      "example": {
+        "en": "Job training.",
+        "vi": "Đào tạo nghề."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Learn new things.",
+          "vi": "Học những điều mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Workshop.",
+          "vi": "Hội thảo."
+        }
+      ]
+    },
+    {
+      "word": "Skill",
+      "ipa": "/skɪl/",
+      "meaning": "Kỹ năng",
+      "example": {
+        "en": "Improve skills.",
+        "vi": "Cải thiện kỹ năng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Stay updated.",
+          "vi": "Cập nhật liên tục."
+        },
+        {
+          "speaker": "B",
+          "en": "Competitive.",
+          "vi": "Cạnh tranh."
+        }
+      ]
+    },
+    {
+      "word": "Opportunity",
+      "ipa": "/ˌɒpərˈtuːnɪti/",
+      "meaning": "Cơ hội",
+      "example": {
+        "en": "New opportunity.",
+        "vi": "Cơ hội mới."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Take it.",
+          "vi": "Nắm lấy nó."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't miss out.",
+          "vi": "Đừng bỏ lỡ."
+        }
+      ]
+    },
+    {
+      "word": "Success",
+      "ipa": "/səkˈsɛs/",
+      "meaning": "Thành công",
+      "example": {
+        "en": "Path to success.",
+        "vi": "Con đường thành công."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Celebrate.",
+          "vi": "Ăn mừng đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Proud moment.",
+          "vi": "Khoảnh khắc tự hào."
+        }
+      ]
+    },
+    {
+      "word": "Retire",
+      "ipa": "/rɪˈtaɪər/",
+      "meaning": "Nghỉ hưu",
+      "example": {
+        "en": "Retire early.",
+        "vi": "Nghỉ hưu sớm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save money.",
+          "vi": "Tiết kiệm tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Enjoy life.",
+          "vi": "Tận hưởng cuộc sống."
+        }
+      ]
+    }
+  ]
 }

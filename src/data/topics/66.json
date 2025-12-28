@@ -1,6 +1,217 @@
 {
   "id": "66",
   "title": "66. Kitchen Items",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Spoon",
+      "ipa": "/spuːn/",
+      "meaning": "Cái thìa",
+      "example": {
+        "en": "Eat with a spoon.",
+        "vi": "Ăn bằng thìa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I need a spoon.",
+          "vi": "Tôi cần một cái thìa."
+        },
+        {
+          "speaker": "B",
+          "en": "Here.",
+          "vi": "Đây."
+        }
+      ]
+    },
+    {
+      "word": "Fork",
+      "ipa": "/fɔːrk/",
+      "meaning": "Cái nĩa",
+      "example": {
+        "en": "Use a fork.",
+        "vi": "Dùng nĩa đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the fork?",
+          "vi": "Cái nĩa đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Next to the plate.",
+          "vi": "Cạnh cái đĩa."
+        }
+      ]
+    },
+    {
+      "word": "Knife",
+      "ipa": "/naɪf/",
+      "meaning": "Con dao",
+      "example": {
+        "en": "Sharp knife.",
+        "vi": "Con dao sắc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Be careful with the knife.",
+          "vi": "Cẩn thận với con dao."
+        },
+        {
+          "speaker": "B",
+          "en": "I know.",
+          "vi": "Tôi biết mà."
+        }
+      ]
+    },
+    {
+      "word": "Plate",
+      "ipa": "/pleɪt/",
+      "meaning": "Cái đĩa (ăn)",
+      "example": {
+        "en": "Put food on the plate.",
+        "vi": "Để thức ăn lên đĩa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wash the plate.",
+          "vi": "Rửa đĩa đi."
+        },
+        {
+          "speaker": "B",
+          "en": "Okay.",
+          "vi": "Được."
+        }
+      ]
+    },
+    {
+      "word": "Bowl",
+      "ipa": "/boʊl/",
+      "meaning": "Cái bát",
+      "example": {
+        "en": "Soup bowl.",
+        "vi": "Bát súp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pass the bowl.",
+          "vi": "Đưa tôi cái bát."
+        },
+        {
+          "speaker": "B",
+          "en": "Empty or full?",
+          "vi": "Rỗng hay đầy?"
+        }
+      ]
+    },
+    {
+      "word": "Cup",
+      "ipa": "/kʌp/",
+      "meaning": "Cái tách / Cốc",
+      "example": {
+        "en": "Cup of tea.",
+        "vi": "Tách trà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Want a cup of coffee?",
+          "vi": "Muốn uống cà phê không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, please.",
+          "vi": "Có, làm ơn."
+        }
+      ]
+    },
+    {
+      "word": "Glass",
+      "ipa": "/ɡlæs/",
+      "meaning": "Cái ly (thủy tinh)",
+      "example": {
+        "en": "Glass of water.",
+        "vi": "Ly nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Break the glass.",
+          "vi": "Làm vỡ cái ly."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't do that.",
+          "vi": "Đừng làm thế."
+        }
+      ]
+    },
+    {
+      "word": "Fridge",
+      "ipa": "/frɪdʒ/",
+      "meaning": "Tủ lạnh",
+      "example": {
+        "en": "In the fridge.",
+        "vi": "Trong tủ lạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Close the fridge.",
+          "vi": "Đóng tủ lạnh lại."
+        },
+        {
+          "speaker": "B",
+          "en": "I am getting milk.",
+          "vi": "Tôi đang lấy sữa."
+        }
+      ]
+    },
+    {
+      "word": "Oven",
+      "ipa": "/ˈʌvən/",
+      "meaning": "Lò nướng",
+      "example": {
+        "en": "Bake in the oven.",
+        "vi": "Nướng trong lò."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The oven is hot.",
+          "vi": "Lò nóng đấy."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't touch.",
+          "vi": "Đừng chạm vào."
+        }
+      ]
+    },
+    {
+      "word": "Sink",
+      "ipa": "/sɪŋk/",
+      "meaning": "Bồn rửa",
+      "example": {
+        "en": "Wash hands in the sink.",
+        "vi": "Rửa tay trong bồn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "The sink is clogged.",
+          "vi": "Bồn rửa bị tắc rồi."
+        },
+        {
+          "speaker": "B",
+          "en": "Call the plumber.",
+          "vi": "Gọi thợ sửa ống nước đi."
+        }
+      ]
+    }
+  ]
 }

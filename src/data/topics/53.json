@@ -1,6 +1,217 @@
 {
   "id": "53",
   "title": "53. Supermarket",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːrkɪt/",
+      "meaning": "Chợ / Thị trường",
+      "example": {
+        "en": "Go to the market.",
+        "vi": "Đi chợ đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is the market far?",
+          "vi": "Chợ có xa không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, it is close.",
+          "vi": "Không, gần mà."
+        }
+      ]
+    },
+    {
+      "word": "Cart",
+      "ipa": "/kɑːrt/",
+      "meaning": "Xe đẩy",
+      "example": {
+        "en": "Push the cart.",
+        "vi": "Đẩy xe hàng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Get a cart.",
+          "vi": "Lấy một cái xe đẩy đi."
+        },
+        {
+          "speaker": "B",
+          "en": "It is broken.",
+          "vi": "Nó hỏng rồi."
+        }
+      ]
+    },
+    {
+      "word": "Aisle",
+      "ipa": "/aɪl/",
+      "meaning": "Lối đi",
+      "example": {
+        "en": "In aisle 5.",
+        "vi": "Ở lối đi số 5."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Where is the milk?",
+          "vi": "Sữa ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "en": "Aisle 3.",
+          "vi": "Lối đi số 3."
+        }
+      ]
+    },
+    {
+      "word": "Buy",
+      "ipa": "/baɪ/",
+      "meaning": "Mua",
+      "example": {
+        "en": "Buy some apples.",
+        "vi": "Mua ít táo đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I want to buy this.",
+          "vi": "Tôi muốn mua cái này."
+        },
+        {
+          "speaker": "B",
+          "en": "It is cheap.",
+          "vi": "Nó rẻ đấy."
+        }
+      ]
+    },
+    {
+      "word": "Sell",
+      "ipa": "/sɛl/",
+      "meaning": "Bán",
+      "example": {
+        "en": "They sell fresh fish.",
+        "vi": "Họ bán cá tươi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do they sell flowers?",
+          "vi": "Họ có bán hoa không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes.",
+          "vi": "Có."
+        }
+      ]
+    },
+    {
+      "word": "Pay",
+      "ipa": "/peɪ/",
+      "meaning": "Thanh toán",
+      "example": {
+        "en": "Pay at the counter.",
+        "vi": "Thanh toán tại quầy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can I pay by card?",
+          "vi": "Tôi trả bằng thẻ được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Only cash.",
+          "vi": "Chỉ tiền mặt thôi."
+        }
+      ]
+    },
+    {
+      "word": "Cheap",
+      "ipa": "/tʃiːp/",
+      "meaning": "Rẻ",
+      "example": {
+        "en": "It is very cheap.",
+        "vi": "Nó rất rẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is it cheap?",
+          "vi": "Nó có rẻ không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, on sale.",
+          "vi": "Có, đang giảm giá."
+        }
+      ]
+    },
+    {
+      "word": "Expensive",
+      "ipa": "/ɪkˈspɛnsɪv/",
+      "meaning": "Đắt",
+      "example": {
+        "en": "Too expensive.",
+        "vi": "Đắt quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "I can't afford it.",
+          "vi": "Tôi không mua nổi."
+        },
+        {
+          "speaker": "B",
+          "en": "Look for something else.",
+          "vi": "Tìm cái khác đi."
+        }
+      ]
+    },
+    {
+      "word": "Bag",
+      "ipa": "/bæɡ/",
+      "meaning": "Túi",
+      "example": {
+        "en": "Put it in the bag.",
+        "vi": "Bỏ nó vào túi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Do you need a bag?",
+          "vi": "Bạn có cần túi không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, I have one.",
+          "vi": "Không, tôi có rồi."
+        }
+      ]
+    },
+    {
+      "word": "List",
+      "ipa": "/lɪst/",
+      "meaning": "Danh sách",
+      "example": {
+        "en": "Shopping list.",
+        "vi": "Danh sách mua sắm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check the list.",
+          "vi": "Kiểm tra danh sách xem."
+        },
+        {
+          "speaker": "B",
+          "en": "We got everything.",
+          "vi": "Chúng ta mua đủ rồi."
+        }
+      ]
+    }
+  ]
 }

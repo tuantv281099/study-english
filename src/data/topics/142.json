@@ -1,6 +1,217 @@
 {
   "id": "142",
   "title": "142. Smart Home – Nhà thông minh",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Smart",
+      "ipa": "/smɑːrt/",
+      "meaning": "Thông minh",
+      "example": {
+        "en": "Smart home.",
+        "vi": "Nhà thông minh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Voice activate.",
+          "vi": "Kích hoạt bằng giọng nói."
+        },
+        {
+          "speaker": "B",
+          "en": "Convenient.",
+          "vi": "Tiện lợi."
+        }
+      ]
+    },
+    {
+      "word": "Connect",
+      "ipa": "/kəˈnɛkt/",
+      "meaning": "Kết nối",
+      "example": {
+        "en": "Connect wifi.",
+        "vi": "Kết nối wifi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "All devices.",
+          "vi": "Tất cả thiết bị."
+        },
+        {
+          "speaker": "B",
+          "en": "Stay online.",
+          "vi": "Luôn trực tuyến."
+        }
+      ]
+    },
+    {
+      "word": "Voice",
+      "ipa": "/vɔɪs/",
+      "meaning": "Giọng nói",
+      "example": {
+        "en": "Voice assistant.",
+        "vi": "Trợ lý giọng nói."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Say commands.",
+          "vi": "Nói câu lệnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Hey Siri.",
+          "vi": "Này Siri."
+        }
+      ]
+    },
+    {
+      "word": "Security",
+      "ipa": "/sɪˈkjʊərɪti/",
+      "meaning": "An ninh",
+      "example": {
+        "en": "Security camera.",
+        "vi": "Camera an ninh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Watch house.",
+          "vi": "Trông nhà."
+        },
+        {
+          "speaker": "B",
+          "en": "Feel safe.",
+          "vi": "Cảm thấy an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Control",
+      "ipa": "/kənˈtroʊl/",
+      "meaning": "Điều khiển",
+      "example": {
+        "en": "Remote control.",
+        "vi": "Điều khiển từ xa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Use phone.",
+          "vi": "Dùng điện thoại."
+        },
+        {
+          "speaker": "B",
+          "en": "Turn lights on.",
+          "vi": "Bật đèn lên."
+        }
+      ]
+    },
+    {
+      "word": "Sensor",
+      "ipa": "/ˈsɛnsər/",
+      "meaning": "Cảm biến",
+      "example": {
+        "en": "Motion sensor.",
+        "vi": "Cảm biến chuyển động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Detects movement.",
+          "vi": "Phát hiện chuyển động."
+        },
+        {
+          "speaker": "B",
+          "en": "Alarm sound.",
+          "vi": "Tiếng báo động."
+        }
+      ]
+    },
+    {
+      "word": "Light",
+      "ipa": "/laɪt/",
+      "meaning": "Ánh sáng / Đèn",
+      "example": {
+        "en": "Smart bulb.",
+        "vi": "Bóng đèn thông minh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Change color.",
+          "vi": "Đổi màu."
+        },
+        {
+          "speaker": "B",
+          "en": "Dim lights.",
+          "vi": "Làm mờ đèn."
+        }
+      ]
+    },
+    {
+      "word": "Thermostat",
+      "ipa": "/ˈθɜːrməˌstæt/",
+      "meaning": "Bộ điều chỉnh nhiệt",
+      "example": {
+        "en": "Smart thermostat.",
+        "vi": "Bộ điều nhiệt thông minh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Set temp.",
+          "vi": "Cài nhiệt độ."
+        },
+        {
+          "speaker": "B",
+          "en": "Save energy.",
+          "vi": "Tiết kiệm năng lượng."
+        }
+      ]
+    },
+    {
+      "word": "App",
+      "ipa": "/æp/",
+      "meaning": "Ứng dụng",
+      "example": {
+        "en": "Home app.",
+        "vi": "Ứng dụng nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Manage all.",
+          "vi": "Quản lý tất cả."
+        },
+        {
+          "speaker": "B",
+          "en": "One tap.",
+          "vi": "Một lần chạm."
+        }
+      ]
+    },
+    {
+      "word": "Automate",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "meaning": "Tự động hóa",
+      "example": {
+        "en": "Automate routine.",
+        "vi": "Tự động hóa thói quen."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Morning mode.",
+          "vi": "Chế độ buổi sáng."
+        },
+        {
+          "speaker": "B",
+          "en": "Curtains open.",
+          "vi": "Rèm mở ra."
+        }
+      ]
+    }
+  ]
 }

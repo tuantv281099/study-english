@@ -1,6 +1,217 @@
 {
   "id": "244",
   "title": "244. Physics Vocabulary – Vật lý",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Physics",
+      "ipa": "/ˈfɪzɪks/",
+      "meaning": "Vật lý",
+      "example": {
+        "en": "Physics laws.",
+        "vi": "Quy luật vật lý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Gravity.",
+          "vi": "Trọng lực."
+        },
+        {
+          "speaker": "B",
+          "en": "Motion.",
+          "vi": "Chuyển động."
+        }
+      ]
+    },
+    {
+      "word": "Energy",
+      "ipa": "/ˈɛnərdʒi/",
+      "meaning": "Năng lượng",
+      "example": {
+        "en": "Solar energy.",
+        "vi": "Năng lượng mặt trời."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Power.",
+          "vi": "Năng lượng."
+        },
+        {
+          "speaker": "B",
+          "en": "Work.",
+          "vi": "Công."
+        }
+      ]
+    },
+    {
+      "word": "Force",
+      "ipa": "/fɔːrs/",
+      "meaning": "Lực",
+      "example": {
+        "en": "Push force.",
+        "vi": "Lực đẩy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pull.",
+          "vi": "Kéo."
+        },
+        {
+          "speaker": "B",
+          "en": "Strong.",
+          "vi": "Mạnh."
+        }
+      ]
+    },
+    {
+      "word": "Gravity",
+      "ipa": "/ˈɡrævɪti/",
+      "meaning": "Trọng lực",
+      "example": {
+        "en": "Earth's gravity.",
+        "vi": "Trọng lực Trái đất."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fall down.",
+          "vi": "Rơi xuống."
+        },
+        {
+          "speaker": "B",
+          "en": "Newton.",
+          "vi": "Newton."
+        }
+      ]
+    },
+    {
+      "word": "Light",
+      "ipa": "/laɪt/",
+      "meaning": "Ánh sáng",
+      "example": {
+        "en": "Speed of light.",
+        "vi": "Tốc độ ánh sáng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast.",
+          "vi": "Nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Sun.",
+          "vi": "Mặt trời."
+        }
+      ]
+    },
+    {
+      "word": "Sound",
+      "ipa": "/saʊnd/",
+      "meaning": "Âm thanh",
+      "example": {
+        "en": "Loud sound.",
+        "vi": "Âm thanh lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wave.",
+          "vi": "Sóng."
+        },
+        {
+          "speaker": "B",
+          "en": "Hear.",
+          "vi": "Nghe."
+        }
+      ]
+    },
+    {
+      "word": "Speed",
+      "ipa": "/spiːd/",
+      "meaning": "Tốc độ",
+      "example": {
+        "en": "High speed.",
+        "vi": "Tốc độ cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fast car.",
+          "vi": "Xe nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Measure.",
+          "vi": "Đo lường."
+        }
+      ]
+    },
+    {
+      "word": "Mass",
+      "ipa": "/mæs/",
+      "meaning": "Khối lượng",
+      "example": {
+        "en": "Heavy mass.",
+        "vi": "Khối lượng nặng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Weight.",
+          "vi": "Trọng lượng."
+        },
+        {
+          "speaker": "B",
+          "en": "Kilogram.",
+          "vi": "Kilogam."
+        }
+      ]
+    },
+    {
+      "word": "Motion",
+      "ipa": "/ˈmoʊʃən/",
+      "meaning": "Chuyển động",
+      "example": {
+        "en": "In motion.",
+        "vi": "Đang chuyển động."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Move.",
+          "vi": "Di chuyển."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop.",
+          "vi": "Dừng lại."
+        }
+      ]
+    },
+    {
+      "word": "Magnet",
+      "ipa": "/ˈmæɡnɪt/",
+      "meaning": "Nam châm",
+      "example": {
+        "en": "Strong magnet.",
+        "vi": "Nam châm mạnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Attract.",
+          "vi": "Hút."
+        },
+        {
+          "speaker": "B",
+          "en": "Metal.",
+          "vi": "Kim loại."
+        }
+      ]
+    }
+  ]
 }

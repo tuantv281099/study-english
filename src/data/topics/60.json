@@ -1,6 +1,217 @@
 {
   "id": "60",
   "title": "60. Appearance",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Beautiful",
+      "ipa": "/ˈbjuːtɪfəl/",
+      "meaning": "Xinh đẹp",
+      "example": {
+        "en": "She is beautiful.",
+        "vi": "Cô ấy thật xinh đẹp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You look beautiful.",
+          "vi": "Bạn trông thật xinh đẹp."
+        },
+        {
+          "speaker": "B",
+          "en": "Thank you.",
+          "vi": "Cảm ơn bạn."
+        }
+      ]
+    },
+    {
+      "word": "Handsome",
+      "ipa": "/ˈhænsəm/",
+      "meaning": "Điển trai",
+      "example": {
+        "en": "He is handsome.",
+        "vi": "Anh ấy thật điển trai."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Is he handsome?",
+          "vi": "Anh ấy có đẹp trai không?"
+        },
+        {
+          "speaker": "B",
+          "en": "Very chariming.",
+          "vi": "Rất quyến rũ."
+        }
+      ]
+    },
+    {
+      "word": "Ugly",
+      "ipa": "/ˈʌɡli/",
+      "meaning": "Xấu xí",
+      "example": {
+        "en": "The witch was ugly.",
+        "vi": "Mụ phù thủy rất xấu xí."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't call people ugly.",
+          "vi": "Đừng gọi người khác là xấu xí."
+        },
+        {
+          "speaker": "B",
+          "en": "Sorry.",
+          "vi": "Xin lỗi."
+        }
+      ]
+    },
+    {
+      "word": "Tall",
+      "ipa": "/tɔːl/",
+      "meaning": "Cao",
+      "example": {
+        "en": "He is tall.",
+        "vi": "Anh ấy cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "How tall are you?",
+          "vi": "Bạn cao bao nhiêu?"
+        },
+        {
+          "speaker": "B",
+          "en": "1 meter 80.",
+          "vi": "1 mét 80."
+        }
+      ]
+    },
+    {
+      "word": "Short",
+      "ipa": "/ʃɔːrt/",
+      "meaning": "Thấp / Ngắn",
+      "example": {
+        "en": "She is short.",
+        "vi": "Cô ấy thấp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Being short is cute.",
+          "vi": "Thấp cũng dễ thương mà."
+        },
+        {
+          "speaker": "B",
+          "en": "I guess.",
+          "vi": "Chắc vậy."
+        }
+      ]
+    },
+    {
+      "word": "Thin",
+      "ipa": "/θɪn/",
+      "meaning": "Gầy",
+      "example": {
+        "en": "He is very thin.",
+        "vi": "Anh ấy rất gầy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Eat more.",
+          "vi": "Ăn nhiều vào."
+        },
+        {
+          "speaker": "B",
+          "en": "I try.",
+          "vi": "Tôi đang cố."
+        }
+      ]
+    },
+    {
+      "word": "Fat",
+      "ipa": "/fæt/",
+      "meaning": "Béo / Mập",
+      "example": {
+        "en": "The cat is fat.",
+        "vi": "Con mèo béo quá."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "It is fluffy.",
+          "vi": "Nó xù lông thôi."
+        },
+        {
+          "speaker": "B",
+          "en": "No, it is fat.",
+          "vi": "Không, nó béo đấy."
+        }
+      ]
+    },
+    {
+      "word": "Young",
+      "ipa": "/jʌŋ/",
+      "meaning": "Trẻ",
+      "example": {
+        "en": "When I was young.",
+        "vi": "Khi tôi còn trẻ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You look young.",
+          "vi": "Trông bạn trẻ quá."
+        },
+        {
+          "speaker": "B",
+          "en": "I am 30.",
+          "vi": "Tôi 30 rồi."
+        }
+      ]
+    },
+    {
+      "word": "Old",
+      "ipa": "/oʊld/",
+      "meaning": "Già",
+      "example": {
+        "en": "He is an old man.",
+        "vi": "Ông ấy là một ông già."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Respect old people.",
+          "vi": "Kính trọng người già."
+        },
+        {
+          "speaker": "B",
+          "en": "Always.",
+          "vi": "Luôn luôn."
+        }
+      ]
+    },
+    {
+      "word": "Cute",
+      "ipa": "/kjuːt/",
+      "meaning": "Dễ thương",
+      "example": {
+        "en": "The baby is cute.",
+        "vi": "Em bé thật dễ thương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "So cute!",
+          "vi": "Dễ thương quá!"
+        },
+        {
+          "speaker": "B",
+          "en": "Look at those cheeks.",
+          "vi": "Nhìn đôi má kìa."
+        }
+      ]
+    }
+  ]
 }

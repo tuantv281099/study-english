@@ -1,6 +1,217 @@
 {
   "id": "250",
   "title": "250. Economics Vocabulary – Kinh tế học",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Price",
+      "ipa": "/praɪs/",
+      "meaning": "Giá cả",
+      "example": {
+        "en": "High price.",
+        "vi": "Giá cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cost.",
+          "vi": "Chi phí."
+        },
+        {
+          "speaker": "B",
+          "en": "Expensive.",
+          "vi": "Đắt."
+        }
+      ]
+    },
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːrkɪt/",
+      "meaning": "Thị trường",
+      "example": {
+        "en": "Free market.",
+        "vi": "Thị trường tự do."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Trade.",
+          "vi": "Giao thương."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy sell.",
+          "vi": "Mua bán."
+        }
+      ]
+    },
+    {
+      "word": "Demand",
+      "ipa": "/dɪˈmænd/",
+      "meaning": "Cầu (Nhu cầu)",
+      "example": {
+        "en": "Supply and demand.",
+        "vi": "Cung và cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Want.",
+          "vi": "Muốn."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy.",
+          "vi": "Mua."
+        }
+      ]
+    },
+    {
+      "word": "Supply",
+      "ipa": "/səˈplaɪ/",
+      "meaning": "Cung (Nguồn cung)",
+      "example": {
+        "en": "Short supply.",
+        "vi": "Nguồn cung thiếu hụt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Product.",
+          "vi": "Sản phẩm."
+        },
+        {
+          "speaker": "B",
+          "en": "Available.",
+          "vi": "Có sẵn."
+        }
+      ]
+    },
+    {
+      "word": "Tax",
+      "ipa": "/tæks/",
+      "meaning": "Thuế",
+      "example": {
+        "en": "Pay tax.",
+        "vi": "Đóng thuế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Government.",
+          "vi": "Chính phủ."
+        },
+        {
+          "speaker": "B",
+          "en": "Income.",
+          "vi": "Thu nhập."
+        }
+      ]
+    },
+    {
+      "word": "Money",
+      "ipa": "/ˈmʌni/",
+      "meaning": "Tiền",
+      "example": {
+        "en": "Save money.",
+        "vi": "Tiết kiệm tiền."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Currency.",
+          "vi": "Tiền tệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Cash.",
+          "vi": "Tiền mặt."
+        }
+      ]
+    },
+    {
+      "word": "Profit",
+      "ipa": "/ˈprɒfɪt/",
+      "meaning": "Lợi nhuận",
+      "example": {
+        "en": "Make profit.",
+        "vi": "Tạo ra lợi nhuận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Gain.",
+          "vi": "Thu hoạch."
+        },
+        {
+          "speaker": "B",
+          "en": "Loss.",
+          "vi": "Thua lỗ."
+        }
+      ]
+    },
+    {
+      "word": "Trade",
+      "ipa": "/treɪd/",
+      "meaning": "Thương mại / Buôn bán",
+      "example": {
+        "en": "Global trade.",
+        "vi": "Thương mại toàn cầu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Export.",
+          "vi": "Xuất khẩu."
+        },
+        {
+          "speaker": "B",
+          "en": "Import.",
+          "vi": "Nhập khẩu."
+        }
+      ]
+    },
+    {
+      "word": "Growth",
+      "ipa": "/ɡroʊθ/",
+      "meaning": "Tăng trưởng",
+      "example": {
+        "en": "Economic growth.",
+        "vi": "Tăng trưởng kinh tế."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Develop.",
+          "vi": "Phát triển."
+        },
+        {
+          "speaker": "B",
+          "en": "Expand.",
+          "vi": "Mở rộng."
+        }
+      ]
+    },
+    {
+      "word": "Inflation",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "meaning": "Lạm phát",
+      "example": {
+        "en": "High inflation.",
+        "vi": "Lạm phát cao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Prices up.",
+          "vi": "Giá tăng."
+        },
+        {
+          "speaker": "B",
+          "en": "Money value.",
+          "vi": "Giá trị tiền."
+        }
+      ]
+    }
+  ]
 }

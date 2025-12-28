@@ -1,6 +1,217 @@
 {
   "id": "173",
   "title": "173. Home Repairs – Sửa chữa nhà",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Repair",
+      "ipa": "/rɪˈpɛər/",
+      "meaning": "Sửa chữa",
+      "example": {
+        "en": "Home repair.",
+        "vi": "Sửa chữa nhà."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Leaky roof.",
+          "vi": "Mái nhà dột."
+        },
+        {
+          "speaker": "B",
+          "en": "Call pro.",
+          "vi": "Gọi thợ chuyên."
+        }
+      ]
+    },
+    {
+      "word": "Leak",
+      "ipa": "/liːk/",
+      "meaning": "Rò rỉ",
+      "example": {
+        "en": "Water leak.",
+        "vi": "Rò rỉ nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Pipe burst.",
+          "vi": "Vỡ ống nước."
+        },
+        {
+          "speaker": "B",
+          "en": "Turn off water.",
+          "vi": "Khóa nước lại."
+        }
+      ]
+    },
+    {
+      "word": "Crack",
+      "ipa": "/kræk/",
+      "meaning": "Vết nứt",
+      "example": {
+        "en": "Crack in wall.",
+        "vi": "Vết nứt trên tường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fill it.",
+          "vi": "Trám nó lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Paint over.",
+          "vi": "Sơn đè lên."
+        }
+      ]
+    },
+    {
+      "word": "Tile",
+      "ipa": "/taɪl/",
+      "meaning": "Gạch (lát)",
+      "example": {
+        "en": "Floor tiles.",
+        "vi": "Gạch lát sàn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Cracked tile.",
+          "vi": "Gạch bị nứt."
+        },
+        {
+          "speaker": "B",
+          "en": "Replace it.",
+          "vi": "Thay thế nó."
+        }
+      ]
+    },
+    {
+      "word": "Plumber",
+      "ipa": "/ˈplʌmər/",
+      "meaning": "Thợ sửa ống nước",
+      "example": {
+        "en": "Call plumber.",
+        "vi": "Gọi thợ sửa ống nước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Toilet clogged.",
+          "vi": "Toilet bị tắc."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix drains.",
+          "vi": "Sửa ống thoát."
+        }
+      ]
+    },
+    {
+      "word": "Electrician",
+      "ipa": "/ɪˌlɛkˈtrɪʃən/",
+      "meaning": "Thợ điện",
+      "example": {
+        "en": "Need electrician.",
+        "vi": "Cần thợ điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Lights flicker.",
+          "vi": "Đèn nhấp nháy."
+        },
+        {
+          "speaker": "B",
+          "en": "Check wiring.",
+          "vi": "Kiểm tra đường dây."
+        }
+      ]
+    },
+    {
+      "word": "Maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "meaning": "Bảo trì",
+      "example": {
+        "en": "Regular maintenance.",
+        "vi": "Bảo trì định kỳ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Check AC.",
+          "vi": "Kiểm tra máy lạnh."
+        },
+        {
+          "speaker": "B",
+          "en": "Clean filter.",
+          "vi": "Vệ sinh bộ lọc."
+        }
+      ]
+    },
+    {
+      "word": "Broken",
+      "ipa": "/ˈbroʊkən/",
+      "meaning": "Hỏng / Vỡ",
+      "example": {
+        "en": "Window broken.",
+        "vi": "Cửa sổ vỡ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Glass pieces.",
+          "vi": "Mảnh kính vỡ."
+        },
+        {
+          "speaker": "B",
+          "en": "Be careful.",
+          "vi": "Cẩn thận."
+        }
+      ]
+    },
+    {
+      "word": "Clog",
+      "ipa": "/klɒɡ/",
+      "meaning": "Tắc nghẽn",
+      "example": {
+        "en": "Sink clogged.",
+        "vi": "Bồn rửa bị tắc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Water won't drain.",
+          "vi": "Nước không thoát."
+        },
+        {
+          "speaker": "B",
+          "en": "Use plunger.",
+          "vi": "Dùng cây thông tắc."
+        }
+      ]
+    },
+    {
+      "word": "Insulate",
+      "ipa": "/ˈɪnsjʊleɪt/",
+      "meaning": "Cách nhiệt / Cách âm",
+      "example": {
+        "en": "Insulate attic.",
+        "vi": "Cách nhiệt gác mái."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save heat.",
+          "vi": "Giữ nhiệt."
+        },
+        {
+          "speaker": "B",
+          "en": "Lower bill.",
+          "vi": "Giảm hóa đơn."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "217",
   "title": "217. Conflict Resolution – Giải quyết xung đột",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Conflict",
+      "ipa": "/ˈkɒnflɪkt/",
+      "meaning": "Xung đột",
+      "example": {
+        "en": "Resovle conflict.",
+        "vi": "Giải quyết xung đột."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Disagreement.",
+          "vi": "Bất đồng."
+        },
+        {
+          "speaker": "B",
+          "en": "Fight.",
+          "vi": "Cãi nhau."
+        }
+      ]
+    },
+    {
+      "word": "Resolve",
+      "ipa": "/rɪˈzɒlv/",
+      "meaning": "Giải quyết",
+      "example": {
+        "en": "Resolve issue.",
+        "vi": "Giải quyết vấn đề."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Find peace.",
+          "vi": "Tìm sự bình yên."
+        },
+        {
+          "speaker": "B",
+          "en": "Talk it out.",
+          "vi": "Nói chuyện thẳng thắn."
+        }
+      ]
+    },
+    {
+      "word": "Compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "meaning": "Thỏa hiệp",
+      "example": {
+        "en": "Reach compromise.",
+        "vi": "Đạt được thỏa hiệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Meet halfway.",
+          "vi": "Nhường nhịn nhau."
+        },
+        {
+          "speaker": "B",
+          "en": "Both happy.",
+          "vi": "Cả hai đều vui."
+        }
+      ]
+    },
+    {
+      "word": "Apologize",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "meaning": "Xin lỗi",
+      "example": {
+        "en": "You should apologize.",
+        "vi": "Bạn nên xin lỗi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Say sorry.",
+          "vi": "Nói xin lỗi."
+        },
+        {
+          "speaker": "B",
+          "en": "Forgive.",
+          "vi": "Tha thứ."
+        }
+      ]
+    },
+    {
+      "word": "Calm",
+      "ipa": "/kɑːm/",
+      "meaning": "Bình tĩnh",
+      "example": {
+        "en": "Stay calm.",
+        "vi": "Giữ bình tĩnh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Don't shout.",
+          "vi": "Đừng hét."
+        },
+        {
+          "speaker": "B",
+          "en": "Breathe.",
+          "vi": "Hít thở."
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "ipa": "/ˈlɪsən/",
+      "meaning": "Lắng nghe",
+      "example": {
+        "en": "Active listening.",
+        "vi": "Lắng nghe tích cực."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Understand.",
+          "vi": "Hiểu."
+        },
+        {
+          "speaker": "B",
+          "en": "Empathy.",
+          "vi": "Đồng cảm."
+        }
+      ]
+    },
+    {
+      "word": "Negotiate",
+      "ipa": "/nɪˈɡoʊʃieɪt/",
+      "meaning": "Thương lượng",
+      "example": {
+        "en": "Negotiate terms.",
+        "vi": "Thương lượng điều khoản."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Discussion.",
+          "vi": "Thảo luận."
+        },
+        {
+          "speaker": "B",
+          "en": "Deal.",
+          "vi": "Thỏa thuận."
+        }
+      ]
+    },
+    {
+      "word": "Argument",
+      "ipa": "/ˈɑːrɡjumənt/",
+      "meaning": "Tranh luận / Cãi lý",
+      "example": {
+        "en": "Avoid argument.",
+        "vi": "Tránh tranh luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hot temper.",
+          "vi": "Nóng tính."
+        },
+        {
+          "speaker": "B",
+          "en": "Walk away.",
+          "vi": "Bỏ đi."
+        }
+      ]
+    },
+    {
+      "word": "Solution",
+      "ipa": "/səˈluːʃən/",
+      "meaning": "Giải pháp",
+      "example": {
+        "en": "Find solution.",
+        "vi": "Tìm giải pháp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Fix problem.",
+          "vi": "Sửa vấn đề."
+        },
+        {
+          "speaker": "B",
+          "en": "Work together.",
+          "vi": "Làm cùng nhau."
+        }
+      ]
+    },
+    {
+      "word": "Agree",
+      "ipa": "/əˈɡriː/",
+      "meaning": "Đồng ý",
+      "example": {
+        "en": "Agree to disagree.",
+        "vi": "Chấp nhận sự bất đồng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Respect.",
+          "vi": "Tôn trọng."
+        },
+        {
+          "speaker": "B",
+          "en": "Move on.",
+          "vi": "Tiếp tục."
+        }
+      ]
+    }
+  ]
 }

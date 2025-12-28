@@ -1,6 +1,217 @@
 {
   "id": "92",
   "title": "92. Traffic Signs",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Stop",
+      "ipa": "/stɒp/",
+      "meaning": "Dừng lại",
+      "example": {
+        "en": "Stop sign.",
+        "vi": "Biển báo dừng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Red octagon.",
+          "vi": "Hình bát giác màu đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Must stop.",
+          "vi": "Phải dừng lại."
+        }
+      ]
+    },
+    {
+      "word": "Yield",
+      "ipa": "/jiːld/",
+      "meaning": "Nhường đường",
+      "example": {
+        "en": "Yield sign.",
+        "vi": "Biển báo nhường đường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Let others pass.",
+          "vi": "Để người khác qua trước."
+        },
+        {
+          "speaker": "B",
+          "en": "Triangle shape.",
+          "vi": "Hình tam giác."
+        }
+      ]
+    },
+    {
+      "word": "Limit",
+      "ipa": "/ˈlɪmɪt/",
+      "meaning": "Giới hạn",
+      "example": {
+        "en": "Speed limit sign.",
+        "vi": "Biển báo giới hạn tốc độ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "50 km/h.",
+          "vi": "50 km/h."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't go faster.",
+          "vi": "Đừng đi nhanh hơn."
+        }
+      ]
+    },
+    {
+      "word": "One way",
+      "ipa": "/wʌn weɪ/",
+      "meaning": "Đường một chiều",
+      "example": {
+        "en": "One way street.",
+        "vi": "Đường một chiều."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Arrow points way.",
+          "vi": "Mũi tên chỉ hướng."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't enter.",
+          "vi": "Đừng đi vào."
+        }
+      ]
+    },
+    {
+      "word": "No parking",
+      "ipa": "/noʊ ˈpɑːrkɪŋ/",
+      "meaning": "Cấm đỗ xe",
+      "example": {
+        "en": "No parking sign.",
+        "vi": "Biển cấm đỗ xe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Can I park here?",
+          "vi": "Tôi đỗ ở đây được không?"
+        },
+        {
+          "speaker": "B",
+          "en": "No, you will be towed.",
+          "vi": "Không, bạn sẽ bị cẩu xe đấy."
+        }
+      ]
+    },
+    {
+      "word": "Crosswalk",
+      "ipa": "/ˈkrɒswɔːk/",
+      "meaning": "Lối qua đường",
+      "example": {
+        "en": "Pedestrian crosswalk.",
+        "vi": "Lối qua đường cho người đi bộ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Watch for people.",
+          "vi": "Chú ý người đi bộ."
+        },
+        {
+          "speaker": "B",
+          "en": "Stop for them.",
+          "vi": "Dừng lại nhường họ."
+        }
+      ]
+    },
+    {
+      "word": "Construction",
+      "ipa": "/kənˈstrʌkʃən/",
+      "meaning": "Công trường",
+      "example": {
+        "en": "Road construction.",
+        "vi": "Công trường làm đường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Slow down.",
+          "vi": "Đi chậm lại."
+        },
+        {
+          "speaker": "B",
+          "en": "Men at work.",
+          "vi": "Có người đang làm việc."
+        }
+      ]
+    },
+    {
+      "word": "School zone",
+      "ipa": "/skuːl zoʊn/",
+      "meaning": "Khu vực trường học",
+      "example": {
+        "en": "Slow, school zone.",
+        "vi": "Chậm lại, khu vực trường học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Children playing.",
+          "vi": "Trẻ em đang vui chơi."
+        },
+        {
+          "speaker": "B",
+          "en": "Drive carefully.",
+          "vi": "Lái xe cẩn thận."
+        }
+      ]
+    },
+    {
+      "word": "Signal",
+      "ipa": "/ˈsɪɡnəl/",
+      "meaning": "Tín hiệu / Đèn giao thông",
+      "example": {
+        "en": "Traffic signal.",
+        "vi": "Đèn tín hiệu giao thông."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Red light.",
+          "vi": "Đèn đỏ."
+        },
+        {
+          "speaker": "B",
+          "en": "Wait for green.",
+          "vi": "Chờ đèn xanh."
+        }
+      ]
+    },
+    {
+      "word": "Warning",
+      "ipa": "/ˈwɔːrnɪŋ/",
+      "meaning": "Cảnh báo",
+      "example": {
+        "en": "Warning sign.",
+        "vi": "Biển cảnh báo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Curve ahead.",
+          "vi": "Phía trước có khúc cua."
+        },
+        {
+          "speaker": "B",
+          "en": "Yellow diamond.",
+          "vi": "Hình thoi màu vàng."
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,217 @@
 {
   "id": "140",
   "title": "140. Cloud Computing",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Cloud",
+      "ipa": "/klaʊd/",
+      "meaning": "Đám mây (điện toán)",
+      "example": {
+        "en": "Save to cloud.",
+        "vi": "Lưu lên đám mây."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Access anywhere.",
+          "vi": "Truy cập mọi nơi."
+        },
+        {
+          "speaker": "B",
+          "en": "Safe storage.",
+          "vi": "Lưu trữ an toàn."
+        }
+      ]
+    },
+    {
+      "word": "Storage",
+      "ipa": "/ˈstɔːrɪdʒ/",
+      "meaning": "Lưu trữ",
+      "example": {
+        "en": "Cloud storage.",
+        "vi": "Lưu trữ đám mây."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "More space.",
+          "vi": "Nhiều không gian hơn."
+        },
+        {
+          "speaker": "B",
+          "en": "Upload files.",
+          "vi": "Tải tệp lên."
+        }
+      ]
+    },
+    {
+      "word": "Sync",
+      "ipa": "/sɪŋk/",
+      "meaning": "Đồng bộ hóa",
+      "example": {
+        "en": "Sync devices.",
+        "vi": "Đồng bộ thiết bị."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Phone and laptop.",
+          "vi": "Điện thoại và máy tính."
+        },
+        {
+          "speaker": "B",
+          "en": "Same data.",
+          "vi": "Dữ liệu giống nhau."
+        }
+      ]
+    },
+    {
+      "word": "Server",
+      "ipa": "/ˈsɜːrvər/",
+      "meaning": "Máy chủ",
+      "example": {
+        "en": "Remote server.",
+        "vi": "Máy chủ từ xa."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Data center.",
+          "vi": "Trung tâm dữ liệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Always on.",
+          "vi": "Luôn bật."
+        }
+      ]
+    },
+    {
+      "word": "Access",
+      "ipa": "/ˈæksɛs/",
+      "meaning": "Truy cập",
+      "example": {
+        "en": "Access files.",
+        "vi": "Truy cập tệp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Need internet.",
+          "vi": "Cần internet."
+        },
+        {
+          "speaker": "B",
+          "en": "From home.",
+          "vi": "Từ nhà."
+        }
+      ]
+    },
+    {
+      "word": "Secure",
+      "ipa": "/sɪˈkjʊər/",
+      "meaning": "Bảo mật",
+      "example": {
+        "en": "Secure cloud.",
+        "vi": "Đám mây bảo mật."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Encrypted.",
+          "vi": "Đã mã hóa."
+        },
+        {
+          "speaker": "B",
+          "en": "Peace of mind.",
+          "vi": "An tâm."
+        }
+      ]
+    },
+    {
+      "word": "Share",
+      "ipa": "/ʃɛər/",
+      "meaning": "Chia sẻ",
+      "example": {
+        "en": "Share link.",
+        "vi": "Chia sẻ liên kết."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Collaborate.",
+          "vi": "Cộng tác."
+        },
+        {
+          "speaker": "B",
+          "en": "Edit together.",
+          "vi": "Cùng chỉnh sửa."
+        }
+      ]
+    },
+    {
+      "word": "Backup",
+      "ipa": "/ˈbækʌp/",
+      "meaning": "Sao lưu",
+      "example": {
+        "en": "Auto backup.",
+        "vi": "Tự động sao lưu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Daily.",
+          "vi": "Hàng ngày."
+        },
+        {
+          "speaker": "B",
+          "en": "Never lose work.",
+          "vi": "Không bao giờ mất việc."
+        }
+      ]
+    },
+    {
+      "word": "Virtual",
+      "ipa": "/ˈvɜːrtʃuəl/",
+      "meaning": "Ảo",
+      "example": {
+        "en": "Virtual machine.",
+        "vi": "Máy ảo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Run OS.",
+          "vi": "Chạy hệ điều hành."
+        },
+        {
+          "speaker": "B",
+          "en": "In the cloud.",
+          "vi": "Trên đám mây."
+        }
+      ]
+    },
+    {
+      "word": "Scale",
+      "ipa": "/skeɪl/",
+      "meaning": "Mở rộng (quy mô)",
+      "example": {
+        "en": "Scale up.",
+        "vi": "Mở rộng quy mô."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Grow fast.",
+          "vi": "Phát triển nhanh."
+        },
+        {
+          "speaker": "B",
+          "en": "More resources.",
+          "vi": "Thêm tài nguyên."
+        }
+      ]
+    }
+  ]
 }

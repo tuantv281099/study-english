@@ -1,6 +1,217 @@
 {
   "id": "125",
   "title": "125. Police & Emergency",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Police",
+      "ipa": "/pəˈliːs/",
+      "meaning": "Cảnh sát",
+      "example": {
+        "en": "Call the police.",
+        "vi": "Gọi cảnh sát."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Police car.",
+          "vi": "Xe cảnh sát."
+        },
+        {
+          "speaker": "B",
+          "en": "Blue lights.",
+          "vi": "Đèn xanh."
+        }
+      ]
+    },
+    {
+      "word": "Officer",
+      "ipa": "/ˈɒfɪsər/",
+      "meaning": "Sĩ quan",
+      "example": {
+        "en": "Police officer.",
+        "vi": "Sĩ quan cảnh sát."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Badge.",
+          "vi": "Huy hiệu."
+        },
+        {
+          "speaker": "B",
+          "en": "Uniform.",
+          "vi": "Đồng phục."
+        }
+      ]
+    },
+    {
+      "word": "Siren",
+      "ipa": "/ˈsaɪrən/",
+      "meaning": "Còi hụ",
+      "example": {
+        "en": "Loud siren.",
+        "vi": "Còi hụ lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Move over.",
+          "vi": "Tránh đường."
+        },
+        {
+          "speaker": "B",
+          "en": "They are coming.",
+          "vi": "Họ đang tới."
+        }
+      ]
+    },
+    {
+      "word": "Handcuffs",
+      "ipa": "/ˈhændkʌfs/",
+      "meaning": "Còng tay",
+      "example": {
+        "en": "Put on handcuffs.",
+        "vi": "Đeo còng tay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "You are caught.",
+          "vi": "Bạn bị bắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Hands behind back.",
+          "vi": "Tay ra sau lưng."
+        }
+      ]
+    },
+    {
+      "word": "Patrol",
+      "ipa": "/pəˈtroʊl/",
+      "meaning": "Tuần tra",
+      "example": {
+        "en": "Patrol the street.",
+        "vi": "Tuần tra đường phố."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Keep safe.",
+          "vi": "Giữ an toàn."
+        },
+        {
+          "speaker": "B",
+          "en": "Night shift.",
+          "vi": "Ca đêm."
+        }
+      ]
+    },
+    {
+      "word": "Station",
+      "ipa": "/ˈsteɪʃən/",
+      "meaning": "Đồn / Trạm",
+      "example": {
+        "en": "Police station.",
+        "vi": "Đồn cảnh sát."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Go there.",
+          "vi": "Đến đó."
+        },
+        {
+          "speaker": "B",
+          "en": "Make statement.",
+          "vi": "Khai báo."
+        }
+      ]
+    },
+    {
+      "word": "Emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning": "Khẩn cấp",
+      "example": {
+        "en": "Emergency call.",
+        "vi": "Cuộc gọi khẩn cấp."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "911.",
+          "vi": "911."
+        },
+        {
+          "speaker": "B",
+          "en": "Help is on way.",
+          "vi": "Cứu trợ đang đến."
+        }
+      ]
+    },
+    {
+      "word": "Ambulance",
+      "ipa": "/ˈæmbjʊləns/",
+      "meaning": "Xe cứu thương",
+      "example": {
+        "en": "Call ambulance.",
+        "vi": "Gọi xe cứu thương."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Injured person.",
+          "vi": "Người bị thương."
+        },
+        {
+          "speaker": "B",
+          "en": "Hospital.",
+          "vi": "Bệnh viện."
+        }
+      ]
+    },
+    {
+      "word": "Firefighter",
+      "ipa": "/ˈfaɪərfpaɪtər/",
+      "meaning": "Lính cứu hỏa",
+      "example": {
+        "en": "Brave firefighter.",
+        "vi": "Lính cứu hỏa dũng cảm."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Put out fire.",
+          "vi": "Dập lửa."
+        },
+        {
+          "speaker": "B",
+          "en": "ladder truck.",
+          "vi": "Xe thang."
+        }
+      ]
+    },
+    {
+      "word": "Help",
+      "ipa": "/hɛlp/",
+      "meaning": "Giúp đỡ",
+      "example": {
+        "en": "Scream for help.",
+        "vi": "Hét lên cầu cứu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save me.",
+          "vi": "Cứu tôi với."
+        },
+        {
+          "speaker": "B",
+          "en": "Don't panic.",
+          "vi": "Đừng hoảng loạn."
+        }
+      ]
+    }
+  ]
 }

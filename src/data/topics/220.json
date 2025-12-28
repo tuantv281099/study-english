@@ -1,6 +1,217 @@
 {
   "id": "220",
   "title": "220. Storytelling – Kể chuyện",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Story",
+      "ipa": "/ˈstɔːri/",
+      "meaning": "Câu chuyện",
+      "example": {
+        "en": "Tell a story.",
+        "vi": "Kể một câu chuyện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Once upon a time.",
+          "vi": "Ngày xửa ngày xưa."
+        },
+        {
+          "speaker": "B",
+          "en": "Listen.",
+          "vi": "Nghe."
+        }
+      ]
+    },
+    {
+      "word": "Tell",
+      "ipa": "/tɛl/",
+      "meaning": "Kể",
+      "example": {
+        "en": "Tell me.",
+        "vi": "Kể tôi nghe."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What happened?",
+          "vi": "Chuyện gì đã xảy ra?"
+        },
+        {
+          "speaker": "B",
+          "en": "Long story.",
+          "vi": "Chuyện dài lắm."
+        }
+      ]
+    },
+    {
+      "word": "Character",
+      "ipa": "/ˈkærɪktər/",
+      "meaning": "Nhân vật",
+      "example": {
+        "en": "Main character.",
+        "vi": "Nhân vật chính."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hero.",
+          "vi": "Anh hùng."
+        },
+        {
+          "speaker": "B",
+          "en": "Villain.",
+          "vi": "Kẻ phản diện."
+        }
+      ]
+    },
+    {
+      "word": "Plot",
+      "ipa": "/plɒt/",
+      "meaning": "Cốt truyện",
+      "example": {
+        "en": "Interesting plot.",
+        "vi": "Cốt truyện thú vị."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Twist.",
+          "vi": "Nút thắt."
+        },
+        {
+          "speaker": "B",
+          "en": "Ending.",
+          "vi": "Kết thúc."
+        }
+      ]
+    },
+    {
+      "word": "Setting",
+      "ipa": "/ˈsɛtɪŋ/",
+      "meaning": "Bối cảnh",
+      "example": {
+        "en": "Story setting.",
+        "vi": "Bối cảnh câu chuyện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "In a castle.",
+          "vi": "Trong lâu đài."
+        },
+        {
+          "speaker": "B",
+          "en": "Beautiful.",
+          "vi": "Đẹp."
+        }
+      ]
+    },
+    {
+      "word": "Emotion",
+      "ipa": "/ɪˈmoʊʃən/",
+      "meaning": "Cảm xúc",
+      "example": {
+        "en": "Full of emotion.",
+        "vi": "Đầy cảm xúc."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Make cry.",
+          "vi": "Làm khóc."
+        },
+        {
+          "speaker": "B",
+          "en": "Make laugh.",
+          "vi": "Làm cười."
+        }
+      ]
+    },
+    {
+      "word": "Climax",
+      "ipa": "/ˈklaɪmæks/",
+      "meaning": "Cao trào",
+      "example": {
+        "en": "Story climax.",
+        "vi": "Cao trào câu chuyện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Exciting part.",
+          "vi": "Phần gay cấn."
+        },
+        {
+          "speaker": "B",
+          "en": "Tension.",
+          "vi": "Căng thẳng."
+        }
+      ]
+    },
+    {
+      "word": "Imagine",
+      "ipa": "/ɪˈmædʒɪn/",
+      "meaning": "Tưởng tượng",
+      "example": {
+        "en": "Just imagine.",
+        "vi": "Cứ tưởng tượng xem."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "New world.",
+          "vi": "Thế giới mới."
+        },
+        {
+          "speaker": "B",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Narrator",
+      "ipa": "/nəˈreɪtər/",
+      "meaning": "Người kể chuyện",
+      "example": {
+        "en": "Good narrator.",
+        "vi": "Người kể chuyện hay."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Voice.",
+          "vi": "Giọng nói."
+        },
+        {
+          "speaker": "B",
+          "en": "Guide.",
+          "vi": "Dẫn dắt."
+        }
+      ]
+    },
+    {
+      "word": "Ending",
+      "ipa": "/ˈɛndɪŋ/",
+      "meaning": "Kết thúc",
+      "example": {
+        "en": "Happy ending.",
+        "vi": "Kết thúc có hậu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Surprise.",
+          "vi": "Bất ngờ."
+        },
+        {
+          "speaker": "B",
+          "en": "Resolution.",
+          "vi": "Giải quyết."
+        }
+      ]
+    }
+  ]
 }

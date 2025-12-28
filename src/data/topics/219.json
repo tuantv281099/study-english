@@ -1,6 +1,217 @@
 {
   "id": "219",
   "title": "219. Persuasion – Thuyết phục",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Persuade",
+      "ipa": "/pərˈsweɪd/",
+      "meaning": "Thuyết phục",
+      "example": {
+        "en": "Persuade him.",
+        "vi": "Thuyết phục anh ấy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Good reasons.",
+          "vi": "Lý do chính đáng."
+        },
+        {
+          "speaker": "B",
+          "en": "Change mind.",
+          "vi": "Thay đổi ý định."
+        }
+      ]
+    },
+    {
+      "word": "Convince",
+      "ipa": "/kənˈvɪns/",
+      "meaning": "Làm cho tin / Thuyết phục",
+      "example": {
+        "en": "Convince me.",
+        "vi": "Thuyết phục tôi đi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Evidence.",
+          "vi": "Bằng chứng."
+        },
+        {
+          "speaker": "B",
+          "en": "Believe.",
+          "vi": "Tin tưởng."
+        }
+      ]
+    },
+    {
+      "word": "Reason",
+      "ipa": "/ˈriːzən/",
+      "meaning": "Lý do",
+      "example": {
+        "en": "Give a reason.",
+        "vi": "Đưa ra lý đao."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Why?",
+          "vi": "Tại sao?"
+        },
+        {
+          "speaker": "B",
+          "en": "Logic.",
+          "vi": "Logic."
+        }
+      ]
+    },
+    {
+      "word": "Argument",
+      "ipa": "/ˈɑːrɡjumənt/",
+      "meaning": "Lập luận",
+      "example": {
+        "en": "Strong argument.",
+        "vi": "Lập luận chặt chẽ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Make sense.",
+          "vi": "Có lý."
+        },
+        {
+          "speaker": "B",
+          "en": "Win debate.",
+          "vi": "Thắng tranh luận."
+        }
+      ]
+    },
+    {
+      "word": "Influence",
+      "ipa": "/ˈɪnfluəns/",
+      "meaning": "Ảnh hưởng",
+      "example": {
+        "en": "Bad influence.",
+        "vi": "Ảnh hưởng xấu."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Power.",
+          "vi": "Quyền lực."
+        },
+        {
+          "speaker": "B",
+          "en": "Follow.",
+          "vi": "Làm theo."
+        }
+      ]
+    },
+    {
+      "word": "Benefit",
+      "ipa": "/ˈbɛnɪfɪt/",
+      "meaning": "Lợi ích",
+      "example": {
+        "en": "Mutual benefit.",
+        "vi": "Lợi ích chung."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "What do I get?",
+          "vi": "Tôi được gì?"
+        },
+        {
+          "speaker": "B",
+          "en": "Good for you.",
+          "vi": "Tốt cho bạn."
+        }
+      ]
+    },
+    {
+      "word": "Agree",
+      "ipa": "/əˈɡriː/",
+      "meaning": "Đồng ý",
+      "example": {
+        "en": "Finally agree.",
+        "vi": "Cuối cùng cũng đồng ý."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Yes.",
+          "vi": "Có."
+        },
+        {
+          "speaker": "B",
+          "en": "Deal.",
+          "vi": "Thỏa thuận."
+        }
+      ]
+    },
+    {
+      "word": "Offer",
+      "ipa": "/ˈɔːfər/",
+      "meaning": "Đề nghị / Cung cấp",
+      "example": {
+        "en": "Special offer.",
+        "vi": "Ưu đãi đặc biệt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Buy now.",
+          "vi": "Mua ngay."
+        },
+        {
+          "speaker": "B",
+          "en": "Tempting.",
+          "vi": "Hấp dẫn."
+        }
+      ]
+    },
+    {
+      "word": "Trust",
+      "ipa": "/trʌst/",
+      "meaning": "Tin tưởng",
+      "example": {
+        "en": "Trust me.",
+        "vi": "Tin tôi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Honest.",
+          "vi": "Trung thực."
+        },
+        {
+          "speaker": "B",
+          "en": "Reliable.",
+          "vi": "Đáng tin cậy."
+        }
+      ]
+    },
+    {
+      "word": "Win",
+      "ipa": "/wɪn/",
+      "meaning": "Thắng",
+      "example": {
+        "en": "Win argumnet.",
+        "vi": "Thắng tranh luận."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Success.",
+          "vi": "Thành công."
+        },
+        {
+          "speaker": "B",
+          "en": "Happy.",
+          "vi": "Vui."
+        }
+      ]
+    }
+  ]
 }

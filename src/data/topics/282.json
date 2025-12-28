@@ -1,6 +1,217 @@
 {
   "id": "282",
   "title": "282. Success & Failure – Thành công & thất bại",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Succeed",
+      "ipa": "/səkˈsiːd/",
+      "meaning": "Thành công",
+      "example": {
+        "en": "Will succeed.",
+        "vi": "Sẽ thành công."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Win.",
+          "vi": "Thắng."
+        },
+        {
+          "speaker": "B",
+          "en": "Goal.",
+          "vi": "Mục tiêu."
+        }
+      ]
+    },
+    {
+      "word": "Fail",
+      "ipa": "/feɪl/",
+      "meaning": "Thất bại",
+      "example": {
+        "en": "Never fail.",
+        "vi": "Không bao giờ thất bại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Mistake.",
+          "vi": "Lỗi lầm."
+        },
+        {
+          "speaker": "B",
+          "en": "Learn.",
+          "vi": "Học hỏi."
+        }
+      ]
+    },
+    {
+      "word": "Result",
+      "ipa": "/rɪˈzʌlt/",
+      "meaning": "Kết quả",
+      "example": {
+        "en": "Good result.",
+        "vi": "Kết quả tốt."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Outcome.",
+          "vi": "Đầu ra."
+        },
+        {
+          "speaker": "B",
+          "en": "Score.",
+          "vi": "Điểm số."
+        }
+      ]
+    },
+    {
+      "word": "Accomplish",
+      "ipa": "/əˈkʌmplɪʃ/",
+      "meaning": "Đạt được",
+      "example": {
+        "en": "Accomplish mission.",
+        "vi": "Hoàn thành nhiệm vụ."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Done.",
+          "vi": "Xong."
+        },
+        {
+          "speaker": "B",
+          "en": "Happy.",
+          "vi": "Vui."
+        }
+      ]
+    },
+    {
+      "word": "Mistake",
+      "ipa": "/mɪˈsteɪk/",
+      "meaning": "Sai lầm",
+      "example": {
+        "en": "Big mistake.",
+        "vi": "Sai lầm lớn."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Wrong.",
+          "vi": "Sai."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix.",
+          "vi": "Sửa."
+        }
+      ]
+    },
+    {
+      "word": "Lesson",
+      "ipa": "/ˈlɛsən/",
+      "meaning": "Bài học",
+      "example": {
+        "en": "Learn lesson.",
+        "vi": "Rút ra bài học."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Experience.",
+          "vi": "Kinh nghiệm."
+        },
+        {
+          "speaker": "B",
+          "en": "Grow.",
+          "vi": "Lớn lên."
+        }
+      ]
+    },
+    {
+      "word": "Try",
+      "ipa": "/traɪ/",
+      "meaning": "Cố gắng / Thử",
+      "example": {
+        "en": "Try again.",
+        "vi": "Thử lại."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Attempt.",
+          "vi": "Nỗ lực."
+        },
+        {
+          "speaker": "B",
+          "en": "Hard.",
+          "vi": "Khó."
+        }
+      ]
+    },
+    {
+      "word": "Win",
+      "ipa": "/wɪn/",
+      "meaning": "Chiến thắng",
+      "example": {
+        "en": "Win game.",
+        "vi": "Thắng cuộc chơi."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Champion.",
+          "vi": "Nhà vô địch."
+        },
+        {
+          "speaker": "B",
+          "en": "Celebrate.",
+          "vi": "Ăn mừng."
+        }
+      ]
+    },
+    {
+      "word": "Lose",
+      "ipa": "/luːz/",
+      "meaning": "Thua / Mất",
+      "example": {
+        "en": "Lose hope.",
+        "vi": "Mất hy vọng."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Defeat.",
+          "vi": "Thất bại."
+        },
+        {
+          "speaker": "B",
+          "en": "Sad.",
+          "vi": "Buồn."
+        }
+      ]
+    },
+    {
+      "word": "Victory",
+      "ipa": "/ˈvɪktəri/",
+      "meaning": "Chiến thắng",
+      "example": {
+        "en": "Sweet victory.",
+        "vi": "Chiến thắng ngọt ngào."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Success.",
+          "vi": "Thành công."
+        },
+        {
+          "speaker": "B",
+          "en": "Party.",
+          "vi": "Tiệc tùng."
+        }
+      ]
+    }
+  ]
 }

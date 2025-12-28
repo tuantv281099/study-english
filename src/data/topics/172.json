@@ -1,6 +1,217 @@
 {
   "id": "172",
   "title": "172. DIY Vocabulary – Làm đồ thủ công",
-  "hasContent": false,
-  "vocabulary": []
+  "hasContent": true,
+  "vocabulary": [
+    {
+      "word": "Craft",
+      "ipa": "/kræft/",
+      "meaning": "Thủ công",
+      "example": {
+        "en": "Arts and crafts.",
+        "vi": "Nghệ thuật và thủ công."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Handmade.",
+          "vi": "Làm bằng tay."
+        },
+        {
+          "speaker": "B",
+          "en": "Creative.",
+          "vi": "Sáng tạo."
+        }
+      ]
+    },
+    {
+      "word": "Tool",
+      "ipa": "/tuːl/",
+      "meaning": "Công cụ",
+      "example": {
+        "en": "Power tools.",
+        "vi": "Dụng cụ điện."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Hammer.",
+          "vi": "Cái búa."
+        },
+        {
+          "speaker": "B",
+          "en": "Drill.",
+          "vi": "Máy khoan."
+        }
+      ]
+    },
+    {
+      "word": "Make",
+      "ipa": "/meɪk/",
+      "meaning": "Làm / Tạo ra",
+      "example": {
+        "en": "Make it yourself.",
+        "vi": "Tự làm lấy."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Save money.",
+          "vi": "Tiết kiệm tiền."
+        },
+        {
+          "speaker": "B",
+          "en": "Personal touch.",
+          "vi": "Dấu ấn cá nhân."
+        }
+      ]
+    },
+    {
+      "word": "Fix",
+      "ipa": "/fɪks/",
+      "meaning": "Sửa chữa",
+      "example": {
+        "en": "Quick fix.",
+        "vi": "Sửa nhanh."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Broken leg.",
+          "vi": "Chân gãy."
+        },
+        {
+          "speaker": "B",
+          "en": "Glue it.",
+          "vi": "Dán keo lại."
+        }
+      ]
+    },
+    {
+      "word": "Project",
+      "ipa": "/ˈprɒdʒɛkt/",
+      "meaning": "Dự án",
+      "example": {
+        "en": "Weekend project.",
+        "vi": "Dự án cuối tuần."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Build shelf.",
+          "vi": "Đóng kệ."
+        },
+        {
+          "speaker": "B",
+          "en": "Buy wood.",
+          "vi": "Mua gỗ."
+        }
+      ]
+    },
+    {
+      "word": "Material",
+      "ipa": "/məˈtɪəriəl/",
+      "meaning": "Vật liệu",
+      "example": {
+        "en": "Raw material.",
+        "vi": "Nguyên liệu thô."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Recycled.",
+          "vi": "Đã tái chế."
+        },
+        {
+          "speaker": "B",
+          "en": "Eco friendly.",
+          "vi": "Thân thiện môi trường."
+        }
+      ]
+    },
+    {
+      "word": "Paint",
+      "ipa": "/peɪnt/",
+      "meaning": "Sơn",
+      "example": {
+        "en": "Paint wall.",
+        "vi": "Sơn tường."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Blue color.",
+          "vi": "Màu xanh."
+        },
+        {
+          "speaker": "B",
+          "en": "Two coats.",
+          "vi": "Hai lớp."
+        }
+      ]
+    },
+    {
+      "word": "Sew",
+      "ipa": "/soʊ/",
+      "meaning": "Khâu vá",
+      "example": {
+        "en": "Sew button.",
+        "vi": "Khâu cúc áo."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Needle and thread.",
+          "vi": "Kim và chỉ."
+        },
+        {
+          "speaker": "B",
+          "en": "Fix hole.",
+          "vi": "Vá lỗ thủng."
+        }
+      ]
+    },
+    {
+      "word": "Guide",
+      "ipa": "/ɡaɪd/",
+      "meaning": "Hướng dẫn",
+      "example": {
+        "en": "Step by step guide.",
+        "vi": "Hướng dẫn từng bước."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Watch video.",
+          "vi": "Xem video."
+        },
+        {
+          "speaker": "B",
+          "en": "Easy to follow.",
+          "vi": "Dễ làm theo."
+        }
+      ]
+    },
+    {
+      "word": "Hobby",
+      "ipa": "/ˈhɒbi/",
+      "meaning": "Sở thích",
+      "example": {
+        "en": "DIY hobby.",
+        "vi": "Sở thích DIY."
+      },
+      "conversation": [
+        {
+          "speaker": "A",
+          "en": "Relaxing.",
+          "vi": "Thư giãn."
+        },
+        {
+          "speaker": "B",
+          "en": "Fun time.",
+          "vi": "Thời gian vui vẻ."
+        }
+      ]
+    }
+  ]
 }

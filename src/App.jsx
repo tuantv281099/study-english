@@ -17,6 +17,17 @@ function App() {
     return saved ? JSON.parse(saved) : {};
   });
 
+  // Track which topic the user is currently reading
+  const [readingTopicId, setReadingTopicId] = useState(() => {
+    return localStorage.getItem('study_english_reading_topic_id');
+  });
+
+  // Track completed topics
+  const [completedTopicIds, setCompletedTopicIds] = useState(() => {
+    const saved = localStorage.getItem('study_english_completed_topics');
+    return saved ? JSON.parse(saved) : [];
+  });
+
   const availableTopics = topicsList.filter(t => t.hasContent);
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
@@ -39,6 +50,25 @@ function App() {
     } finally {
       setLoading(false);
     }
+  };
+
+  const markAsReading = (id) => {
+    setReadingTopicId(id);
+    localStorage.setItem('study_english_reading_topic_id', id);
+  };
+
+  const toggleCompletion = (id) => {
+    setCompletedTopicIds(prev => {
+      const newSet = new Set(prev);
+      if (newSet.has(id)) {
+        newSet.delete(id);
+      } else {
+        newSet.add(id);
+      }
+      const newArray = Array.from(newSet);
+      localStorage.setItem('study_english_completed_topics', JSON.stringify(newArray));
+      return newArray;
+    });
   };
 
   const openConversation = (vocab) => {
@@ -85,7 +115,13 @@ function App() {
               className={selectedTopicId === topic.id ? 'active' : ''}
               onClick={() => handleTopicClick(topic.id)}
             >
-              {topic.title}
+              <div className="topic-item-content">
+                {topic.title}
+                <div className="topic-badges">
+                  {readingTopicId === String(topic.id) && <span className="reading-badge" title="Đang đọc">📖</span>}
+                  {completedTopicIds.includes(String(topic.id)) && <span className="completed-badge" title="Đã học xong">✅</span>}
+                </div>
+              </div>
             </li>
           ))}
         </ul>
@@ -104,7 +140,26 @@ function App() {
               </div>
             ) : topicData ? (
               <>
-                <h1>{topicData.title}</h1>
+                <div className="topic-header">
+                  <h1>{topicData.title}</h1>
+                  {readingTopicId === String(selectedTopicId) ? (
+                    <span className="current-reading-badge">Đang đọc topic này</span>
+                  ) : (
+                    <button
+                      className="mark-reading-btn"
+                      onClick={() => markAsReading(String(selectedTopicId))}
+                    >
+                      Đánh dấu đang đọc
+                    </button>
+                  )}
+
+                  <button
+                    className={`mark-completed-btn ${completedTopicIds.includes(String(selectedTopicId)) ? 'completed' : ''}`}
+                    onClick={() => toggleCompletion(String(selectedTopicId))}
+                  >
+                    {completedTopicIds.includes(String(selectedTopicId)) ? 'Đã học xong' : 'Đánh dấu đã học xong'}
+                  </button>
+                </div>
 
                 <section className="section">
                   <h2>Vocabulary (Click to practice)</h2>
